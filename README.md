@@ -1,13 +1,23 @@
-# 🏔️ Mizo Knowledge Vault — The Universal Digital Foundation
+![Mizo Knowledge Vault Hero](assets/hero.png)
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+# 🏔️ Mizo Knowledge Vault — The Digital DNA of the Hills
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![AI Ready](https://img.shields.io/badge/AI-RAG_Ready-green.svg)](#-rag--ai-optimization)
-[![Universal Data](https://img.shields.io/badge/Data-Markdown-orange.svg)](#-a-platform-independent-standard)
-[![Research Grade](https://img.shields.io/badge/Research-Academic-blue.svg)](#-cross-sector-use-cases)
+[![Obsidian Ready](https://img.shields.io/badge/Obsidian-Ready-673ab7.svg)](#-obsidian-optimized)
 
-**A multi-disciplinary, platform-independent "Digital DNA" of the Mizo people.**
+**A high-resolution, multi-disciplinary archive of Mizo identity. Built for humans to explore and AIs to learn.**
 
-The Mizo Knowledge Vault is a comprehensive, high-resolution dataset designed to serve as the baseline for Mizo identity in the 21st century. It is built using **Universal Markdown**, ensuring that the data is not tied to any single software, but is instead a permanent, portable, and machine-readable record for every sector of society.
+---
+
+## 🏛️ Repository Architecture
+
+| Folder | Purpose |
+| :--- | :--- |
+| **`/Knowledge`** | **The Core Archive**: Research nodes across 20+ disciplines (Science, Law, History). |
+| **`/Dictionary`** | **The Language Engine**: 800+ atomic Mizo-English conceptual definitions. |
+| **`.obsidian`** | **Systems Config**: Hidden configuration files that power the Visual Knowledge Graph. |
+| **`/assets`** | **Visual Assets**: Professional repository imagery and diagrams. |
 
 ---
 
