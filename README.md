@@ -69,6 +69,6 @@ Mizo culture is a living, breathing thing. We invite everyone—from farmers to 
 ---
 
 ## 📜 License
-Released under the **MIT License**. Created by [hruaiaralte864-cloud](https://github.com/hruaiaralte864-cloud) as a gift to the Mizo people and the global research community. 🌈🏔️
+Released under the **MIT License**. Created by [HruaiaG7](https://github.com/HruaiaG7) as a gift to the Mizo people and the global research community. 🌈🏔️
 
 
