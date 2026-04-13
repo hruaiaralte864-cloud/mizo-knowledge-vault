@@ -1,12 +1,23 @@
-# Vankhama (1886–1966)
+﻿# Biography: Vankhama
 
-**Tags:** #biography #music #culture
+**Tags:** #history #biography #leader #Pasaltha #culture #Mizoram #research
 
-**Vankhama** (James Dokhuma's uncle, also known as R. Vanlalna) was one of the earliest, most prolific, and most beloved composers of Mizo songs in the 20th century.
+## 1. Profile Summary
+- **Name**: Vankhama
+- **Era**: 20th Century
+- **Title/Role**: Poet / Composer
+- **Primary Region**: Aizawl
 
-He excelled at weaving traditional Mizo folk melodies with the new hymn styles introduced by the Christian missionaries. His songs bridged the cultural gap between the old animist oral culture and the new literate Christian era.
+## 2. Historical Achievement
+The 'Father of Modern Mizo Poetry', known for the classical song 'Mizo kan ni'.
 
-**Connects to:**  
-- [[Rokunga]]  
-- [[Christianity_in_Mizoram]]  
-- [[Mizo_Alphabet]]
+## 3. Cultural Impact
+Vankhama remains a symbol of **[[Tlawmngaihna]]** and the resilient spirit of the Zo people. Their life is often taught as a pillar of **[[Mizo_Life_and_Tradition]]**.
+
+## 4. Legacy
+Memorialized in contemporary Mizo society through songs, school curriculum, and the **[[Young_Mizo_Association]]** honors.
+
+**Connects to:**
+- [[Mizo_Life_and_Tradition]]
+- [[Tlawmngaihna]]
+- [[Master_Index]]

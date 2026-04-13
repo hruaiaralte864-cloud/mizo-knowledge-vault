@@ -1,18 +1,18 @@
-﻿# Biography: Khuangchera
+﻿# Biography: Laltheri
 
 **Tags:** #history #biography #leader #Pasaltha #culture #Mizoram #research
 
 ## 1. Profile Summary
-- **Name**: Khuangchera
+- **Name**: Laltheri
 - **Era**: 19th Century
-- **Title/Role**: Pasaltha / Resistance Leader
-- **Primary Region**: Ailawng
+- **Title/Role**: Poetess / Chief's Daughter
+- **Primary Region**: Central Hills
 
 ## 2. Historical Achievement
-The first Mizo to fall fighting the British during the Chin-Lushai Expedition.
+Known for her tragic love poems that define the Mizo romantic era.
 
 ## 3. Cultural Impact
-Khuangchera remains a symbol of **[[Tlawmngaihna]]** and the resilient spirit of the Zo people. Their life is often taught as a pillar of **[[Mizo_Life_and_Tradition]]**.
+Laltheri remains a symbol of **[[Tlawmngaihna]]** and the resilient spirit of the Zo people. Their life is often taught as a pillar of **[[Mizo_Life_and_Tradition]]**.
 
 ## 4. Legacy
 Memorialized in contemporary Mizo society through songs, school curriculum, and the **[[Young_Mizo_Association]]** honors.
