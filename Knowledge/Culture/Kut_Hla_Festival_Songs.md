@@ -1,4 +1,4 @@
-﻿# Musical Node: Kut Hla Festival Songs
+# Musical Node: Kut Hla Festival Songs
 
 **Tags:** #culture #music #instruments #songs #Mizoram #research #Acoustics
 
