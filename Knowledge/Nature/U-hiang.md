@@ -1,0 +1,23 @@
+﻿# Ethnobotany: U hiang
+
+**Tags:** #science #nature #botany #medicine #HnimHna #research #Pharmacopoeia
+
+## 1. Botanical Identity
+- **Mizo Name**: U hiang
+- **Scientific Name**: *Ficus hispida*
+- **Family**: [[Mizoram_Flora_Taxonomy]]
+
+## 2. Pharmaceutical Properties
+- **Active Principles**: Lactation support
+- **Traditional Use**: Bark extract used for maternal health.
+
+## 3. Ecological Niche
+Found across the **[[Mizoram_Subtropical_Pine_Forest]]** and semi-evergreen zones. This species is a priority for the **[[Mizoram_Bamboo_Policy_Industrialization|Bio-Resource Board]]**.
+
+## 4. Preservation Status
+A primary component of the **[[Ethnobotany_Mizo]]** heritage. Research at **[[Mizoram_University_MZU]]** focuses on the molecular characterization of its active compounds.
+
+**Connects to:**
+- [[Ethnobotany_Mizo]]
+- [[Medicinal_Plants_Mizoram]]
+- [[Master_Index]]
