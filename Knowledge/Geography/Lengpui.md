@@ -1,10 +1,10 @@
-﻿# Township Node: Zawlnuam Town
+﻿# Township Node: Lengpui
 
 **Tags:** #geography #township #Mamit #MamitDistrict #Mizoram #research #UrbanPlanning
 
 ## 1. Administrative Location
 - **District**: [[MamitDistrict]]
-- **PIN Code**: 796441
+- **PIN Code**: 796421
 - **State**: Mizoram, India
 - **Class**: Sub-Division / District HQ Node
 
@@ -14,11 +14,11 @@
 - **Local Governance**: [[Village_Council_Structure]] (Town Committee)
 
 ## 3. Geographical Landmarks
-- **Key Landmark**: Western Border Admin
+- **Key Landmark**: Airport City Node
 - **Strategic Importance**: Serves as a primary relay point for the **[[Greater_Mizo_Infrastructure_2026]]** network.
 
 ## 4. Modern Development
-Under the **[[Mizoram_State_Governance_Model]]**, Zawlnuam Town has seen significant infrastructure growth, particularly in road connectivity to parent centers like **[[Aizawl_City_Data]]**.
+Under the **[[Mizoram_State_Governance_Model]]**, Lengpui has seen significant infrastructure growth, particularly in road connectivity to parent centers like **[[Aizawl_City_Data]]**.
 
 **Connects to:**
 - [[MamitDistrict]]

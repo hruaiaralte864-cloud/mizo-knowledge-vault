@@ -1,9 +1,26 @@
-# Tuipang (Township)
+﻿# Township Node: Tuipang Town
 
-**Tags:** #geography #mara #governance
+**Tags:** #geography #township #Siaha #SiahaDistrict #Mizoram #research #UrbanPlanning
 
-**Tuipang** is the largest town in the eastern part of the Siaha district. It is a major cultural and administrative hub for the Mara Autonomous District Council.
+## 1. Administrative Location
+- **District**: [[SiahaDistrict]]
+- **PIN Code**: 796911
+- **State**: Mizoram, India
+- **Class**: Sub-Division / District HQ Node
+
+## 2. Economic and Cultural Profile
+- **Primary Ethnic Group**: Mara
+- **Key Industry**: Agriculture, Border Trade, and Public Administration.
+- **Local Governance**: [[Village_Council_Structure]] (Town Committee)
+
+## 3. Geographical Landmarks
+- **Key Landmark**: Border Logistics
+- **Strategic Importance**: Serves as a primary relay point for the **[[Greater_Mizo_Infrastructure_2026]]** network.
+
+## 4. Modern Development
+Under the **[[Mizoram_State_Governance_Model]]**, Tuipang Town has seen significant infrastructure growth, particularly in road connectivity to parent centers like **[[Aizawl_City_Data]]**.
 
 **Connects to:**
-- [[Siaha_District]]
-- [[Sixth_Schedule]]
+- [[SiahaDistrict]]
+- [[Village_Council_Structure]]
+- [[Master_Index]]

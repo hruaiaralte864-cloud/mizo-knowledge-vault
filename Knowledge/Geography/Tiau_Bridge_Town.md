@@ -1,10 +1,10 @@
-﻿# Township Node: Zawlnuam Town
+﻿# Township Node: Tiau Bridge Town
 
-**Tags:** #geography #township #Mamit #MamitDistrict #Mizoram #research #UrbanPlanning
+**Tags:** #geography #township #Champhai #ChamphaiDistrict #Mizoram #research #UrbanPlanning
 
 ## 1. Administrative Location
-- **District**: [[MamitDistrict]]
-- **PIN Code**: 796441
+- **District**: [[ChamphaiDistrict]]
+- **PIN Code**: 796424
 - **State**: Mizoram, India
 - **Class**: Sub-Division / District HQ Node
 
@@ -14,13 +14,13 @@
 - **Local Governance**: [[Village_Council_Structure]] (Town Committee)
 
 ## 3. Geographical Landmarks
-- **Key Landmark**: Western Border Admin
+- **Key Landmark**: Border Market Hub
 - **Strategic Importance**: Serves as a primary relay point for the **[[Greater_Mizo_Infrastructure_2026]]** network.
 
 ## 4. Modern Development
-Under the **[[Mizoram_State_Governance_Model]]**, Zawlnuam Town has seen significant infrastructure growth, particularly in road connectivity to parent centers like **[[Aizawl_City_Data]]**.
+Under the **[[Mizoram_State_Governance_Model]]**, Tiau Bridge Town has seen significant infrastructure growth, particularly in road connectivity to parent centers like **[[Aizawl_City_Data]]**.
 
 **Connects to:**
-- [[MamitDistrict]]
+- [[ChamphaiDistrict]]
 - [[Village_Council_Structure]]
 - [[Master_Index]]

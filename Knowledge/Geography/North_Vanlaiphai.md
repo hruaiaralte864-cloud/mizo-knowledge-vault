@@ -1,9 +1,26 @@
-# North Vanlaiphai
+﻿# Township Node: North Vanlaiphai
 
-**Tags:** #geography #village #history
+**Tags:** #geography #township #Serchhip #SerchhipDistrict #Mizoram #research #UrbanPlanning
 
-**North Vanlaiphai** is a cluster of villages in the Serchhip district. It is famous for its broad, fertile valley (Vanlai-phai means "Valley of Heaven") and its historic British-era buildings, including the remains of a hospital used during WWI.
+## 1. Administrative Location
+- **District**: [[SerchhipDistrict]]
+- **PIN Code**: 796181
+- **State**: Mizoram, India
+- **Class**: Sub-Division / District HQ Node
+
+## 2. Economic and Cultural Profile
+- **Primary Ethnic Group**: Mizo
+- **Key Industry**: Agriculture, Border Trade, and Public Administration.
+- **Local Governance**: [[Village_Council_Structure]] (Town Committee)
+
+## 3. Geographical Landmarks
+- **Key Landmark**: Agricultural Plain
+- **Strategic Importance**: Serves as a primary relay point for the **[[Greater_Mizo_Infrastructure_2026]]** network.
+
+## 4. Modern Development
+Under the **[[Mizoram_State_Governance_Model]]**, North Vanlaiphai has seen significant infrastructure growth, particularly in road connectivity to parent centers like **[[Aizawl_City_Data]]**.
 
 **Connects to:**
-- [[Serchhip_District]]
-- [[British_Annexation_1891]]
+- [[SerchhipDistrict]]
+- [[Village_Council_Structure]]
+- [[Master_Index]]

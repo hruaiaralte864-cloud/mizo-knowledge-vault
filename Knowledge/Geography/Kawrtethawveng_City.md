@@ -1,4 +1,4 @@
-﻿# Township Node: Zawlnuam Town
+﻿# Township Node: Kawrtethawveng City
 
 **Tags:** #geography #township #Mamit #MamitDistrict #Mizoram #research #UrbanPlanning
 
@@ -14,11 +14,11 @@
 - **Local Governance**: [[Village_Council_Structure]] (Town Committee)
 
 ## 3. Geographical Landmarks
-- **Key Landmark**: Western Border Admin
+- **Key Landmark**: Agricultural Depot
 - **Strategic Importance**: Serves as a primary relay point for the **[[Greater_Mizo_Infrastructure_2026]]** network.
 
 ## 4. Modern Development
-Under the **[[Mizoram_State_Governance_Model]]**, Zawlnuam Town has seen significant infrastructure growth, particularly in road connectivity to parent centers like **[[Aizawl_City_Data]]**.
+Under the **[[Mizoram_State_Governance_Model]]**, Kawrtethawveng City has seen significant infrastructure growth, particularly in road connectivity to parent centers like **[[Aizawl_City_Data]]**.
 
 **Connects to:**
 - [[MamitDistrict]]

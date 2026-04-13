@@ -1,12 +1,26 @@
-# Vairengte Town
+﻿# Township Node: Vairengte Town
 
-**Tags:** #geography #military #border
+**Tags:** #geography #township #Kolasib #KolasibDistrict #Mizoram #research #UrbanPlanning
 
-**Vairengte** is the most critical border town in Mizoram, located on the entry point from Assam.
+## 1. Administrative Location
+- **District**: [[KolasibDistrict]]
+- **PIN Code**: 796101
+- **State**: Mizoram, India
+- **Class**: Sub-Division / District HQ Node
 
-## The Counter-Insurgency Jungle Warfare School (CIJWS)
-Vairengte is globally famous as the home of the Indian Army's **CIJWS**, one of the world's premier elite institutions for jungle warfare training. Military personnel from all over the world, including the USA and UK, come to Vairengte to learn from the Indian Army's experience in the Northeast.
+## 2. Economic and Cultural Profile
+- **Primary Ethnic Group**: Mixed
+- **Key Industry**: Agriculture, Border Trade, and Public Administration.
+- **Local Governance**: [[Village_Council_Structure]] (Town Committee)
+
+## 3. Geographical Landmarks
+- **Key Landmark**: Inter-State Gateway
+- **Strategic Importance**: Serves as a primary relay point for the **[[Greater_Mizo_Infrastructure_2026]]** network.
+
+## 4. Modern Development
+Under the **[[Mizoram_State_Governance_Model]]**, Vairengte Town has seen significant infrastructure growth, particularly in road connectivity to parent centers like **[[Aizawl_City_Data]]**.
 
 **Connects to:**
-- [[Kolasib_District]]
-- [[Mizoram_Police_History]]
+- [[KolasibDistrict]]
+- [[Village_Council_Structure]]
+- [[Master_Index]]
