@@ -1,17 +1,23 @@
-# The MNF Uprising — Operation Jericho (1966)
+﻿# Political Node: MNF Uprising 1966
 
-**Tags:** #history #insurgency #conflict
+**Tags:** #politics #history #independence #Mizoram #research #Diplomacy #MNF
 
-On the night of **28 February – 1 March 1966**, the [[Mizo_National_Front]] launched **Operation Jericho**: simultaneous coordinated attacks on Indian security posts across the Mizo Hills. The MNF briefly captured Aizawl and Lunglei, seized the treasury and armouries, and declared independence.
+## 1. Historical Classification
+- **Category**: Conflict
+- **Primary Location**: Aizawl/Mizoram
+- **Key Timeline**: 1966-03-01
 
-## The Indian Army Response
-The Indian government declared the territory a "Disturbed Area" and deployed the Army. On **5–6 March 1966**, Indian Air Force fighter jets (Vampires and Toofanis) bombed and strafed civilian areas of [[Aizawl_District|Aizawl]] — the only instance in independent India's history of the IAF bombing its own citizens.
+## 2. Event/Profile Context
+The MNF Uprising 1966 is a pivotal element in the **[[Mizoram_State_Governance_Model|Political History of Mizoram]]**. It represents the struggle and eventual transition of the Zo people toward a recognized **[[Statehood_Day_Mizoram|Statehood]]** within the Indian Union.
 
-## Village Grouping (Khawkhawm)
-To cut MNF supply lines through the civilian population, the Army forcibly burned hundreds of ancient villages and consolidated villagers into fortified **Protected & Progressive Villages (PPVs)** along highways. This operation destroyed ancestral homes, burial grounds, and agricultural land for tens of thousands of Mizos.
+## 3. Strategic Significance
+The declaration of independence by MNF, marking the start of 20 years of insurgency. This event/entity significantly influenced the **[[Mizo_Life_and_Tradition]]**, shifting the focus from tribal chieftainships to a modern democratic identity led by figures like **[[Pu_Laldenga_Profile|Pu Laldenga]]**.
 
-**Connects to:**  
-- [[Mizo_National_Front]]  
-- [[Laldenga]]  
-- [[Village_Grouping]]  
+## 4. Legacy and Reconciliation
+Post-**[[Mizo_Peace_Accord_1986|1986]]**, this history is preserved as a testament to the resilience of the Mizo people and their commitment to **[[Peace_Negotiators_Index|Peaceful Reconciliation]]**.
+
+**Connects to:**
+- [[Mizoram_State_Governance_Model]]
 - [[Mizo_Peace_Accord_1986]]
+- [[Pu_Laldenga_Profile]]
+- [[Master_Index]]

@@ -1,25 +1,23 @@
-# The Mizo Peace Accord (1986)
+﻿# Political Node: Mizo Peace Accord 1986
 
-**Tags:** #history #peace #politics
+**Tags:** #politics #history #independence #Mizoram #research #Diplomacy #MNF
 
-The **Memorandum of Settlement**, signed on **30 June 1986** in New Delhi, ended twenty years of armed conflict between the [[Mizo_National_Front]] and the Government of India.
+## 1. Historical Classification
+- **Category**: Diplomacy
+- **Primary Location**: New Delhi
+- **Key Timeline**: 1986-06-30
 
-## Signatories
-- **[[Laldenga]]** (MNF President)
-- **R.D. Pradhan** (Union Home Secretary)
-- **Lalkhama** (Chief Secretary, Mizoram)
+## 2. Event/Profile Context
+The Mizo Peace Accord 1986 is a pivotal element in the **[[Mizoram_State_Governance_Model|Political History of Mizoram]]**. It represents the struggle and eventual transition of the Zo people toward a recognized **[[Statehood_Day_Mizoram|Statehood]]** within the Indian Union.
 
-## Key Terms
-1. **Statehood:** Mizoram was elevated from a Union Territory to India's 23rd full State.
-2. **Amnesty:** All MNF cadres who surrendered received general amnesty and rehabilitation grants.
-3. **Article 371G:** A constitutional protection ensuring Parliament cannot legislate on Mizo customary law, social practices, or land ownership without the Mizoram Assembly's consent.
-4. **Political transition:** [[Lalthanhawla]] vacated the Chief Ministry to allow Laldenga to govern.
+## 3. Strategic Significance
+The historic tripartite agreement ending the insurgency and granting statehood. This event/entity significantly influenced the **[[Mizo_Life_and_Tradition]]**, shifting the focus from tribal chieftainships to a modern democratic identity led by figures like **[[Pu_Laldenga_Profile|Pu Laldenga]]**.
 
-The accord is widely regarded as the most successful peace agreement in India's Northeast, serving as a template for subsequent settlements.
+## 4. Legacy and Reconciliation
+Post-**[[Mizo_Peace_Accord_1986|1986]]**, this history is preserved as a testament to the resilience of the Mizo people and their commitment to **[[Peace_Negotiators_Index|Peaceful Reconciliation]]**.
 
-**Connects to:**  
-- [[Laldenga]]  
-- [[Mizo_National_Front]]  
-- [[MNF_Uprising_1966]]  
-- [[Lalthanhawla]]  
-- [[Article_371G]]
+**Connects to:**
+- [[Mizoram_State_Governance_Model]]
+- [[Mizo_Peace_Accord_1986]]
+- [[Pu_Laldenga_Profile]]
+- [[Master_Index]]
