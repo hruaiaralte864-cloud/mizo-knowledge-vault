@@ -1,4 +1,3 @@
-![Mizo Knowledge Vault Hero](assets/hero.png)
 
 # 🏔️ Mizo Knowledge Vault — The Digital DNA of the Hills
 
