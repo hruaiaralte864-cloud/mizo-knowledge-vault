@@ -1,22 +1,31 @@
-# The Mizo Diaspora
+---
+title: The Mizo Diaspora & Global Connections
+tags: [society, history, migration]
+status: permanent
+created: 2026-04-14
+---
 
-**Tags:** #society #culture #global
+# The Mizo Diaspora: A Global Identity
 
-Despite Mizoram's small population (~1.2 million), the Mizo people have established a significant and passionate diaspora particularly in:
+The Mizo people (*Zohnahthlâk*) are no longer confined to the Lushai Hills. Over the last century, a series of migrations—religious, academic, and economic—has created a vibrant global Mizo diaspora.
 
-## India  
-Large Mizo communities exist in:
-- **Shillong** (Meghalaya) — a historic hub dating to British administrative times.
-- **Guwahati** (Assam) — regional gateway city.
-- **Delhi, Bangalore, Chennai** — destinations for professionals and students.
-- **Manipur** — where significant Mizo/Kuki populations live in the hill districts.
+## 🇺🇸 The North American Mizo Community
+- **Growth**: Significant populations in states like Indiana (particularly Indianapolis), Texas, and Canada.
+- **Cultural Preservation**: Diaspora communities often maintain stricter traditional festivals (*Kuts*) and language classes than some urban centers in Mizoram to preserve their identity.
+- **Economic Impact**: Remittances and "knowledge transfer" from the US Mizo community play a subtle but vital role in Mizoram’s development.
 
-## International  
-- **United Kingdom** — Wales, in particular, maintains a historic emotional connection due to [[Missionary_Arrival|Welsh missionaries]].
-- **Israel** — A unique community descended from the **Bnei Menashe** (Sons of Manasseh), a movement of Mizo and Kuki people who claim descent from one of the Lost Tribes of Israel. Many have made *aliyah* (immigration) to Israel.
-- **United States, Australia, Southeast Asia** — Modern economic migrants.
+## 🇮🇱 The Bnei Menashe (The Lost Tribe)
+A unique segment of the diaspora involves the **Bnei Menashe** community.
+- **History**: Starting in the late 20th century, thousands of Mizos and Kukis migrated to Israel, claiming descent from the lost Tribe of Manasseh.
+- **Impact**: This has created a unique cultural bridge between the Middle East and Northeast India, leading to academic interest in genealogy and ancient Hebrew-Mizo parallels.
 
-**Connects to:**  
-- [[Missionary_Arrival]]  
-- [[Mizo_Identity]]  
-- [[Christianity_in_Mizoram]]
+## 🎓 The Pan-India Academic Network
+Mizos have high literacy rates, leading to significant populations in:
+- **Delhi & Shillong**: Major hubs for civil service aspirants and university students.
+- **Professionals**: Large numbers of Mizo nurses and professionals in the hospitality and airline industries across India and Southeast Asia.
+
+## 🌐 The Digital Diaspora
+The "Global Mizo" is connected via social media, creating a **Virtual Homeland**. Mizo YouTubers, gamers, and influencers abroad help maintain the *Duhlian* language and cultural relevance for the younger generation born away from the hills.
+
+---
+[[Master_Index]] | [[Society/Society_Index]]
