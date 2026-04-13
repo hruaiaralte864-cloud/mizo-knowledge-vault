@@ -1,4 +1,4 @@
-﻿# Ethnobotany: Sakhawtun suak
+# Ethnobotany: Sakhawtun suak
 
 **Tags:** #science #nature #botany #medicine #HnimHna #research #Pharmacopoeia
 
