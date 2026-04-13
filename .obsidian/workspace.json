@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "3459c4cc890fb23c",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c589140b7e8c293",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6ae65d1e2015643f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a0a8207c9f1bb3d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "7533671366284799",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4be1b7d188082836",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8aac740fa1a52912",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "10c2c61df01c9a9e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "59385276b6622400",
+    "type": "split",
+    "children": [
+      {
+        "id": "d4458393bc2c4ba1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1de809d2b089b933",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "95a8175e4aa5e680",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "8c531e1fa0cd7493",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0721587d1bdba747",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "b79005a70041bbe9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "6ae65d1e2015643f",
+  "lastOpenFiles": [
+    "LICENSE",
+    "CONTRIBUTING.md",
+    "README.md",
+    "Knowledge/Society/Mizo_Diaspora_Israel_Bnei_Menashe.md",
+    "Knowledge/Nature/Zut_Bean_Agricultural_Cycle.md",
+    "Knowledge/Nature/Zo_Phai_Plain_Plants.md",
+    "Knowledge/Nature/Zo_Phai_Humidity_Flora.md",
+    "Knowledge/Nature/Yellow_Wood_Furniture_Design.md",
+    "Knowledge/Nature/Wild_Yam_Preparation_Safety.md",
+    "Knowledge/Nature/Wild_Rose_Altitude_Habitats.md",
+    "Knowledge/Nature/Wild_Pepper_Varieties.md",
+    "Knowledge/Nature/Wild_Orchids_Conservation.md",
+    "Knowledge/Nature/Wild_Long_Pepper_Harvest.md",
+    "Knowledge/Nature/Wild_Honey_Market_Trends.md",
+    "Knowledge/Nature/Wild_Honey_Flora.md",
+    "Knowledge/Nature/Wild_Ginger_Ram_sawhthing.md",
+    "Knowledge/Nature/Wild_Ginger_Medicinal_Uses.md",
+    "Knowledge/Nature/Mizo_Cotton_Spinning_Traditions.md",
+    "Knowledge/Nature/Mizo_Cotton_La.md",
+    "Knowledge/Nature/Mizo_Cicada_Varieties.md",
+    "Knowledge/Nature/Mizo_Cicada_Life_Cycle.md",
+    "Knowledge/Nature/Mizo_Chili_Pungency_Study.md",
+    "Knowledge/Nature/Mizo_Butterfly_Diversity.md",
+    "Knowledge/Nature/Mizo_Beans_Zut.md",
+    "Knowledge/Nature/Mizo_Bat_Species.md",
+    "Knowledge/Nature/Millet_Revival_Mizoram.md",
+    "Knowledge/Technology",
+    "Knowledge/Science",
+    "Knowledge/Modern",
+    "Knowledge/Politics",
+    "Knowledge/Arts",
+    "Knowledge/Economy",
+    "Knowledge/Institutions",
+    "Knowledge/Sports",
+    "Knowledge/Healthcare",
+    "Knowledge/Education"
+  ]
+}

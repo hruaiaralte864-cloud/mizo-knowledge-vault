@@ -1,0 +1,9 @@
+# MADC Council House (Siaha)
+
+**Tags:** #governance #geography
+
+The iconic multi-story administrative building in Siaha that serves as the seat of the Mara Autonomous District Council, representing the spirit of the **[[Sixth_Schedule]]**.
+
+**Connects to:**
+- [[Siaha_District]]
+- [[Sixth_Schedule]]
