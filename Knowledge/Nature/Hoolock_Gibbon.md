@@ -1,14 +1,14 @@
-﻿# Species Profile: Capped Langur
+﻿# Species Profile: Western Hoolock Gibbon
 
-**Tags:** #science #nature #wildlife #ecology #Mizoram #Trachypithecus pileatus.Replace(' ', '_') #research
+**Tags:** #science #nature #wildlife #ecology #Mizoram #Hoolock hoolock.Replace(' ', '_') #research
 
 ## 1. Biological Classification
-- **Common Name**: Capped Langur
-- **Scientific Name**: *Trachypithecus pileatus*
-- **Role**: Social primate
+- **Common Name**: Western Hoolock Gibbon
+- **Scientific Name**: *Hoolock hoolock*
+- **Role**: Only ape in India
 
 ## 2. Habitat and Distribution
-Primarily found in the **Mixed deciduous forests** of Mizoram. Key protection zones include **[[Dampa_Tiger_Reserve]]** and **[[Phawngpui_National_Park]]**.
+Primarily found in the **Upper canopy of primary forests** of Mizoram. Key protection zones include **[[Dampa_Tiger_Reserve]]** and **[[Phawngpui_National_Park]]**.
 
 ## 3. Cultural Significance
 In Mizo folklore, this species is often associated with the **[[Pasaltha]]** era of hunting and forest wisdom. It is a critical indicator species for the health of the **[[Mizoram_Subtropical_Pine_Forest]]**.
