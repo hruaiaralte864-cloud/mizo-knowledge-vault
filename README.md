@@ -52,11 +52,14 @@ The vault is **Platform-Independent** and **Machine-Learnable**:
 
 ---
 
-## 🚀 Future Roadmap: "Mizoram 2030"
-Our vision is to expand this vault into a live, interactive ecosystem:
-- [ ] **Linguistic Diversity**: Integrating Pawi, Lakher, Hmar, and other tribal dialects.
-- [ ] **Live Data Bridges**: Connecting the vault to real-time border trade and climate sensors.
-- [ ] **Community Validation**: A peer-review system for local village historians.
+## 🎯 Data Scaling Roadmap: "The 10k Mission"
+
+Our vision is to scale this data repository into the most comprehensive digital monument in the region, focusing on content depth and semantic accuracy:
+
+- [ ] **10,000 Node Expansion**: Moving from 1,100 files to 10,000+ total files to document every sub-clan lineage and village history in Mizoram.
+- [ ] **Semantic Link Density**: Implementing a deep-cross-referencing strategy to ensure every concept is connected to its historical, scientific, and linguistic counterparts.
+- [ ] **Primary Source Digitization**: Integrating machine-readable versions of rare, out-of-print Mizo historical texts and primary research notes.
+
 
 ---
 
