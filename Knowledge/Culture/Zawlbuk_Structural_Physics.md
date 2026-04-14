@@ -1,6 +1,22 @@
+---
+title: Zawlbuk Structural Physics
+category: Culture
+tags:
+- engineering
+- architecture
+- construction
+- Mizoram
+- research
+- IndigenousTech
+language: mixed
+tokens: 175
+ai_ready: true
+completeness: high
+---
+
 ﻿# Architecture Node: Zawlbuk Structural Physics
 
-**Tags:** #engineering #architecture #construction #Mizoram #research #IndigenousTech
+
 
 ## 1. Technical Classification
 - **Category**: Public Building

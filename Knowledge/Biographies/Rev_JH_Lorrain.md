@@ -1,6 +1,19 @@
+---
+title: "Rev. J.H. Lorrain \u2014 Pu Buanga (1873\u20131944)"
+category: Biographies
+tags:
+- biography
+- missionary
+- history
+language: mixed
+tokens: 196
+ai_ready: true
+completeness: high
+---
+
 # Rev. J.H. Lorrain — Pu Buanga (1873–1944)
 
-**Tags:** #biography #missionary #history
+
 
 **James Herbert Lorrain**, known affectionately to the Mizo as **Pu Buanga** (the Senior Foreign Friend), arrived in [[Aizawl_District|Aizawl]] on 11 January 1894, alongside his colleague F.W. Savidge, representing the Arthington Aborigines Mission.
 

@@ -1,6 +1,18 @@
+---
+title: "Ramhuai \u2014 Mizo Evil Spirits"
+category: Religion
+tags:
+- religion
+- folklore
+language: mixed
+tokens: 148
+ai_ready: true
+completeness: medium
+---
+
 # Ramhuai — Mizo Evil Spirits
 
-**Tags:** #religion #folklore
+
 
 **Ramhuai** (*Ram* = the wilderness/jungle, *Huai* = spirit) are the evil spirits of traditional Mizo animism. They inhabit specific physical locations:
 

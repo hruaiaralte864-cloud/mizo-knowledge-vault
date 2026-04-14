@@ -1,6 +1,19 @@
+---
+title: The Mautam Famine (1959)
+category: History
+tags:
+- history
+- famine
+- mizo
+language: mixed
+tokens: 176
+ai_ready: true
+completeness: medium
+---
+
 # The Mautam Famine (1959)
 
-**Tags:** #history #famine #mizo
+
 
 **Mautam** is the mass-flowering of *Melocanna baccifera* bamboo, which occurs approximately every 48–50 years across Mizoram. When the bamboo flowers, it produces billions of seeds, triggering an explosive rat population boom. After consuming the seeds, the hordes of rats descend on rice fields, devastating entire harvests.
 

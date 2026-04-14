@@ -1,6 +1,23 @@
+---
+title: Chawngtinlerhi Mistress of Animals
+category: Culture
+tags:
+- culture
+- mythology
+- folklore
+- legends
+- Mizoram
+- research
+- Spirituality
+language: mixed
+tokens: 192
+ai_ready: true
+completeness: high
+---
+
 ﻿# Mythology Node: Chawngtinlerhi Mistress of Animals
 
-**Tags:** #culture #mythology #folklore #legends #Mizoram #research #Spirituality
+
 
 ## 1. Narrative Classification
 - **Category**: Legend

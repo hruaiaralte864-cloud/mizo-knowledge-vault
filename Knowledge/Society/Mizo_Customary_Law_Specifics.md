@@ -1,6 +1,19 @@
+---
+title: Mizo Customary Law Specifics
+category: Society
+tags:
+- society
+- law
+- culture
+language: mixed
+tokens: 150
+ai_ready: true
+completeness: medium
+---
+
 # Mizo Customary Law Specifics
 
-**Tags:** #society #law #culture
+
 
 The **Mizo Customary Law** is a complex system of oral traditions that remains legally binding under **[[Article_371G]]** of the Constitution.
 

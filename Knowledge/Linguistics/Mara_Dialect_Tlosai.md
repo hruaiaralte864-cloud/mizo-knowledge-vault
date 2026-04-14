@@ -1,6 +1,23 @@
+---
+title: Mara Dialect Tlosai
+category: Linguistics
+tags:
+- linguistics
+- dialect
+- Mara
+- Siaha
+- District
+- MizoLanguage
+- research
+language: mixed
+tokens: 141
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Linguistic Node: Mara Dialect Tlosai
 
-**Tags:** #linguistics #dialect #Mara #Siaha District #MizoLanguage #research
+
 
 ## 1. Taxonomic Classification
 - **Primary Group**: [[MaraLanguage]]

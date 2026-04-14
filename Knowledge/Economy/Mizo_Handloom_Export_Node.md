@@ -1,6 +1,24 @@
+---
+title: Mizo Handloom Export Node
+category: Economy
+tags:
+- economy
+- tech
+- startups
+- innovation
+- Mizoram
+- research
+- Aizawl
+- '2026'
+language: mixed
+tokens: 165
+ai_ready: true
+completeness: high
+---
+
 ﻿# Economy Node: Mizo Handloom Export Node
 
-**Tags:** #economy #tech #startups #innovation #Mizoram #research #Aizawl #2026
+
 
 ## 1. Sectoral Classification
 - **Category**: Trade

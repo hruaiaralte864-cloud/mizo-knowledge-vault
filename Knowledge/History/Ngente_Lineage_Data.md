@@ -1,6 +1,22 @@
+---
+title: Ngente Lineage Data
+category: History
+tags:
+- genealogy
+- clan
+- history
+- Ngente
+- Zohnahthlak
+- research
+language: mixed
+tokens: 144
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Clan Node: Ngente Lineage Data
 
-**Tags:** #genealogy #clan #history #Ngente #Zohnahthlak #research
+
 
 ## 1. Lineage Classification
 - **Primary Group**: Ngente

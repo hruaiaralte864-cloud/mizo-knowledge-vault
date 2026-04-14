@@ -1,6 +1,21 @@
+---
+title: 'Mizo Clan Migrations: Geographic and Linguistic Data'
+category: History
+tags:
+- history
+- anthropology
+- migration
+- clans
+- research
+language: mixed
+tokens: 384
+ai_ready: true
+completeness: high
+---
+
 # Mizo Clan Migrations: Geographic and Linguistic Data
 
-**Tags:** #history #anthropology #migration #clans #research
+
 
 This node archives the primary data regarding the ancestral movement of the Mizo tribes from the Chindwin Valley (Myanmar) into the Lushai Hills (India), providing a baseline for genealogical and ethnographic research.
 

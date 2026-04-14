@@ -1,6 +1,18 @@
+---
+title: Brigadier Sailo's Human Rights Activism
+category: Biographies
+tags:
+- politics
+- society
+language: mixed
+tokens: 48
+ai_ready: true
+completeness: low
+---
+
 # Brigadier Sailo's Human Rights Activism
 
-**Tags:** #politics #society
+
 
 Detailing the **Human Rights Committee** founded by Brig. T. Sailo, which documented and brought international attention to the plight of Mizo civilians during the insurgency.
 

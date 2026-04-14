@@ -1,6 +1,22 @@
+---
+title: Hauhnar Clan Data
+category: History
+tags:
+- genealogy
+- clan
+- history
+- Hauhnar
+- Zohnahthlak
+- research
+language: mixed
+tokens: 144
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Clan Node: Hauhnar Clan Data
 
-**Tags:** #genealogy #clan #history #Hauhnar #Zohnahthlak #research
+
 
 ## 1. Lineage Classification
 - **Primary Group**: Hauhnar

@@ -1,6 +1,20 @@
+---
+title: "Brigadier Thenphunga Sailo AVSM (1922\u20132015)"
+category: Biographies
+tags:
+- biography
+- military
+- politics
+- human_rights
+language: mixed
+tokens: 163
+ai_ready: true
+completeness: medium
+---
+
 # Brigadier Thenphunga Sailo AVSM (1922–2015)
 
-**Tags:** #biography #military #politics #human_rights
+
 
 **Brigadier T. Sailo** was the first Mizo to be commissioned as an officer in the Indian Army, rising to the rank of Brigadier. He earned the **Ati Vishisht Seva Medal (AVSM)**.
 

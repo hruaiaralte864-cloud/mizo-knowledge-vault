@@ -1,8 +1,14 @@
 ---
-title: Mizo Revival Eras
-tags: [religion, history, culture]
-status: permanent
-created: 2026-04-14
+title: 'Mizo Revival Eras: The Spiritual Transformation'
+category: History
+tags:
+- religion
+- history
+- culture
+language: mixed
+tokens: 331
+ai_ready: true
+completeness: high
 ---
 
 # Mizo Revival Eras: The Spiritual Transformation

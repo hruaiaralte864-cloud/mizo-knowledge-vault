@@ -1,6 +1,19 @@
+---
+title: 'Mizo Culinary Art: From Chul to Plating'
+category: Culture
+tags:
+- culture
+- gastronomy
+- etiquette
+language: mixed
+tokens: 249
+ai_ready: true
+completeness: high
+---
+
 # Mizo Culinary Art: From Chul to Plating
 
-**Tags:** #culture #gastronomy #etiquette
+
 
 Traditional Mizo cuisine is defined by its simplicity and the use of fresh, organic ingredients. Recently, there has been a resurgence in "Mizo Fine Dining," where traditional flavors are presented with modern plating techniques.
 

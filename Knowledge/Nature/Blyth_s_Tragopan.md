@@ -1,6 +1,25 @@
+---
+title: Blyth s Tragopan
+category: Nature
+tags:
+- science
+- nature
+- wildlife
+- ecology
+- Mizoram
+- Tragopan
+- ballythii.Replace('
+- '''_'')'
+- research
+language: mixed
+tokens: 135
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Species Profile: Grey-bellied Tragopan
 
-**Tags:** #science #nature #wildlife #ecology #Mizoram #Tragopan ballythii.Replace(' ', '_') #research
+
 
 ## 1. Biological Classification
 - **Common Name**: Grey-bellied Tragopan

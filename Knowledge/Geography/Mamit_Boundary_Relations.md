@@ -1,6 +1,19 @@
+---
+title: 'Mamit District: Boundary and Interstate Relations'
+category: Geography
+tags:
+- geography
+- governance
+- border
+language: mixed
+tokens: 241
+ai_ready: true
+completeness: high
+---
+
 # Mamit District: Boundary and Interstate Relations
 
-**Tags:** #geography #governance #border
+
 
 The **Mamit District** occupies a strategically complex position, sharing borders with Tripura, Assam, and Bangladesh. This makes its "Boundary Relations" a critical component of state security and trade.
 

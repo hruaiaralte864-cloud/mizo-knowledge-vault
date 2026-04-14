@@ -1,6 +1,20 @@
+---
+title: 'The Special Frontier Force (SFF): Phantoms of Chittagong'
+category: History
+tags:
+- history
+- military
+- covert_ops
+- 1971_war
+language: mixed
+tokens: 193
+ai_ready: true
+completeness: high
+---
+
 # The Special Frontier Force (SFF): Phantoms of Chittagong
 
-**Tags:** #history #military #covert_ops #1971_war
+
 
 The **Special Frontier Force (SFF)**, also known as **Establishment 22**, is a secretive paramilitary unit under the direct supervision of the Cabinet Secretariat and R&AW.
 

@@ -1,6 +1,23 @@
+---
+title: Zonet Cable TV
+category: Institutions
+tags:
+- governance
+- education
+- medical
+- institutions
+- Mizoram
+- research
+- Aizawl
+language: mixed
+tokens: 165
+ai_ready: true
+completeness: high
+---
+
 ﻿# Institutional Node: Zonet Cable TV
 
-**Tags:** #governance #education #medical #institutions #Mizoram #research #Aizawl
+
 
 ## 1. Statutory Classification
 - **Category**: Media

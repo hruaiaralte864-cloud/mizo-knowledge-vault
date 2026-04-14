@@ -1,6 +1,19 @@
+---
+title: 'James Dokhuma: The Philosophy of Tlawmngaihna'
+category: Biographies
+tags:
+- biography
+- literature
+- philosophy
+language: mixed
+tokens: 252
+ai_ready: true
+completeness: high
+---
+
 # James Dokhuma: The Philosophy of Tlawmngaihna
 
-**Tags:** #biography #literature #philosophy
+
 
 While **[[James_Dokhuma_Novels]]** are his most famous works, his philosophical essays on the Mizo code of conduct are what truly define his intellectual depth.
 

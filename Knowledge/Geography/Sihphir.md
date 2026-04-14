@@ -1,6 +1,23 @@
+---
+title: Sihphir
+category: Geography
+tags:
+- geography
+- village
+- Aizawl
+- AizawlDistrict
+- Mizoram
+- research
+- AizawlRegion
+language: mixed
+tokens: 115
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Village Node: Sihphir
 
-**Tags:** #geography #village #Aizawl #AizawlDistrict #Mizoram #research #AizawlRegion
+
 
 ## 1. Administrative Location
 - **District**: [[AizawlDistrict]]

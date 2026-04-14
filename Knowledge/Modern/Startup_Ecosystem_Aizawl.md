@@ -1,6 +1,20 @@
+---
+title: The Aizawl Startup Ecosystem
+category: Modern
+tags:
+- modern
+- economy
+- tech
+- entrepreneurship
+language: mixed
+tokens: 257
+ai_ready: true
+completeness: high
+---
+
 # The Aizawl Startup Ecosystem
 
-**Tags:** #modern #economy #tech #entrepreneurship
+
 
 Aizawl is rapidly emerging as a hub for innovation and entrepreneurship in Northeast India, driven by a highly literate youth population and the state's strategic "Act East" positioning.
 

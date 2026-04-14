@@ -1,8 +1,21 @@
+---
+title: Mizo Bird's Eye Chili
+category: Nature
+tags:
+- flora
+- agriculture
+- economy
+language: mixed
+tokens: 87
+ai_ready: true
+completeness: medium
+---
+
 # Mizo Bird's Eye Chili
 
 **Mizo Name:** Hmarcha-te
 
-**Tags:** #flora #agriculture #economy
+
 
 Mizoram is famous for its extremely spicy and flavorful Bird's Eye Chili. It has been granted a **Geographical Indication (GI) Tag**.
 

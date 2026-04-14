@@ -1,6 +1,19 @@
+---
+title: The Council of Elders (Upas)
+category: Society
+tags:
+- society
+- history
+- governance
+language: mixed
+tokens: 93
+ai_ready: true
+completeness: medium
+---
+
 # The Council of Elders (Upas)
 
-**Tags:** #society #history #governance
+
 
 Traditionally, no Mizo chief (**[[Lal_System|Lal]]**) could rule alone. Every village had a **Council of Elders (Upas)** chosen by the chief for their wisdom and experience.
 

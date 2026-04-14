@@ -1,6 +1,19 @@
+---
+title: Dr. H. Lallungmuana (Educator & Politician)
+category: Biographies
+tags:
+- biography
+- education
+- politics
+language: mizo
+tokens: 248
+ai_ready: true
+completeness: high
+---
+
 # Dr. H. Lallungmuana (Educator & Politician)
 
-**Tags:** #biography #education #politics
+
 
 **Dr. H. Lallungmuana** was a distinguished Mizo academician and political leader who made significant contributions to the educational landscape of Mizoram. He is perhaps best known for his role as the Principal of Pachhunga University College and his subsequent career in state politics.
 

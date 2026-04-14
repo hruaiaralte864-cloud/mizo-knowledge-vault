@@ -1,6 +1,19 @@
+---
+title: "Cheraw \u2014 The Bamboo Dance"
+category: Culture
+tags:
+- culture
+- dance
+- art
+language: mixed
+tokens: 188
+ai_ready: true
+completeness: medium
+---
+
 # Cheraw — The Bamboo Dance
 
-**Tags:** #culture #dance #art
+
 
 The **Cheraw** is the most iconic and globally recognised traditional dance of the Mizo people, performed primarily during [[Chapchar_Kut]] and state cultural events.
 

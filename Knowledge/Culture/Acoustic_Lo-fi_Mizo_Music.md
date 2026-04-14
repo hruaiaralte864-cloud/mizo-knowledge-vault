@@ -1,6 +1,23 @@
+---
+title: Acoustic Lo-fi Mizo Music
+category: Culture
+tags:
+- arts
+- media
+- film
+- music
+- Mizoram
+- research
+- DigitalCulture
+language: mixed
+tokens: 167
+ai_ready: true
+completeness: high
+---
+
 ﻿# Arts & Media Node: Acoustic Lo-fi Mizo Music
 
-**Tags:** #arts #media #film #music #Mizoram #research #DigitalCulture
+
 
 ## 1. Creative Classification
 - **Category**: Music

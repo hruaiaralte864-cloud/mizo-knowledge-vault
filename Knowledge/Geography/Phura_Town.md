@@ -1,6 +1,23 @@
+---
+title: Phura Town
+category: Geography
+tags:
+- geography
+- township
+- Siaha
+- SiahaDistrict
+- Mizoram
+- research
+- UrbanPlanning
+language: mixed
+tokens: 139
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Township Node: Phura Town
 
-**Tags:** #geography #township #Siaha #SiahaDistrict #Mizoram #research #UrbanPlanning
+
 
 ## 1. Administrative Location
 - **District**: [[SiahaDistrict]]

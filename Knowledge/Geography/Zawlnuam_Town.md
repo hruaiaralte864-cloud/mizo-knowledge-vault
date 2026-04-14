@@ -1,6 +1,23 @@
+---
+title: Zawlnuam Town
+category: Geography
+tags:
+- geography
+- township
+- Mamit
+- MamitDistrict
+- Mizoram
+- research
+- UrbanPlanning
+language: mixed
+tokens: 139
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Township Node: Zawlnuam Town
 
-**Tags:** #geography #township #Mamit #MamitDistrict #Mizoram #research #UrbanPlanning
+
 
 ## 1. Administrative Location
 - **District**: [[MamitDistrict]]

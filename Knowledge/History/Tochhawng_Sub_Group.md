@@ -1,6 +1,22 @@
+---
+title: Tochhawng Sub Group
+category: History
+tags:
+- genealogy
+- clan
+- history
+- Tochhawng
+- Zohnahthlak
+- research
+language: mixed
+tokens: 145
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Clan Node: Tochhawng Sub Group
 
-**Tags:** #genealogy #clan #history #Tochhawng #Zohnahthlak #research
+
 
 ## 1. Lineage Classification
 - **Primary Group**: Tochhawng

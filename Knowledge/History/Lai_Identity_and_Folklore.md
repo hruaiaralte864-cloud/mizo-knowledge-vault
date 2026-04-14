@@ -1,6 +1,20 @@
+---
+title: The Lai Identity and Folklore
+category: History
+tags:
+- history
+- culture
+- lai
+- folklore
+language: mixed
+tokens: 248
+ai_ready: true
+completeness: high
+---
+
 # The Lai Identity and Folklore
 
-**Tags:** #history #culture #lai #folklore
+
 
 The **Lai people** (historically known as the Pawi) are a major ethnic group concentrated in the **[[Lawngtlai_District]]**. They are known for their fierce warrior history and their deep connection to the central Chin hills of Myanmar.
 

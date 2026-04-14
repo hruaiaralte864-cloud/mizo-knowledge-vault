@@ -1,6 +1,18 @@
+---
+title: Vawk pu bawm
+category: Linguistics
+tags:
+- linguistics
+- idioms
+language: mixed
+tokens: 55
+ai_ready: true
+completeness: medium
+---
+
 # Vawk pu bawm
 
-**Tags:** #linguistics #idioms
+
 
 **Literal Meaning:** A pig-rearer's basket.
 

@@ -1,6 +1,19 @@
+---
+title: "The Lushai Expeditions (1871\u20131890)"
+category: History
+tags:
+- history
+- british
+- colonialism
+language: mixed
+tokens: 149
+ai_ready: true
+completeness: medium
+---
+
 # The Lushai Expeditions (1871–1890)
 
-**Tags:** #history #british #colonialism
+
 
 British military expeditions into Mizo territory were motivated by cross-border raids on tea plantations.
 

@@ -1,6 +1,23 @@
+---
+title: Inuithiah
+category: Culture
+tags:
+- culture
+- sports
+- games
+- fitness
+- Mizoram
+- research
+- PhysicalEducation
+language: mixed
+tokens: 170
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Traditional Game: Inuithiah
 
-**Tags:** #culture #sports #games #fitness #Mizoram #research #PhysicalEducation
+
 
 ## 1. Game Classification
 - **Category**: Combat/Agility

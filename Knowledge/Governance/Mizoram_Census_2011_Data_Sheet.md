@@ -1,6 +1,19 @@
+---
+title: Mizoram Census 2011 Master Data Sheet
+category: Governance
+tags:
+- governance
+- statistics
+- demographics
+language: mixed
+tokens: 291
+ai_ready: true
+completeness: high
+---
+
 # Mizoram Census 2011 Master Data Sheet
 
-**Tags:** #governance #statistics #demographics
+
 
 A comprehensive look at the 2011 Census figures for the State of Mizoram.
 

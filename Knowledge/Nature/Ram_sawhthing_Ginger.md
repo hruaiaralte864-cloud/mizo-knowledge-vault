@@ -1,6 +1,22 @@
+---
+title: Ram sawhthing Ginger
+category: Nature
+tags:
+- science
+- nature
+- botany
+- medicine
+- HnimHna
+- research
+language: mixed
+tokens: 119
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Ethnobotany: Ram sawhthing Ginger
 
-**Tags:** #science #nature #botany #medicine #HnimHna #research
+
 
 ## 1. Botanical Identity
 - **Mizo Name**: Ram sawhthing Ginger

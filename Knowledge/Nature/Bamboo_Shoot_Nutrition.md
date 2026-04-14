@@ -1,6 +1,19 @@
+---
+title: 'Bamboo Shoots (Rawtu): Nutritional Profile'
+category: Nature
+tags:
+- nature
+- food
+- healthcare
+language: mixed
+tokens: 208
+ai_ready: true
+completeness: high
+---
+
 # Bamboo Shoots (Rawtu): Nutritional Profile
 
-**Tags:** #nature #food #healthcare
+
 
 Bamboo shoots, known in Mizo as **Rawtu** (processed) or **Mau** (fresh), have been a nutritional cornerstone of the Mizo diet for millennia. Recent studies have highlighted their emergence as a "superfood."
 

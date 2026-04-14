@@ -1,6 +1,19 @@
+---
+title: 'Litchi Orchards of Kolasib: The Sweet Economy'
+category: Nature
+tags:
+- nature
+- agriculture
+- economy
+language: mixed
+tokens: 221
+ai_ready: true
+completeness: high
+---
+
 # Litchi Orchards of Kolasib: The Sweet Economy
 
-**Tags:** #nature #agriculture #economy
+
 
 Kolasib is renowned as the "Fruit Bowl" of Mizoram, and its **Litchi Orchards** are the crown jewel of its horticultural sector.
 

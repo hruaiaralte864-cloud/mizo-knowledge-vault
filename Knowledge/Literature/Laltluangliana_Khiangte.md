@@ -1,6 +1,18 @@
+---
+title: Laltluangliana Khiangte
+category: Literature
+tags:
+- biography
+- literature
+language: mixed
+tokens: 96
+ai_ready: true
+completeness: medium
+---
+
 # Laltluangliana Khiangte
 
-**Tags:** #biography #literature
+
 
 **Prof. Laltluangliana Khiangte** is a contemporary Mizo playwright, poet, and scholar. He is a primary figure in modern Mizo theatre and has made significant contributions to documenting Mizo oral traditions.
 

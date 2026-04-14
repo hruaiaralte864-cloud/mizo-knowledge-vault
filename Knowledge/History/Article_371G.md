@@ -1,6 +1,19 @@
+---
+title: "Article 371G \u2014 Constitutional Protection"
+category: History
+tags:
+- law
+- governance
+- history
+language: mixed
+tokens: 165
+ai_ready: true
+completeness: medium
+---
+
 # Article 371G — Constitutional Protection
 
-**Tags:** #law #governance #history
+
 
 **Article 371G** of the Constitution of India was inserted by the **State of Mizoram Act, 1986** as part of the [[Mizo_Peace_Accord_1986]] settlement.
 

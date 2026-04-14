@@ -1,6 +1,19 @@
+---
+title: Mizoram Youth Commission (MYC)
+category: Institutions
+tags:
+- institutions
+- education
+- employment
+language: mixed
+tokens: 230
+ai_ready: true
+completeness: high
+---
+
 # Mizoram Youth Commission (MYC)
 
-**Tags:** #institutions #education #employment
+
 
 The **Mizoram Youth Commission (MYC)** is a statutory body established by the Government of Mizoram to empower the youth through skill development, carrier counseling, and competitive exam coaching.
 

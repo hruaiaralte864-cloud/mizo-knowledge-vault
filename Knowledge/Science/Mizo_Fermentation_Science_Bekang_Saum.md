@@ -1,8 +1,21 @@
+---
+title: 'Mizo Fermentation Science: Sa-um and Bekang'
+category: Science
+tags:
+- science
+- cuisine
+- biology
+- fermentation
+- Mizo
+language: mixed
+tokens: 267
+ai_ready: true
+completeness: high
+---
+
 # Mizo Fermentation Science: Sa-um and Bekang
 
-**Tags:** #science #cuisine #biology #fermentation
-
-Mizo cuisine is deeply rooted in "The Chemistry of Decay"—the controlled fermentation of proteins and fats to create intense umami flavors.
+"The Chemistry of Decay"—the controlled fermentation of proteins and fats to create intense umami flavors.
 
 ## Sa-um: The Fermented Pig Fat
 *Sa-um* is the quintessential Mizo flavoring agent. It is prepared by cleaning pig fat, boiling it, and then storing it in a sealed gourd or container for several weeks. The resulting "fermented lard" is used in almost every **[[Mizo_Cuisine_The_Logic_of_Bai]]**. Microbiologically, it is a stable fat-fermentation that provides a unique pungency comparable to blue cheese or truffles.

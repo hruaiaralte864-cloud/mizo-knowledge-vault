@@ -1,6 +1,18 @@
+---
+title: 'Timeline: Mizo Language Development'
+category: Linguistics
+tags:
+- linguistics
+- history
+language: mixed
+tokens: 31
+ai_ready: true
+completeness: low
+---
+
 # Timeline: Mizo Language Development
 
-**Tags:** #linguistics #history
+
 
 Key milestones from 1891 to the present in the crystallization of the Mizo literary language.
 

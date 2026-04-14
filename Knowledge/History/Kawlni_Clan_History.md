@@ -1,6 +1,22 @@
+---
+title: Kawlni Clan History
+category: History
+tags:
+- genealogy
+- clan
+- history
+- Kawlni
+- Zohnahthlak
+- research
+language: mixed
+tokens: 144
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Clan Node: Kawlni Clan History
 
-**Tags:** #genealogy #clan #history #Kawlni #Zohnahthlak #research
+
 
 ## 1. Lineage Classification
 - **Primary Group**: Kawlni

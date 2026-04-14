@@ -1,6 +1,19 @@
+---
+title: 'Blue Corn: The Spirit of Mizo Rock Music'
+category: Biographies
+tags:
+- biography
+- arts
+- music
+language: mizo
+tokens: 213
+ai_ready: true
+completeness: high
+---
+
 # Blue Corn: The Spirit of Mizo Rock Music
 
-**Tags:** #biography #arts #music
+
 
 **Blue Corn** is one of the most iconic rock bands in Mizoram, representing the high-water mark of the 1990s and 2000s Mizo "Indie" music scene. Their sound combined Western rock melodies with deeply resonant Mizo lyrics.
 

@@ -1,6 +1,23 @@
+---
+title: Vocational Education Mizoram
+category: Society
+tags:
+- society
+- health
+- education
+- welfare
+- Mizoram
+- research
+- NGO
+language: mixed
+tokens: 169
+ai_ready: true
+completeness: high
+---
+
 ﻿# Society Node: Vocational Education Mizoram
 
-**Tags:** #society #health #education #welfare #Mizoram #research #NGO
+
 
 ## 1. Domain Classification
 - **Category**: Education

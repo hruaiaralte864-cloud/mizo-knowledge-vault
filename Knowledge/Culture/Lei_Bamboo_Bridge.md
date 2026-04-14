@@ -1,6 +1,22 @@
+---
+title: Lei Bamboo Bridge
+category: Culture
+tags:
+- engineering
+- architecture
+- construction
+- Mizoram
+- research
+- IndigenousTech
+language: mixed
+tokens: 170
+ai_ready: true
+completeness: high
+---
+
 ﻿# Architecture Node: Lei Bamboo Bridge
 
-**Tags:** #engineering #architecture #construction #Mizoram #research #IndigenousTech
+
 
 ## 1. Technical Classification
 - **Category**: Infrastructure

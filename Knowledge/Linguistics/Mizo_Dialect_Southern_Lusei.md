@@ -1,6 +1,23 @@
+---
+title: Mizo Dialect Southern Lusei
+category: Linguistics
+tags:
+- linguistics
+- dialect
+- Lusei
+- Lunglei
+- District
+- MizoLanguage
+- research
+language: mixed
+tokens: 144
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Linguistic Node: Mizo Dialect Southern Lusei
 
-**Tags:** #linguistics #dialect #Lusei #Lunglei District #MizoLanguage #research
+
 
 ## 1. Taxonomic Classification
 - **Primary Group**: [[LuseiLanguage]]

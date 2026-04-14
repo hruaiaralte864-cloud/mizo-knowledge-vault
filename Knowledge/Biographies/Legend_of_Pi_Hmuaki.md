@@ -1,6 +1,20 @@
+---
+title: 'Pi Hmuaki: The Tragic Songstress'
+category: Biographies
+tags:
+- biography
+- legend
+- music
+- literature
+language: mixed
+tokens: 210
+ai_ready: true
+completeness: high
+---
+
 # Pi Hmuaki: The Tragic Songstress
 
-**Tags:** #biography #legend #music #literature
+
 
 **[[Pi_Hmuaki]]** is the legendary female figure who represents the "Spiritual Power" of Mizo music.
 

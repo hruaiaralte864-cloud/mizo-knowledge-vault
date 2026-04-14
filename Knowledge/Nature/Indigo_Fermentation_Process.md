@@ -1,6 +1,18 @@
+---
+title: The Indigo Fermentation Process
+category: Nature
+tags:
+- culture
+- ethnobotany
+language: mixed
+tokens: 35
+ai_ready: true
+completeness: low
+---
+
 # The Indigo Fermentation Process
 
-**Tags:** #culture #ethnobotany
+
 
 Step-by-step description of how Mizo weavers manage the fermentation of Indigo leaves to produce stable dyes.
 

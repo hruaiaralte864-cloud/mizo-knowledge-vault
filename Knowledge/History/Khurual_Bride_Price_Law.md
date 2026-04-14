@@ -1,6 +1,23 @@
+---
+title: Khurual Bride Price Law
+category: History
+tags:
+- law
+- justice
+- customary
+- Mizoram
+- research
+- Governance
+- History
+language: mixed
+tokens: 189
+ai_ready: true
+completeness: high
+---
+
 ﻿# Legal Node: Khurual Bride Price Law
 
-**Tags:** #law #justice #customary #Mizoram #research #Governance #History
+
 
 ## 1. Jurisprudential Classification
 - **Category**: Marriage Law

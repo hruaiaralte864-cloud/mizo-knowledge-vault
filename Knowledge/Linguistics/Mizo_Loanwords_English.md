@@ -1,6 +1,18 @@
+---
+title: English Loanwords in Mizo
+category: Linguistics
+tags:
+- linguistics
+- history
+language: mixed
+tokens: 57
+ai_ready: true
+completeness: medium
+---
+
 # English Loanwords in Mizo
 
-**Tags:** #linguistics #history
+
 
 Since the arrival of missionaries, hundreds of English words have been adapted into Mizo phonology.
 

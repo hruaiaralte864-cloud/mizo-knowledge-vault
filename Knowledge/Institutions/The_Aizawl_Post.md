@@ -1,6 +1,23 @@
+---
+title: The Aizawl Post
+category: Institutions
+tags:
+- governance
+- education
+- medical
+- institutions
+- Mizoram
+- research
+- Aizawl
+language: mixed
+tokens: 167
+ai_ready: true
+completeness: high
+---
+
 ﻿# Institutional Node: The Aizawl Post
 
-**Tags:** #governance #education #medical #institutions #Mizoram #research #Aizawl
+
 
 ## 1. Statutory Classification
 - **Category**: Media

@@ -1,6 +1,23 @@
+---
+title: Hanchhuah Taro Root
+category: Culture
+tags:
+- culture
+- cuisine
+- culinary
+- food
+- Mizoram
+- research
+- Nutrition
+language: mixed
+tokens: 165
+ai_ready: true
+completeness: high
+---
+
 ﻿# Culinary Node: Hanchhuah Taro Root
 
-**Tags:** #culture #cuisine #culinary #food #Mizoram #research #Nutrition
+
 
 ## 1. Gastronomic Profile
 - **Category**: Vegetable

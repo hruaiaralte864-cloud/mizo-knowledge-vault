@@ -1,6 +1,23 @@
+---
+title: An-tam
+category: Nature
+tags:
+- science
+- nature
+- botany
+- medicine
+- HnimHna
+- research
+- Pharmacopoeia
+language: mixed
+tokens: 119
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Ethnobotany: An tam
 
-**Tags:** #science #nature #botany #medicine #HnimHna #research #Pharmacopoeia
+
 
 ## 1. Botanical Identity
 - **Mizo Name**: An tam

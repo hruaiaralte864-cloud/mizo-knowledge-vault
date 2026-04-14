@@ -1,6 +1,25 @@
+---
+title: Slow Loris
+category: Nature
+tags:
+- science
+- nature
+- wildlife
+- ecology
+- Mizoram
+- Nycticebus
+- bengalensis.Replace('
+- '''_'')'
+- research
+language: mixed
+tokens: 139
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Species Profile: Bengal Slow Loris
 
-**Tags:** #science #nature #wildlife #ecology #Mizoram #Nycticebus bengalensis.Replace(' ', '_') #research
+
 
 ## 1. Biological Classification
 - **Common Name**: Bengal Slow Loris

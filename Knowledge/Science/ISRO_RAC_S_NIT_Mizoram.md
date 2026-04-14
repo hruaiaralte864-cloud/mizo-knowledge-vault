@@ -1,8 +1,21 @@
+---
+title: ISRO Regional Academic Centre for Space (RAC-S)
+category: Science
+tags:
+- science
+- tech
+- space
+- ISRO
+- The
+language: mixed
+tokens: 200
+ai_ready: true
+completeness: high
+---
+
 # ISRO Regional Academic Centre for Space (RAC-S)
 
-**Tags:** #science #tech #space #ISRO
-
-The **Regional Academic Centre for Space (RAC-S)** at **[[NIT_Mizoram_Overview]]** is a strategic initiative by the **Indian Space Research Organisation (ISRO)** to foster space-tech excellence in Northeast India.
+**Regional Academic Centre for Space (RAC-S)** at **[[NIT_Mizoram_Overview]]** is a strategic initiative by the **Indian Space Research Organisation (ISRO)** to foster space-tech excellence in Northeast India.
 
 ## Mission and Research
 The center acts as a hub for advanced research in satellite communication, remote sensing, and space-grade materials. Mizo researchers are collaborating on projects that optimize satellite telemetry for mountain terrains, ensuring better connectivity for the **[[Digital_Hill_State_Vision]]**.

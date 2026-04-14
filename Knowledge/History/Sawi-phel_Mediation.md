@@ -1,6 +1,23 @@
+---
+title: Sawi-phel Mediation
+category: History
+tags:
+- law
+- justice
+- customary
+- Mizoram
+- research
+- Governance
+- History
+language: mixed
+tokens: 184
+ai_ready: true
+completeness: high
+---
+
 ﻿# Legal Node: Sawi-phel Mediation
 
-**Tags:** #law #justice #customary #Mizoram #research #Governance #History
+
 
 ## 1. Jurisprudential Classification
 - **Category**: Dispute Resolution

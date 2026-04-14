@@ -1,6 +1,20 @@
+---
+title: The Mizo Influencer Economy
+category: Media
+tags:
+- media
+- modern
+- economy
+- youth
+language: mixed
+tokens: 169
+ai_ready: true
+completeness: high
+---
+
 # The Mizo Influencer Economy
 
-**Tags:** #media #modern #economy #youth
+
 
 Mizoram possesses one of the most vibrant "Creator Economies" in Northeast India. Local influencers on YouTube, Instagram, and TikTok exert significant social and economic power.
 

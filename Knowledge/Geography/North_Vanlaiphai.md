@@ -1,6 +1,23 @@
+---
+title: North Vanlaiphai
+category: Geography
+tags:
+- geography
+- township
+- Serchhip
+- SerchhipDistrict
+- Mizoram
+- research
+- UrbanPlanning
+language: mixed
+tokens: 137
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Township Node: North Vanlaiphai
 
-**Tags:** #geography #township #Serchhip #SerchhipDistrict #Mizoram #research #UrbanPlanning
+
 
 ## 1. Administrative Location
 - **District**: [[SerchhipDistrict]]

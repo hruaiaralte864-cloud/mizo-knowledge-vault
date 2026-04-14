@@ -1,6 +1,23 @@
+---
+title: Paihte Dialect Vuite
+category: Linguistics
+tags:
+- linguistics
+- dialect
+- Paihte
+- Champhai
+- District
+- MizoLanguage
+- research
+language: mixed
+tokens: 143
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Linguistic Node: Paihte Dialect Vuite
 
-**Tags:** #linguistics #dialect #Paihte #Champhai District #MizoLanguage #research
+
 
 ## 1. Taxonomic Classification
 - **Primary Group**: [[PaihteLanguage]]

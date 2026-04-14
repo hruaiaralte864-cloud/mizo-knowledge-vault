@@ -1,6 +1,23 @@
+---
+title: Pasaltha Hla Warrior Songs
+category: Culture
+tags:
+- culture
+- music
+- instruments
+- songs
+- Mizoram
+- research
+- Acoustics
+language: mixed
+tokens: 162
+ai_ready: true
+completeness: high
+---
+
 ﻿# Musical Node: Pasaltha Hla Warrior Songs
 
-**Tags:** #culture #music #instruments #songs #Mizoram #research #Acoustics
+
 
 ## 1. Technical Classification
 - **Category**: Song Form

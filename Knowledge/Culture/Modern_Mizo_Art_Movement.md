@@ -1,6 +1,23 @@
-﻿# Arts & Media Node: Modern Mizo Art Movement
+---
+title: 'Arts & Media Node: Modern Mizo Art Movement'
+category: Culture
+tags:
+- arts
+- media
+- film
+- music
+- Mizoram
+- research
+- DigitalCulture
+language: mixed
+tokens: 170
+ai_ready: true
+completeness: high
+---
 
-**Tags:** #arts #media #film #music #Mizoram #research #DigitalCulture
+# Arts & Media Node: Modern Mizo Art Movement
+
+
 
 ## 1. Creative Classification
 - **Category**: Fine Arts

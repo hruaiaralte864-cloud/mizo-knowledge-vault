@@ -1,6 +1,23 @@
+---
+title: Hoolock Gibbon Hylobates hoolock
+category: Environment
+tags:
+- environment
+- ecology
+- flora
+- fauna
+- Mizoram
+- research
+- Conservation
+language: mixed
+tokens: 169
+ai_ready: true
+completeness: high
+---
+
 ﻿# Environmental Node: Hoolock Gibbon Hylobates hoolock
 
-**Tags:** #environment #ecology #flora #fauna #Mizoram #research #Conservation
+
 
 ## 1. Ecological Classification
 - **Category**: Fauna

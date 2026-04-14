@@ -1,6 +1,23 @@
+---
+title: Kip Basket Weave Textile
+category: Culture
+tags:
+- culture
+- fashion
+- textiles
+- weaving
+- Mizoram
+- research
+- Chemistry
+language: mixed
+tokens: 167
+ai_ready: true
+completeness: high
+---
+
 ﻿# Textile Node: Kip Basket Weave Textile
 
-**Tags:** #culture #fashion #textiles #weaving #Mizoram #research #Chemistry
+
 
 ## 1. Technical Classification
 - **Category**: Pattern

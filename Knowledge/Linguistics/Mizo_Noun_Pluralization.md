@@ -1,6 +1,23 @@
+---
+title: Mizo Noun Pluralization
+category: Linguistics
+tags:
+- linguistics
+- language
+- grammar
+- Mizo
+- research
+- Informatics
+- NLP
+language: mixed
+tokens: 174
+ai_ready: true
+completeness: high
+---
+
 ﻿# Linguistic Node: Mizo Noun Pluralization
 
-**Tags:** #linguistics #language #grammar #Mizo #research #Informatics #NLP
+
 
 ## 1. Technical Classification
 - **Category**: Grammar

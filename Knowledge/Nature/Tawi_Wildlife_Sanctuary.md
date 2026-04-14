@@ -1,6 +1,18 @@
+---
+title: Tawi Wildlife Sanctuary
+category: Nature
+tags:
+- geography
+- wildlife
+language: mixed
+tokens: 44
+ai_ready: true
+completeness: low
+---
+
 # Tawi Wildlife Sanctuary
 
-**Tags:** #geography #wildlife
+
 
 A smaller but important sanctuary near the town of Aizawl, providing a green lung and habitat for small mammals and hundreds of bird species.
 

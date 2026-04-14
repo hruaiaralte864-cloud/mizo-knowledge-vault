@@ -1,6 +1,19 @@
+---
+title: Suakpuilala (The Great Diplomat)
+category: Biographies
+tags:
+- biography
+- history
+- chief
+language: mixed
+tokens: 139
+ai_ready: true
+completeness: medium
+---
+
 # Suakpuilala (The Great Diplomat)
 
-**Tags:** #biography #history #chief
+
 
 **Suakpuilala** was a prominent Sailo chief in the late 19th century, known for his complex interactions with the British colonial administration.
 

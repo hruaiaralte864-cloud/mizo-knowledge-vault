@@ -1,6 +1,23 @@
+---
+title: Presbyterian Hospital Durtlang
+category: Institutions
+tags:
+- governance
+- education
+- medical
+- institutions
+- Mizoram
+- research
+- Aizawl
+language: mixed
+tokens: 165
+ai_ready: true
+completeness: high
+---
+
 ﻿# Institutional Node: Presbyterian Hospital Durtlang
 
-**Tags:** #governance #education #medical #institutions #Mizoram #research #Aizawl
+
 
 ## 1. Statutory Classification
 - **Category**: Medical

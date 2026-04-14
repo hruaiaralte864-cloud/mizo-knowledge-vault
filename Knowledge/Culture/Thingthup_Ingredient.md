@@ -1,6 +1,23 @@
+---
+title: Thingthup Ingredient
+category: Culture
+tags:
+- culture
+- cuisine
+- culinary
+- food
+- Mizoram
+- research
+- Nutrition
+language: mixed
+tokens: 162
+ai_ready: true
+completeness: high
+---
+
 ﻿# Culinary Node: Thingthup Ingredient
 
-**Tags:** #culture #cuisine #culinary #food #Mizoram #research #Nutrition
+
 
 ## 1. Gastronomic Profile
 - **Category**: Spice

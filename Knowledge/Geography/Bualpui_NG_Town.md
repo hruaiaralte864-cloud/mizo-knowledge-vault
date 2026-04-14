@@ -1,6 +1,23 @@
+---
+title: Bualpui NG Town
+category: Geography
+tags:
+- geography
+- township
+- Lawngtlai
+- LawngtlaiDistrict
+- Mizoram
+- research
+- UrbanPlanning
+language: mixed
+tokens: 140
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Township Node: Bualpui NG Town
 
-**Tags:** #geography #township #Lawngtlai #LawngtlaiDistrict #Mizoram #research #UrbanPlanning
+
 
 ## 1. Administrative Location
 - **District**: [[LawngtlaiDistrict]]

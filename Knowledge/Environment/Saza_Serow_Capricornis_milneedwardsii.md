@@ -1,6 +1,23 @@
+---
+title: Saza Serow Capricornis milneedwardsii
+category: Environment
+tags:
+- environment
+- ecology
+- flora
+- fauna
+- Mizoram
+- research
+- Conservation
+language: mixed
+tokens: 166
+ai_ready: true
+completeness: high
+---
+
 ﻿# Environmental Node: Saza Serow Capricornis milneedwardsii
 
-**Tags:** #environment #ecology #flora #fauna #Mizoram #research #Conservation
+
 
 ## 1. Ecological Classification
 - **Category**: Fauna

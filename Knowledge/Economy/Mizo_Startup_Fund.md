@@ -1,6 +1,24 @@
+---
+title: Mizo Startup Fund
+category: Economy
+tags:
+- economy
+- tech
+- startups
+- innovation
+- Mizoram
+- research
+- Aizawl
+- '2026'
+language: mixed
+tokens: 157
+ai_ready: true
+completeness: high
+---
+
 ﻿# Economy Node: Mizo Startup Fund
 
-**Tags:** #economy #tech #startups #innovation #Mizoram #research #Aizawl #2026
+
 
 ## 1. Sectoral Classification
 - **Category**: Finance

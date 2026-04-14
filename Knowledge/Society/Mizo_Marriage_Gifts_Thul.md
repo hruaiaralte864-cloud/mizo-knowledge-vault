@@ -1,6 +1,19 @@
+---
+title: 'Mizo Marriage Customs: The Thul and Man-hlanchhiah'
+category: Society
+tags:
+- society
+- tradition
+- marriage
+language: mixed
+tokens: 275
+ai_ready: true
+completeness: high
+---
+
 # Mizo Marriage Customs: The Thul and Man-hlanchhiah
 
-**Tags:** #society #tradition #marriage
+
 
 Traditional Mizo marriage is a communal contract that involves a sophisticated exchange of gifts and symbolic payments, deeply rooted in clan solidarity.
 

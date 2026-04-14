@@ -1,6 +1,18 @@
+---
+title: Evolution of the Mizo Script
+category: Linguistics
+tags:
+- linguistics
+- history
+language: mixed
+tokens: 58
+ai_ready: true
+completeness: medium
+---
+
 # Evolution of the Mizo Script
 
-**Tags:** #linguistics #history
+
 
 From the early 'Hunterian' system used by J.H. Lorrain and F.W. Savidge to the modern Roman-script based alphabet used today. It traces the orthographic changes made to better represent the Mizo 'Thluk' (tones).
 

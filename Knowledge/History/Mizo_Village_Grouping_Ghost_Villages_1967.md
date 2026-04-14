@@ -1,6 +1,20 @@
+---
+title: 'Ghost Villages: The 1967 Village Grouping Legacy'
+category: History
+tags:
+- history
+- insurgency
+- geography
+- sociology
+language: mixed
+tokens: 146
+ai_ready: true
+completeness: medium
+---
+
 # Ghost Villages: The 1967 Village Grouping Legacy
 
-**Tags:** #history #insurgency #geography #sociology
+
 
 The **Village Grouping** (1967-1970) was a controversial military operation during the insurgency where ~80% of native villages were uprooted and merged into "Protected Village Centers" (PVCs).
 

@@ -1,6 +1,23 @@
+---
+title: 'Mizo Customary Law: Reconciliation with Modern Human Rights'
+category: Governance
+tags:
+- governance
+- law
+- humanrights
+- customarylaw
+- women
+- inheritance
+- research
+language: mixed
+tokens: 430
+ai_ready: true
+completeness: high
+---
+
 # Mizo Customary Law: Reconciliation with Modern Human Rights
 
-**Tags:** #governance #law #humanrights #customarylaw #women #inheritance #research
+
 
 This node archives the research data on the evolving dialogue between ancient Mizo ethical codes and the universal standards of modern Human Rights.
 

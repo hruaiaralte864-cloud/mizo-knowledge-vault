@@ -1,6 +1,18 @@
+---
+title: 'Pu Lalzama: Voice for Minorities'
+category: Biographies
+tags:
+- politics
+- society
+language: mixed
+tokens: 32
+ai_ready: true
+completeness: low
+---
+
 # Pu Lalzama: Voice for Minorities
 
-**Tags:** #politics #society
+
 
 Exploring Pu Lalzama's role in the early political discussions regarding the representation of non-Lusei tribes.
 

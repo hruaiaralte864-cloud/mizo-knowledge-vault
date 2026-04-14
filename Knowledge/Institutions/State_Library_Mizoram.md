@@ -1,6 +1,23 @@
+---
+title: State Library Mizoram
+category: Institutions
+tags:
+- governance
+- education
+- medical
+- institutions
+- Mizoram
+- research
+- Aizawl
+language: mixed
+tokens: 167
+ai_ready: true
+completeness: high
+---
+
 ﻿# Institutional Node: State Library Mizoram
 
-**Tags:** #governance #education #medical #institutions #Mizoram #research #Aizawl
+
 
 ## 1. Statutory Classification
 - **Category**: Cultural

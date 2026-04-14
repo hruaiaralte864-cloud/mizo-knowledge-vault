@@ -1,6 +1,23 @@
+---
+title: Ralte Dialect Khelte
+category: Linguistics
+tags:
+- linguistics
+- dialect
+- Ralte
+- Northern
+- Ridges
+- MizoLanguage
+- research
+language: mixed
+tokens: 143
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Linguistic Node: Ralte Dialect Khelte
 
-**Tags:** #linguistics #dialect #Ralte #Northern Ridges #MizoLanguage #research
+
 
 ## 1. Taxonomic Classification
 - **Primary Group**: [[RalteLanguage]]

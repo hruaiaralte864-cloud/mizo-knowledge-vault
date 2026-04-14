@@ -1,6 +1,19 @@
+---
+title: The Great Mizo Revival (1906)
+category: History
+tags:
+- history
+- religion
+- christianity
+language: mixed
+tokens: 219
+ai_ready: true
+completeness: high
+---
+
 # The Great Mizo Revival (1906)
 
-**Tags:** #history #religion #christianity
+
 
 The **Great Revival of 1906** was a spectacular, mass religious awakening that transformed Mizo Christianity from a small missionary enterprise into a deep, indigenous, emotionally powerful movement.
 

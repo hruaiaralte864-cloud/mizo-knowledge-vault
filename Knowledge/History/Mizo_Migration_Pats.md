@@ -1,6 +1,18 @@
+---
+title: The Mizo Migration Paths
+category: History
+tags:
+- history
+- geography
+language: mixed
+tokens: 159
+ai_ready: true
+completeness: medium
+---
+
 # The Mizo Migration Paths
 
-**Tags:** #history #geography
+
 
 The current Mizo population followed distinct migration paths from their legendary origins in the east (Myanmar and beyond).
 

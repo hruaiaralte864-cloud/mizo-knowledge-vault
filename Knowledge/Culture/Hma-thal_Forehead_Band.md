@@ -1,6 +1,23 @@
+---
+title: Hma-thal Forehead Band
+category: Culture
+tags:
+- culture
+- fashion
+- textiles
+- weaving
+- Mizoram
+- research
+- Chemistry
+language: mixed
+tokens: 165
+ai_ready: true
+completeness: high
+---
+
 ﻿# Textile Node: Hma-thal Forehead Band
 
-**Tags:** #culture #fashion #textiles #weaving #Mizoram #research #Chemistry
+
 
 ## 1. Technical Classification
 - **Category**: Accessory

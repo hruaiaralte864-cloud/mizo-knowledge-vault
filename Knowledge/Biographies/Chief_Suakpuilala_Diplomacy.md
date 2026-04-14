@@ -1,6 +1,19 @@
+---
+title: 'Chief Suakpuilala: Mastery of Diplomacy'
+category: Biographies
+tags:
+- biography
+- history
+- diplomacy
+language: mixed
+tokens: 269
+ai_ready: true
+completeness: high
+---
+
 # Chief Suakpuilala: Mastery of Diplomacy
 
-**Tags:** #biography #history #diplomacy
+
 
 **Chief Suakpuilala** was one of the most intellectually gifted Mizo chiefs of the 19th century. Ruling over a significant portion of the western Lushai Hills, he was renowned for his ability to navigate the complex geopolitical landscape between rival Mizo clans and the encroaching British Empire.
 

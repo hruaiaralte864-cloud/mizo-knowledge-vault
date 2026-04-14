@@ -1,6 +1,23 @@
+---
+title: Mizo Turban Styles
+category: Culture
+tags:
+- culture
+- fashion
+- textiles
+- weaving
+- Mizoram
+- research
+- Chemistry
+language: mixed
+tokens: 166
+ai_ready: true
+completeness: high
+---
+
 ﻿# Textile Node: Mizo Turban Styles
 
-**Tags:** #culture #fashion #textiles #weaving #Mizoram #research #Chemistry
+
 
 ## 1. Technical Classification
 - **Category**: Garment

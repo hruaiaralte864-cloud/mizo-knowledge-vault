@@ -1,6 +1,20 @@
+---
+title: 'Bnei Menashe: The "Lost Tribe" Identity'
+category: Religion
+tags:
+- religion
+- society
+- identity
+- israel
+language: mixed
+tokens: 286
+ai_ready: true
+completeness: high
+---
+
 # Bnei Menashe: The "Lost Tribe" Identity
 
-**Tags:** #religion #society #identity #israel
+
 
 The **Bnei Menashe** (Sons of Manasseh) refers to a group within the Mizo-Chin-Kuki family who believe they are descendants of one of the "Ten Lost Tribes" of Israel. This movement has significantly influenced modern Mizo religious and political identity.
 

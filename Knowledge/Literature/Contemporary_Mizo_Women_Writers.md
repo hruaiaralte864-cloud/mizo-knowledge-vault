@@ -1,6 +1,23 @@
+---
+title: Contemporary Mizo Women Writers
+category: Literature
+tags:
+- literature
+- authors
+- poetry
+- novels
+- Mizoram
+- research
+- Academy
+language: mixed
+tokens: 189
+ai_ready: true
+completeness: high
+---
+
 ﻿# Literary Node: Contemporary Mizo Women Writers
 
-**Tags:** #literature #authors #poetry #novels #Mizoram #research #Academy
+
 
 ## 1. Literary Classification
 - **Category**: Authors

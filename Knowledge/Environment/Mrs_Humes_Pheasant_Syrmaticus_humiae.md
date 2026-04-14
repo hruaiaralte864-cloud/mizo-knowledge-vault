@@ -1,6 +1,23 @@
+---
+title: Mrs Humes Pheasant Syrmaticus humiae
+category: Environment
+tags:
+- environment
+- ecology
+- flora
+- fauna
+- Mizoram
+- research
+- Conservation
+language: mixed
+tokens: 165
+ai_ready: true
+completeness: high
+---
+
 ﻿# Environmental Node: Mrs Humes Pheasant Syrmaticus humiae
 
-**Tags:** #environment #ecology #flora #fauna #Mizoram #research #Conservation
+
 
 ## 1. Ecological Classification
 - **Category**: Fauna

@@ -1,6 +1,23 @@
+---
+title: Khawzawl City
+category: Geography
+tags:
+- geography
+- township
+- Khawzawl
+- KhawzawlDistrict
+- Mizoram
+- research
+- UrbanPlanning
+language: mixed
+tokens: 139
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Township Node: Khawzawl City
 
-**Tags:** #geography #township #Khawzawl #KhawzawlDistrict #Mizoram #research #UrbanPlanning
+
 
 ## 1. Administrative Location
 - **District**: [[KhawzawlDistrict]]

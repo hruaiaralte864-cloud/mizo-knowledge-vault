@@ -1,6 +1,19 @@
+---
+title: J.D. Ngurchhuana (Social Unifier)
+category: Biographies
+tags:
+- biography
+- society
+- leadership
+language: mixed
+tokens: 222
+ai_ready: true
+completeness: high
+---
+
 # J.D. Ngurchhuana (Social Unifier)
 
-**Tags:** #biography #society #leadership
+
 
 **J.D. Ngurchhuana** was a vital social leader who worked tirelessly to unify the various Mizo sub-clans during the post-insurgency period. He is often cited as a champion of **[[Zohnahthlak]]**—the idea of a pan-Mizo identity.
 

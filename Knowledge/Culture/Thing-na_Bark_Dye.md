@@ -1,6 +1,23 @@
+---
+title: Thing-na Bark Dye
+category: Culture
+tags:
+- culture
+- fashion
+- textiles
+- weaving
+- Mizoram
+- research
+- Chemistry
+language: mixed
+tokens: 167
+ai_ready: true
+completeness: high
+---
+
 ﻿# Textile Node: Thing-na Bark Dye
 
-**Tags:** #culture #fashion #textiles #weaving #Mizoram #research #Chemistry
+
 
 ## 1. Technical Classification
 - **Category**: Dyeing

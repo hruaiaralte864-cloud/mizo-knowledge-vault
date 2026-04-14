@@ -1,6 +1,23 @@
+---
+title: Dulien The Standard Language
+category: Linguistics
+tags:
+- linguistics
+- language
+- grammar
+- Mizo
+- research
+- Informatics
+- NLP
+language: mixed
+tokens: 179
+ai_ready: true
+completeness: high
+---
+
 ﻿# Linguistic Node: Dulien The Standard Language
 
-**Tags:** #linguistics #language #grammar #Mizo #research #Informatics #NLP
+
 
 ## 1. Technical Classification
 - **Category**: Dialect

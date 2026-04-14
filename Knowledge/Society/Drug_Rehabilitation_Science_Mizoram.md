@@ -1,6 +1,23 @@
+---
+title: Drug Rehabilitation Science Mizoram
+category: Society
+tags:
+- society
+- health
+- education
+- welfare
+- Mizoram
+- research
+- NGO
+language: mixed
+tokens: 178
+ai_ready: true
+completeness: high
+---
+
 ﻿# Society Node: Drug Rehabilitation Science Mizoram
 
-**Tags:** #society #health #education #welfare #Mizoram #research #NGO
+
 
 ## 1. Domain Classification
 - **Category**: Health

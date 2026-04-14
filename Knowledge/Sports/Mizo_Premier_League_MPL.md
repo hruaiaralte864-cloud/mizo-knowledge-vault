@@ -1,6 +1,20 @@
+---
+title: Mizo Premier League (MPL)
+category: Sports
+tags:
+- sports
+- society
+- modern
+- football
+language: mixed
+tokens: 54
+ai_ready: true
+completeness: medium
+---
+
 # Mizo Premier League (MPL)
 
-**Tags:** #sports #society #modern #football
+
 
 Football is the unofficial state religion of Mizoram. The **MPL** is the top-tier professional football league, attracting massive crowds and producing stars like **[[Jeje_Lalpekhlua]]** for the Indian national team.
 

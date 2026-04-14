@@ -1,6 +1,19 @@
+---
+title: 'Mizo Phonetics: Vowel Lengthening and Tone'
+category: Linguistics
+tags:
+- linguistics
+- language
+- phonology
+language: mixed
+tokens: 269
+ai_ready: true
+completeness: high
+---
+
 # Mizo Phonetics: Vowel Lengthening and Tone
 
-**Tags:** #linguistics #language #phonology
+
 
 A unique feature of **[[Mizo_Language_Overview]]** is its sophisticated use of vowel lengthening coupled with tonal systems. Understanding these nuances is essential for grasping the emotional and semantic depth of the language.
 

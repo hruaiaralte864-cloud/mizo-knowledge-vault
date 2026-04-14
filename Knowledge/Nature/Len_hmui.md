@@ -1,6 +1,22 @@
+---
+title: Len hmui
+category: Nature
+tags:
+- science
+- nature
+- botany
+- medicine
+- HnimHna
+- research
+language: mixed
+tokens: 118
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Ethnobotany: Len hmui
 
-**Tags:** #science #nature #botany #medicine #HnimHna #research
+
 
 ## 1. Botanical Identity
 - **Mizo Name**: Len hmui

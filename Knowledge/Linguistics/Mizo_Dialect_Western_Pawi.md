@@ -1,6 +1,23 @@
+---
+title: Mizo Dialect Western Pawi
+category: Linguistics
+tags:
+- linguistics
+- dialect
+- Lai
+- West
+- Lawngtlai
+- MizoLanguage
+- research
+language: mixed
+tokens: 146
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Linguistic Node: Mizo Dialect Western Pawi
 
-**Tags:** #linguistics #dialect #Lai #West Lawngtlai #MizoLanguage #research
+
 
 ## 1. Taxonomic Classification
 - **Primary Group**: [[LaiLanguage]]

@@ -1,6 +1,23 @@
+---
+title: Traditional Hla vs Modern Verse
+category: Literature
+tags:
+- literature
+- authors
+- poetry
+- novels
+- Mizoram
+- research
+- Academy
+language: mixed
+tokens: 187
+ai_ready: true
+completeness: high
+---
+
 ﻿# Literary Node: Traditional Hla vs Modern Verse
 
-**Tags:** #literature #authors #poetry #novels #Mizoram #research #Academy
+
 
 ## 1. Literary Classification
 - **Category**: Genre

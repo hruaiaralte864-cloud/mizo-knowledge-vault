@@ -1,6 +1,17 @@
+---
+title: Keichala (The Tiger-Man)
+category: Folklore
+tags:
+- folklore
+language: mixed
+tokens: 113
+ai_ready: true
+completeness: medium
+---
+
 # Keichala (The Tiger-Man)
 
-**Tags:** #folklore
+
 
 The legend of the **Kei-mi** (Tiger-person) is a recurring theme in Mizo folklore, with **Keichala** being the most famous.
 

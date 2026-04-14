@@ -1,6 +1,19 @@
+---
+title: Fauna of Mizoram
+category: Nature
+tags:
+- nature
+- wildlife
+- environment
+language: mixed
+tokens: 301
+ai_ready: true
+completeness: high
+---
+
 # Fauna of Mizoram
 
-**Tags:** #nature #wildlife #environment
+
 
 Mizoram's wildlife is extraordinarily rich due to its position as an ecological bridge between the Indian subcontinent and Southeast Asia.
 

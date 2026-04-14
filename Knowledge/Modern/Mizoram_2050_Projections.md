@@ -1,6 +1,19 @@
+---
+title: 'Mizoram 2050: Strategic Developmental Projections'
+category: Modern
+tags:
+- modern
+- governance
+- economy
+language: mixed
+tokens: 222
+ai_ready: true
+completeness: high
+---
+
 # Mizoram 2050: Strategic Developmental Projections
 
-**Tags:** #modern #governance #economy
+
 
 **Mizoram 2050** is a long-term strategic white paper commissioned by the **[[Mizoram_State_Planning_Board]]** to envision the state’s position in the mid-21st century.
 

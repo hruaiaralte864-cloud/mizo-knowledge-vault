@@ -1,6 +1,23 @@
+---
+title: Cheraw Rhythm Exercise
+category: Culture
+tags:
+- culture
+- sports
+- games
+- fitness
+- Mizoram
+- research
+- PhysicalEducation
+language: mixed
+tokens: 178
+ai_ready: true
+completeness: high
+---
+
 ﻿# Traditional Game: Cheraw Rhythm Exercise
 
-**Tags:** #culture #sports #games #fitness #Mizoram #research #PhysicalEducation
+
 
 ## 1. Game Classification
 - **Category**: Ritual/Dance

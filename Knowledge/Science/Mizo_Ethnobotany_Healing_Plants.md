@@ -1,8 +1,24 @@
+---
+title: 'Mizo Ethnobotany: Traditional Healing Plants'
+category: Science
+tags:
+- science
+- medicine
+- nature
+- healing
+- The
+- dense
+- rainforests
+- the
+language: mixed
+tokens: 231
+ai_ready: true
+completeness: high
+---
+
 # Mizo Ethnobotany: Traditional Healing Plants
 
-**Tags:** #science #medicine #nature #healing
-
-The dense rainforests of the **[[Mamit_District]]** and **[[Lunglei_District]]** are a living pharmacy of **Mizo Ethnobotany**, containing hundreds of plants used for generations to treat everything from fever to snakebites.
+**[[Mamit_District]]** and **[[Lunglei_District]]** are a living pharmacy of **Mizo Ethnobotany**, containing hundreds of plants used for generations to treat everything from fever to snakebites.
 
 ## Primary Medicinal Flora
 - **Hnim-rhing**: A versatile plant used for its antibiotic properties to treat skin infections and wounds.

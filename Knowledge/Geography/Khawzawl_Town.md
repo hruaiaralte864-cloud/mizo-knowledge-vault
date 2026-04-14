@@ -1,6 +1,18 @@
+---
+title: Khawzawl Town
+category: Geography
+tags:
+- geography
+- governance
+language: mixed
+tokens: 81
+ai_ready: true
+completeness: medium
+---
+
 # Khawzawl Town
 
-**Tags:** #geography #governance
+
 
 **Khawzawl** is the district headquarters of the Khawzawl district. It has rapidly transformed from a village into a major urban center in eastern Mizoram.
 

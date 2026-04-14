@@ -1,6 +1,23 @@
+---
+title: Man-pui Primary Price
+category: History
+tags:
+- law
+- justice
+- customary
+- Mizoram
+- research
+- Governance
+- History
+language: mixed
+tokens: 183
+ai_ready: true
+completeness: high
+---
+
 ﻿# Legal Node: Man-pui Primary Price
 
-**Tags:** #law #justice #customary #Mizoram #research #Governance #History
+
 
 ## 1. Jurisprudential Classification
 - **Category**: Marriage Law

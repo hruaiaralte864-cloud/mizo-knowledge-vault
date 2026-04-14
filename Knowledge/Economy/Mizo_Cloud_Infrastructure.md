@@ -1,6 +1,24 @@
+---
+title: Mizo Cloud Infrastructure
+category: Economy
+tags:
+- economy
+- tech
+- startups
+- innovation
+- Mizoram
+- research
+- Aizawl
+- '2026'
+language: mixed
+tokens: 159
+ai_ready: true
+completeness: high
+---
+
 ﻿# Economy Node: Mizo Cloud Infrastructure
 
-**Tags:** #economy #tech #startups #innovation #Mizoram #research #Aizawl #2026
+
 
 ## 1. Sectoral Classification
 - **Category**: Tech

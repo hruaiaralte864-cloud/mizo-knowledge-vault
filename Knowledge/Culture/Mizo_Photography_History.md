@@ -1,6 +1,19 @@
+---
+title: 'The Mizo Lens: A History of Photography in the Hills'
+category: Culture
+tags:
+- culture
+- media
+- history
+language: mixed
+tokens: 262
+ai_ready: true
+completeness: high
+---
+
 # The Mizo Lens: A History of Photography in the Hills
 
-**Tags:** #culture #media #history
+
 
 The history of photography in Mizoram is a fascinating journey from "Imperial Surveillance" to "Cultural Self-Expression."
 

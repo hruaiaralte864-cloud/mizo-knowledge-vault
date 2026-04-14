@@ -1,6 +1,24 @@
+---
+title: Mizoram Space Science and IT Research Frontier (2026)
+category: Modern
+tags:
+- science
+- technology
+- ISRO
+- space
+- NIT
+- IT
+- research
+- modern
+language: mixed
+tokens: 413
+ai_ready: true
+completeness: high
+---
+
 # Mizoram Space Science and IT Research Frontier (2026)
 
-**Tags:** #science #technology #ISRO #space #NIT #IT #research #modern
+
 
 This node archives the primary data on Mizoram's emerging role in the national space and information technology ecosystem, focusing on high-altitude research and satellite data applications.
 

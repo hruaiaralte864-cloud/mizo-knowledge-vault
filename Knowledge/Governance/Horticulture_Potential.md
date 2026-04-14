@@ -1,6 +1,18 @@
+---
+title: Horticulture in Mizoram
+category: Governance
+tags:
+- governance
+- economy
+language: mixed
+tokens: 120
+ai_ready: true
+completeness: medium
+---
+
 # Horticulture in Mizoram
 
-**Tags:** #governance #economy
+
 
 Mizoram's climate and hilly terrain make it more naturally suited for **Horticulture** than traditional field agriculture.
 

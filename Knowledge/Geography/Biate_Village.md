@@ -1,6 +1,19 @@
+---
+title: Biate Village
+category: Geography
+tags:
+- geography
+- village
+- cleanliness
+language: mixed
+tokens: 124
+ai_ready: true
+completeness: medium
+---
+
 # Biate Village
 
-**Tags:** #geography #village #cleanliness
+
 
 **Biate** (pronounced Bee-ah-tay) is famous throughout Mizoram and India as the **cleanest village in the state**, long before the national Swachh Bharat missions.
 

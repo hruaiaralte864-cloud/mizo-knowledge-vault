@@ -1,6 +1,23 @@
+---
+title: Hmangchhailen Flute
+category: Culture
+tags:
+- culture
+- music
+- instruments
+- songs
+- Mizoram
+- research
+- Acoustics
+language: mixed
+tokens: 150
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Musical Node: Hmangchhailen Flute
 
-**Tags:** #culture #music #instruments #songs #Mizoram #research #Acoustics
+
 
 ## 1. Technical Classification
 - **Category**: Wind

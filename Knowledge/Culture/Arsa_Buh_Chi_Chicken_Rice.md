@@ -1,6 +1,23 @@
+---
+title: Arsa Buh Chi Chicken Rice
+category: Culture
+tags:
+- culture
+- cuisine
+- culinary
+- food
+- Mizoram
+- research
+- Nutrition
+language: mixed
+tokens: 170
+ai_ready: true
+completeness: high
+---
+
 ﻿# Culinary Node: Arsa Buh Chi Chicken Rice
 
-**Tags:** #culture #cuisine #culinary #food #Mizoram #research #Nutrition
+
 
 ## 1. Gastronomic Profile
 - **Category**: Main Course

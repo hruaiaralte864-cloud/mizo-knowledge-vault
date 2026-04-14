@@ -1,6 +1,23 @@
+---
+title: Young Mizo Association YMA
+category: History
+tags:
+- politics
+- history
+- independence
+- Mizoram
+- research
+- Diplomacy
+- MNF
+language: mixed
+tokens: 176
+ai_ready: true
+completeness: high
+---
+
 ﻿# Political Node: Young Mizo Association YMA
 
-**Tags:** #politics #history #independence #Mizoram #research #Diplomacy #MNF
+
 
 ## 1. Historical Classification
 - **Category**: Social Organization

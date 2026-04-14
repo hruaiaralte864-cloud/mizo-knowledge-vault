@@ -1,6 +1,22 @@
+---
+title: Fanai Clan Origins
+category: History
+tags:
+- genealogy
+- clan
+- history
+- Fanai
+- Zohnahthlak
+- research
+language: mixed
+tokens: 145
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Clan Node: Fanai Clan Origins
 
-**Tags:** #genealogy #clan #history #Fanai #Zohnahthlak #research
+
 
 ## 1. Lineage Classification
 - **Primary Group**: Fanai

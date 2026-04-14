@@ -1,8 +1,25 @@
+---
+title: 'Mountain Hydrology: The Tukhur System'
+category: Science
+tags:
+- science
+- engineering
+- water
+- Before
+- the
+- advent
+- modern
+- pipe
+- networks
+language: mixed
+tokens: 230
+ai_ready: true
+completeness: high
+---
+
 # Mountain Hydrology: The Tukhur System
 
-**Tags:** #science #engineering #water
-
-Before the advent of modern pipe networks, Mizo villages—perched on high ridges—relied on a sophisticated system of mountain hydrology centered around the **Tukhur** (Water Spring).
+, Mizo villages—perched on high ridges—relied on a sophisticated system of mountain hydrology centered around the **Tukhur** (Water Spring).
 
 ## The Engineering of the Spring
 A Tukhur is not just a hole in the ground; it is an engineered water-collection point. Traditionally, villagers would use hollowed-out bamboo pipes (*Vau*) to channel water from deep crevices in the rock-face into a central stone-lined basin. This ensured a filtered, continuous supply of water even during the dry season.

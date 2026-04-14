@@ -1,6 +1,23 @@
+---
+title: Inkhelhpawl
+category: Culture
+tags:
+- culture
+- sports
+- games
+- fitness
+- Mizoram
+- research
+- PhysicalEducation
+language: mixed
+tokens: 170
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Traditional Game: Inkhelhpawl
 
-**Tags:** #culture #sports #games #fitness #Mizoram #research #PhysicalEducation
+
 
 ## 1. Game Classification
 - **Category**: Team Strategy

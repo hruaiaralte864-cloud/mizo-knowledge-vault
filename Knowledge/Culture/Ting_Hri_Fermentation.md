@@ -1,6 +1,23 @@
+---
+title: Ting Hri Fermentation
+category: Culture
+tags:
+- culture
+- fashion
+- textiles
+- weaving
+- Mizoram
+- research
+- Chemistry
+language: mixed
+tokens: 169
+ai_ready: true
+completeness: high
+---
+
 ﻿# Textile Node: Ting Hri Fermentation
 
-**Tags:** #culture #fashion #textiles #weaving #Mizoram #research #Chemistry
+
 
 ## 1. Technical Classification
 - **Category**: Process

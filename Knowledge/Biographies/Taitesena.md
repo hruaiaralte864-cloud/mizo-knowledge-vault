@@ -1,6 +1,23 @@
+---
+title: Taitesena
+category: Biographies
+tags:
+- history
+- biography
+- leader
+- Pasaltha
+- culture
+- Mizoram
+- research
+language: mixed
+tokens: 117
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Biography: Taitesena
 
-**Tags:** #history #biography #leader #Pasaltha #culture #Mizoram #research
+
 
 ## 1. Profile Summary
 - **Name**: Taitesena

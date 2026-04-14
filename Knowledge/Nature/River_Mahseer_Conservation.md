@@ -1,6 +1,18 @@
+---
+title: Conserving the Chocolate Mahseer
+category: Nature
+tags:
+- nature
+- governance
+language: mixed
+tokens: 35
+ai_ready: true
+completeness: low
+---
+
 # Conserving the Chocolate Mahseer
 
-**Tags:** #nature #governance
+
 
 Efforts by local fishing associations to prevent the use of dynamite and poison in Mizo rivers.
 

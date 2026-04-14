@@ -1,6 +1,23 @@
+---
+title: Mizo YouTube Creator Economy
+category: Culture
+tags:
+- arts
+- media
+- film
+- music
+- Mizoram
+- research
+- DigitalCulture
+language: mixed
+tokens: 171
+ai_ready: true
+completeness: high
+---
+
 ﻿# Arts & Media Node: Mizo YouTube Creator Economy
 
-**Tags:** #arts #media #film #music #Mizoram #research #DigitalCulture
+
 
 ## 1. Creative Classification
 - **Category**: Digital Media

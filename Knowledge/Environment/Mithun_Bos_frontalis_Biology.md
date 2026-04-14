@@ -1,6 +1,23 @@
+---
+title: Mithun Bos frontalis Biology
+category: Environment
+tags:
+- environment
+- ecology
+- flora
+- fauna
+- Mizoram
+- research
+- Conservation
+language: mixed
+tokens: 162
+ai_ready: true
+completeness: high
+---
+
 ﻿# Environmental Node: Mithun Bos frontalis Biology
 
-**Tags:** #environment #ecology #flora #fauna #Mizoram #research #Conservation
+
 
 ## 1. Ecological Classification
 - **Category**: Fauna

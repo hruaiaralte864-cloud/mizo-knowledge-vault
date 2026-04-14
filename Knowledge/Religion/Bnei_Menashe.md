@@ -1,6 +1,19 @@
+---
+title: "Bnei Menashe \u2014 The Lost Tribe Claim"
+category: Religion
+tags:
+- religion
+- identity
+- diaspora
+language: mixed
+tokens: 236
+ai_ready: true
+completeness: high
+---
+
 # Bnei Menashe — The Lost Tribe Claim
 
-**Tags:** #religion #identity #diaspora
+
 
 The **Bnei Menashe** (Hebrew: "Sons of Manasseh") is a religious-ethnic movement among a segment of Mizo and Kuki people in Northeast India who believe themselves to be descendants of the Manasseh tribe of ancient Israel — one of the Ten Lost Tribes.
 

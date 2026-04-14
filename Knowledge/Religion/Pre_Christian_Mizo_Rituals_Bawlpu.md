@@ -1,6 +1,20 @@
+---
+title: 'Pre-Christian Mizo Rituals: The Bawlpu Logic'
+category: Religion
+tags:
+- religion
+- history
+- ritual
+- philosophy
+language: mixed
+tokens: 237
+ai_ready: true
+completeness: high
+---
+
 # Pre-Christian Mizo Rituals: The Bawlpu Logic
 
-**Tags:** #religion #history #ritual #philosophy
+
 
 Before the advent of **[[Christianity_in_Mizoram]]**, the Mizo spiritual world was centered on "Propitiation"—the act of appeasing the spirits of the land.
 

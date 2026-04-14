@@ -1,6 +1,19 @@
+---
+title: The Inner Line Permit (ILP) System
+category: History
+tags:
+- history
+- law
+- governance
+language: mixed
+tokens: 148
+ai_ready: true
+completeness: medium
+---
+
 # The Inner Line Permit (ILP) System
 
-**Tags:** #history #law #governance
+
 
 The **Inner Line Permit (ILP)** is a travel document required by any Indian citizen who is not a native of Mizoram to enter the state. It was introduced by the British under the Bengal Eastern Frontier Regulation Act of 1873, originally to protect their commercial interests in tea and timber.
 

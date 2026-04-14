@@ -1,8 +1,15 @@
 ---
-title: Textile Semiotics & Puan Semantics
-tags: [arts, culture, textile, fashion]
-status: permanent
-created: 2026-04-14
+title: 'Textile Semiotics: The Language of the Puan'
+category: Arts
+tags:
+- arts
+- culture
+- textile
+- fashion
+language: mixed
+tokens: 323
+ai_ready: true
+completeness: high
 ---
 
 # Textile Semiotics: The Language of the Puan

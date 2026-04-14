@@ -1,6 +1,19 @@
+---
+title: 'G. Zuala: The Cultural Bridge'
+category: Biographies
+tags:
+- biography
+- culture
+- media
+language: mixed
+tokens: 208
+ai_ready: true
+completeness: high
+---
+
 # G. Zuala: The Cultural Bridge
 
-**Tags:** #biography #culture #media
+
 
 **G. Zuala** was a legendary figure in Mizo media and cultural preservation, known for his work in documenting and promoting Mizo heritage through radio and film.
 

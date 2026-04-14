@@ -1,6 +1,19 @@
+---
+title: Rajiv Gandhi and the Mizo Peace Process
+category: History
+tags:
+- history
+- politics
+- peace
+language: mixed
+tokens: 221
+ai_ready: true
+completeness: high
+---
+
 # Rajiv Gandhi and the Mizo Peace Process
 
-**Tags:** #history #politics #peace
+
 
 The final breakthrough in the long [[MNF_Uprising_1966|Mizo insurgency]] came under **Prime Minister Rajiv Gandhi**, who took personal interest in resolving the Northeast's conflicts.
 

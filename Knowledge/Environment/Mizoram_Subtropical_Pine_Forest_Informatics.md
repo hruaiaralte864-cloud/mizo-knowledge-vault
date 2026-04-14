@@ -1,6 +1,23 @@
+---
+title: Mizoram Subtropical Pine Forest Informatics
+category: Environment
+tags:
+- environment
+- ecology
+- flora
+- fauna
+- Mizoram
+- research
+- Conservation
+language: mixed
+tokens: 170
+ai_ready: true
+completeness: high
+---
+
 ﻿# Environmental Node: Mizoram Subtropical Pine Forest Informatics
 
-**Tags:** #environment #ecology #flora #fauna #Mizoram #research #Conservation
+
 
 ## 1. Ecological Classification
 - **Category**: Ecology

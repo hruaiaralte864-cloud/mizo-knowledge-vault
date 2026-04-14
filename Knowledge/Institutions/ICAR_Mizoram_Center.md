@@ -1,6 +1,19 @@
+---
+title: ICAR Mizoram Centre (Kolosib)
+category: Institutions
+tags:
+- institutions
+- agriculture
+- science
+language: mixed
+tokens: 210
+ai_ready: true
+completeness: high
+---
+
 # ICAR Mizoram Centre (Kolosib)
 
-**Tags:** #institutions #agriculture #science
+
 
 The **Indian Council of Agricultural Research (ICAR) Mizoram Centre**, located near Kolasib, is the premier scientific body dedicated to hill agriculture in the state.
 

@@ -1,6 +1,18 @@
+---
+title: "Pawla \u2014 The Mizo Trickster Hero"
+category: Folklore
+tags:
+- folklore
+- mythology
+language: mixed
+tokens: 187
+ai_ready: true
+completeness: medium
+---
+
 # Pawla — The Mizo Trickster Hero
 
-**Tags:** #folklore #mythology
+
 
 **Pawla** is a folk hero of a different flavour from the strong-but-foolish [[Chhura_and_Nahaia|Chhura]] — he is a quick-witted young man who uses clever thinking to escape impossible situations, defeat physically superior opponents, and right social wrongs.
 

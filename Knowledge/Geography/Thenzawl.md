@@ -1,6 +1,23 @@
+---
+title: Thenzawl
+category: Geography
+tags:
+- geography
+- township
+- Serchhip
+- SerchhipDistrict
+- Mizoram
+- research
+- UrbanPlanning
+language: mixed
+tokens: 135
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Township Node: Thenzawl
 
-**Tags:** #geography #township #Serchhip #SerchhipDistrict #Mizoram #research #UrbanPlanning
+
 
 ## 1. Administrative Location
 - **District**: [[SerchhipDistrict]]

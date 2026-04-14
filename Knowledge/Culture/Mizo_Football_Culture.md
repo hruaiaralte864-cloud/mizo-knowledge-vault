@@ -1,6 +1,19 @@
+---
+title: Mizo Football Culture
+category: Culture
+tags:
+- culture
+- sport
+- society
+language: mixed
+tokens: 175
+ai_ready: true
+completeness: medium
+---
+
 # Mizo Football Culture
 
-**Tags:** #culture #sport #society
+
 
 Football is not merely a sport in Mizoram — it is deeply embedded in the social and emotional fabric of Mizo society.
 

@@ -1,6 +1,18 @@
+---
+title: Regulations on Orchid Trade
+category: Nature
+tags:
+- nature
+- governance
+language: mixed
+tokens: 32
+ai_ready: true
+completeness: low
+---
+
 # Regulations on Orchid Trade
 
-**Tags:** #nature #governance
+
 
 Explaining the legal framework that prohibits the commercial export of wild-collected orchids from Mizoram.
 

@@ -1,6 +1,25 @@
+---
+title: Stump tailed Macaque
+category: Nature
+tags:
+- science
+- nature
+- wildlife
+- ecology
+- Mizoram
+- Macaca
+- arctoides.Replace('
+- '''_'')'
+- research
+language: mixed
+tokens: 135
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Species Profile: Stump-tailed Macaque
 
-**Tags:** #science #nature #wildlife #ecology #Mizoram #Macaca arctoides.Replace(' ', '_') #research
+
 
 ## 1. Biological Classification
 - **Common Name**: Stump-tailed Macaque

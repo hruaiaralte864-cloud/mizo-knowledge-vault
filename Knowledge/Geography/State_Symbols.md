@@ -1,6 +1,19 @@
+---
+title: Mizoram State Symbols
+category: Geography
+tags:
+- geography
+- nature
+- culture
+language: mixed
+tokens: 198
+ai_ready: true
+completeness: high
+---
+
 # Mizoram State Symbols
 
-**Tags:** #geography #nature #culture
+
 
 ## State Animal — Saza (Serow)
 *Capricornis sumatraensis* — a goat-antelope with shaggy black and grey fur, adapted to the steep, rocky cliffs of the Mizo hills. The Saza is nimble, shy, and fiercely territorial — qualities the Mizo admire.

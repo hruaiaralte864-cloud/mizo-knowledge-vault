@@ -1,6 +1,18 @@
+---
+title: Curcumin Density in Mizo Turmeric
+category: Nature
+tags:
+- agriculture
+- academic
+language: mixed
+tokens: 32
+ai_ready: true
+completeness: low
+---
+
 # Curcumin Density in Mizo Turmeric
 
-**Tags:** #agriculture #academic
+
 
 Independent laboratory tests results for the high-potency turmeric grown in the Serchhip district.
 

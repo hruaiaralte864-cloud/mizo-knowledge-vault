@@ -1,6 +1,19 @@
+---
+title: 'Mizo Etymology: The Myth of ''Lunglei'''
+category: Linguistics
+tags:
+- linguistics
+- history
+- mythology
+language: mixed
+tokens: 188
+ai_ready: true
+completeness: high
+---
+
 # Mizo Etymology: The Myth of 'Lunglei'
 
-**Tags:** #linguistics #history #mythology
+
 
 The naming of **[[Lunglei_District]]** is a classic example of Mizo toponymy (place-naming) being intertwined with geological and mythological features.
 

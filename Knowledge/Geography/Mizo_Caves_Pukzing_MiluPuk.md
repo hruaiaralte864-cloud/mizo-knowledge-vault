@@ -1,6 +1,20 @@
+---
+title: 'Mizo Caves: Repositories of Ancient Shadows'
+category: Geography
+tags:
+- geography
+- history
+- archaeology
+- caves
+language: mixed
+tokens: 235
+ai_ready: true
+completeness: high
+---
+
 # Mizo Caves: Repositories of Ancient Shadows
 
-**Tags:** #geography #history #archaeology #caves
+
 
 Mizoram's ridges contain some of the most legend-rich caves (*Puk*) in the Northeast, serving as historical sanctuaries and archaeological sites.
 

@@ -1,6 +1,23 @@
+---
+title: MSACS Health Program
+category: Society
+tags:
+- society
+- health
+- education
+- welfare
+- Mizoram
+- research
+- NGO
+language: mixed
+tokens: 171
+ai_ready: true
+completeness: high
+---
+
 ﻿# Society Node: MSACS Health Program
 
-**Tags:** #society #health #education #welfare #Mizoram #research #NGO
+
 
 ## 1. Domain Classification
 - **Category**: Health

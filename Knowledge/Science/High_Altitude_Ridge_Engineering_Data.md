@@ -1,8 +1,35 @@
+---
+title: 'High-Altitude Engineering: Ridge Stability and Soil Mechanics'
+category: Science
+tags:
+- science
+- engineering
+- civilengineering
+- geology
+- soilmechanics
+- research
+- Aizawl
+- This
+- node
+- archives
+- the
+- primary
+- datasets
+- regarding
+- physics
+- living
+- vertical
+- shale
+- ridge
+language: mixed
+tokens: 419
+ai_ready: true
+completeness: high
+---
+
 # High-Altitude Engineering: Ridge Stability and Soil Mechanics
 
-**Tags:** #science #engineering #civilengineering #geology #soilmechanics #research #Aizawl
-
-This node archives the primary engineering datasets regarding the physics of living on a vertical shale ridge, focusing on **Soil Shear Strength** and **Slenderness Ratios** in mountain construction.
+, focusing on **Soil Shear Strength** and **Slenderness Ratios** in mountain construction.
 
 ## 1. Soil Composition and Mechanical Data
 The geology of the Lushai Hills primarily consists of **Surma Group** tertiary rocks (shale, siltstone, and sandstone).

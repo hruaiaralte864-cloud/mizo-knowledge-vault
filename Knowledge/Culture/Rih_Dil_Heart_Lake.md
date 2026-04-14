@@ -1,6 +1,23 @@
+---
+title: Rih Dil Heart Lake
+category: Culture
+tags:
+- culture
+- mythology
+- folklore
+- legends
+- Mizoram
+- research
+- Spirituality
+language: mixed
+tokens: 193
+ai_ready: true
+completeness: high
+---
+
 ﻿# Mythology Node: Rih Dil Heart Lake
 
-**Tags:** #culture #mythology #folklore #legends #Mizoram #research #Spirituality
+
 
 ## 1. Narrative Classification
 - **Category**: Mythology

@@ -1,6 +1,18 @@
+---
+title: Altitude Zoning of Rhododendrons
+category: Nature
+tags:
+- nature
+- geography
+language: mixed
+tokens: 32
+ai_ready: true
+completeness: low
+---
+
 # Altitude Zoning of Rhododendrons
 
-**Tags:** #nature #geography
+
 
 Mapping the specific elevations where different species of Rhododendrons are found on Phawngpui peak.
 

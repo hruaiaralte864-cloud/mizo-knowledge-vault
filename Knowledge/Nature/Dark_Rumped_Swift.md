@@ -1,6 +1,25 @@
+---
+title: Dark Rumped Swift
+category: Nature
+tags:
+- science
+- nature
+- wildlife
+- ecology
+- Mizoram
+- Apus
+- acuticauda.Replace('
+- '''_'')'
+- research
+language: mixed
+tokens: 136
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Species Profile: Dark-rumped Swift
 
-**Tags:** #science #nature #wildlife #ecology #Mizoram #Apus acuticauda.Replace(' ', '_') #research
+
 
 ## 1. Biological Classification
 - **Common Name**: Dark-rumped Swift

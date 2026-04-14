@@ -1,6 +1,22 @@
+---
+title: Ral-ven-buk Watchtower
+category: Culture
+tags:
+- engineering
+- architecture
+- construction
+- Mizoram
+- research
+- IndigenousTech
+language: mixed
+tokens: 169
+ai_ready: true
+completeness: high
+---
+
 ﻿# Architecture Node: Ral-ven-buk Watchtower
 
-**Tags:** #engineering #architecture #construction #Mizoram #research #IndigenousTech
+
 
 ## 1. Technical Classification
 - **Category**: Military

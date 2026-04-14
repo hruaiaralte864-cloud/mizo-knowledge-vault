@@ -1,6 +1,20 @@
+---
+title: 'Zokhawthar Border Trade: 2026 Market Dynamics'
+category: Economy
+tags:
+- economy
+- trade
+- border
+- myanmar
+language: mixed
+tokens: 214
+ai_ready: true
+completeness: high
+---
+
 # Zokhawthar Border Trade: 2026 Market Dynamics
 
-**Tags:** #economy #trade #border #myanmar
+
 
 The **Zokhawthar** border crossing in **[[Champhai_District]]** is the primary "Valve" of the Mizo economy, connecting India with the Myanmar frontier.
 

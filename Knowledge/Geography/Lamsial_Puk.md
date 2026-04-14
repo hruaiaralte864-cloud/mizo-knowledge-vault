@@ -1,6 +1,20 @@
+---
+title: Lamsial Puk (The Cave of Lamsial)
+category: Geography
+tags:
+- geography
+- history
+- cave
+- heritage
+language: mixed
+tokens: 257
+ai_ready: true
+completeness: high
+---
+
 # Lamsial Puk (The Cave of Lamsial)
 
-**Tags:** #geography #history #cave #heritage
+
 
 **Lamsial Puk** is a historically and archaeologically significant cave located near the village of Farkawn in the Champhai district. It is one of the most famous caves in Mizoram, known for the "skeleton mystery" that intrigued historians for decades.
 

@@ -1,6 +1,19 @@
+---
+title: "Mizo National Famine Front (MNFF) \u2014 1959"
+category: History
+tags:
+- history
+- politics
+- famine
+language: mixed
+tokens: 166
+ai_ready: true
+completeness: medium
+---
+
 # Mizo National Famine Front (MNFF) — 1959
 
-**Tags:** #history #politics #famine
+
 
 The **Mizo National Famine Front (MNFF)** was the direct precursor to the [[Mizo_National_Front]]. It was founded by [[Laldenga]] in **1959** during the catastrophic [[Mautam_Famine_1959|Mautam bamboo famine]].
 

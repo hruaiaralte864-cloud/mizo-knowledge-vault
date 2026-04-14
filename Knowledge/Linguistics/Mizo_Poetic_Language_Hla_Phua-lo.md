@@ -1,6 +1,23 @@
+---
+title: Mizo Poetic Language Hla Phua-lo
+category: Linguistics
+tags:
+- linguistics
+- language
+- grammar
+- Mizo
+- research
+- Informatics
+- NLP
+language: mixed
+tokens: 176
+ai_ready: true
+completeness: high
+---
+
 ﻿# Linguistic Node: Mizo Poetic Language Hla Phua-lo
 
-**Tags:** #linguistics #language #grammar #Mizo #research #Informatics #NLP
+
 
 ## 1. Technical Classification
 - **Category**: Literary

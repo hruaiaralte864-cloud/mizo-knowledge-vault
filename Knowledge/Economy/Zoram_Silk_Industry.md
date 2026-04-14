@@ -1,6 +1,24 @@
+---
+title: Zoram Silk Industry
+category: Economy
+tags:
+- economy
+- tech
+- startups
+- innovation
+- Mizoram
+- research
+- Aizawl
+- '2026'
+language: mixed
+tokens: 158
+ai_ready: true
+completeness: high
+---
+
 ﻿# Economy Node: Zoram Silk Industry
 
-**Tags:** #economy #tech #startups #innovation #Mizoram #research #Aizawl #2026
+
 
 ## 1. Sectoral Classification
 - **Category**: Textiles

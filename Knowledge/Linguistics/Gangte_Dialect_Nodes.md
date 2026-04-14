@@ -1,6 +1,23 @@
+---
+title: Gangte Dialect Nodes
+category: Linguistics
+tags:
+- linguistics
+- dialect
+- Gangte
+- Northern
+- Mamit
+- MizoLanguage
+- research
+language: mixed
+tokens: 140
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Linguistic Node: Gangte Dialect Nodes
 
-**Tags:** #linguistics #dialect #Gangte #Northern Mamit #MizoLanguage #research
+
 
 ## 1. Taxonomic Classification
 - **Primary Group**: [[GangteLanguage]]

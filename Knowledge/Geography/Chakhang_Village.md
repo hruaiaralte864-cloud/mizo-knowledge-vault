@@ -1,6 +1,19 @@
+---
+title: Chakhang Village
+category: Geography
+tags:
+- geography
+- village
+- mara_region
+language: mixed
+tokens: 223
+ai_ready: true
+completeness: high
+---
+
 # Chakhang Village
 
-**Tags:** #geography #village #mara_region
+
 
 **Chakhang** is one of the most remote and high-altitude villages in the Saiha district, located within the **[[Mara_Autonomous_District_Council_MADC]]**. It is a primary settlement of the Mara people.
 

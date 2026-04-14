@@ -1,6 +1,19 @@
+---
+title: Laldenga (Father of Mizo Statehood)
+category: Biographies
+tags:
+- biography
+- politics
+- insurgency
+language: mixed
+tokens: 136
+ai_ready: true
+completeness: medium
+---
+
 # Laldenga (Father of Mizo Statehood)
 
-**Tags:** #biography #politics #insurgency
+
 
 **Laldenga** (1927–1990) is perhaps the most famous political figure in Mizo history.
 

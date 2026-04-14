@@ -1,6 +1,22 @@
+---
+title: Khiangte Sub Branches
+category: History
+tags:
+- genealogy
+- clan
+- history
+- Khiangte
+- Zohnahthlak
+- research
+language: mixed
+tokens: 146
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Clan Node: Khiangte Sub Branches
 
-**Tags:** #genealogy #clan #history #Khiangte #Zohnahthlak #research
+
 
 ## 1. Lineage Classification
 - **Primary Group**: Khiangte

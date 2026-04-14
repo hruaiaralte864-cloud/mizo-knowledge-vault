@@ -1,6 +1,19 @@
+---
+title: Sangau Village
+category: Geography
+tags:
+- geography
+- village
+- nature
+language: mixed
+tokens: 65
+ai_ready: true
+completeness: medium
+---
+
 # Sangau Village
 
-**Tags:** #geography #village #nature
+
 
 **Sangau** is the base camp village for anyone climbing the **[[Phawngpui_Blue_Mountain|Phawngpui]]**.
 

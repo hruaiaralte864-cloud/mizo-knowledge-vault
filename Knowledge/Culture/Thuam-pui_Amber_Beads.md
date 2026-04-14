@@ -1,6 +1,23 @@
+---
+title: Thuam-pui Amber Beads
+category: Culture
+tags:
+- culture
+- fashion
+- textiles
+- weaving
+- Mizoram
+- research
+- Chemistry
+language: mixed
+tokens: 162
+ai_ready: true
+completeness: high
+---
+
 ﻿# Textile Node: Thuam-pui Amber Beads
 
-**Tags:** #culture #fashion #textiles #weaving #Mizoram #research #Chemistry
+
 
 ## 1. Technical Classification
 - **Category**: Jewelry

@@ -1,6 +1,18 @@
+---
+title: Modern Aizawl Slang
+category: Linguistics
+tags:
+- linguistics
+- modern
+language: mixed
+tokens: 83
+ai_ready: true
+completeness: medium
+---
+
 # Modern Aizawl Slang
 
-**Tags:** #linguistics #modern
+
 
 The youth of Aizawl have developed a distinctive street slang that blends English, Korean (due to K-pop influence), and traditional Mizo roots.
 

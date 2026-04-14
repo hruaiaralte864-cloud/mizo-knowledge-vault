@@ -1,6 +1,19 @@
+---
+title: Bairabi-Sairang Rail Link Project
+category: Geography
+tags:
+- geography
+- infrastructure
+- connectivity
+language: mixed
+tokens: 224
+ai_ready: true
+completeness: high
+---
+
 # Bairabi-Sairang Rail Link Project
 
-**Tags:** #geography #infrastructure #connectivity
+
 
 The **Bairabi-Sairang Rail Link** is a 51.38 km broad gauge railway project that will connect the state of Mizoram to the national rail network of India. It is a critical component of the "Act East" policy.
 

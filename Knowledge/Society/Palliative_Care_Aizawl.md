@@ -1,6 +1,23 @@
+---
+title: Palliative Care Aizawl
+category: Society
+tags:
+- society
+- health
+- education
+- welfare
+- Mizoram
+- research
+- NGO
+language: mixed
+tokens: 171
+ai_ready: true
+completeness: high
+---
+
 ﻿# Society Node: Palliative Care Aizawl
 
-**Tags:** #society #health #education #welfare #Mizoram #research #NGO
+
 
 ## 1. Domain Classification
 - **Category**: Health

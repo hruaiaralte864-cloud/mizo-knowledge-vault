@@ -1,6 +1,18 @@
+---
+title: Solakia
+category: Culture
+tags:
+- culture
+- dance
+language: mixed
+tokens: 79
+ai_ready: true
+completeness: medium
+---
+
 # Solakia
 
-**Tags:** #culture #dance
+
 
 **Solakia** is another powerful war dance closely related to [[Sarlamkai]]. It is most famously practiced by the Mara people in the Siaha district.
 

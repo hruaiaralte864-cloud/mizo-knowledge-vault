@@ -1,6 +1,19 @@
+---
+title: "Laldenga (1927\u20131990)"
+category: Biographies
+tags:
+- biography
+- politics
+- mizo
+language: mixed
+tokens: 234
+ai_ready: true
+completeness: high
+---
+
 # Laldenga (1927–1990)
 
-**Tags:** #biography #politics #mizo
+
 
 **Laldenga** (full name: Laldenga) was born in 1927 in Pukpui village, Lunglei. He is the defining political figure of modern Mizo history — first as the architect of the MNF insurgency, then as the statesman who chose peace.
 

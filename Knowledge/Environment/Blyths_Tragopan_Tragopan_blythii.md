@@ -1,6 +1,23 @@
+---
+title: Blyths Tragopan Tragopan blythii
+category: Environment
+tags:
+- environment
+- ecology
+- flora
+- fauna
+- Mizoram
+- research
+- Conservation
+language: mixed
+tokens: 162
+ai_ready: true
+completeness: high
+---
+
 ﻿# Environmental Node: Blyths Tragopan Tragopan blythii
 
-**Tags:** #environment #ecology #flora #fauna #Mizoram #research #Conservation
+
 
 ## 1. Ecological Classification
 - **Category**: Fauna

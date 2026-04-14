@@ -1,6 +1,19 @@
+---
+title: The Mizo Diaspora in the United Kingdom
+category: Society
+tags:
+- society
+- diaspora
+- history
+language: mixed
+tokens: 253
+ai_ready: true
+completeness: high
+---
+
 # The Mizo Diaspora in the United Kingdom
 
-**Tags:** #society #diaspora #history
+
 
 The **Mizo Diaspora in the United Kingdom** has a deep historical connection, tracing back to the colonial era and the early Mizo missionaries who studied in Wales and London.
 

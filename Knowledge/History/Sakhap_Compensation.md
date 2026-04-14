@@ -1,6 +1,23 @@
+---
+title: Sakhap Compensation
+category: History
+tags:
+- law
+- justice
+- customary
+- Mizoram
+- research
+- Governance
+- History
+language: mixed
+tokens: 184
+ai_ready: true
+completeness: high
+---
+
 ﻿# Legal Node: Sakhap Compensation
 
-**Tags:** #law #justice #customary #Mizoram #research #Governance #History
+
 
 ## 1. Jurisprudential Classification
 - **Category**: Tort Law

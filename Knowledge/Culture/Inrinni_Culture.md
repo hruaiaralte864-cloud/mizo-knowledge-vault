@@ -1,6 +1,18 @@
+---
+title: Inrinni (Saturday) Culture
+category: Culture
+tags:
+- culture
+- society
+language: mixed
+tokens: 88
+ai_ready: true
+completeness: medium
+---
+
 # Inrinni (Saturday) Culture
 
-**Tags:** #culture #society
+
 
 In Mizoram, **Inrinni** (Saturday) has a special cultural significance stemming from the preparation for Sunday services.
 

@@ -1,6 +1,19 @@
+---
+title: Traditional Mizo Sculpture and Stone Carving
+category: Arts
+tags:
+- arts
+- culture
+- archeology
+language: mixed
+tokens: 252
+ai_ready: true
+completeness: high
+---
+
 # Traditional Mizo Sculpture and Stone Carving
 
-**Tags:** #arts #culture #archeology
+
 
 Traditional Mizo sculpture is primarily found in the form of megalithic stone carvings and memorial stones (**[[Mizo_Death_Rites_Thane]]**). Unlike the intricate wood carvings of some neighboring tribes, Mizo sculpture was often minimalist and symbolic, etched onto massive stone slabs.
 

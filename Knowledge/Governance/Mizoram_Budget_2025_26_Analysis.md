@@ -1,6 +1,19 @@
+---
+title: Mizoram Budget Analysis (2025-2026)
+category: Governance
+tags:
+- governance
+- economy
+- statistics
+language: mixed
+tokens: 250
+ai_ready: true
+completeness: high
+---
+
 # Mizoram Budget Analysis (2025-2026)
 
-**Tags:** #governance #economy #statistics
+
 
 Presented by Chief Minister Pu Lalduhoma on March 4, 2025, the budget for the fiscal year 2025-26 reflects a strategic shift towards "Fiscal Consolidation" and "Handholding" the rural economy.
 

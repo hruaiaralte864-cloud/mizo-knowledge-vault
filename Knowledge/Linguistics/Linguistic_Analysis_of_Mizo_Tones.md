@@ -1,6 +1,23 @@
+---
+title: Linguistic Analysis of Mizo Tones
+category: Linguistics
+tags:
+- linguistics
+- language
+- grammar
+- Mizo
+- research
+- Informatics
+- NLP
+language: mixed
+tokens: 187
+ai_ready: true
+completeness: high
+---
+
 ﻿# Linguistic Node: Linguistic Analysis of Mizo Tones
 
-**Tags:** #linguistics #language #grammar #Mizo #research #Informatics #NLP
+
 
 ## 1. Technical Classification
 - **Category**: Phonology

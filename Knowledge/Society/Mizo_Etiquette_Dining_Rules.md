@@ -1,6 +1,19 @@
+---
+title: 'Mizo Etiquette: Dining and Communal Feasting'
+category: Society
+tags:
+- society
+- culture
+- etiquette
+language: mixed
+tokens: 262
+ai_ready: true
+completeness: high
+---
+
 # Mizo Etiquette: Dining and Communal Feasting
 
-**Tags:** #society #culture #etiquette
+
 
 Mizo dining etiquette is a subtle but rigorous expression of the **[[Tlawmngaihna]]** code, emphasizing humility and the prioritization of others.
 

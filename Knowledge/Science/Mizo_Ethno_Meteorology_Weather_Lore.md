@@ -1,6 +1,19 @@
+---
+title: 'Mizo Ethno-Meteorology: The Science of Clouds and Birds'
+category: Science
+tags:
+- science
+- meteorology
+- ethno
+language: mixed
+tokens: 206
+ai_ready: true
+completeness: high
+---
+
 # Mizo Ethno-Meteorology: The Science of Clouds and Birds
 
-**Tags:** #science #meteorology #ethno-science #farming
+-science #farming
 
 Before the advent of modern satellite forecasting, Mizo farmers relied on a sophisticated "Biological Radar" to predict the heavy Mizo monsoon.
 

@@ -1,6 +1,25 @@
+---
+title: Great Barbet
+category: Nature
+tags:
+- science
+- nature
+- wildlife
+- ecology
+- Mizoram
+- Psilopogon
+- virens.Replace('
+- '''_'')'
+- research
+language: mixed
+tokens: 135
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Species Profile: Great Barbet
 
-**Tags:** #science #nature #wildlife #ecology #Mizoram #Psilopogon virens.Replace(' ', '_') #research
+
 
 ## 1. Biological Classification
 - **Common Name**: Great Barbet

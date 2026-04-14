@@ -1,6 +1,25 @@
+---
+title: Clouded Leopard
+category: Nature
+tags:
+- science
+- nature
+- wildlife
+- ecology
+- Mizoram
+- Neofelis
+- nebulosa.Replace('
+- '''_'')'
+- research
+language: mixed
+tokens: 136
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Species Profile: Clouded Leopard
 
-**Tags:** #science #nature #wildlife #ecology #Mizoram #Neofelis nebulosa.Replace(' ', '_') #research
+
 
 ## 1. Biological Classification
 - **Common Name**: Clouded Leopard

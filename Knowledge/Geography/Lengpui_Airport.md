@@ -1,6 +1,19 @@
+---
+title: Lengpui Airport
+category: Geography
+tags:
+- geography
+- transport
+- modern
+language: mixed
+tokens: 109
+ai_ready: true
+completeness: medium
+---
+
 # Lengpui Airport
 
-**Tags:** #geography #transport #modern
+
 
 **Lengpui Airport** is one of the most uniquely engineered airports in India. It is a "table-top" airport built into a flattened ridge near Aizawl.
 

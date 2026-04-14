@@ -1,6 +1,19 @@
+---
+title: "Jhum Cultivation \u2014 Shifting Agriculture"
+category: Culture
+tags:
+- culture
+- economy
+- environment
+language: mixed
+tokens: 253
+ai_ready: true
+completeness: high
+---
+
 # Jhum Cultivation — Shifting Agriculture
 
-**Tags:** #culture #economy #environment
+
 
 **Jhum**, or slash-and-burn shifting cultivation, was the exclusive agricultural system of the Mizo people for centuries. The entire rhythm of traditional Mizo life — its festivals, migrations, and village layouts — was dictated by the Jhum cycle.
 

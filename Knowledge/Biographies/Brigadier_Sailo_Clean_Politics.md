@@ -1,6 +1,19 @@
+---
+title: 'Brigadier Thenphunga Sailo: The "Clean Politics" Movement'
+category: Biographies
+tags:
+- biography
+- politics
+- governance
+language: mixed
+tokens: 230
+ai_ready: true
+completeness: high
+---
+
 # Brigadier Thenphunga Sailo: The "Clean Politics" Movement
 
-**Tags:** #biography #politics #governance
+
 
 **Brigadier T. Sailo** is a seminal figure in Mizoram's political history, legendary for introducing the concept of **"Clean Politics"** to the state. After retiring from the Indian Army, he entered the political arena during the height of the **[[Mizo_Insurgency_Movement]]**.
 

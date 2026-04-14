@@ -1,6 +1,19 @@
+---
+title: Vantawng Falls
+category: Geography
+tags:
+- geography
+- nature
+- landmark
+language: mixed
+tokens: 165
+ai_ready: true
+completeness: medium
+---
+
 # Vantawng Falls
 
-**Tags:** #geography #nature #landmark
+
 
 **Vantawng Falls** is the highest waterfall in Mizoram and the tallest waterfall in Northeast India, with a vertical drop of approximately **750 feet (229 metres)**.
 

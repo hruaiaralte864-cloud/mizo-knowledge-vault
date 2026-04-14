@@ -1,6 +1,23 @@
+---
+title: Operation Jericho
+category: History
+tags:
+- politics
+- history
+- independence
+- Mizoram
+- research
+- Diplomacy
+- MNF
+language: mixed
+tokens: 171
+ai_ready: true
+completeness: high
+---
+
 ﻿# Political Node: Operation Jericho
 
-**Tags:** #politics #history #independence #Mizoram #research #Diplomacy #MNF
+
 
 ## 1. Historical Classification
 - **Category**: Military Event

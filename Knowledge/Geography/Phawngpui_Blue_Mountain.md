@@ -1,6 +1,19 @@
+---
+title: "Phawngpui \u2014 The Blue Mountain"
+category: Geography
+tags:
+- geography
+- nature
+- landmark
+language: mixed
+tokens: 165
+ai_ready: true
+completeness: medium
+---
+
 # Phawngpui — The Blue Mountain
 
-**Tags:** #geography #nature #landmark
+
 
 **Phawngpui** (*Phawng* = dome-shaped, *pui* = great/large) is the highest peak in Mizoram at **2,157 metres (7,077 ft)** above sea level. Located in the Lawngtlai district near the Myanmar border, it dominates the southern Mizo landscape.
 

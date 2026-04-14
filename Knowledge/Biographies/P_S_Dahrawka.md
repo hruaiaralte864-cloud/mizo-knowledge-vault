@@ -1,6 +1,18 @@
+---
+title: P. S. Dahrawka
+category: Biographies
+tags:
+- biography
+- literature
+language: mixed
+tokens: 33
+ai_ready: true
+completeness: low
+---
+
 # P. S. Dahrawka
 
-**Tags:** #biography #literature
+
 
 A notable early-20th-century Mizo intellectual who wrote extensively on the "Lost Tribe" theory of Mizo origins.
 

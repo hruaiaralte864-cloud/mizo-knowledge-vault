@@ -1,6 +1,23 @@
+---
+title: Aiburuma
+category: Biographies
+tags:
+- history
+- biography
+- leader
+- Pasaltha
+- culture
+- Mizoram
+- research
+language: mixed
+tokens: 118
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Biography: Aiburuma
 
-**Tags:** #history #biography #leader #Pasaltha #culture #Mizoram #research
+
 
 ## 1. Profile Summary
 - **Name**: Aiburuma

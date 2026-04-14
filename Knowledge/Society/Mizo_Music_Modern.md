@@ -1,6 +1,19 @@
+---
+title: Modern Mizo Music Scene
+category: Society
+tags:
+- society
+- culture
+- music
+language: mixed
+tokens: 228
+ai_ready: true
+completeness: high
+---
+
 # Modern Mizo Music Scene
 
-**Tags:** #society #culture #music
+
 
 Mizoram has one of the most vibrant and distinct modern music scenes of any small state in India.
 

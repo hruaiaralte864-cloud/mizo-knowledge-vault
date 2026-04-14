@@ -1,6 +1,23 @@
+---
+title: Chawngthuangpa
+category: Biographies
+tags:
+- history
+- biography
+- leader
+- Pasaltha
+- culture
+- Mizoram
+- research
+language: mixed
+tokens: 113
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Biography: Chawngthuangpa
 
-**Tags:** #history #biography #leader #Pasaltha #culture #Mizoram #research
+
 
 ## 1. Profile Summary
 - **Name**: Chawngthuangpa

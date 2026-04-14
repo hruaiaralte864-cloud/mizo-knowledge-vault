@@ -1,6 +1,23 @@
+---
+title: Pawi Dialect Historical
+category: Linguistics
+tags:
+- linguistics
+- dialect
+- Lai/Pawi
+- Southern
+- Hills
+- MizoLanguage
+- research
+language: mixed
+tokens: 141
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Linguistic Node: Pawi Dialect Historical
 
-**Tags:** #linguistics #dialect #Lai/Pawi #Southern Hills #MizoLanguage #research
+
 
 ## 1. Taxonomic Classification
 - **Primary Group**: [[Lai/PawiLanguage]]

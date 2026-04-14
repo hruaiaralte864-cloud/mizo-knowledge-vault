@@ -1,6 +1,19 @@
+---
+title: Puandum
+category: Culture
+tags:
+- culture
+- textile
+- ritual
+language: mixed
+tokens: 137
+ai_ready: true
+completeness: medium
+---
+
 # Puandum
 
-**Tags:** #culture #textile #ritual
+
 
 **Puandum** is a deep black or dark blue Puan with red and green stripes. It carries heavy ritual significance in Mizo life and death.
 

@@ -1,6 +1,20 @@
+---
+title: 'Traditional Mizo Carpentry: Nail-less Engineering'
+category: Technology
+tags:
+- tech
+- architecture
+- carpentry
+- engineering
+language: mixed
+tokens: 122
+ai_ready: true
+completeness: medium
+---
+
 # Traditional Mizo Carpentry: Nail-less Engineering
 
-**Tags:** #tech #architecture #carpentry #engineering
+
 
 Ancient Mizo architecture, particularly the **[[Zawlbuk_Mizo_Bachelors_Dormitory]]** and the Chief's house, was built without a single metal nail.
 

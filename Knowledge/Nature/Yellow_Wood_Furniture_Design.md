@@ -1,6 +1,18 @@
+---
+title: Design Trends in Yellow Wood Furniture
+category: Nature
+tags:
+- arts
+- economy
+language: mixed
+tokens: 29
+ai_ready: true
+completeness: low
+---
+
 # Design Trends in Yellow Wood Furniture
 
-**Tags:** #arts #economy
+
 
 The modern minimalist trends in using 'Thing-Eng' wood for contemporary household items.
 

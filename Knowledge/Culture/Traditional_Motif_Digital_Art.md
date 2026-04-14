@@ -1,6 +1,23 @@
+---
+title: Traditional Motif Digital Art
+category: Culture
+tags:
+- arts
+- media
+- film
+- music
+- Mizoram
+- research
+- DigitalCulture
+language: mixed
+tokens: 166
+ai_ready: true
+completeness: high
+---
+
 ﻿# Arts & Media Node: Traditional Motif Digital Art
 
-**Tags:** #arts #media #film #music #Mizoram #research #DigitalCulture
+
 
 ## 1. Creative Classification
 - **Category**: Visual Arts

@@ -1,6 +1,23 @@
+---
+title: Saitual
+category: Geography
+tags:
+- geography
+- village
+- Saitual
+- SaitualDistrict
+- Mizoram
+- research
+- AizawlRegion
+language: mixed
+tokens: 115
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Village Node: Saitual
 
-**Tags:** #geography #village #Saitual #SaitualDistrict #Mizoram #research #AizawlRegion
+
 
 ## 1. Administrative Location
 - **District**: [[SaitualDistrict]]

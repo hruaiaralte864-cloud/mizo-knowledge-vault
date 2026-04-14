@@ -1,6 +1,20 @@
+---
+title: 'Land Ports of Mizoram: Zokhawthar and Zorinpui'
+category: Economy
+tags:
+- economy
+- trade
+- geopolitics
+- act_east
+language: mixed
+tokens: 253
+ai_ready: true
+completeness: high
+---
+
 # Land Ports of Mizoram: Zokhawthar and Zorinpui
 
-**Tags:** #economy #trade #geopolitics #act_east
+
 
 Mizoram's land ports are the strategic valves of India’s **"Act East Policy,"** facilitating legitimate cross-border trade with Myanmar and Bangladesh.
 

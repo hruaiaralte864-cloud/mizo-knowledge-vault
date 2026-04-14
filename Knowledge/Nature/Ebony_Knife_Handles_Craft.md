@@ -1,6 +1,18 @@
+---
+title: Crafting Ebony Knife Handles
+category: Nature
+tags:
+- crafts
+- culture
+language: mixed
+tokens: 36
+ai_ready: true
+completeness: low
+---
+
 # Crafting Ebony Knife Handles
 
-**Tags:** #crafts #culture
+
 
 The techniques used by Mizo ironsmiths to fit the dense ebony wood of 'Thing-dum' to steel blades.
 

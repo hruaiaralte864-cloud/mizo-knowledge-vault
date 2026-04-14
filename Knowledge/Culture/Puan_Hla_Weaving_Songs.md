@@ -1,6 +1,23 @@
+---
+title: Puan Hla Weaving Songs
+category: Culture
+tags:
+- culture
+- fashion
+- textiles
+- weaving
+- Mizoram
+- research
+- Chemistry
+language: mixed
+tokens: 171
+ai_ready: true
+completeness: high
+---
+
 ﻿# Textile Node: Puan Hla Weaving Songs
 
-**Tags:** #culture #fashion #textiles #weaving #Mizoram #research #Chemistry
+
 
 ## 1. Technical Classification
 - **Category**: Culture

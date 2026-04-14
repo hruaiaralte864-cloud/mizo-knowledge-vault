@@ -1,6 +1,23 @@
+---
+title: S V Khuma
+category: Biographies
+tags:
+- history
+- biography
+- leader
+- Pasaltha
+- culture
+- Mizoram
+- research
+language: mixed
+tokens: 126
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Biography: S V Khuma
 
-**Tags:** #history #biography #leader #Pasaltha #culture #Mizoram #research
+
 
 ## 1. Profile Summary
 - **Name**: S V Khuma

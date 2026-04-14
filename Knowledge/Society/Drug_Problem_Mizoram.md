@@ -1,6 +1,19 @@
+---
+title: The Drug Epidemic in Mizoram
+category: Society
+tags:
+- society
+- health
+- crisis
+language: mixed
+tokens: 228
+ai_ready: true
+completeness: high
+---
+
 # The Drug Epidemic in Mizoram
 
-**Tags:** #society #health #crisis
+
 
 Mizoram has faced one of northeastern India's most severe drug abuse epidemics since the late 1980s, closely linked to the state's geographic position.
 

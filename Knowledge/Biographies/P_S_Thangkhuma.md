@@ -1,6 +1,23 @@
+---
+title: P S Thangkhuma
+category: Biographies
+tags:
+- history
+- biography
+- leader
+- Pasaltha
+- culture
+- Mizoram
+- research
+language: mixed
+tokens: 123
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Biography: P S Thangkhuma
 
-**Tags:** #history #biography #leader #Pasaltha #culture #Mizoram #research
+
 
 ## 1. Profile Summary
 - **Name**: P S Thangkhuma

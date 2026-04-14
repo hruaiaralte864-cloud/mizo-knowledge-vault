@@ -1,6 +1,19 @@
+---
+title: Mizo Literary Society (MLS) Competitions
+category: Institutions
+tags:
+- institutions
+- literature
+- arts
+language: mixed
+tokens: 210
+ai_ready: true
+completeness: high
+---
+
 # Mizo Literary Society (MLS) Competitions
 
-**Tags:** #institutions #literature #arts
+
 
 The **Mizo Literary Society (MLS)** is a vibrant organization dedicated to the promotion of modern Mizo literature through competitive writing and critical analysis.
 

@@ -1,6 +1,19 @@
+---
+title: The Tlawmngaihna Award
+category: Culture
+tags:
+- culture
+- society
+- honour
+language: mixed
+tokens: 201
+ai_ready: true
+completeness: high
+---
+
 # The Tlawmngaihna Award
 
-**Tags:** #culture #society #honour
+
 
 The **Tlawmngaihna Award** is the highest civil honour in Mizo society, awarded by the **[[Young_Mizo_Association]]** to individuals who perform extraordinary acts of selfless heroism aligned with the ideals of **[[Tlawmngaihna]]**.
 

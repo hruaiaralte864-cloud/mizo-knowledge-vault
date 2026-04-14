@@ -1,6 +1,18 @@
+---
+title: Registry of Mizo Customary Law
+category: Culture
+tags:
+- governance
+- culture
+language: mixed
+tokens: 53
+ai_ready: true
+completeness: low
+---
+
 # Registry of Mizo Customary Law
 
-**Tags:** #governance #culture
+
 
 A legal project by the Mizo Academy of Letters and the Law Department to codify the ancient unwritten laws of the Mizo people for use in the modern judiciary.
 

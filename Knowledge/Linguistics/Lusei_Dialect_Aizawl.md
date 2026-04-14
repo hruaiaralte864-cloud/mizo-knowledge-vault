@@ -1,6 +1,23 @@
+---
+title: Lusei Dialect Aizawl
+category: Linguistics
+tags:
+- linguistics
+- dialect
+- Lusei
+- Central
+- Mizoram
+- MizoLanguage
+- research
+language: mixed
+tokens: 144
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Linguistic Node: Lusei Dialect Aizawl
 
-**Tags:** #linguistics #dialect #Lusei #Central Mizoram #MizoLanguage #research
+
 
 ## 1. Taxonomic Classification
 - **Primary Group**: [[LuseiLanguage]]

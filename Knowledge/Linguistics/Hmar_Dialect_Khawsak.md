@@ -1,6 +1,24 @@
+---
+title: Hmar Dialect Khawsak
+category: Linguistics
+tags:
+- linguistics
+- dialect
+- Hmar
+- Aizawl
+- Manipur
+- Border
+- MizoLanguage
+- research
+language: mixed
+tokens: 143
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Linguistic Node: Hmar Dialect Khawsak
 
-**Tags:** #linguistics #dialect #Hmar #Aizawl / Manipur Border #MizoLanguage #research
+
 
 ## 1. Taxonomic Classification
 - **Primary Group**: [[HmarLanguage]]

@@ -1,6 +1,23 @@
+---
+title: Sakei-leh-Sia
+category: Culture
+tags:
+- culture
+- sports
+- games
+- fitness
+- Mizoram
+- research
+- PhysicalEducation
+language: mizo
+tokens: 169
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Traditional Game: Sakei-leh-Sia
 
-**Tags:** #culture #sports #games #fitness #Mizoram #research #PhysicalEducation
+
 
 ## 1. Game Classification
 - **Category**: Strategy

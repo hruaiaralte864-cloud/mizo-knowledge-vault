@@ -1,6 +1,23 @@
+---
+title: James Dokuma Literary Work
+category: Literature
+tags:
+- literature
+- authors
+- poetry
+- novels
+- Mizoram
+- research
+- Academy
+language: mixed
+tokens: 188
+ai_ready: true
+completeness: high
+---
+
 ﻿# Literary Node: James Dokuma Literary Work
 
-**Tags:** #literature #authors #poetry #novels #Mizoram #research #Academy
+
 
 ## 1. Literary Classification
 - **Category**: Author

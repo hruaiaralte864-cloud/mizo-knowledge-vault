@@ -1,8 +1,23 @@
+---
+title: 'Mizoram Hydrocarbon Fold Belt: Shale Gas Potential'
+category: Science
+tags:
+- science
+- geology
+- energy
+- shale_gas
+- Mizoram
+- part
+- the
+language: mixed
+tokens: 218
+ai_ready: true
+completeness: high
+---
+
 # Mizoram Hydrocarbon Fold Belt: Shale Gas Potential
 
-**Tags:** #science #geology #energy #shale_gas
-
-Mizoram is part of the **Cachar-Tripura-Mizoram Fold Belt**, a geological province that has recently been identified as a significant "Frontier Basin" for hydrocarbons.
+**Cachar-Tripura-Mizoram Fold Belt**, a geological province that has recently been identified as a significant "Frontier Basin" for hydrocarbons.
 
 ## The Shale Gas Resource
 Research by **ONGC** (Oil and Natural Gas Corporation) and researchers from **[[Mizoram_University_MZU]]** suggests that the **Kolasib** and **Mamit** districts contain thick layers of the *Bhuban* and *Barail* geological formations. These shale layers are rich in organic carbon, making them prime candidates for "Shale Gas" extraction.

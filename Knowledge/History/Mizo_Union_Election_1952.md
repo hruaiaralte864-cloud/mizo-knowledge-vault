@@ -1,6 +1,18 @@
+---
+title: The Historic 1952 Elections
+category: History
+tags:
+- history
+- politics
+language: mixed
+tokens: 91
+ai_ready: true
+completeness: medium
+---
+
 # The Historic 1952 Elections
 
-**Tags:** #history #politics
+
 
 The **1952 District Council Elections** were a watershed moment in Mizo history.
 

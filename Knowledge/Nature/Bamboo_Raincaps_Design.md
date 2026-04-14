@@ -1,6 +1,19 @@
+---
+title: 'Bamboo Raincaps (Lukhum): Design and Utility'
+category: Nature
+tags:
+- nature
+- handicraft
+- tradition
+language: mixed
+tokens: 262
+ai_ready: true
+completeness: high
+---
+
 # Bamboo Raincaps (Lukhum): Design and Utility
 
-**Tags:** #nature #handicraft #tradition
+
 
 The **Lukhum**, or traditional Mizo raincap, is a masterpiece of functional design, crafted from finely split bamboo and the broad leaves of the *Hnahthial* plant.
 

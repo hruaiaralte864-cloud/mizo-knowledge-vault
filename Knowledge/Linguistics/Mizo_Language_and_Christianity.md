@@ -1,6 +1,18 @@
+---
+title: The Impact of Christianity on Mizo Vocabulary
+category: Linguistics
+tags:
+- linguistics
+- religion
+language: mixed
+tokens: 48
+ai_ready: true
+completeness: medium
+---
+
 # The Impact of Christianity on Mizo Vocabulary
 
-**Tags:** #linguistics #religion
+
 
 How the Bible translation process necessitated the creation of new Mizo words for abstract concepts like 'Grace' (*Khawngaihna*), 'Holy' (*Thianghlim*), and 'Salvation' (*Chhandamna*).
 

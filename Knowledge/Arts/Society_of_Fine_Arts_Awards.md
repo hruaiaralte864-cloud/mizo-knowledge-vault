@@ -1,6 +1,19 @@
+---
+title: Society of Fine Arts (SFA) Awards
+category: Arts
+tags:
+- arts
+- awards
+- culture
+language: mixed
+tokens: 209
+ai_ready: true
+completeness: high
+---
+
 # Society of Fine Arts (SFA) Awards
 
-**Tags:** #arts #awards #culture
+
 
 The **Society of Fine Arts (SFA)** is the premier organization promoting visual arts in Mizoram. Its annual awards are highly coveted by local painters, sculptors, and digital artists.
 

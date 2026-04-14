@@ -1,6 +1,18 @@
+---
+title: Hla Phuah Thiam (The Art of Songwriting)
+category: Culture
+tags:
+- culture
+- arts
+language: mixed
+tokens: 61
+ai_ready: true
+completeness: medium
+---
+
 # Hla Phuah Thiam (The Art of Songwriting)
 
-**Tags:** #culture #arts
+
 
 In Mizo culture, the songwriter (*Hla phuah thiam*) is held in higher regard than the singer. To be a great songwriter requires a profound command of Mizo proverbs, nature imagery, and emotional depth.
 

@@ -1,6 +1,18 @@
+---
+title: Kolasib District
+category: Geography
+tags:
+- geography
+- district
+language: mixed
+tokens: 136
+ai_ready: true
+completeness: medium
+---
+
 # Kolasib District
 
-**Tags:** #geography #district
+
 
 **Kolasib** is a district in northern Mizoram, bordering Assam to the north.
 

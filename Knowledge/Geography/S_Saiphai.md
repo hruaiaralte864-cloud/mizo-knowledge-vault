@@ -1,6 +1,23 @@
+---
+title: S Saiphai
+category: Geography
+tags:
+- geography
+- village
+- Kolasib
+- KolasibDistrict
+- Mizoram
+- research
+- NorthernBorder
+language: mixed
+tokens: 122
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Village Node: S Saiphai
 
-**Tags:** #geography #village #Kolasib #KolasibDistrict #Mizoram #research #NorthernBorder
+
 
 ## 1. Administrative Location
 - **District**: [[KolasibDistrict]]

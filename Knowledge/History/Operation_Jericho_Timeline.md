@@ -1,6 +1,19 @@
+---
+title: "Operation Jericho \u2014 Hour by Hour"
+category: History
+tags:
+- history
+- military
+- insurgency
+language: mixed
+tokens: 249
+ai_ready: true
+completeness: high
+---
+
 # Operation Jericho — Hour by Hour
 
-**Tags:** #history #military #insurgency
+
 
 The night of **28 February 1966** was the most dramatic in post-independence Mizo history. The [[Mizo_National_Front|MNF]]'s "Operation Jericho" was a stunning, simultaneous, multi-point military offensive.
 

@@ -1,6 +1,23 @@
+---
+title: Mizoram Police HQ
+category: Institutions
+tags:
+- governance
+- education
+- medical
+- institutions
+- Mizoram
+- research
+- Aizawl
+language: mixed
+tokens: 166
+ai_ready: true
+completeness: high
+---
+
 ﻿# Institutional Node: Mizoram Police HQ
 
-**Tags:** #governance #education #medical #institutions #Mizoram #research #Aizawl
+
 
 ## 1. Statutory Classification
 - **Category**: Government

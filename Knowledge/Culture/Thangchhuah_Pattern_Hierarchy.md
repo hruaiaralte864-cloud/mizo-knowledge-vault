@@ -1,6 +1,23 @@
+---
+title: Thangchhuah Pattern Hierarchy
+category: Culture
+tags:
+- culture
+- fashion
+- textiles
+- weaving
+- Mizoram
+- research
+- Chemistry
+language: mixed
+tokens: 167
+ai_ready: true
+completeness: high
+---
+
 ﻿# Textile Node: Thangchhuah Pattern Hierarchy
 
-**Tags:** #culture #fashion #textiles #weaving #Mizoram #research #Chemistry
+
 
 ## 1. Technical Classification
 - **Category**: Pattern

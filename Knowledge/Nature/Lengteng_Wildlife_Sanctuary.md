@@ -1,6 +1,18 @@
+---
+title: Lengteng Wildlife Sanctuary
+category: Nature
+tags:
+- geography
+- wildlife
+language: mixed
+tokens: 50
+ai_ready: true
+completeness: low
+---
+
 # Lengteng Wildlife Sanctuary
 
-**Tags:** #geography #wildlife
+
 
 Located in the Saitual/Champhai region, this sanctuary protects the high-altitude broadleaf forests around the Lengteng peak. It is a vital area for the conservation of rare orchids and birds.
 

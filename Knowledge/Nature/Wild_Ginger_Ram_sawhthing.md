@@ -1,6 +1,18 @@
+---
+title: Wild Ginger (Ram sawhthing)
+category: Nature
+tags:
+- flora
+- medicine
+language: mixed
+tokens: 31
+ai_ready: true
+completeness: low
+---
+
 # Wild Ginger (Ram sawhthing)
 
-**Tags:** #flora #medicine
+
 
 A wild ginger variety used specifically in traditional steam-bath treatments for joint pain and rheumatism.
 

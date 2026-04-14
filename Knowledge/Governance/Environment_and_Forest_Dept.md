@@ -1,6 +1,19 @@
+---
+title: Environment, Forest and Climate Change Department
+category: Governance
+tags:
+- governance
+- nature
+- environment
+language: mixed
+tokens: 96
+ai_ready: true
+completeness: medium
+---
+
 # Environment, Forest and Climate Change Department
 
-**Tags:** #governance #nature #environment
+
 
 With over **88% of its land covered in forest**, the Environment and Forest Department is one of the most critical government bodies in Mizoram.
 

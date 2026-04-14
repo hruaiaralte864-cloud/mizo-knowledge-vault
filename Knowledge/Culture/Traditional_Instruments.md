@@ -1,6 +1,19 @@
+---
+title: Traditional Mizo Musical Instruments
+category: Culture
+tags:
+- culture
+- music
+- art
+language: mixed
+tokens: 149
+ai_ready: true
+completeness: medium
+---
+
 # Traditional Mizo Musical Instruments
 
-**Tags:** #culture #music #art
+
 
 Mizo music was traditionally rhythmic and vocal-focused, utilizing instruments made primarily from forest materials like bamboo, brass, and animal skins.
 

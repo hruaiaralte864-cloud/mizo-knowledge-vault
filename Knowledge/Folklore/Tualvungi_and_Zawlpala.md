@@ -1,6 +1,18 @@
+---
+title: "Tualvungi and Zawlpala \u2014 The Great Mizo Romance"
+category: Folklore
+tags:
+- folklore
+- romance
+language: mixed
+tokens: 240
+ai_ready: true
+completeness: high
+---
+
 # Tualvungi and Zawlpala — The Great Mizo Romance
 
-**Tags:** #folklore #romance
+
 
 The love story of **Tualvungi** and **Zawlpala** is the definitive great romance of Mizo literary culture — carrying the same cultural weight as Romeo and Juliet.
 

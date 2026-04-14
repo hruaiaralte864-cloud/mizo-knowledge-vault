@@ -1,6 +1,23 @@
+---
+title: Laltheri
+category: Biographies
+tags:
+- history
+- biography
+- leader
+- Pasaltha
+- culture
+- Mizoram
+- research
+language: mixed
+tokens: 120
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Biography: Laltheri
 
-**Tags:** #history #biography #leader #Pasaltha #culture #Mizoram #research
+
 
 ## 1. Profile Summary
 - **Name**: Laltheri

@@ -1,6 +1,18 @@
+---
+title: Literacy and Education in Mizoram
+category: Society
+tags:
+- society
+- education
+language: mixed
+tokens: 170
+ai_ready: true
+completeness: medium
+---
+
 # Literacy and Education in Mizoram
 
-**Tags:** #society #education
+
 
 Mizoram is one of the most literate states in India, with a **literacy rate of approximately 91%** (2011 census) — third highest in the country after Kerala and Lakshadweep.
 

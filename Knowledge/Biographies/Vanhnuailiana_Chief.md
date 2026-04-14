@@ -1,6 +1,19 @@
+---
+title: Vanhnuailiana (Lushai Chief)
+category: Biographies
+tags:
+- biography
+- history
+- chief
+language: mixed
+tokens: 145
+ai_ready: true
+completeness: medium
+---
+
 # Vanhnuailiana (Lushai Chief)
 
-**Tags:** #biography #history #chief
+
 
 **Vanhnuailiana** (reigned mid-19th century) was one of the most powerful and influential chiefs of the Lusei people during the pre-colonial era.
 

@@ -1,6 +1,19 @@
+---
+title: Ngotekherh
+category: Culture
+tags:
+- culture
+- textile
+- art
+language: mixed
+tokens: 123
+ai_ready: true
+completeness: medium
+---
+
 # Ngotekherh
 
-**Tags:** #culture #textile #art
+
 
 **Ngotekherh** is a classic Mizo Puan, easily recognized by its elegant black and white pattern.
 

@@ -1,6 +1,23 @@
+---
+title: Bru Displacement Crisis
+category: History
+tags:
+- politics
+- history
+- independence
+- Mizoram
+- research
+- Diplomacy
+- MNF
+language: mixed
+tokens: 169
+ai_ready: true
+completeness: high
+---
+
 ﻿# Political Node: Bru Displacement Crisis
 
-**Tags:** #politics #history #independence #Mizoram #research #Diplomacy #MNF
+
 
 ## 1. Historical Classification
 - **Category**: Humanitarian

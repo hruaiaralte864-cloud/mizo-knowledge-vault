@@ -1,6 +1,23 @@
+---
+title: Statehood Day Mizoram
+category: History
+tags:
+- politics
+- history
+- independence
+- Mizoram
+- research
+- Diplomacy
+- MNF
+language: mixed
+tokens: 174
+ai_ready: true
+completeness: high
+---
+
 ﻿# Political Node: Statehood Day Mizoram
 
-**Tags:** #politics #history #independence #Mizoram #research #Diplomacy #MNF
+
 
 ## 1. Historical Classification
 - **Category**: Commemoration

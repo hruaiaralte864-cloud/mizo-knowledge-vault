@@ -1,6 +1,23 @@
+---
+title: Dar-khuang Sacred Gong
+category: Culture
+tags:
+- culture
+- music
+- instruments
+- songs
+- Mizoram
+- research
+- Acoustics
+language: mixed
+tokens: 157
+ai_ready: true
+completeness: high
+---
+
 ﻿# Musical Node: Dar-khuang Sacred Gong
 
-**Tags:** #culture #music #instruments #songs #Mizoram #research #Acoustics
+
 
 ## 1. Technical Classification
 - **Category**: Percussion

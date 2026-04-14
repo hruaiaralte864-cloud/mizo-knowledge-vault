@@ -1,6 +1,19 @@
+---
+title: Nengpui River
+category: Geography
+tags:
+- geography
+- nature
+- waterways
+language: mixed
+tokens: 218
+ai_ready: true
+completeness: high
+---
+
 # Nengpui River
 
-**Tags:** #geography #nature #waterways
+
 
 The **Nengpui River** is an important waterway in southern Mizoram, primarily flowing through the Lawngtlai and Saiha districts. It is a vital resource for the local Chakma and Mizo communities living along its banks.
 

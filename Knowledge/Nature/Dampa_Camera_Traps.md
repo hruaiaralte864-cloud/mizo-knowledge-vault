@@ -1,6 +1,18 @@
+---
+title: Camera Trap Success in Dampa
+category: Nature
+tags:
+- wildlife
+- modern
+language: mixed
+tokens: 33
+ai_ready: true
+completeness: low
+---
+
 # Camera Trap Success in Dampa
 
-**Tags:** #wildlife #modern
+
 
 Detailing the recent sightings of Tigers, Leopards, and Marbled Cats in Dampa through modern motion-sensor cameras.
 

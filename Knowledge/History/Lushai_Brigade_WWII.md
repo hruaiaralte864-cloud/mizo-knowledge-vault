@@ -1,6 +1,20 @@
+---
+title: 'The Lushai Brigade: WWII in the Hills'
+category: History
+tags:
+- history
+- war
+- military
+- WWII
+language: mixed
+tokens: 296
+ai_ready: true
+completeness: high
+---
+
 # The Lushai Brigade: WWII in the Hills
 
-**Tags:** #history #war #military #WWII
+
 
 The **Lushai Brigade** was an ad-hoc, mobile infantry formation of the British Indian Army raised in 1944. It played a critical, though often overlooked, role in protecting the southern flank of the Allied forces during the Battle of Imphal and the wider Burma Campaign.
 

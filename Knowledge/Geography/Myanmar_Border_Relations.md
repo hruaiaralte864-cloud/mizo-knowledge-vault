@@ -1,6 +1,19 @@
+---
+title: "Mizoram\u2013Myanmar Border Relations"
+category: Geography
+tags:
+- geography
+- politics
+- diaspora
+language: mixed
+tokens: 200
+ai_ready: true
+completeness: high
+---
+
 # Mizoram–Myanmar Border Relations
 
-**Tags:** #geography #politics #diaspora
+
 
 Mizoram shares a **510 km international border with Myanmar (Burma)**, the longest India-Myanmar border of any Indian state.
 

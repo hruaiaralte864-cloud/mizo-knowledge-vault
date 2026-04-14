@@ -1,6 +1,18 @@
+---
+title: Orchids of Mizoram
+category: Nature
+tags:
+- nature
+- flora
+language: mixed
+tokens: 110
+ai_ready: true
+completeness: medium
+---
+
 # Orchids of Mizoram
 
-**Tags:** #nature #flora
+
 
 Mizoram is home to over **300 species of orchids**, many of which are rare and endemic to the state's high-altitude forests.
 

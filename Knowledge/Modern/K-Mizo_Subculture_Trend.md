@@ -1,6 +1,20 @@
+---
+title: 'K-Mizo: The "Hallyu" Wave in the Hills'
+category: Modern
+tags:
+- modern
+- culture
+- youth
+- subculture
+language: mixed
+tokens: 231
+ai_ready: true
+completeness: high
+---
+
 # K-Mizo: The "Hallyu" Wave in the Hills
 
-**Tags:** #modern #culture #youth #subculture
+
 
 The **"Korean Wave" (Hallyu)** has a disproportionately powerful influence in Mizoram compared to the rest of India. This has given rise to a distinctive **K-Mizo** subculture that reshapes youth identity and consumer behavior.
 

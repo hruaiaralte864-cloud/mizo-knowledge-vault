@@ -1,6 +1,25 @@
+---
+title: Emerald Dove
+category: Nature
+tags:
+- science
+- nature
+- wildlife
+- ecology
+- Mizoram
+- Chalcophaps
+- indica.Replace('
+- '''_'')'
+- research
+language: mixed
+tokens: 135
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Species Profile: Emerald Dove
 
-**Tags:** #science #nature #wildlife #ecology #Mizoram #Chalcophaps indica.Replace(' ', '_') #research
+
 
 ## 1. Biological Classification
 - **Common Name**: Emerald Dove

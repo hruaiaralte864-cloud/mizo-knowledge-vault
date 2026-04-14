@@ -1,6 +1,23 @@
+---
+title: Meihle-te Ginger Flower
+category: Culture
+tags:
+- culture
+- cuisine
+- culinary
+- food
+- Mizoram
+- research
+- Nutrition
+language: mixed
+tokens: 167
+ai_ready: true
+completeness: high
+---
+
 ﻿# Culinary Node: Meihle-te Ginger Flower
 
-**Tags:** #culture #cuisine #culinary #food #Mizoram #research #Nutrition
+
 
 ## 1. Gastronomic Profile
 - **Category**: Spice/Vegetable

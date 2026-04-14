@@ -1,6 +1,19 @@
+---
+title: Khuang Rhythms and Traditional Notation
+category: Culture
+tags:
+- culture
+- music
+- percussion
+language: mixed
+tokens: 267
+ai_ready: true
+completeness: high
+---
+
 # Khuang Rhythms and Traditional Notation
 
-**Tags:** #culture #music #percussion
+
 
 The **[[Khuang]]** (Mizo drum) is the heartbeat of Mizo communal life. Understanding its rhythmic patterns is essential to grasping the structure of Mizo folk dances and church hymns.
 

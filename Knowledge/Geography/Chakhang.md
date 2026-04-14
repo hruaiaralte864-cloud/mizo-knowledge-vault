@@ -1,6 +1,22 @@
+---
+title: Chakhang
+category: Geography
+tags:
+- geography
+- village
+- Siaha
+- SiahaDistrict
+- Mizoram
+- research
+language: mixed
+tokens: 110
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Village Node: Chakhang
 
-**Tags:** #geography #village #Siaha #SiahaDistrict #Mizoram #research
+
 
 ## 1. Administrative Location
 - **District**: [[SiahaDistrict]]

@@ -1,6 +1,22 @@
+---
+title: Tuipang
+category: Geography
+tags:
+- geography
+- village
+- Siaha
+- SiahaDistrict
+- Mizoram
+- research
+language: mixed
+tokens: 111
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Village Node: Tuipang
 
-**Tags:** #geography #village #Siaha #SiahaDistrict #Mizoram #research
+
 
 ## 1. Administrative Location
 - **District**: [[SiahaDistrict]]

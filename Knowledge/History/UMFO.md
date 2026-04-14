@@ -1,6 +1,18 @@
+---
+title: United Mizo Freedom Organisation (UMFO)
+category: History
+tags:
+- history
+- politics
+language: mixed
+tokens: 159
+ai_ready: true
+completeness: medium
+---
+
 # United Mizo Freedom Organisation (UMFO)
 
-**Tags:** #history #politics
+
 
 The **United Mizo Freedom Organisation (UMFO)** was a major political rival to the [[Mizo_Union]] in the late 1940s.
 

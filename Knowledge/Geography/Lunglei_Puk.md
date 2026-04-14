@@ -1,6 +1,19 @@
+---
+title: Lunglei Puk (Lunglei Cave)
+category: Geography
+tags:
+- geography
+- culture
+- cave
+language: mixed
+tokens: 227
+ai_ready: true
+completeness: high
+---
+
 # Lunglei Puk (Lunglei Cave)
 
-**Tags:** #geography #culture #cave
+
 
 **Lunglei Puk** is one of the most significant natural caves in the **[[Lunglei_District]]**, known for its geological complexity and its role in the oral history of southern Mizoram.
 

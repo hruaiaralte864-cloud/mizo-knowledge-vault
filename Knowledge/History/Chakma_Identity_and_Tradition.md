@@ -1,6 +1,20 @@
+---
+title: The Chakma Identity and Tradition
+category: History
+tags:
+- history
+- culture
+- chakma
+- buddhism
+language: mixed
+tokens: 232
+ai_ready: true
+completeness: high
+---
+
 # The Chakma Identity and Tradition
 
-**Tags:** #history #culture #chakma #buddhism
+
 
 The **Chakma people** of Mizoram represent a unique cultural and religious enclave within the state. Primarily practitioners of Theravada Buddhism, they mainly inhabit the southwestern corner of Mizoram in the **[[Mamit_District]]** and parts of Lawngtlai.
 

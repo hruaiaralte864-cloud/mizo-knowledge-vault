@@ -1,6 +1,19 @@
+---
+title: Assam Rifles in Mizoram
+category: Governance
+tags:
+- governance
+- military
+- history
+language: mixed
+tokens: 139
+ai_ready: true
+completeness: medium
+---
+
 # Assam Rifles in Mizoram
 
-**Tags:** #governance #military #history
+
 
 The **Assam Rifles** (known as the 'Sentinels of the Northeast') have a long and complex history in Mizoram.
 

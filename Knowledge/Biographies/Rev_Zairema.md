@@ -1,6 +1,19 @@
+---
+title: Rev. Zairema
+category: Biographies
+tags:
+- biography
+- religion
+- intellectual
+language: mixed
+tokens: 123
+ai_ready: true
+completeness: medium
+---
+
 # Rev. Zairema
 
-**Tags:** #biography #religion #intellectual
+
 
 **Rev. Zairema** (1917–2008) was one of the greatest Mizo intellectuals and church leaders of the 20th century.
 

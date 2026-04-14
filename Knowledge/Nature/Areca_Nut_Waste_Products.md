@@ -1,6 +1,18 @@
+---
+title: Utilization of Areca Nut Waste
+category: Nature
+tags:
+- economy
+- environment
+language: mixed
+tokens: 37
+ai_ready: true
+completeness: low
+---
+
 # Utilization of Areca Nut Waste
 
-**Tags:** #economy #environment
+
 
 New initiatives in Mamit for using areca nut husks and leaves to produce biodegradable plates and packaging.
 

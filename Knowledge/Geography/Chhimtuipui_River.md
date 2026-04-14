@@ -1,6 +1,19 @@
+---
+title: Chhimtuipui (Kaladan River)
+category: Geography
+tags:
+- geography
+- nature
+- border
+language: mixed
+tokens: 130
+ai_ready: true
+completeness: medium
+---
+
 # Chhimtuipui (Kaladan River)
 
-**Tags:** #geography #nature #border
+
 
 The **Chhimtuipui** is the largest river in Mizoram. In English, it is known as the **Kaladan**.
 

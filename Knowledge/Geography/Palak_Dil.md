@@ -1,6 +1,19 @@
+---
+title: Palak Dil (Palak Lake)
+category: Geography
+tags:
+- geography
+- nature
+- mara
+language: mixed
+tokens: 109
+ai_ready: true
+completeness: medium
+---
+
 # Palak Dil (Palak Lake)
 
-**Tags:** #geography #nature #mara
+
 
 **Palak Dil** is the largest natural lake in Mizoram, situated in the Siaha district.
 

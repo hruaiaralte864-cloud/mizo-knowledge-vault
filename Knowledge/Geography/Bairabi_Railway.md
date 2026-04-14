@@ -1,6 +1,23 @@
+---
+title: Bairabi Railway
+category: Geography
+tags:
+- geography
+- village
+- Kolasib
+- KolasibDistrict
+- Mizoram
+- research
+- NorthernBorder
+language: mixed
+tokens: 122
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Village Node: Bairabi Railway
 
-**Tags:** #geography #village #Kolasib #KolasibDistrict #Mizoram #research #NorthernBorder
+
 
 ## 1. Administrative Location
 - **District**: [[KolasibDistrict]]

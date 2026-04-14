@@ -1,6 +1,19 @@
+---
+title: The Bru (Reang) Refugee Crisis
+category: Society
+tags:
+- society
+- politics
+- displacement
+language: mixed
+tokens: 195
+ai_ready: true
+completeness: high
+---
+
 # The Bru (Reang) Refugee Crisis
 
-**Tags:** #society #politics #displacement
+
 
 The **Bru** (also known as Reang) are an indigenous tribal group from northern Mizoram who were displaced during ethnic violence in 1997. Following riots that erupted after a Bru militant group carried out an attack on Mizo nationalists, the Bru community — approximately 35,000 people — fled across the border into relief camps in Tripura.
 

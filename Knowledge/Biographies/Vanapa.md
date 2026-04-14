@@ -1,6 +1,23 @@
+---
+title: Vanapa
+category: Biographies
+tags:
+- history
+- biography
+- leader
+- Pasaltha
+- culture
+- Mizoram
+- research
+language: mixed
+tokens: 110
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Biography: Vanapa
 
-**Tags:** #history #biography #leader #Pasaltha #culture #Mizoram #research
+
 
 ## 1. Profile Summary
 - **Name**: Vanapa

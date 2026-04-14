@@ -1,8 +1,14 @@
 ---
-title: The Mizo Diaspora & Global Connections
-tags: [society, history, migration]
-status: permanent
-created: 2026-04-14
+title: 'The Mizo Diaspora: A Global Identity'
+category: Society
+tags:
+- society
+- history
+- migration
+language: mixed
+tokens: 341
+ai_ready: true
+completeness: high
 ---
 
 # The Mizo Diaspora: A Global Identity

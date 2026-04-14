@@ -1,6 +1,22 @@
+---
+title: Vanchuang Origins
+category: History
+tags:
+- genealogy
+- clan
+- history
+- Vanchuang
+- Zohnahthlak
+- research
+language: mixed
+tokens: 141
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Clan Node: Vanchuang Origins
 
-**Tags:** #genealogy #clan #history #Vanchuang #Zohnahthlak #research
+
 
 ## 1. Lineage Classification
 - **Primary Group**: Vanchuang

@@ -1,6 +1,19 @@
+---
+title: Melocanna baccifera (Mautak)
+category: Nature
+tags:
+- flora
+- bamboo
+- nature
+language: mixed
+tokens: 65
+ai_ready: true
+completeness: medium
+---
+
 # Melocanna baccifera (Mautak)
 
-**Tags:** #flora #bamboo #nature
+
 
 The most common bamboo species in Mizoram, covering over 30% of the state's geographical area. It is central to the **[[Mautam_Famine_Cycle]]** cycle.
 

@@ -1,6 +1,19 @@
+---
+title: 'Brigadier T. Sailo: International Human Rights Advocacy'
+category: Biographies
+tags:
+- biography
+- governance
+- human_rights
+language: mixed
+tokens: 284
+ai_ready: true
+completeness: high
+---
+
 # Brigadier T. Sailo: International Human Rights Advocacy
 
-**Tags:** #biography #governance #human_rights
+
 
 **Brigadier T. Sailo** was a pioneer in the defense of human rights in Mizoram during the height of the **[[Mizo_Insurgency_Movement]]**. His military background allowed him to speak with authority and courage against the excesses committed during the counter-insurgency operations.
 

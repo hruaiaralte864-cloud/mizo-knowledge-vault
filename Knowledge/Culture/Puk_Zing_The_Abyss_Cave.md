@@ -1,6 +1,23 @@
+---
+title: Puk Zing The Abyss Cave
+category: Culture
+tags:
+- culture
+- mythology
+- folklore
+- legends
+- Mizoram
+- research
+- Spirituality
+language: mixed
+tokens: 200
+ai_ready: true
+completeness: high
+---
+
 ﻿# Mythology Node: Puk Zing The Abyss Cave
 
-**Tags:** #culture #mythology #folklore #legends #Mizoram #research #Spirituality
+
 
 ## 1. Narrative Classification
 - **Category**: Geographical Legend

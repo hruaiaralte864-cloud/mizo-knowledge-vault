@@ -1,6 +1,19 @@
+---
+title: "Sinlung \u2014 The Origin Myth"
+category: History
+tags:
+- history
+- mizo
+- origins
+language: mixed
+tokens: 126
+ai_ready: true
+completeness: medium
+---
+
 # Sinlung — The Origin Myth
 
-**Tags:** #history #mizo #origins
+
 
 The ancestral homeland of the Mizo people is known as **Sinlung** (also spelled *Chhinlung*). It is believed to have been a cave, a walled city, or a mythological enclosure somewhere deep in the Mongolian steppe or Sichuan province of southwestern China, possibly near modern Yunnan.
 

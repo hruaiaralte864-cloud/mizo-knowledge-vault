@@ -1,6 +1,19 @@
+---
+title: Zoram People's Movement (ZPM)
+category: History
+tags:
+- history
+- politics
+- modern
+language: mixed
+tokens: 176
+ai_ready: true
+completeness: medium
+---
+
 # Zoram People's Movement (ZPM)
 
-**Tags:** #history #politics #modern
+
 
 The **Zoram People's Movement (ZPM)** is the newest major political force in Mizoram, formed in **2017** as a merger of several civic organisations and political groups.
 

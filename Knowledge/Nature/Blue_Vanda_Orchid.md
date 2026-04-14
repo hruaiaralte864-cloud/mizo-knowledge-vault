@@ -1,8 +1,21 @@
+---
+title: Blue Vanda (Vanda coerulea)
+category: Nature
+tags:
+- flora
+- orchid
+- nature
+language: mixed
+tokens: 128
+ai_ready: true
+completeness: medium
+---
+
 # Blue Vanda (Vanda coerulea)
 
 **Mizo Name:** Nauban
 
-**Tags:** #flora #orchid #nature
+
 
 The **Blue Vanda** is one of the most iconic and rare orchids found in the wild forests of Mizoram.
 

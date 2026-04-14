@@ -1,6 +1,22 @@
+---
+title: Hlim hna
+category: Nature
+tags:
+- science
+- nature
+- botany
+- medicine
+- HnimHna
+- research
+language: mixed
+tokens: 117
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Ethnobotany: Hlim hna
 
-**Tags:** #science #nature #botany #medicine #HnimHna #research
+
 
 ## 1. Botanical Identity
 - **Mizo Name**: Hlim hna

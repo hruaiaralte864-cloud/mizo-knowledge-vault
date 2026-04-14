@@ -1,6 +1,19 @@
+---
+title: The Presbyterian Church of Mizoram (PCM)
+category: Religion
+tags:
+- religion
+- society
+- institution
+language: mixed
+tokens: 204
+ai_ready: true
+completeness: high
+---
+
 # The Presbyterian Church of Mizoram (PCM)
 
-**Tags:** #religion #society #institution
+
 
 The **Presbyterian Church of Mizoram (PCM)**, officially the Synod of the Presbyterian Church of India in Mizoram, is the largest and most powerful religious institution in the state.
 

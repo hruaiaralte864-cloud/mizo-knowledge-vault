@@ -1,6 +1,19 @@
+---
+title: Mizo Adoption Customs (Saphun)
+category: Society
+tags:
+- society
+- law
+- culture
+language: mixed
+tokens: 123
+ai_ready: true
+completeness: medium
+---
+
 # Mizo Adoption Customs (Saphun)
 
-**Tags:** #society #law #culture
+
 
 Traditional Mizo society had a unique form of adoption called **Saphun**.
 

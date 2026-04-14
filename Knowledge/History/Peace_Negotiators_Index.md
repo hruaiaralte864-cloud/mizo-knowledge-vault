@@ -1,6 +1,23 @@
+---
+title: Peace Negotiators Index
+category: History
+tags:
+- politics
+- history
+- independence
+- Mizoram
+- research
+- Diplomacy
+- MNF
+language: mixed
+tokens: 174
+ai_ready: true
+completeness: high
+---
+
 ﻿# Political Node: Peace Negotiators Index
 
-**Tags:** #politics #history #independence #Mizoram #research #Diplomacy #MNF
+
 
 ## 1. Historical Classification
 - **Category**: History

@@ -1,6 +1,19 @@
+---
+title: 'James Dokhuma: The Literary Giant'
+category: Biographies
+tags:
+- biography
+- literature
+- padma_shri
+language: mizo
+tokens: 249
+ai_ready: true
+completeness: high
+---
+
 # James Dokhuma: The Literary Giant
 
-**Tags:** #biography #literature #padma_shri
+
 
 **James Dokhuma** (1932–2007) was a towering figure in Mizo literature and social history. A Padma Shri awardee, his works are considered essential reading for anyone seeking to understand the Mizo soul and the turbulence of the 20th century.
 

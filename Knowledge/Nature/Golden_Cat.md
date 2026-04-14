@@ -1,6 +1,25 @@
+---
+title: Golden Cat
+category: Nature
+tags:
+- science
+- nature
+- wildlife
+- ecology
+- Mizoram
+- Catopuma
+- temminckii.Replace('
+- '''_'')'
+- research
+language: mixed
+tokens: 139
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Species Profile: Asiatic Golden Cat
 
-**Tags:** #science #nature #wildlife #ecology #Mizoram #Catopuma temminckii.Replace(' ', '_') #research
+
 
 ## 1. Biological Classification
 - **Common Name**: Asiatic Golden Cat

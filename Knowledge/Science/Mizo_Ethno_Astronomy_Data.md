@@ -1,8 +1,31 @@
+---
+title: 'Mizo Ethno-Astronomy: Constellations and Navigation'
+category: Science
+tags:
+- science
+- astronomy
+- navigation
+- culture
+- folklore
+- research
+- This
+- node
+- archives
+- the
+- traditional
+- Mizo
+- knowledge
+- celestial
+- sphere
+language: mixed
+tokens: 400
+ai_ready: true
+completeness: high
+---
+
 # Mizo Ethno-Astronomy: Constellations and Navigation
 
-**Tags:** #science #astronomy #navigation #culture #folklore #research
-
-This node archives the traditional Mizo knowledge of the celestial sphere, documenting how ancient tribes utilized the stars for time-keeping, agriculture, and mountain navigation.
+, documenting how ancient tribes utilized the stars for time-keeping, agriculture, and mountain navigation.
 
 ## 1. Mizo Constellations (Arsi Rual)
 The Mizo identified specific star clusters to represent terrestrial objects and myths.

@@ -1,6 +1,19 @@
+---
+title: 'Clan History: The Hualngo Lineage'
+category: History
+tags:
+- history
+- lineage
+- clan
+language: mixed
+tokens: 239
+ai_ready: true
+completeness: high
+---
+
 # Clan History: The Hualngo Lineage
 
-**Tags:** #history #lineage #clan
+
 
 The **Hualngo** are one of the most historically significant clans within the Mizo-Chin group, known for their distinct dialect and their strategic settlements along the Tiau River.
 

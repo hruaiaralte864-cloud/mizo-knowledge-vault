@@ -1,6 +1,19 @@
+---
+title: Mizoram Tourism Development Authority (MTDA)
+category: Institutions
+tags:
+- institutions
+- tourism
+- economy
+language: mixed
+tokens: 213
+ai_ready: true
+completeness: high
+---
+
 # Mizoram Tourism Development Authority (MTDA)
 
-**Tags:** #institutions #tourism #economy
+
 
 The **Mizoram Tourism Development Authority (MTDA)** is the nodal agency responsible for positioning Mizoram as a premium "sustainable tourism" destination in Northeast India.
 

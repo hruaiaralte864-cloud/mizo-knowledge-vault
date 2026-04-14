@@ -1,6 +1,24 @@
+---
+title: Aizawl IT Park
+category: Economy
+tags:
+- economy
+- tech
+- startups
+- innovation
+- Mizoram
+- research
+- Aizawl
+- '2026'
+language: mixed
+tokens: 163
+ai_ready: true
+completeness: high
+---
+
 ﻿# Economy Node: Aizawl IT Park
 
-**Tags:** #economy #tech #startups #innovation #Mizoram #research #Aizawl #2026
+
 
 ## 1. Sectoral Classification
 - **Category**: Infrastructure

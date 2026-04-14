@@ -1,8 +1,42 @@
+---
+title: Traditional Mizo Metallurgy and Gunpowder Chemistry
+category: Science
+tags:
+- science
+- metallurgy
+- chemistry
+- engineering
+- weapons
+- history
+- research
+- This
+- node
+- archives
+- the
+- technical
+- Mizo
+- weaponry
+- and
+- chemical
+- synthesis
+- explosive
+- compounds
+- used
+- by
+- hill
+- tribes
+- 18th
+- 19th
+- centuries
+language: mixed
+tokens: 419
+ai_ready: true
+completeness: high
+---
+
 # Traditional Mizo Metallurgy and Gunpowder Chemistry
 
-**Tags:** #science #metallurgy #chemistry #engineering #weapons #history #research
-
-This node archives the technical engineering of Mizo weaponry and the chemical synthesis of explosive compounds used by hill tribes in the 18th and 19th centuries.
+.
 
 ## 1. The "Kawlbawm" (Mizo Flintlock) Engineering
 The Mizo flintlock rifle, though inspired by British designs, was locally manufactured with specific modifications for mountain terrain.

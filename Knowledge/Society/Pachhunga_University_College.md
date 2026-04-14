@@ -1,6 +1,19 @@
+---
+title: Pachhunga University College (PUC)
+category: Society
+tags:
+- society
+- education
+- history
+language: mixed
+tokens: 131
+ai_ready: true
+completeness: medium
+---
+
 # Pachhunga University College (PUC)
 
-**Tags:** #society #education #history
+
 
 **Pachhunga University College (PUC)**, established in **1958**, is the oldest and most prestigious college in Mizoram.
 

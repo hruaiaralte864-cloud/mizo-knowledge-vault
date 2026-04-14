@@ -1,6 +1,18 @@
+---
+title: The Institutional Legacy of Lalsanga
+category: Biographies
+tags:
+- society
+- history
+language: mixed
+tokens: 41
+ai_ready: true
+completeness: low
+---
+
 # The Institutional Legacy of Lalsanga
 
-**Tags:** #society #history
+
 
 How Lalsanga's vision for the YMA transformed it from a small social group into the most powerful NGO in Mizoram.
 

@@ -1,6 +1,23 @@
+---
+title: Inheritance Law Mizo
+category: History
+tags:
+- law
+- justice
+- customary
+- Mizoram
+- research
+- Governance
+- History
+language: mixed
+tokens: 184
+ai_ready: true
+completeness: high
+---
+
 ﻿# Legal Node: Inheritance Law Mizo
 
-**Tags:** #law #justice #customary #Mizoram #research #Governance #History
+
 
 ## 1. Jurisprudential Classification
 - **Category**: Family Law

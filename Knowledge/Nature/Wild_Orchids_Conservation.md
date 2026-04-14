@@ -1,6 +1,18 @@
+---
+title: Conservation of Wild Orchids
+category: Nature
+tags:
+- nature
+- governance
+language: mixed
+tokens: 42
+ai_ready: true
+completeness: low
+---
+
 # Conservation of Wild Orchids
 
-**Tags:** #nature #governance
+
 
 Detailing the efforts by NGOs and the Forest Department to map and protect the 300+ species of wild orchids found in Mizoram.
 

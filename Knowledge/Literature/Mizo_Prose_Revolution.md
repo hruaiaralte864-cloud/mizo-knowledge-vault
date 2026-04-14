@@ -1,6 +1,19 @@
+---
+title: The Mizo Prose Revolution
+category: Literature
+tags:
+- literature
+- modern
+- journalism
+language: mixed
+tokens: 208
+ai_ready: true
+completeness: high
+---
+
 # The Mizo Prose Revolution
 
-**Tags:** #literature #modern #journalism
+
 
 The transition from purely "Spiritual" missionary writing to "Modern Mizo Prose" is a 100-year revolution that has created one of the highest literacy rates in India.
 

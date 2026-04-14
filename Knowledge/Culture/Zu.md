@@ -1,6 +1,19 @@
+---
+title: "Zu \u2014 Traditional Rice Beer"
+category: Culture
+tags:
+- culture
+- food
+- tradition
+language: mixed
+tokens: 148
+ai_ready: true
+completeness: medium
+---
+
 # Zu — Traditional Rice Beer
 
-**Tags:** #culture #food #tradition
+
 
 **Zu** is the traditional fermented rice or maize beer of the Mizo people. Brewed domestically for generations, it was consumed during all [[Kut_Festivals_Overview|Kut festivals]], at the [[Zawlbuk]], and offered to guests as the highest expression of hospitality.
 

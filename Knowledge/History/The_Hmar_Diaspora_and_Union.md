@@ -1,6 +1,20 @@
+---
+title: 'The Hmar Identity: Diaspora and Cultural Union'
+category: History
+tags:
+- history
+- culture
+- hmar
+- lineage
+language: mixed
+tokens: 230
+ai_ready: true
+completeness: high
+---
+
 # The Hmar Identity: Diaspora and Cultural Union
 
-**Tags:** #history #culture #hmar #lineage
+
 
 The **Hmar people** are one of the most geographically spread-out groups of the **[[Zohnahthlak]]** family, with significant populations in Mizoram, Manipur, Assam, and Meghalaya.
 

@@ -1,6 +1,23 @@
+---
+title: Hre-pui Excommunication
+category: History
+tags:
+- law
+- justice
+- customary
+- Mizoram
+- research
+- Governance
+- History
+language: mixed
+tokens: 183
+ai_ready: true
+completeness: high
+---
+
 ﻿# Legal Node: Hre-pui Excommunication
 
-**Tags:** #law #justice #customary #Mizoram #research #Governance #History
+
 
 ## 1. Jurisprudential Classification
 - **Category**: Criminal Law

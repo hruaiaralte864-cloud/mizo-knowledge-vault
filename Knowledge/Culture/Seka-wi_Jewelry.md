@@ -1,6 +1,24 @@
+---
+title: Seka-wi Jewelry
+category: Culture
+tags:
+- culture
+- arts
+- crafts
+- weaving
+- Puan
+- basketry
+- Mizoram
+- research
+language: mixed
+tokens: 161
+ai_ready: true
+completeness: high
+---
+
 ﻿# Arts & Crafts Node: Seka-wi Jewelry
 
-**Tags:** #culture #arts #crafts #weaving #Puan #basketry #Mizoram #research
+
 
 ## 1. Technical Classification
 - **Category**: Jewelry

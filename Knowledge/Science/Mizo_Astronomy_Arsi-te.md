@@ -1,8 +1,28 @@
+---
+title: 'Mizo Astronomy: Arsi-te (The Stars)'
+category: Science
+tags:
+- science
+- tradition
+- astronomy
+- The
+- ancient
+- Mizos
+- had
+- sophisticated
+- understanding
+- the
+- night
+- sky
+language: mixed
+tokens: 262
+ai_ready: true
+completeness: high
+---
+
 # Mizo Astronomy: Arsi-te (The Stars)
 
-**Tags:** #science #tradition #astronomy
-
-The ancient Mizos had a sophisticated understanding of the night sky, using the movement of stars, or **Arsi-te**, to regulate their agrarian lifestyle and navigate the dense mountain jungles.
+, using the movement of stars, or **Arsi-te**, to regulate their agrarian lifestyle and navigate the dense mountain jungles.
 
 ## Key Constellations and Stars
 - **Zatla-ersi**: Traditionally interpreted as the "Morning Star," its rising indicated the time to prepare for the day's **[[Jhum_Cultivation]]**.

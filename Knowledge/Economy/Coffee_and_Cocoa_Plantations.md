@@ -1,6 +1,24 @@
+---
+title: Coffee and Cocoa Plantations
+category: Economy
+tags:
+- economy
+- tech
+- startups
+- innovation
+- Mizoram
+- research
+- Aizawl
+- '2026'
+language: mixed
+tokens: 165
+ai_ready: true
+completeness: high
+---
+
 ﻿# Economy Node: Coffee and Cocoa Plantations
 
-**Tags:** #economy #tech #startups #innovation #Mizoram #research #Aizawl #2026
+
 
 ## 1. Sectoral Classification
 - **Category**: Agriculture

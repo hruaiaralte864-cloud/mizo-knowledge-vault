@@ -1,6 +1,19 @@
+---
+title: "Village Grouping \u2014 Khawkhawm"
+category: History
+tags:
+- history
+- insurgency
+- human_rights
+language: mixed
+tokens: 148
+ai_ready: true
+completeness: medium
+---
+
 # Village Grouping — Khawkhawm
 
-**Tags:** #history #insurgency #human_rights
+
 
 The **Village Grouping** programme (Mizo: *Khawkhawm* — "huddled villages") was the Indian military's primary counter-insurgency strategy during the [[MNF_Uprising_1966]].
 

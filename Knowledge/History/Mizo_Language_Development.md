@@ -1,6 +1,18 @@
+---
+title: Mizo Language Development
+category: History
+tags:
+- history
+- language
+language: mixed
+tokens: 94
+ai_ready: true
+completeness: medium
+---
+
 # Mizo Language Development
 
-**Tags:** #history #language
+
 
 The **Mizo language** has transitioned from an oral dialect cluster to a standardized, vibrant literary language in less than 150 years.
 

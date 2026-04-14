@@ -1,6 +1,23 @@
+---
+title: Hlai Dialect Origins
+category: Linguistics
+tags:
+- linguistics
+- language
+- grammar
+- Mizo
+- research
+- Informatics
+- NLP
+language: mixed
+tokens: 172
+ai_ready: true
+completeness: high
+---
+
 ﻿# Linguistic Node: Hlai Dialect Origins
 
-**Tags:** #linguistics #language #grammar #Mizo #research #Informatics #NLP
+
 
 ## 1. Technical Classification
 - **Category**: Dialect

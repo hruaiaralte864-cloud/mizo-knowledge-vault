@@ -1,6 +1,23 @@
+---
+title: Insaihmuh
+category: Culture
+tags:
+- culture
+- sports
+- games
+- fitness
+- Mizoram
+- research
+- PhysicalEducation
+language: mixed
+tokens: 176
+ai_ready: true
+completeness: high
+---
+
 ﻿# Traditional Game: Insaihmuh
 
-**Tags:** #culture #sports #games #fitness #Mizoram #research #PhysicalEducation
+
 
 ## 1. Game Classification
 - **Category**: Physical Exercise

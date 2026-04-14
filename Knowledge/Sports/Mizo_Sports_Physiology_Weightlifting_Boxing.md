@@ -1,6 +1,19 @@
+---
+title: 'Mizo Sports Physiology: The Hill-Climb Advantage'
+category: Sports
+tags:
+- sports
+- science
+- physiology
+language: mixed
+tokens: 224
+ai_ready: true
+completeness: high
+---
+
 # Mizo Sports Physiology: The Hill-Climb Advantage
 
-**Tags:** #sports #science #physiology
+
 
 Mizoram is a national powerhouse in weightlifting and boxing. This is not accidental; it is rooted in a combination of geography and specific physical adaptations.
 

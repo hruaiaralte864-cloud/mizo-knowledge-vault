@@ -1,6 +1,19 @@
+---
+title: Dampa Tiger Reserve
+category: Nature
+tags:
+- geography
+- wildlife
+- conservation
+language: mixed
+tokens: 79
+ai_ready: true
+completeness: medium
+---
+
 # Dampa Tiger Reserve
 
-**Tags:** #geography #wildlife #conservation
+
 
 **Dampa** is the largest wildlife sanctuary in Mizoram, located in the Mamit district bordering Bangladesh.
 

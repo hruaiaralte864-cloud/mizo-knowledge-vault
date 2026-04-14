@@ -1,6 +1,20 @@
+---
+title: 'Lengpui Airport: Table-Top Engineering'
+category: Geography
+tags:
+- geography
+- engineering
+- infrastructure
+- aviation
+language: mixed
+tokens: 191
+ai_ready: true
+completeness: high
+---
+
 # Lengpui Airport: Table-Top Engineering
 
-**Tags:** #geography #engineering #infrastructure #aviation
+
 
 **[[Lengpui_Airport]]** is unique as India's first large airport to be built in the hills of the Northeast on a "Table-Top" runway.
 

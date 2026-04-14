@@ -1,6 +1,24 @@
+---
+title: Zoram Techno Park
+category: Economy
+tags:
+- economy
+- tech
+- startups
+- innovation
+- Mizoram
+- research
+- Aizawl
+- '2026'
+language: mixed
+tokens: 162
+ai_ready: true
+completeness: high
+---
+
 ﻿# Economy Node: Zoram Techno Park
 
-**Tags:** #economy #tech #startups #innovation #Mizoram #research #Aizawl #2026
+
 
 ## 1. Sectoral Classification
 - **Category**: Tech

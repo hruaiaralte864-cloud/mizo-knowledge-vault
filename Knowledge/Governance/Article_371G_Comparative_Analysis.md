@@ -1,6 +1,21 @@
+---
+title: 'Article 371G: Geopolitical and Comparative Analysis'
+category: Governance
+tags:
+- governance
+- law
+- constitution
+- 371G
+- policy
+language: mixed
+tokens: 426
+ai_ready: true
+completeness: high
+---
+
 # Article 371G: Geopolitical and Comparative Analysis
 
-**Tags:** #governance #law #constitution #371G #policy
+
 
 Article 371G is the unique constitutional mechanism that preserves the "Sovereignty of Mizo Culture" within the Indian Union. This node provides research-grade data on its comparative legal status and its real-world impact on secular law vs. customary practice.
 

@@ -1,6 +1,23 @@
+---
+title: Social Security Schemes Mizoram
+category: Society
+tags:
+- society
+- health
+- education
+- welfare
+- Mizoram
+- research
+- NGO
+language: mixed
+tokens: 174
+ai_ready: true
+completeness: high
+---
+
 ﻿# Society Node: Social Security Schemes Mizoram
 
-**Tags:** #society #health #education #welfare #Mizoram #research #NGO
+
 
 ## 1. Domain Classification
 - **Category**: Government

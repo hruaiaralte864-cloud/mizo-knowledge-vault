@@ -1,6 +1,23 @@
+---
+title: Lake Palak Ecosystem
+category: Environment
+tags:
+- environment
+- ecology
+- flora
+- fauna
+- Mizoram
+- research
+- Conservation
+language: mixed
+tokens: 165
+ai_ready: true
+completeness: high
+---
+
 ﻿# Environmental Node: Lake Palak Ecosystem
 
-**Tags:** #environment #ecology #flora #fauna #Mizoram #research #Conservation
+
 
 ## 1. Ecological Classification
 - **Category**: Environment

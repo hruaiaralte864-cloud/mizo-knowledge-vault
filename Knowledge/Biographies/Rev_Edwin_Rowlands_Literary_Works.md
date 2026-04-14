@@ -1,6 +1,18 @@
+---
+title: Literary Legacy of Rev. Edwin Rowlands
+category: Biographies
+tags:
+- literature
+- education
+language: mixed
+tokens: 32
+ai_ready: true
+completeness: low
+---
+
 # Literary Legacy of Rev. Edwin Rowlands
 
-**Tags:** #literature #education
+
 
 A review of the early Mizo primers and grammars compiled by 'Zosapthara'.
 

@@ -1,6 +1,25 @@
+---
+title: Mizo Skink
+category: Nature
+tags:
+- science
+- nature
+- wildlife
+- ecology
+- Mizoram
+- Eutropis
+- mizon.Replace('
+- '''_'')'
+- research
+language: mixed
+tokens: 135
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Species Profile: Mizoram Skink
 
-**Tags:** #science #nature #wildlife #ecology #Mizoram #Eutropis mizon.Replace(' ', '_') #research
+
 
 ## 1. Biological Classification
 - **Common Name**: Mizoram Skink

@@ -1,6 +1,23 @@
+---
+title: SCERT Mizoram Role
+category: Society
+tags:
+- society
+- health
+- education
+- welfare
+- Mizoram
+- research
+- NGO
+language: mixed
+tokens: 174
+ai_ready: true
+completeness: high
+---
+
 ﻿# Society Node: SCERT Mizoram Role
 
-**Tags:** #society #health #education #welfare #Mizoram #research #NGO
+
 
 ## 1. Domain Classification
 - **Category**: Education

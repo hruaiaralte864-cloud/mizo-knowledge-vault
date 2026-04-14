@@ -1,6 +1,23 @@
+---
+title: Thadou Dialect Kuki
+category: Linguistics
+tags:
+- linguistics
+- dialect
+- Thadou
+- Northern
+- Border
+- MizoLanguage
+- research
+language: mixed
+tokens: 140
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Linguistic Node: Thadou Dialect Kuki
 
-**Tags:** #linguistics #dialect #Thadou #Northern Border #MizoLanguage #research
+
 
 ## 1. Taxonomic Classification
 - **Primary Group**: [[ThadouLanguage]]

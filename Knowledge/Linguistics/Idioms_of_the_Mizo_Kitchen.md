@@ -1,6 +1,18 @@
+---
+title: Idioms of the Mizo Kitchen
+category: Linguistics
+tags:
+- linguistics
+- cuisine
+language: mixed
+tokens: 32
+ai_ready: true
+completeness: low
+---
+
 # Idioms of the Mizo Kitchen
 
-**Tags:** #linguistics #cuisine
+
 
 Exploring the linguistic influence of the central fireplace (*Tapchah*) on Mizo social idioms.
 

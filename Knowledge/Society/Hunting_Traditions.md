@@ -1,8 +1,14 @@
 ---
-title: Mizo Hunting Traditions & Forest Ethics
-tags: [culture, society, nature]
-status: permanent
-created: 2026-04-14
+title: 'Mizo Hunting Traditions: The Pu-Vua Logic'
+category: Society
+tags:
+- culture
+- society
+- nature
+language: mixed
+tokens: 356
+ai_ready: true
+completeness: high
 ---
 
 # Mizo Hunting Traditions: The Pu-Vua Logic

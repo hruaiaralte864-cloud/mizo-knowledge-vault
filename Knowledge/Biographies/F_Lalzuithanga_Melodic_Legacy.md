@@ -1,6 +1,19 @@
+---
+title: 'F. Lalzuithanga: The Voice of a Generation'
+category: Biographies
+tags:
+- biography
+- arts
+- music
+language: mixed
+tokens: 222
+ai_ready: true
+completeness: high
+---
+
 # F. Lalzuithanga: The Voice of a Generation
 
-**Tags:** #biography #arts #music
+
 
 **F. Lalzuithanga** is a legendary Mizo singer and songwriter whose voice defined the "Golden Era" of Mizo radio and live performances in the late 20th century.
 

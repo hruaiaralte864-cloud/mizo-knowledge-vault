@@ -1,6 +1,20 @@
+---
+title: 'Constitutional Protection: Article 371G'
+category: History
+tags:
+- governance
+- law
+- constitutional
+- history
+language: mixed
+tokens: 296
+ai_ready: true
+completeness: high
+---
+
 # Constitutional Protection: Article 371G
 
-**Tags:** #governance #law #constitutional #history
+
 
 **Article 371G** of the Constitution of India is the cornerstone of the state's legal relationship with the Union. Inserted via the 53rd Constitutional Amendment in 1986, it provides unique safeguards that are fundamental to the **[[Mizo_Peace_Accord_1986]]**.
 

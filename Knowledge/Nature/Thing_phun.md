@@ -1,6 +1,22 @@
+---
+title: Thing phun
+category: Nature
+tags:
+- science
+- nature
+- botany
+- medicine
+- HnimHna
+- research
+language: mixed
+tokens: 117
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Ethnobotany: Thing phun
 
-**Tags:** #science #nature #botany #medicine #HnimHna #research
+
 
 ## 1. Botanical Identity
 - **Mizo Name**: Thing phun

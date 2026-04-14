@@ -1,6 +1,19 @@
+---
+title: The 1966 Aizawl Airstrike (Operation Red Horn)
+category: History
+tags:
+- history
+- war
+- incident
+language: mixed
+tokens: 327
+ai_ready: true
+completeness: high
+---
+
 # The 1966 Aizawl Airstrike (Operation Red Horn)
 
-**Tags:** #history #war #incident
+
 
 The **1966 Aizawl Airstrike** remains the only time the Indian Air Force has used fighter jets against its own civilian population within its domestic territory. It was the climax of the **[[MNF_Uprising_1966]]**.
 

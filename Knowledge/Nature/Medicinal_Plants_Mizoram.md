@@ -1,6 +1,19 @@
+---
+title: Medicinal Plants of Mizoram (Ethnobotany)
+category: Nature
+tags:
+- nature
+- health
+- knowledge
+language: mixed
+tokens: 84
+ai_ready: true
+completeness: medium
+---
+
 # Medicinal Plants of Mizoram (Ethnobotany)
 
-**Tags:** #nature #health #knowledge
+
 
 Mizo traditional medicine relied heavily on the vast biodiversity of the hills.
 

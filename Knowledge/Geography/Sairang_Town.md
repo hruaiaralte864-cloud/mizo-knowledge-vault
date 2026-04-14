@@ -1,6 +1,19 @@
+---
+title: Sairang Town
+category: Geography
+tags:
+- geography
+- transport
+- history
+language: mixed
+tokens: 127
+ai_ready: true
+completeness: medium
+---
+
 # Sairang Town
 
-**Tags:** #geography #transport #history
+
 
 **Sairang** is a vital transit town located on the banks of the **[[Tlawng_River]]**, about 20km from Aizawl.
 

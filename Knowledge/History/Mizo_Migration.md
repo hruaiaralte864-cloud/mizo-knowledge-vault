@@ -1,6 +1,18 @@
+---
+title: The Great Mizo Migration
+category: History
+tags:
+- history
+- migration
+language: mixed
+tokens: 127
+ai_ready: true
+completeness: medium
+---
+
 # The Great Mizo Migration
 
-**Tags:** #history #migration
+
 
 Following the exodus from [[Sinlung_Origin_Myth|Sinlung]], the Mizo ancestors migrated southward over centuries, passing through the Kabaw Valley and the Chin Hills of modern-day Myanmar. They crossed the Tiau River and entered the densely forested hills they came to call **Zoram** (Land of the Zo people) between approximately the 15th and 18th centuries CE.
 

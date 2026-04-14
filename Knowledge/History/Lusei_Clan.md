@@ -1,6 +1,19 @@
+---
+title: Lusei Clan
+category: History
+tags:
+- history
+- clan
+- society
+language: mizo
+tokens: 234
+ai_ready: true
+completeness: high
+---
+
 # Lusei Clan
 
-**Tags:** #history #clan #society
+
 
 The **Lusei** (or *Lushai*) is the dominant clan of the Mizo people. They were historically the most powerful and influential group, and their dialect (*Lusei ṭawng*) became the basis for the modern standardised Mizo language.
 

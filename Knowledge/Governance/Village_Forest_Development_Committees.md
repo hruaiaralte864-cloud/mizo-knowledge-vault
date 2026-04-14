@@ -1,6 +1,18 @@
+---
+title: Village Forest Development Committees (VFDC)
+category: Governance
+tags:
+- governance
+- environment
+language: mixed
+tokens: 36
+ai_ready: true
+completeness: low
+---
+
 # Village Forest Development Committees (VFDC)
 
-**Tags:** #governance #environment
+
 
 Grassroots committees that manage the 'Village Supply Forests' and ensure sustainable harvesting of bamboo and timber.
 

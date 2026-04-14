@@ -1,6 +1,19 @@
+---
+title: Pangzawl Village
+category: Geography
+tags:
+- geography
+- village
+- history
+language: mixed
+tokens: 88
+ai_ready: true
+completeness: medium
+---
+
 # Pangzawl Village
 
-**Tags:** #geography #village #history
+
 
 **Pangzawl** is a large village in the Lunglei district, famously associated with the tragedy of the **[[Lianchhiari_Legend|Lianchhiari]]** and **Chawngfianga** love story.
 

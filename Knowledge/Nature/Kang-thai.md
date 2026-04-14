@@ -1,6 +1,23 @@
+---
+title: Kang-thai
+category: Nature
+tags:
+- science
+- nature
+- botany
+- medicine
+- HnimHna
+- research
+- Pharmacopoeia
+language: mixed
+tokens: 117
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Ethnobotany: Kang thai
 
-**Tags:** #science #nature #botany #medicine #HnimHna #research #Pharmacopoeia
+
 
 ## 1. Botanical Identity
 - **Mizo Name**: Kang thai

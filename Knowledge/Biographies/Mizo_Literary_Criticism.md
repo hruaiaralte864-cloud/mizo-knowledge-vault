@@ -1,6 +1,18 @@
+---
+title: Mizo Literary Criticism and Scholarship
+category: Biographies
+tags:
+- literature
+- academic
+language: mixed
+tokens: 42
+ai_ready: true
+completeness: low
+---
+
 # Mizo Literary Criticism and Scholarship
 
-**Tags:** #literature #academic
+
 
 The evolution of how Mizo writers evaluate and study their own literature, with focus on the role of the Mizo Academy of Letters.
 

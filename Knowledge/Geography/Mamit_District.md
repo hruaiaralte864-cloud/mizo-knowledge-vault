@@ -1,6 +1,18 @@
+---
+title: Mamit District
+category: Geography
+tags:
+- geography
+- district
+language: mixed
+tokens: 139
+ai_ready: true
+completeness: medium
+---
+
 # Mamit District
 
-**Tags:** #geography #district
+
 
 **Mamit** is a district in northwestern Mizoram bordering both Assam to the north and Bangladesh to the west. It is one of the least densely populated districts in the state, dominated by dense forest and the [[Dampa_Tiger_Reserve]].
 

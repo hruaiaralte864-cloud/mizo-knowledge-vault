@@ -1,6 +1,23 @@
+---
+title: Lung-li-hna
+category: Nature
+tags:
+- science
+- nature
+- botany
+- medicine
+- HnimHna
+- research
+- Pharmacopoeia
+language: mixed
+tokens: 120
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Ethnobotany: Lung li hna
 
-**Tags:** #science #nature #botany #medicine #HnimHna #research #Pharmacopoeia
+
 
 ## 1. Botanical Identity
 - **Mizo Name**: Lung li hna

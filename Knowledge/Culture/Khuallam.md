@@ -1,6 +1,18 @@
+---
+title: Khuallam (Dance of the Guests)
+category: Culture
+tags:
+- culture
+- dance
+language: mixed
+tokens: 81
+ai_ready: true
+completeness: medium
+---
+
 # Khuallam (Dance of the Guests)
 
-**Tags:** #culture #dance
+
 
 **Khuallam** is a traditional Mizo dance performed during the entry of guests into a village or during inter-community festivals.
 

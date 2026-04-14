@@ -1,6 +1,23 @@
+---
+title: Zawlnuam
+category: Geography
+tags:
+- geography
+- village
+- Mamit
+- MamitDistrict
+- Mizoram
+- research
+- NorthernBorder
+language: mixed
+tokens: 119
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Village Node: Zawlnuam
 
-**Tags:** #geography #village #Mamit #MamitDistrict #Mizoram #research #NorthernBorder
+
 
 ## 1. Administrative Location
 - **District**: [[MamitDistrict]]

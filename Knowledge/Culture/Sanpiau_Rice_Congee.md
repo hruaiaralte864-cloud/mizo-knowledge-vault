@@ -1,6 +1,23 @@
+---
+title: Sanpiau Rice Congee
+category: Culture
+tags:
+- culture
+- cuisine
+- culinary
+- food
+- Mizoram
+- research
+- Nutrition
+language: mixed
+tokens: 170
+ai_ready: true
+completeness: high
+---
+
 ﻿# Culinary Node: Sanpiau Rice Congee
 
-**Tags:** #culture #cuisine #culinary #food #Mizoram #research #Nutrition
+
 
 ## 1. Gastronomic Profile
 - **Category**: Snack

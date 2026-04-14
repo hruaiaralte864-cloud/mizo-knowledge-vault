@@ -1,6 +1,23 @@
+---
+title: Vanglaini News
+category: Institutions
+tags:
+- governance
+- education
+- medical
+- institutions
+- Mizoram
+- research
+- Aizawl
+language: mixed
+tokens: 163
+ai_ready: true
+completeness: high
+---
+
 ﻿# Institutional Node: Vanglaini News
 
-**Tags:** #governance #education #medical #institutions #Mizoram #research #Aizawl
+
 
 ## 1. Statutory Classification
 - **Category**: Media

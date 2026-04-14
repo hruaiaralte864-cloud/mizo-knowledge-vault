@@ -1,6 +1,23 @@
+---
+title: Street Murals of Aizawl
+category: Culture
+tags:
+- arts
+- media
+- film
+- music
+- Mizoram
+- research
+- DigitalCulture
+language: mixed
+tokens: 170
+ai_ready: true
+completeness: high
+---
+
 ﻿# Arts & Media Node: Street Murals of Aizawl
 
-**Tags:** #arts #media #film #music #Mizoram #research #DigitalCulture
+
 
 ## 1. Creative Classification
 - **Category**: Public Art

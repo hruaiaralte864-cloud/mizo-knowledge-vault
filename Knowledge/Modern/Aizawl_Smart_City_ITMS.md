@@ -1,6 +1,20 @@
+---
+title: 'Aizawl Smart City: ITMS and Vertical Solutions'
+category: Modern
+tags:
+- modern
+- urban
+- tech
+- smart_city
+language: mixed
+tokens: 230
+ai_ready: true
+completeness: high
+---
+
 # Aizawl Smart City: ITMS and Vertical Solutions
 
-**Tags:** #modern #urban #tech #smart_city
+
 
 The **Aizawl Smart City** project is a multi-billion rupee initiative to revitalize the capital city using digital infrastructure and high-tech urban design.
 

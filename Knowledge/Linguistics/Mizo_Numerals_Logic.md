@@ -1,6 +1,23 @@
+---
+title: Mizo Numerals Logic
+category: Linguistics
+tags:
+- linguistics
+- language
+- grammar
+- Mizo
+- research
+- Informatics
+- NLP
+language: mixed
+tokens: 175
+ai_ready: true
+completeness: high
+---
+
 ﻿# Linguistic Node: Mizo Numerals Logic
 
-**Tags:** #linguistics #language #grammar #Mizo #research #Informatics #NLP
+
 
 ## 1. Technical Classification
 - **Category**: Mathematics

@@ -1,6 +1,18 @@
+---
+title: "Zite \u2014 The Mizo Dragon"
+category: Folklore
+tags:
+- folklore
+- mythology
+language: mixed
+tokens: 191
+ai_ready: true
+completeness: medium
+---
+
 # Zite — The Mizo Dragon
 
-**Tags:** #folklore #mythology
+
 
 **Zite** is the mythological serpent-dragon of Mizo folklore — a massive, supernatural serpent endowed with magical powers. Unlike the Western dragon, Zite is not inherently evil but is deeply dangerous and unpredictable.
 

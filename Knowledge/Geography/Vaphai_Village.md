@@ -1,6 +1,19 @@
+---
+title: Vaphai Village
+category: Geography
+tags:
+- geography
+- village
+- history
+language: mixed
+tokens: 96
+ai_ready: true
+completeness: medium
+---
+
 # Vaphai Village
 
-**Tags:** #geography #village #history
+
 
 **Vaphai** is a historical village located in the Champhai district, very close to the Myanmar border.
 

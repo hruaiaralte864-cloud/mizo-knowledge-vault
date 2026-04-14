@@ -1,6 +1,20 @@
+---
+title: Mizo Soldiers in the French Foreign Legion
+category: History
+tags:
+- history
+- military
+- military_service
+- global
+language: mixed
+tokens: 219
+ai_ready: true
+completeness: high
+---
+
 # Mizo Soldiers in the French Foreign Legion
 
-**Tags:** #history #military #military_service #global
+
 
 Mizoram has a unique, though niche, history of its youth serving in the **French Foreign Legion** (Légion Étrangère). This reflects the historical Mizo "Adventurer Spirit" and highly regarded physical discipline.
 

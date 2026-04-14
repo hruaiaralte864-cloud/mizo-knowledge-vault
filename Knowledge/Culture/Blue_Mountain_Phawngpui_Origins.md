@@ -1,6 +1,23 @@
+---
+title: Blue Mountain Phawngpui Origins
+category: Culture
+tags:
+- culture
+- mythology
+- folklore
+- legends
+- Mizoram
+- research
+- Spirituality
+language: mixed
+tokens: 193
+ai_ready: true
+completeness: high
+---
+
 ﻿# Mythology Node: Blue Mountain Phawngpui Origins
 
-**Tags:** #culture #mythology #folklore #legends #Mizoram #research #Spirituality
+
 
 ## 1. Narrative Classification
 - **Category**: Mythology

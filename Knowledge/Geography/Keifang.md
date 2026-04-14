@@ -1,6 +1,23 @@
+---
+title: Keifang
+category: Geography
+tags:
+- geography
+- village
+- Saitual
+- SaitualDistrict
+- Mizoram
+- research
+- AizawlRegion
+language: mixed
+tokens: 114
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Village Node: Keifang
 
-**Tags:** #geography #village #Saitual #SaitualDistrict #Mizoram #research #AizawlRegion
+
 
 ## 1. Administrative Location
 - **District**: [[SaitualDistrict]]

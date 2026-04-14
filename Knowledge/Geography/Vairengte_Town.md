@@ -1,6 +1,23 @@
+---
+title: Vairengte Town
+category: Geography
+tags:
+- geography
+- township
+- Kolasib
+- KolasibDistrict
+- Mizoram
+- research
+- UrbanPlanning
+language: mixed
+tokens: 137
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Township Node: Vairengte Town
 
-**Tags:** #geography #township #Kolasib #KolasibDistrict #Mizoram #research #UrbanPlanning
+
 
 ## 1. Administrative Location
 - **District**: [[KolasibDistrict]]

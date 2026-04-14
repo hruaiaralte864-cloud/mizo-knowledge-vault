@@ -1,6 +1,18 @@
+---
+title: Serchhip District
+category: Geography
+tags:
+- geography
+- district
+language: mixed
+tokens: 148
+ai_ready: true
+completeness: medium
+---
+
 # Serchhip District
 
-**Tags:** #geography #district
+
 
 **Serchhip** is a small but culturally significant district in central Mizoram, notable for having the **highest literacy rate** among all districts in the state — and by extension, one of the highest in India at over **98%**.
 

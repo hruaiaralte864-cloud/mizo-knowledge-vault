@@ -1,6 +1,18 @@
+---
+title: Mizoram University (MZU)
+category: Society
+tags:
+- society
+- education
+language: mixed
+tokens: 120
+ai_ready: true
+completeness: medium
+---
+
 # Mizoram University (MZU)
 
-**Tags:** #society #education
+
 
 **Mizoram University (MZU)** is a central university established by an Act of Parliament in **2001**.
 

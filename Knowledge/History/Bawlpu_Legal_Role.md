@@ -1,6 +1,23 @@
+---
+title: Bawlpu Legal Role
+category: History
+tags:
+- law
+- justice
+- customary
+- Mizoram
+- research
+- Governance
+- History
+language: mixed
+tokens: 183
+ai_ready: true
+completeness: high
+---
+
 ﻿# Legal Node: Bawlpu Legal Role
 
-**Tags:** #law #justice #customary #Mizoram #research #Governance #History
+
 
 ## 1. Jurisprudential Classification
 - **Category**: Judicial

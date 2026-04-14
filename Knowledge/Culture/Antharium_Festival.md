@@ -1,6 +1,19 @@
+---
+title: Anthurium Festival
+category: Culture
+tags:
+- culture
+- festival
+- modern
+language: mixed
+tokens: 83
+ai_ready: true
+completeness: medium
+---
+
 # Anthurium Festival
 
-**Tags:** #culture #festival #modern
+
 
 The **Anthurium Festival** is a modern state festival celebrated at the **Reiek Hills** near Aizawl.
 

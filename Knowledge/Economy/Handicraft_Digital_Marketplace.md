@@ -1,6 +1,24 @@
+---
+title: Handicraft Digital Marketplace
+category: Economy
+tags:
+- economy
+- tech
+- startups
+- innovation
+- Mizoram
+- research
+- Aizawl
+- '2026'
+language: mixed
+tokens: 159
+ai_ready: true
+completeness: high
+---
+
 ﻿# Economy Node: Handicraft Digital Marketplace
 
-**Tags:** #economy #tech #startups #innovation #Mizoram #research #Aizawl #2026
+
 
 ## 1. Sectoral Classification
 - **Category**: Tech/Trade

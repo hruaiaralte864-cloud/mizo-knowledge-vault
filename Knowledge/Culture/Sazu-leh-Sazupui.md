@@ -1,6 +1,23 @@
+---
+title: Sazu-leh-Sazupui
+category: Culture
+tags:
+- culture
+- sports
+- games
+- fitness
+- Mizoram
+- research
+- PhysicalEducation
+language: mizo
+tokens: 170
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Traditional Game: Sazu-leh-Sazupui
 
-**Tags:** #culture #sports #games #fitness #Mizoram #research #PhysicalEducation
+
 
 ## 1. Game Classification
 - **Category**: Social Game

@@ -1,6 +1,18 @@
+---
+title: 'Professional Ethics: Mizo Journalism'
+category: Media
+tags:
+- media
+- society
+language: mixed
+tokens: 31
+ai_ready: true
+completeness: low
+---
+
 # Professional Ethics: Mizo Journalism
 
-**Tags:** #media #society
+
 
 The internal rules of the Mizo Newspaper Association regarding sensitive social issues and political reporting.
 

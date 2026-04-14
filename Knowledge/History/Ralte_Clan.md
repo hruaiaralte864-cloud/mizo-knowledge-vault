@@ -1,6 +1,19 @@
+---
+title: Ralte Clan
+category: History
+tags:
+- history
+- clan
+- society
+language: mixed
+tokens: 208
+ai_ready: true
+completeness: high
+---
+
 # Ralte Clan
 
-**Tags:** #history #clan #society
+
 
 The **Ralte** are one of the most prominent Mizo clans, known historically for their distinct dialect, fierce independence, and a reputation for being vocal and energetic builders of community.
 

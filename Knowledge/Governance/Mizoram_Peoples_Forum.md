@@ -1,6 +1,19 @@
+---
+title: Mizoram Peoples Forum (MPF)
+category: Governance
+tags:
+- governance
+- politics
+- NGO
+language: mixed
+tokens: 75
+ai_ready: true
+completeness: medium
+---
+
 # Mizoram Peoples Forum (MPF)
 
-**Tags:** #governance #politics #NGO
+
 
 The **MPF** is a church-backed organization that plays a critical role in ensuring free and fair elections in Mizoram.
 

@@ -1,6 +1,19 @@
+---
+title: 'The Mizo Diaspora: Intellectual and Social Remittances'
+category: Society
+tags:
+- society
+- economy
+- diaspora
+language: mixed
+tokens: 234
+ai_ready: true
+completeness: high
+---
+
 # The Mizo Diaspora: Intellectual and Social Remittances
 
-**Tags:** #society #economy #diaspora
+
 
 The **Mizo Diaspora**, spread across the USA, UK, Israel, and Southeast Asia, is a critical engine for the state's modern development. Unlike many diasporas that only send money, the Mizo diaspora focuses on "Intellectual and Social Remittances."
 

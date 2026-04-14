@@ -1,6 +1,23 @@
+---
+title: Mizo Orthography History
+category: Linguistics
+tags:
+- linguistics
+- language
+- grammar
+- Mizo
+- research
+- Informatics
+- NLP
+language: mixed
+tokens: 178
+ai_ready: true
+completeness: high
+---
+
 ﻿# Linguistic Node: Mizo Orthography History
 
-**Tags:** #linguistics #language #grammar #Mizo #research #Informatics #NLP
+
 
 ## 1. Technical Classification
 - **Category**: Writing

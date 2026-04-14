@@ -1,6 +1,23 @@
+---
+title: Digital Mizo Corpus 2026
+category: Linguistics
+tags:
+- linguistics
+- language
+- grammar
+- Mizo
+- research
+- Informatics
+- NLP
+language: mixed
+tokens: 178
+ai_ready: true
+completeness: high
+---
+
 ﻿# Linguistic Node: Digital Mizo Corpus 2026
 
-**Tags:** #linguistics #language #grammar #Mizo #research #Informatics #NLP
+
 
 ## 1. Technical Classification
 - **Category**: Informatics

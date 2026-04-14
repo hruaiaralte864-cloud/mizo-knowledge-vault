@@ -1,6 +1,23 @@
+---
+title: Keichala The Tiger Slayer
+category: Culture
+tags:
+- culture
+- mythology
+- folklore
+- legends
+- Mizoram
+- research
+- Spirituality
+language: mixed
+tokens: 189
+ai_ready: true
+completeness: high
+---
+
 ﻿# Mythology Node: Keichala The Tiger Slayer
 
-**Tags:** #culture #mythology #folklore #legends #Mizoram #research #Spirituality
+
 
 ## 1. Narrative Classification
 - **Category**: Warrior Legend

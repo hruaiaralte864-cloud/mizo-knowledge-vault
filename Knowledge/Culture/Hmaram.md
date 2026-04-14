@@ -1,6 +1,19 @@
+---
+title: Hmaram
+category: Culture
+tags:
+- culture
+- textile
+- art
+language: mixed
+tokens: 79
+ai_ready: true
+completeness: medium
+---
+
 # Hmaram
 
-**Tags:** #culture #textile #art
+
 
 **Hmaram** is an ancient Mizo Puan design, primarily associated with the **[[Hmar_Clan]]**, but adopted widely across all Mizo groups.
 

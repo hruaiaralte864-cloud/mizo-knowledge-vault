@@ -1,6 +1,20 @@
+---
+title: 'Western Hoolock Gibbon: The Singing Ape of the Hills'
+category: Nature
+tags:
+- nature
+- biodiversity
+- wildlife
+- conservation
+language: mixed
+tokens: 235
+ai_ready: true
+completeness: high
+---
+
 # Western Hoolock Gibbon: The Singing Ape of the Hills
 
-**Tags:** #nature #biodiversity #wildlife #conservation
+
 
 The **Western Hoolock Gibbon** (*Hoolock hoolock*) is the only ape species found in India. Mizoram's dense forest canopies are one of its last, most critical strongholds.
 

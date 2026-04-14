@@ -1,6 +1,19 @@
+---
+title: Mizo Labour Corps (WWI)
+category: History
+tags:
+- history
+- military
+- WWI
+language: mixed
+tokens: 227
+ai_ready: true
+completeness: high
+---
+
 # Mizo Labour Corps (WWI)
 
-**Tags:** #history #military #WWI
+
 
 During World_War_I, in **1917**, approximately **2,100 Mizo men** were recruited into the **27th Lushai Labour Corps** to serve the British Empire in France.
 

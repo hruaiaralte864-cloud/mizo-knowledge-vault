@@ -1,8 +1,27 @@
+---
+title: 'Mizo Textile Science: Patterns and Dyes'
+category: Science
+tags:
+- science
+- textiles
+- culture
+- natural_dyes
+- Mizo
+- handloom
+- not
+- just
+- an
+- art
+- form
+language: mixed
+tokens: 236
+ai_ready: true
+completeness: high
+---
+
 # Mizo Textile Science: Patterns and Dyes
 
-**Tags:** #science #textiles #culture #natural_dyes
-
-Mizo handloom is not just an art form; it is a structural science involving the complex intersection of plant chemistry and loom mathematics.
+; it is a structural science involving the complex intersection of plant chemistry and loom mathematics.
 
 ## The Chemistry of "Ting" (Indigo)
 Traditionally, the "Mizo Black" and "Mizo Blue" found in the **[[Puandum]]** and **[[Puanchei]]** were obtained from the **Ting** (Indigofera) plant. The leaves were fermented in water with alkaline ash (*Chingal*) to reduce the indigo into a soluble form, which then oxidized into a permanent blue upon exposure to air—a classic "Vat Dyeing" process.

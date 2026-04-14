@@ -1,6 +1,18 @@
+---
+title: Traditional Rice Varieties
+category: Nature
+tags:
+- agriculture
+- flora
+language: mixed
+tokens: 46
+ai_ready: true
+completeness: low
+---
+
 # Traditional Rice Varieties
 
-**Tags:** #agriculture #flora
+
 
 Before modern seeds, Mizoram had dozens of local rice varieties (e.g., *Buhtlu*, *Tai*). These varieties were selected over generations for their pest resistance and unique taste.
 

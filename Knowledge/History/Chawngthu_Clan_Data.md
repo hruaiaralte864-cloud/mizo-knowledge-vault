@@ -1,6 +1,22 @@
+---
+title: Chawngthu Clan Data
+category: History
+tags:
+- genealogy
+- clan
+- history
+- Chawngthu
+- Zohnahthlak
+- research
+language: mixed
+tokens: 141
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Clan Node: Chawngthu Clan Data
 
-**Tags:** #genealogy #clan #history #Chawngthu #Zohnahthlak #research
+
 
 ## 1. Lineage Classification
 - **Primary Group**: Chawngthu

@@ -1,6 +1,19 @@
+---
+title: 'The Lote: Architecture of the Farm Hut'
+category: Geography
+tags:
+- geography
+- architecture
+- agriculture
+language: mixed
+tokens: 158
+ai_ready: true
+completeness: medium
+---
+
 # The Lote: Architecture of the Farm Hut
 
-**Tags:** #geography #architecture #agriculture
+
 
 The **Lote** is a seasonal farm hut located deep in the cultivation fields, serving as a secondary home for Mizo farmers during the intense *Jhum* season.
 

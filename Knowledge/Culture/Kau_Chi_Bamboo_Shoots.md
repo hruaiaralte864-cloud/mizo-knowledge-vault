@@ -1,6 +1,23 @@
+---
+title: Kau Chi Bamboo Shoots
+category: Culture
+tags:
+- culture
+- cuisine
+- culinary
+- food
+- Mizoram
+- research
+- Nutrition
+language: mixed
+tokens: 171
+ai_ready: true
+completeness: high
+---
+
 ﻿# Culinary Node: Kau Chi Bamboo Shoots
 
-**Tags:** #culture #cuisine #culinary #food #Mizoram #research #Nutrition
+
 
 ## 1. Gastronomic Profile
 - **Category**: Vegetable

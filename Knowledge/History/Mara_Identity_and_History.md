@@ -1,6 +1,20 @@
+---
+title: The Mara Identity and History
+category: History
+tags:
+- history
+- culture
+- mara
+- ethnic_diversity
+language: mixed
+tokens: 265
+ai_ready: true
+completeness: high
+---
+
 # The Mara Identity and History
 
-**Tags:** #history #culture #mara #ethnic_diversity
+
 
 The **Mara people** (traditionally referred to as Shendus by early British chroniclers) are one of the most distinct ethnic groups within the **[[Zohnahthlak]]** family. They primarily inhabit the southern-most part of Mizoram in the **[[Siaha_District]]**.
 

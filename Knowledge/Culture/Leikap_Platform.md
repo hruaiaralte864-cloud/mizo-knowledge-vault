@@ -1,6 +1,22 @@
+---
+title: Leikap Platform
+category: Culture
+tags:
+- engineering
+- architecture
+- construction
+- Mizoram
+- research
+- IndigenousTech
+language: mixed
+tokens: 166
+ai_ready: true
+completeness: high
+---
+
 ﻿# Architecture Node: Leikap Platform
 
-**Tags:** #engineering #architecture #construction #Mizoram #research #IndigenousTech
+
 
 ## 1. Technical Classification
 - **Category**: Domestic

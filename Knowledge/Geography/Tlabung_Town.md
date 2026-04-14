@@ -1,6 +1,19 @@
+---
+title: Tlabung (Demagiri) Town
+category: Geography
+tags:
+- geography
+- history
+- trade
+language: mixed
+tokens: 97
+ai_ready: true
+completeness: medium
+---
+
 # Tlabung (Demagiri) Town
 
-**Tags:** #geography #history #trade
+
 
 **Tlabung** is one of the most historically significant towns in western Mizoram.
 

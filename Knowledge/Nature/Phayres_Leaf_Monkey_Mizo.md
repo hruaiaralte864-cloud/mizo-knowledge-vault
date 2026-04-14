@@ -1,6 +1,20 @@
+---
+title: 'Phayre''s Leaf Monkey: The Spectacled Langur'
+category: Nature
+tags:
+- nature
+- biodiversity
+- wildlife
+- conservation
+language: mixed
+tokens: 217
+ai_ready: true
+completeness: high
+---
+
 # Phayre's Leaf Monkey: The Spectacled Langur
 
-**Tags:** #nature #biodiversity #wildlife #conservation
+
 
 The **Phayre's Leaf Monkey** (*Trachypithecus phayrei*), also known locally as the "Spectacled Langur" due to its distinct white eye-patches, is an endangered primate found in the deep valleys of Mizoram.
 

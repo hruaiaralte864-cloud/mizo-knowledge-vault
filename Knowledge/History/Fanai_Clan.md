@@ -1,6 +1,19 @@
+---
+title: Fanai Clan
+category: History
+tags:
+- history
+- clan
+- society
+language: mixed
+tokens: 109
+ai_ready: true
+completeness: medium
+---
+
 # Fanai Clan
 
-**Tags:** #history #clan #society
+
 
 The **Fanai** are a respected clan primarily found in the southern parts of Mizoram.
 

@@ -1,6 +1,18 @@
+---
+title: Debates on Linguistic Purity
+category: Linguistics
+tags:
+- linguistics
+- academic
+language: mixed
+tokens: 32
+ai_ready: true
+completeness: low
+---
+
 # Debates on Linguistic Purity
 
-**Tags:** #linguistics #academic
+
 
 The ongoing tensions between 'Traditionalists' and 'Modernists' regarding the influx of English loanwords in technical speech.
 

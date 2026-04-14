@@ -1,6 +1,18 @@
+---
+title: Ecology of Broom Grass Areas
+category: Nature
+tags:
+- nature
+- agriculture
+language: mixed
+tokens: 40
+ai_ready: true
+completeness: low
+---
+
 # Ecology of Broom Grass Areas
 
-**Tags:** #nature #agriculture
+
 
 How fields of Broom Grass act as secondary forests, providing cover for small mammals and birds in Jhum-affected areas.
 

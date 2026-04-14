@@ -1,6 +1,19 @@
+---
+title: Mizo Customary Law vs. Indian Penal Code (IPC)
+category: Governance
+tags:
+- governance
+- law
+- society
+language: mixed
+tokens: 263
+ai_ready: true
+completeness: high
+---
+
 # Mizo Customary Law vs. Indian Penal Code (IPC)
 
-**Tags:** #governance #law #society
+
 
 The coexistence of **Mizo Customary Law** and the **Indian Penal Code (IPC)** is a unique feature of the state’s legal system, protected under **[[Article_371G_Analysis]]**.
 

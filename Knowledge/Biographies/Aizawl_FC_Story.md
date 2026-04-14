@@ -1,6 +1,19 @@
+---
+title: "Aizawl FC \u2014 The Miracle Club"
+category: Biographies
+tags:
+- biography
+- sports
+- football
+language: mixed
+tokens: 188
+ai_ready: true
+completeness: high
+---
+
 # Aizawl FC — The Miracle Club
 
-**Tags:** #biography #sports #football
+
 
 **Aizawl FC** is a professional football club from [[Aizawl_District|Aizawl]] that achieved one of the most extraordinary upsets in Asian football history.
 

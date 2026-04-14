@@ -1,6 +1,23 @@
+---
+title: Khuang The Master Drum
+category: Culture
+tags:
+- culture
+- music
+- instruments
+- songs
+- Mizoram
+- research
+- Acoustics
+language: mixed
+tokens: 163
+ai_ready: true
+completeness: high
+---
+
 ﻿# Musical Node: Khuang The Master Drum
 
-**Tags:** #culture #music #instruments #songs #Mizoram #research #Acoustics
+
 
 ## 1. Technical Classification
 - **Category**: Percussion

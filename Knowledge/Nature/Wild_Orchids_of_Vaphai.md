@@ -1,6 +1,19 @@
+---
+title: Wild Orchids of Vaphai (Champhai District)
+category: Nature
+tags:
+- nature
+- biodiversity
+- conservation
+language: mixed
+tokens: 202
+ai_ready: true
+completeness: high
+---
+
 # Wild Orchids of Vaphai (Champhai District)
 
-**Tags:** #nature #biodiversity #conservation
+
 
 The region around **Vaphai village** in Champhai district is world-renowned for its incredible diversity of wild orchids. Due to its unique micro-climate and altitude, it serves as a natural sanctuary for several rare and endemic species.
 

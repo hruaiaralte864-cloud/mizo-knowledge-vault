@@ -1,6 +1,23 @@
+---
+title: Mizo Word Formation Compounding
+category: Linguistics
+tags:
+- linguistics
+- language
+- grammar
+- Mizo
+- research
+- Informatics
+- NLP
+language: mixed
+tokens: 172
+ai_ready: true
+completeness: high
+---
+
 ﻿# Linguistic Node: Mizo Word Formation Compounding
 
-**Tags:** #linguistics #language #grammar #Mizo #research #Informatics #NLP
+
 
 ## 1. Technical Classification
 - **Category**: Morphology

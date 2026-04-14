@@ -1,6 +1,18 @@
+---
+title: Saitual Township
+category: Geography
+tags:
+- geography
+- governance
+language: mixed
+tokens: 80
+ai_ready: true
+completeness: medium
+---
+
 # Saitual Township
 
-**Tags:** #geography #governance
+
 
 **Saitual** is the headquarters of the Saitual district. It is one of the most planned and well-laid-out towns in Mizoram.
 

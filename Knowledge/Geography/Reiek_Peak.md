@@ -1,6 +1,19 @@
+---
+title: Reiek Peak (Tlang)
+category: Geography
+tags:
+- geography
+- nature
+- tourism
+language: mixed
+tokens: 67
+ai_ready: true
+completeness: medium
+---
+
 # Reiek Peak (Tlang)
 
-**Tags:** #geography #nature #tourism
+
 
 **Reiek Peak** is a spectacular ridge providing a bird's-eye view of Aizawl and the surrounding valleys.
 

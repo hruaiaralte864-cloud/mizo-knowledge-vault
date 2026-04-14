@@ -1,6 +1,20 @@
+---
+title: 'The Tiddim Road: A Military Lifeline'
+category: History
+tags:
+- history
+- infrastructure
+- war
+- WWII
+language: mixed
+tokens: 256
+ai_ready: true
+completeness: high
+---
+
 # The Tiddim Road: A Military Lifeline
 
-**Tags:** #history #infrastructure #war #WWII
+
 
 The **Tiddim Road** (extending from Imphal into the Chin Hills and through the fringes of Mizoram) was one of the most strategically significant roads in Southeast Asia during World War II.
 

@@ -1,6 +1,18 @@
+---
+title: Mizo Medicinal Teas
+category: Nature
+tags:
+- medicine
+- cuisine
+language: english
+tokens: 29
+ai_ready: true
+completeness: low
+---
+
 # Mizo Medicinal Teas
 
-**Tags:** #medicine #cuisine
+
 
 A list of 5 essential herbal teas used for daily wellness in Mizo village life.
 

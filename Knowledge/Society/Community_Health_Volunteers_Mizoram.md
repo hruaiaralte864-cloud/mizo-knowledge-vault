@@ -1,6 +1,23 @@
+---
+title: Community Health Volunteers Mizoram
+category: Society
+tags:
+- society
+- health
+- education
+- welfare
+- Mizoram
+- research
+- NGO
+language: mixed
+tokens: 176
+ai_ready: true
+completeness: high
+---
+
 ﻿# Society Node: Community Health Volunteers Mizoram
 
-**Tags:** #society #health #education #welfare #Mizoram #research #NGO
+
 
 ## 1. Domain Classification
 - **Category**: Health

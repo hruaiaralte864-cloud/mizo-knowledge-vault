@@ -1,6 +1,19 @@
+---
+title: Flora of Mizoram
+category: Nature
+tags:
+- nature
+- botany
+- environment
+language: mixed
+tokens: 326
+ai_ready: true
+completeness: high
+---
+
 # Flora of Mizoram
 
-**Tags:** #nature #botany #environment
+
 
 Mizoram is classified as a **biodiversity hotspot** within the Indo-Burma region — one of the planet's 36 most ecologically critical zones. Its forests are among the most species-rich temperate-to-tropical transitional ecosystems in Asia.
 

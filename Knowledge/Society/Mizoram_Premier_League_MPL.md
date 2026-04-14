@@ -1,6 +1,19 @@
+---
+title: Mizoram Premier League (MPL)
+category: Society
+tags:
+- society
+- sport
+- modern
+language: mixed
+tokens: 98
+ai_ready: true
+completeness: medium
+---
+
 # Mizoram Premier League (MPL)
 
-**Tags:** #society #sport #modern
+
 
 The **Mizoram Premier League (MPL)** is the top-tier professional football league in Mizoram.
 

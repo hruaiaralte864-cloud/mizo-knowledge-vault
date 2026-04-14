@@ -1,6 +1,22 @@
+---
+title: Aralte Sub Clan
+category: History
+tags:
+- genealogy
+- clan
+- history
+- Aralte
+- Zohnahthlak
+- research
+language: mixed
+tokens: 144
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Clan Node: Aralte Sub Clan
 
-**Tags:** #genealogy #clan #history #Aralte #Zohnahthlak #research
+
 
 ## 1. Lineage Classification
 - **Primary Group**: Aralte

@@ -1,6 +1,19 @@
+---
+title: Kawrchei
+category: Culture
+tags:
+- culture
+- textile
+- art
+language: mixed
+tokens: 76
+ai_ready: true
+completeness: medium
+---
+
 # Kawrchei
 
-**Tags:** #culture #textile #art
+
 
 **Kawrchei** is the traditional blouse worn by Mizo women, specifically designed to match the **[[Puanchei]]**.
 

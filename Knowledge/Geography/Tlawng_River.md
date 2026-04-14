@@ -1,6 +1,18 @@
+---
+title: Tlawng River
+category: Geography
+tags:
+- geography
+- nature
+language: mixed
+tokens: 72
+ai_ready: true
+completeness: medium
+---
+
 # Tlawng River
 
-**Tags:** #geography #nature
+
 
 The **Tlawng River** is the longest river within the borders of Mizoram. It flows from south to north, passing close to Aizawl.
 

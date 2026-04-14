@@ -1,6 +1,19 @@
+---
+title: 'Mizoram State Archives: The Indo-Burma Files'
+category: Institutions
+tags:
+- institutions
+- history
+- research
+language: mixed
+tokens: 198
+ai_ready: true
+completeness: high
+---
+
 # Mizoram State Archives: The Indo-Burma Files
 
-**Tags:** #institutions #history #research
+
 
 The **Mizoram State Archives** in Aizawl holds one of the most important collections of colonial and post-colonial records in Northeast India, specifically the "Indo-Burma Files."
 

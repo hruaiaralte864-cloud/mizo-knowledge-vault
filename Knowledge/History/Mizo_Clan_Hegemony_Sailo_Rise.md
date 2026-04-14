@@ -1,6 +1,20 @@
+---
+title: 'The Sailo Clan: Hegemony in the Hills'
+category: History
+tags:
+- history
+- clan
+- politics
+- chieftainship
+language: mixed
+tokens: 252
+ai_ready: true
+completeness: high
+---
+
 # The Sailo Clan: Hegemony in the Hills
 
-**Tags:** #history #clan #politics #chieftainship
+
 
 The **Sailo Clan** is the most politically significant lineage in Mizo history, having established a decentralized "Empire" over the Lushai Hills in the 18th and 19th centuries.
 

@@ -1,6 +1,23 @@
+---
+title: Thlum Chhia Sweet Snack
+category: Culture
+tags:
+- culture
+- cuisine
+- culinary
+- food
+- Mizoram
+- research
+- Nutrition
+language: mixed
+tokens: 163
+ai_ready: true
+completeness: high
+---
+
 ﻿# Culinary Node: Thlum Chhia Sweet Snack
 
-**Tags:** #culture #cuisine #culinary #food #Mizoram #research #Nutrition
+
 
 ## 1. Gastronomic Profile
 - **Category**: Dessert

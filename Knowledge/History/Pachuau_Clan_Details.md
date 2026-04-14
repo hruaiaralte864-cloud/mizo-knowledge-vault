@@ -1,6 +1,22 @@
+---
+title: Pachuau Clan Details
+category: History
+tags:
+- genealogy
+- clan
+- history
+- Pachuau
+- Zohnahthlak
+- research
+language: mixed
+tokens: 145
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Clan Node: Pachuau Clan Details
 
-**Tags:** #genealogy #clan #history #Pachuau #Zohnahthlak #research
+
 
 ## 1. Lineage Classification
 - **Primary Group**: Pachuau

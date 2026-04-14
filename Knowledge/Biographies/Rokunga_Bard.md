@@ -1,6 +1,19 @@
+---
+title: Rokunga (The Bard of Mizoram)
+category: Biographies
+tags:
+- biography
+- music
+- patriotism
+language: mixed
+tokens: 98
+ai_ready: true
+completeness: medium
+---
+
 # Rokunga (The Bard of Mizoram)
 
-**Tags:** #biography #music #patriotism
+
 
 **Rokunga** (1914–1969) is the most revered songwriter in Mizo history.
 

@@ -1,6 +1,23 @@
+---
+title: Mizo Loin Loom Mechanics
+category: Culture
+tags:
+- culture
+- fashion
+- textiles
+- weaving
+- Mizoram
+- research
+- Chemistry
+language: mixed
+tokens: 170
+ai_ready: true
+completeness: high
+---
+
 ﻿# Textile Node: Mizo Loin Loom Mechanics
 
-**Tags:** #culture #fashion #textiles #weaving #Mizoram #research #Chemistry
+
 
 ## 1. Technical Classification
 - **Category**: Tools

@@ -1,6 +1,18 @@
+---
+title: Khawlkungi
+category: Literature
+tags:
+- biography
+- literature
+language: mixed
+tokens: 96
+ai_ready: true
+completeness: medium
+---
+
 # Khawlkungi
 
-**Tags:** #biography #literature
+
 
 **Khawlkungi** was a major female figure in Mizo literature. She was a prolific writer of essays, short stories, and novels, often focusing on the lives of women in Mizo society.
 

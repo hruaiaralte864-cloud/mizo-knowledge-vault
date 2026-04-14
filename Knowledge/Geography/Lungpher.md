@@ -1,6 +1,22 @@
+---
+title: Lungpher
+category: Geography
+tags:
+- geography
+- village
+- Lawngtlai
+- LawngtlaiDistrict
+- Mizoram
+- research
+language: mixed
+tokens: 110
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Village Node: Lungpher
 
-**Tags:** #geography #village #Lawngtlai #LawngtlaiDistrict #Mizoram #research
+
 
 ## 1. Administrative Location
 - **District**: [[LawngtlaiDistrict]]

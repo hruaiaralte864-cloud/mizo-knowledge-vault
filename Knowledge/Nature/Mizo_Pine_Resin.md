@@ -1,6 +1,18 @@
+---
+title: Resin Extraction from Mizo Pine
+category: Nature
+tags:
+- economy
+- nature
+language: mixed
+tokens: 42
+ai_ready: true
+completeness: low
+---
+
 # Resin Extraction from Mizo Pine
 
-**Tags:** #economy #nature
+
 
 The nascent industry of resin extraction from pine trees in the eastern districts, providing a sustainable income without felling the trees.
 

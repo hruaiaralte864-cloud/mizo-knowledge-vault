@@ -1,6 +1,18 @@
+---
+title: Pawl Kut
+category: Culture
+tags:
+- culture
+- festival
+language: mixed
+tokens: 92
+ai_ready: true
+completeness: medium
+---
+
 # Pawl Kut
 
-**Tags:** #culture #festival
+
 
 **Pawl Kut** is the harvest festival of the Mizo people, traditionally celebrated in December after the grain is safely stored.
 

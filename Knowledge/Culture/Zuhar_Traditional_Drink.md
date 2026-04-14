@@ -1,6 +1,23 @@
+---
+title: Zuhar Traditional Drink
+category: Culture
+tags:
+- culture
+- cuisine
+- culinary
+- food
+- Mizoram
+- research
+- Nutrition
+language: mixed
+tokens: 165
+ai_ready: true
+completeness: high
+---
+
 ﻿# Culinary Node: Zuhar Traditional Drink
 
-**Tags:** #culture #cuisine #culinary #food #Mizoram #research #Nutrition
+
 
 ## 1. Gastronomic Profile
 - **Category**: Beverage

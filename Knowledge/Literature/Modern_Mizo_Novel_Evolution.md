@@ -1,6 +1,23 @@
+---
+title: Modern Mizo Novel Evolution
+category: Literature
+tags:
+- literature
+- authors
+- poetry
+- novels
+- Mizoram
+- research
+- Academy
+language: mixed
+tokens: 183
+ai_ready: true
+completeness: high
+---
+
 ﻿# Literary Node: Modern Mizo Novel Evolution
 
-**Tags:** #literature #authors #poetry #novels #Mizoram #research #Academy
+
 
 ## 1. Literary Classification
 - **Category**: Genre

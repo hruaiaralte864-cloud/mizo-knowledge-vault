@@ -1,6 +1,23 @@
+---
+title: Hmingchhuangi Poetic Style
+category: Literature
+tags:
+- literature
+- authors
+- poetry
+- novels
+- Mizoram
+- research
+- Academy
+language: mixed
+tokens: 185
+ai_ready: true
+completeness: high
+---
+
 ﻿# Literary Node: Hmingchhuangi Poetic Style
 
-**Tags:** #literature #authors #poetry #novels #Mizoram #research #Academy
+
 
 ## 1. Literary Classification
 - **Category**: Author

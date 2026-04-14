@@ -1,6 +1,23 @@
+---
+title: Khuihlu Inkhelh
+category: Culture
+tags:
+- culture
+- sports
+- games
+- fitness
+- Mizoram
+- research
+- PhysicalEducation
+language: mixed
+tokens: 170
+ai_ready: true
+completeness: high
+---
+
 ﻿# Traditional Game: Khuihlu Inkhelh
 
-**Tags:** #culture #sports #games #fitness #Mizoram #research #PhysicalEducation
+
 
 ## 1. Game Classification
 - **Category**: Skill/Targeting

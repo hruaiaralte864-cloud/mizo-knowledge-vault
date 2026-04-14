@@ -1,6 +1,19 @@
+---
+title: Lungsen (West) Village
+category: Geography
+tags:
+- geography
+- village
+- border
+language: mixed
+tokens: 202
+ai_ready: true
+completeness: high
+---
+
 # Lungsen (West) Village
 
-**Tags:** #geography #village #border
+
 
 **Lungsen (West)** is a strategically located village in the Lunglei district, near the western border of Mizoram. Its proximity to the Bangladesh border makes it a significant point for cross-border trade and cultural exchange.
 

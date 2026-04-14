@@ -1,6 +1,19 @@
+---
+title: 'Mizo Bird''s Eye Chilli: The GI Tag Significance'
+category: Nature
+tags:
+- nature
+- agriculture
+- economy
+language: mixed
+tokens: 253
+ai_ready: true
+completeness: high
+---
+
 # Mizo Bird's Eye Chilli: The GI Tag Significance
 
-**Tags:** #nature #agriculture #economy
+
 
 The **Mizo Bird's Eye Chilli**, locally known as **Mizo Chay**, was granted the **Geographical Indication (GI) Tag** in 2015. This certification has transformed it from a kitchen staple into a high-value global commodity.
 

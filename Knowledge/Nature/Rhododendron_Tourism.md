@@ -1,6 +1,18 @@
+---
+title: 'High-Altitude Tourism: Rhododendron Blooms'
+category: Nature
+tags:
+- tourism
+- nature
+language: mixed
+tokens: 39
+ai_ready: true
+completeness: low
+---
+
 # High-Altitude Tourism: Rhododendron Blooms
 
-**Tags:** #tourism #nature
+
 
 How the blooming season of Rhododendrons in Sangau has become a major draw for domestic tourists to southern Mizoram.
 

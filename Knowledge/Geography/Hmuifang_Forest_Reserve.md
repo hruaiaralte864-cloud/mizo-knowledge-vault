@@ -1,6 +1,18 @@
+---
+title: Hmuifang Forest Reserve
+category: Geography
+tags:
+- nature
+- geography
+language: mixed
+tokens: 45
+ai_ready: true
+completeness: low
+---
+
 # Hmuifang Forest Reserve
 
-**Tags:** #nature #geography
+
 
 The forests of **Hmuifang** are some of the best-preserved patches of mid-altitude tropical forest in central Mizoram, home to rare varieties of orchids and ferns.
 

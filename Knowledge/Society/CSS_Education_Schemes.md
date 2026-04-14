@@ -1,6 +1,23 @@
+---
+title: CSS Education Schemes
+category: Society
+tags:
+- society
+- health
+- education
+- welfare
+- Mizoram
+- research
+- NGO
+language: mixed
+tokens: 171
+ai_ready: true
+completeness: high
+---
+
 ﻿# Society Node: CSS Education Schemes
 
-**Tags:** #society #health #education #welfare #Mizoram #research #NGO
+
 
 ## 1. Domain Classification
 - **Category**: Education

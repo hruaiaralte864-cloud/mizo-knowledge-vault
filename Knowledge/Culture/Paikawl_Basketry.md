@@ -1,6 +1,24 @@
+---
+title: Paikawl Basketry
+category: Culture
+tags:
+- culture
+- arts
+- crafts
+- weaving
+- Puan
+- basketry
+- Mizoram
+- research
+language: mixed
+tokens: 159
+ai_ready: true
+completeness: high
+---
+
 ﻿# Arts & Crafts Node: Paikawl Basketry
 
-**Tags:** #culture #arts #crafts #weaving #Puan #basketry #Mizoram #research
+
 
 ## 1. Technical Classification
 - **Category**: Basket

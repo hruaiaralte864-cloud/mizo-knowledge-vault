@@ -1,6 +1,22 @@
+---
+title: Bairabi
+category: Geography
+tags:
+- geography
+- village
+- Kolasib
+- KolasibDistrict
+- Mizoram
+- research
+language: mixed
+tokens: 111
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Village Node: Bairabi
 
-**Tags:** #geography #village #Kolasib #KolasibDistrict #Mizoram #research
+
 
 ## 1. Administrative Location
 - **District**: [[KolasibDistrict]]

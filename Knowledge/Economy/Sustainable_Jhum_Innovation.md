@@ -1,6 +1,24 @@
+---
+title: Sustainable Jhum Innovation
+category: Economy
+tags:
+- economy
+- tech
+- startups
+- innovation
+- Mizoram
+- research
+- Aizawl
+- '2026'
+language: mixed
+tokens: 162
+ai_ready: true
+completeness: high
+---
+
 ﻿# Economy Node: Sustainable Jhum Innovation
 
-**Tags:** #economy #tech #startups #innovation #Mizoram #research #Aizawl #2026
+
 
 ## 1. Sectoral Classification
 - **Category**: Agriculture

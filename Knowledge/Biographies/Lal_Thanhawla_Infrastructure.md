@@ -1,6 +1,18 @@
+---
+title: Lal Thanhawla's Infrastructure Legacy
+category: Biographies
+tags:
+- modern
+- politics
+language: mixed
+tokens: 39
+ai_ready: true
+completeness: low
+---
+
 # Lal Thanhawla's Infrastructure Legacy
 
-**Tags:** #modern #politics
+
 
 A look at the specific bridges, roads, and electric projects completed during the 20 years of Lal Thanhawla's administration.
 

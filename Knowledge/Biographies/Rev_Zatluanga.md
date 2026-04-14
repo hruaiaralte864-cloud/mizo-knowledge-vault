@@ -1,6 +1,18 @@
+---
+title: Rev. Zatluanga
+category: Biographies
+tags:
+- biography
+- religion
+language: mixed
+tokens: 37
+ai_ready: true
+completeness: low
+---
+
 # Rev. Zatluanga
 
-**Tags:** #biography #religion
+
 
 An early Mizo evangelist who translated several English hymns into Mizo, adapting the meter to fit Mizo oral chanting (*Thluk*).
 

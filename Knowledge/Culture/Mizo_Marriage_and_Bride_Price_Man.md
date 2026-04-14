@@ -1,6 +1,19 @@
+---
+title: Evolution of Mizo Marriage and the "Man" (Bride Price)
+category: Culture
+tags:
+- culture
+- society
+- history
+language: mixed
+tokens: 267
+ai_ready: true
+completeness: high
+---
+
 # Evolution of Mizo Marriage and the "Man" (Bride Price)
 
-**Tags:** #culture #society #history
+
 
 Mizo marriage is a complex synthesis of ancient clan traditions and modern Christian liturgy. The central element remains the **Man** (Bride Price), which has survived the transition into modernity.
 

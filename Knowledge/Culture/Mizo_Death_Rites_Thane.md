@@ -1,6 +1,19 @@
+---
+title: Mizo Death Rites (Thane)
+category: Culture
+tags:
+- culture
+- ritual
+- religion
+language: mixed
+tokens: 150
+ai_ready: true
+completeness: medium
+---
+
 # Mizo Death Rites (Thane)
 
-**Tags:** #culture #ritual #religion
+
 
 The Mizo approach to death is characterized by deep communal support, managed largely by the **[[Young_Mizo_Association|YMA]]** in modern times.
 

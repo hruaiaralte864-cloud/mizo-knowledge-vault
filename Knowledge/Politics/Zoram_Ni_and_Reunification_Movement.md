@@ -1,6 +1,20 @@
+---
+title: Zoram Ni (Zoram Day) and the Reunification Movement
+category: Politics
+tags:
+- politics
+- history
+- unity
+- ethnicity
+language: mixed
+tokens: 175
+ai_ready: true
+completeness: high
+---
+
 # Zoram Ni (Zoram Day) and the Reunification Movement
 
-**Tags:** #politics #history #unity #ethnicity
+
 
 The concept of **Zoram Ni** represents the "Spiritual Unity" of the Chin-Kuki-Mizo people spread across India, Myanmar, and Bangladesh.
 

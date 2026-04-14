@@ -1,6 +1,19 @@
+---
+title: "Lalduhoma \u2014 Chief Minister (2023\u2013)"
+category: Biographies
+tags:
+- biography
+- politics
+- modern
+language: mixed
+tokens: 180
+ai_ready: true
+completeness: medium
+---
+
 # Lalduhoma — Chief Minister (2023–)
 
-**Tags:** #biography #politics #modern
+
 
 **Lalduhoma** is a former Indian Police Service (IPS) officer turned politician who became the Chief Minister of Mizoram in December 2023 after his party, the **[[Zoram_Peoples_Movement|Zoram People's Movement (ZPM)]]**, won a landslide electoral victory.
 

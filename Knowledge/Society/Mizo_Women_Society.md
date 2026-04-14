@@ -1,6 +1,19 @@
+---
+title: The Role of Mizo Women
+category: Society
+tags:
+- society
+- gender
+- culture
+language: mixed
+tokens: 226
+ai_ready: true
+completeness: high
+---
+
 # The Role of Mizo Women
 
-**Tags:** #society #gender #culture
+
 
 Mizo women have historically occupied a more active and dignified social role than women in many other South and Southeast Asian societies.
 

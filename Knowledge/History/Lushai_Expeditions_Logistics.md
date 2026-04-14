@@ -1,6 +1,19 @@
+---
+title: Logistics of the Lushai Expeditions (1871-1890)
+category: History
+tags:
+- history
+- warfare
+- logistics
+language: mixed
+tokens: 269
+ai_ready: true
+completeness: high
+---
+
 # Logistics of the Lushai Expeditions (1871-1890)
 
-**Tags:** #history #warfare #logistics
+
 
 The **Lushai Expeditions** were a series of military punitive raids by the British Raj against various Mizo clans. While often viewed as military conflicts, their outcome was largely determined by the brutal logistical challenges of the Mizo terrain.
 

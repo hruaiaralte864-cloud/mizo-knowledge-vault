@@ -1,6 +1,19 @@
+---
+title: The Mizo National Front (MNF)
+category: History
+tags:
+- history
+- politics
+- insurgency
+language: mixed
+tokens: 135
+ai_ready: true
+completeness: medium
+---
+
 # The Mizo National Front (MNF)
 
-**Tags:** #history #politics #insurgency
+
 
 The **Mizo National Front (MNF)** was founded by [[Laldenga]] in 1961, evolving from the **Mizo National Famine Front (MNFF)** formed during the [[Mautam_Famine_1959]].
 

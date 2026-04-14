@@ -1,6 +1,19 @@
+---
+title: Operation Red Horn
+category: History
+tags:
+- history
+- military
+- conflict
+language: mixed
+tokens: 187
+ai_ready: true
+completeness: high
+---
+
 # Operation Red Horn
 
-**Tags:** #history #military #conflict
+
 
 **Operation Red Horn** was the codename for the Indian Army's large-scale military counter-insurgency operation launched in **March 1966** to retake the Lushai Hills from the [[Mizo_National_Front]].
 

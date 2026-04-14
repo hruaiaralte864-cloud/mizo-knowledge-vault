@@ -1,6 +1,19 @@
+---
+title: 'Chief Lalchungnunga: Tactics of Resistance'
+category: Biographies
+tags:
+- history
+- biography
+- warfare
+language: mixed
+tokens: 219
+ai_ready: true
+completeness: high
+---
+
 # Chief Lalchungnunga: Tactics of Resistance
 
-**Tags:** #history #biography #warfare
+
 
 **Chief Lalchungnunga's** resistance against British forces in the late 19th century was characterized by a sophisticated understanding of jungle guerrilla tactics.
 

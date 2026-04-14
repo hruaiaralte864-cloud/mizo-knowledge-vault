@@ -1,6 +1,22 @@
+---
+title: Lunglei South
+category: Geography
+tags:
+- geography
+- village
+- Lunglei
+- LungleiDistrict
+- Mizoram
+- research
+language: mixed
+tokens: 113
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Village Node: Lunglei South
 
-**Tags:** #geography #village #Lunglei #LungleiDistrict #Mizoram #research
+
 
 ## 1. Administrative Location
 - **District**: [[LungleiDistrict]]

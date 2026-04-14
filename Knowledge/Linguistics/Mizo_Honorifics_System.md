@@ -1,6 +1,18 @@
+---
+title: Mizo Honorifics and Addresses
+category: Linguistics
+tags:
+- linguistics
+- society
+language: mixed
+tokens: 81
+ai_ready: true
+completeness: medium
+---
+
 # Mizo Honorifics and Addresses
 
-**Tags:** #linguistics #society
+
 
 Mizo social structure is reflected in how people are addressed.
 

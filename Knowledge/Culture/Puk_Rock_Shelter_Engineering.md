@@ -1,6 +1,22 @@
+---
+title: Puk Rock Shelter Engineering
+category: Culture
+tags:
+- engineering
+- architecture
+- construction
+- Mizoram
+- research
+- IndigenousTech
+language: mixed
+tokens: 175
+ai_ready: true
+completeness: high
+---
+
 ﻿# Architecture Node: Puk Rock Shelter Engineering
 
-**Tags:** #engineering #architecture #construction #Mizoram #research #IndigenousTech
+
 
 ## 1. Technical Classification
 - **Category**: Strategic

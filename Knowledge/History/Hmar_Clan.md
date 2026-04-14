@@ -1,6 +1,19 @@
+---
+title: Hmar Clan
+category: History
+tags:
+- history
+- clan
+- society
+language: mixed
+tokens: 175
+ai_ready: true
+completeness: medium
+---
+
 # Hmar Clan
 
-**Tags:** #history #clan #society
+
 
 The **Hmar** people are a major ethnic group within the broader Mizo (Zo) identity. They have a distinct language and a rich history of migration that places them among the earliest inhabitants of the Mizo hills.
 

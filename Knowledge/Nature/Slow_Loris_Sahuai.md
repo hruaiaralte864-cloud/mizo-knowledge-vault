@@ -1,8 +1,21 @@
+---
+title: Slow Loris (Nycticebus bengalensis)
+category: Nature
+tags:
+- fauna
+- wildlife
+- folklore
+language: mixed
+tokens: 84
+ai_ready: true
+completeness: medium
+---
+
 # Slow Loris (Nycticebus bengalensis)
 
 **Mizo Name:** Sahuai
 
-**Tags:** #fauna #wildlife #folklore
+
 
 The **Slow Loris** is a nocturnal primate found throughout Mizoram.
 

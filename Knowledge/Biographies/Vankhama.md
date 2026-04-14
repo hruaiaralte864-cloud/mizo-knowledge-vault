@@ -1,6 +1,23 @@
+---
+title: Vankhama
+category: Biographies
+tags:
+- history
+- biography
+- leader
+- Pasaltha
+- culture
+- Mizoram
+- research
+language: mixed
+tokens: 120
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Biography: Vankhama
 
-**Tags:** #history #biography #leader #Pasaltha #culture #Mizoram #research
+
 
 ## 1. Profile Summary
 - **Name**: Vankhama

@@ -1,6 +1,23 @@
+---
+title: Ralte Dialect Siakeng
+category: Linguistics
+tags:
+- linguistics
+- dialect
+- Ralte
+- Central
+- Hills
+- MizoLanguage
+- research
+language: mixed
+tokens: 140
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Linguistic Node: Ralte Dialect Siakeng
 
-**Tags:** #linguistics #dialect #Ralte #Central Hills #MizoLanguage #research
+
 
 ## 1. Taxonomic Classification
 - **Primary Group**: [[RalteLanguage]]

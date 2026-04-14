@@ -1,6 +1,19 @@
+---
+title: 'Social Aid: The YMA and Hospitals'
+category: Modern
+tags:
+- society
+- NGO
+- healthcare
+language: mixed
+tokens: 37
+ai_ready: true
+completeness: low
+---
+
 # Social Aid: The YMA and Hospitals
 
-**Tags:** #society #NGO #healthcare
+
 
 The unique Mizo practice where the YMA provides volunteer staff and supplies to hospitals during emergencies.
 

@@ -1,6 +1,19 @@
+---
+title: Mizo Dialects and Related Languages
+category: Language
+tags:
+- language
+- culture
+- linguistics
+language: mixed
+tokens: 221
+ai_ready: true
+completeness: high
+---
+
 # Mizo Dialects and Related Languages
 
-**Tags:** #language #culture #linguistics
+
 
 While *Mizo Lusei* (the speech of the dominant Lusei clan) is the standardised official language, Mizoram is linguistically diverse, with several distinct related languages spoken by tribal sub-groups.
 

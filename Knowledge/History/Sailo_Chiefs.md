@@ -1,6 +1,19 @@
+---
+title: The Sailo Chiefs
+category: History
+tags:
+- history
+- clan
+- governance
+language: mixed
+tokens: 179
+ai_ready: true
+completeness: medium
+---
+
 # The Sailo Chiefs
 
-**Tags:** #history #clan #governance
+
 
 The **Sailo** is a lineage within the Lusei clan that produced almost all the major traditional rulers (chiefs) of the Mizo people for over 200 years.
 

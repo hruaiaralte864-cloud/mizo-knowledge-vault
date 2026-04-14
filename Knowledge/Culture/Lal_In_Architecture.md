@@ -1,6 +1,22 @@
+---
+title: Lal In Architecture
+category: Culture
+tags:
+- engineering
+- architecture
+- construction
+- Mizoram
+- research
+- IndigenousTech
+language: mixed
+tokens: 178
+ai_ready: true
+completeness: high
+---
+
 ﻿# Architecture Node: Lal In Architecture
 
-**Tags:** #engineering #architecture #construction #Mizoram #research #IndigenousTech
+
 
 ## 1. Technical Classification
 - **Category**: Chief's House

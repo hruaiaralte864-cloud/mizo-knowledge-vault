@@ -1,6 +1,19 @@
+---
+title: The Hymns of Rokunga
+category: Literature
+tags:
+- literature
+- religion
+- music
+language: mixed
+tokens: 97
+ai_ready: true
+completeness: medium
+---
+
 # The Hymns of Rokunga
 
-**Tags:** #literature #religion #music
+
 
 While [[Rokunga]] is known as the national poet, his hymns hold a sacred place in the Mizo spiritual experience.
 

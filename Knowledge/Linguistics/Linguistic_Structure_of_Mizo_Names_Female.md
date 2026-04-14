@@ -1,6 +1,18 @@
+---
+title: 'Female Naming Patterns: Linguistics'
+category: Linguistics
+tags:
+- linguistics
+- gender
+language: mixed
+tokens: 28
+ai_ready: true
+completeness: low
+---
+
 # Female Naming Patterns: Linguistics
 
-**Tags:** #linguistics #gender
+
 
 Special focus on the meanings of feminine suffixes like *-puii*, *-zual-*, and *-mawii*.
 

@@ -1,6 +1,23 @@
+---
+title: Mara Dialect Hawthai
+category: Linguistics
+tags:
+- linguistics
+- dialect
+- Mara
+- Southern
+- Siaha
+- MizoLanguage
+- research
+language: mixed
+tokens: 141
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Linguistic Node: Mara Dialect Hawthai
 
-**Tags:** #linguistics #dialect #Mara #Southern Siaha #MizoLanguage #research
+
 
 ## 1. Taxonomic Classification
 - **Primary Group**: [[MaraLanguage]]

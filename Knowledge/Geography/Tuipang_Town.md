@@ -1,6 +1,23 @@
+---
+title: Tuipang Town
+category: Geography
+tags:
+- geography
+- township
+- Siaha
+- SiahaDistrict
+- Mizoram
+- research
+- UrbanPlanning
+language: mixed
+tokens: 137
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Township Node: Tuipang Town
 
-**Tags:** #geography #township #Siaha #SiahaDistrict #Mizoram #research #UrbanPlanning
+
 
 ## 1. Administrative Location
 - **District**: [[SiahaDistrict]]

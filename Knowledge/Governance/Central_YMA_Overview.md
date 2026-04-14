@@ -1,6 +1,19 @@
+---
+title: Central Young Mizo Association (CYMA)
+category: Governance
+tags:
+- governance
+- society
+- NGO
+language: mixed
+tokens: 97
+ai_ready: true
+completeness: medium
+---
+
 # Central Young Mizo Association (CYMA)
 
-**Tags:** #governance #society #NGO
+
 
 The **Central YMA** is the governing body of the Young Mizo Association, the largest and most influential NGO in Mizoram. Headquartered in Aizawl, it oversees thousands of local branches across the state and beyond.
 

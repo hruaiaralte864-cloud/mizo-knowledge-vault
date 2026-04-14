@@ -1,6 +1,19 @@
+---
+title: "Mizo Identity \u2014 Zomi and Pan-Zo Consciousness"
+category: Geography
+tags:
+- culture
+- identity
+- politics
+language: mixed
+tokens: 205
+ai_ready: true
+completeness: high
+---
+
 # Mizo Identity — Zomi and Pan-Zo Consciousness
 
-**Tags:** #culture #identity #politics
+
 
 The term **Mizo** literally means "hill people" (*Mi* = people, *Zo* = hill/cold). However, identity consciousness goes deeper — many Mizo people identify with the broader **Zomi** or **Zo** ethnic grouping, which encompasses the wider Kuki-Chin peoples across:
 

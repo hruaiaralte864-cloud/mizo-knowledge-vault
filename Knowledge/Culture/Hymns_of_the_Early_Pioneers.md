@@ -1,6 +1,18 @@
+---
+title: 'Hymns: The Early Pioneer Period'
+category: Culture
+tags:
+- religion
+- history
+language: mixed
+tokens: 36
+ai_ready: true
+completeness: low
+---
+
 # Hymns: The Early Pioneer Period
 
-**Tags:** #religion #history
+
 
 Specifically looking at the very first songs translated from English to Mizo between 1894 and 1905.
 

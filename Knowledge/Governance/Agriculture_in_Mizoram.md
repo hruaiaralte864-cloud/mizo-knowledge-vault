@@ -1,6 +1,19 @@
+---
+title: Agriculture in Mizoram
+category: Governance
+tags:
+- governance
+- economy
+- society
+language: mixed
+tokens: 127
+ai_ready: true
+completeness: medium
+---
+
 # Agriculture in Mizoram
 
-**Tags:** #governance #economy #society
+
 
 Agriculture is the backbone of the Mizo rural economy, engaging over 60% of the population.
 

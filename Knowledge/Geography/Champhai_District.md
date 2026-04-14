@@ -1,6 +1,19 @@
+---
+title: "Champhai \u2014 The Rice Bowl"
+category: Geography
+tags:
+- geography
+- district
+- economy
+language: mixed
+tokens: 158
+ai_ready: true
+completeness: medium
+---
+
 # Champhai — The Rice Bowl
 
-**Tags:** #geography #district #economy
+
 
 **Champhai** is a district in eastern Mizoram that sits along the Myanmar border. It is widely known as the **"Rice Bowl of Mizoram"** due to the extraordinarily fertile Champhai Valley, which supports large-scale terraced wet-rice cultivation — unusual for a state dominated by [[Jhum_Cultivation]].
 

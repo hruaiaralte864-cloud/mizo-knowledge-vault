@@ -1,6 +1,23 @@
+---
+title: Mizo Hip Hop Culture
+category: Culture
+tags:
+- arts
+- media
+- film
+- music
+- Mizoram
+- research
+- DigitalCulture
+language: mixed
+tokens: 167
+ai_ready: true
+completeness: high
+---
+
 ﻿# Arts & Media Node: Mizo Hip Hop Culture
 
-**Tags:** #arts #media #film #music #Mizoram #research #DigitalCulture
+
 
 ## 1. Creative Classification
 - **Category**: Music

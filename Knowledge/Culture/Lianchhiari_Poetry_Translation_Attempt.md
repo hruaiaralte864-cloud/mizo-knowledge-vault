@@ -1,6 +1,19 @@
+---
+title: 'Lianchhiari''s Poetry: The Song of the High Hill'
+category: Culture
+tags:
+- culture
+- literature
+- poetry
+language: mixed
+tokens: 240
+ai_ready: true
+completeness: high
+---
+
 # Lianchhiari's Poetry: The Song of the High Hill
 
-**Tags:** #culture #literature #poetry
+
 
 **Lianchhiari**, the legendary 19th-century poetess from the village of Dungtlang, is often called the "Sappho of the Hills." Her verses are the pinnacle of romantic Mizo poetry.
 

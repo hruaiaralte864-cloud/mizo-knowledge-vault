@@ -1,6 +1,18 @@
+---
+title: "Chapchar Kut \u2014 The Spring Festival"
+category: Culture
+tags:
+- culture
+- festival
+language: mixed
+tokens: 167
+ai_ready: true
+completeness: medium
+---
+
 # Chapchar Kut — The Spring Festival
 
-**Tags:** #culture #festival
+
 
 **Chapchar Kut** is the grandest and most joyful of the three traditional Mizo festivals (*Kut*). It is celebrated in **early March**, after the jungle has been felled for [[Jhum_Cultivation]] but before the brush is set on fire — during the brief waiting period known as *Chapchar* (when the cut branches dry in the sun).
 

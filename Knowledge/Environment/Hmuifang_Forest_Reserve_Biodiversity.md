@@ -1,6 +1,23 @@
+---
+title: Hmuifang Forest Reserve Biodiversity
+category: Environment
+tags:
+- environment
+- ecology
+- flora
+- fauna
+- Mizoram
+- research
+- Conservation
+language: mixed
+tokens: 166
+ai_ready: true
+completeness: high
+---
+
 ﻿# Environmental Node: Hmuifang Forest Reserve Biodiversity
 
-**Tags:** #environment #ecology #flora #fauna #Mizoram #research #Conservation
+
 
 ## 1. Ecological Classification
 - **Category**: Botany

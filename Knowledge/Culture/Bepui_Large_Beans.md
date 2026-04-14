@@ -1,6 +1,23 @@
+---
+title: Bepui Large Beans
+category: Culture
+tags:
+- culture
+- cuisine
+- culinary
+- food
+- Mizoram
+- research
+- Nutrition
+language: mixed
+tokens: 165
+ai_ready: true
+completeness: high
+---
+
 ﻿# Culinary Node: Bepui Large Beans
 
-**Tags:** #culture #cuisine #culinary #food #Mizoram #research #Nutrition
+
 
 ## 1. Gastronomic Profile
 - **Category**: Vegetable

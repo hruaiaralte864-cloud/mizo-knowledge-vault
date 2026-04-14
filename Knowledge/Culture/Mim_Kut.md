@@ -1,6 +1,18 @@
+---
+title: Mim Kut
+category: Culture
+tags:
+- culture
+- festival
+language: mixed
+tokens: 91
+ai_ready: true
+completeness: medium
+---
+
 # Mim Kut
 
-**Tags:** #culture #festival
+
 
 **Mim Kut** is a festival dedicated to the remembrance of ancestors and deceased loved ones.
 

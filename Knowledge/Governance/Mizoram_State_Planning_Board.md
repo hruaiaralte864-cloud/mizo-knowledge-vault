@@ -1,6 +1,19 @@
+---
+title: Mizoram State Planning Board (MSPB)
+category: Governance
+tags:
+- governance
+- economy
+- policy
+language: mixed
+tokens: 191
+ai_ready: true
+completeness: high
+---
+
 # Mizoram State Planning Board (MSPB)
 
-**Tags:** #governance #economy #policy
+
 
 The **Mizoram State Planning Board (MSPB)** is the apex advisory body responsible for formulating the state's long-term developmental strategy and multi-year plans.
 

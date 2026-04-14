@@ -1,6 +1,18 @@
+---
+title: Animal Husbandry and Veterinary Department
+category: Governance
+tags:
+- governance
+- economy
+language: mixed
+tokens: 72
+ai_ready: true
+completeness: medium
+---
+
 # Animal Husbandry and Veterinary Department
 
-**Tags:** #governance #economy
+
 
 In a society where **Pork** is the primary protein (see [[Mizo_Cuisine]]), the AH&V Department is vital.
 

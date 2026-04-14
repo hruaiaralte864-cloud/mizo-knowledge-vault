@@ -1,6 +1,23 @@
+---
+title: Phui-hnam
+category: Nature
+tags:
+- science
+- nature
+- botany
+- medicine
+- HnimHna
+- research
+- Pharmacopoeia
+language: mixed
+tokens: 117
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Ethnobotany: Phui hnam
 
-**Tags:** #science #nature #botany #medicine #HnimHna #research #Pharmacopoeia
+
 
 ## 1. Botanical Identity
 - **Mizo Name**: Phui hnam

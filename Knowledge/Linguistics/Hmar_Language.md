@@ -1,6 +1,19 @@
+---
+title: Hmar Language
+category: Linguistics
+tags:
+- linguistics
+- culture
+- identity
+language: mixed
+tokens: 217
+ai_ready: true
+completeness: high
+---
+
 # Hmar Language
 
-**Tags:** #linguistics #culture #identity
+
 
 The **Hmar language** is a major member of the Kukish branch of the Bodic group of the Tibeto-Burman language family. It is spoken by the Hmar people across Northeast India, particularly in Mizoram, Manipur, and Assam.
 

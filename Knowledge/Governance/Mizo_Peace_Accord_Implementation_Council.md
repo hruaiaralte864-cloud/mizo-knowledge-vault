@@ -1,6 +1,18 @@
+---
+title: Peace Accord Implementation Council
+category: Governance
+tags:
+- history
+- governance
+language: mixed
+tokens: 44
+ai_ready: true
+completeness: low
+---
+
 # Peace Accord Implementation Council
 
-**Tags:** #history #governance
+
 
 A historical oversight body that ensured the terms of the 1986 Peace Accord were fully realized, particularly the re-settlement of former MNF cadres.
 

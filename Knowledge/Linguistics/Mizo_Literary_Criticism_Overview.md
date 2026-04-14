@@ -1,6 +1,19 @@
+---
+title: Mizo Literary Criticism
+category: Linguistics
+tags:
+- linguistics
+- literature
+- arts
+language: mixed
+tokens: 48
+ai_ready: true
+completeness: low
+---
+
 # Mizo Literary Criticism
 
-**Tags:** #linguistics #literature #arts
+
 
 The history of how Mizos have analyzed their own poems and prose. Focusing on the 'Romantic' school vs. the 'Social Realist' school of the late 20th century.
 

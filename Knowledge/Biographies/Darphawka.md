@@ -1,6 +1,23 @@
+---
+title: Darphawka
+category: Biographies
+tags:
+- history
+- biography
+- leader
+- Pasaltha
+- culture
+- Mizoram
+- research
+language: mixed
+tokens: 123
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Biography: Darphawka
 
-**Tags:** #history #biography #leader #Pasaltha #culture #Mizoram #research
+
 
 ## 1. Profile Summary
 - **Name**: Darphawka

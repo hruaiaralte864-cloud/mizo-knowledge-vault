@@ -1,6 +1,22 @@
+---
+title: 'Mizoram Wildlife Taxonomy: Endangered and Endemic Data'
+category: Nature
+tags:
+- nature
+- wildlife
+- ecology
+- IUCN
+- biodiversity
+- research
+language: mixed
+tokens: 488
+ai_ready: true
+completeness: high
+---
+
 # Mizoram Wildlife Taxonomy: Endangered and Endemic Data
 
-**Tags:** #nature #wildlife #ecology #IUCN #biodiversity #research
+
 
 This node archives high-resolution scientific data on the most critical wildlife species in Mizoram, focusing on their **IUCN Red List Status** and endemic distribution markers.
 

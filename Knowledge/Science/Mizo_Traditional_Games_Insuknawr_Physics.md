@@ -1,6 +1,18 @@
-# The Physics of Insuknawr (Rod-Pushing)
+---
+title: The Physics of Insuknawr (Rod-Pushing)
+category: Science
+tags:
+- science
+- physics
+- sports
+- culture
+language: mixed
+tokens: 187
+ai_ready: true
+completeness: high
+---
 
-**Tags:** #science #physics #sports #culture
+# The Physics of Insuknawr (Rod-Pushing)
 
 **Insuknawr** is the national game of Mizoram, a unique test of strength that originated from the physical labor of rice husking.
 

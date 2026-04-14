@@ -1,6 +1,19 @@
+---
+title: 'Aizawl FC: The Historic I-League Triumph (2016-17)'
+category: Biographies
+tags:
+- sports
+- history
+- football
+language: mixed
+tokens: 249
+ai_ready: true
+completeness: high
+---
+
 # Aizawl FC: The Historic I-League Triumph (2016-17)
 
-**Tags:** #sports #history #football
+
 
 The 2016-17 I-League season remains a watershed moment in Mizo sports history, as **Aizawl FC** became the first club from Northeast India to win the top-flight title. This victory is often compared to Leicester City's Premier League win due to its "underdog" nature.
 

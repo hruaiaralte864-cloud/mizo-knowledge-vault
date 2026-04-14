@@ -1,6 +1,23 @@
+---
+title: Marriage Divorce Mizo Law
+category: History
+tags:
+- law
+- justice
+- customary
+- Mizoram
+- research
+- Governance
+- History
+language: mixed
+tokens: 188
+ai_ready: true
+completeness: high
+---
+
 ﻿# Legal Node: Marriage Divorce Mizo Law
 
-**Tags:** #law #justice #customary #Mizoram #research #Governance #History
+
 
 ## 1. Jurisprudential Classification
 - **Category**: Family Law

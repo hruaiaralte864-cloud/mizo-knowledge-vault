@@ -1,6 +1,19 @@
+---
+title: The Arrival of Christian Missionaries (1894)
+category: History
+tags:
+- history
+- christianity
+- education
+language: mizo
+tokens: 158
+ai_ready: true
+completeness: medium
+---
+
 # The Arrival of Christian Missionaries (1894)
 
-**Tags:** #history #christianity #education
+
 
 The two most influential men in Mizo history never fired a gun. **J.H. Lorrain** (*Pu Buanga*) and **F.W. Savidge** (*Sap Upa*) of the Arthington Aborigines Mission arrived in [[Aizawl_District|Aizawl]] on **11 January 1894**.
 

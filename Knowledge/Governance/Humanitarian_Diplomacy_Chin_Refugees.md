@@ -1,6 +1,20 @@
+---
+title: 'Humanitarian Diplomacy: The Chin-Kuki Modern Reality'
+category: Governance
+tags:
+- governance
+- geopolitics
+- human_rights
+- Zohnahthlak
+language: mixed
+tokens: 210
+ai_ready: true
+completeness: high
+---
+
 # Humanitarian Diplomacy: The Chin-Kuki Modern Reality
 
-**Tags:** #governance #geopolitics #human_rights #Zohnahthlak
+
 
 Mizoram occupies a unique geopolitical position as a "Sanctuary State" for ethnic kin (Chin-Kuki groups) fleeing conflict in neighboring Myanmar and Manipur.
 

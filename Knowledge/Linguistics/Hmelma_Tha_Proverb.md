@@ -1,6 +1,19 @@
+---
+title: Hmelma Tha hmel a hmu ngai lo
+category: Linguistics
+tags:
+- linguistics
+- proverbs
+- society
+language: mixed
+tokens: 54
+ai_ready: true
+completeness: low
+---
+
 # Hmelma Tha hmel a hmu ngai lo
 
-**Tags:** #linguistics #proverbs #society
+
 
 **Literal Meaning:** A good enemy's face is never seen.
 

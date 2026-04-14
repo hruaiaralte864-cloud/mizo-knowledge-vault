@@ -1,6 +1,23 @@
+---
+title: River Tlawng Hydrology
+category: Environment
+tags:
+- environment
+- ecology
+- flora
+- fauna
+- Mizoram
+- research
+- Conservation
+language: mixed
+tokens: 166
+ai_ready: true
+completeness: high
+---
+
 ﻿# Environmental Node: River Tlawng Hydrology
 
-**Tags:** #environment #ecology #flora #fauna #Mizoram #research #Conservation
+
 
 ## 1. Ecological Classification
 - **Category**: Environment

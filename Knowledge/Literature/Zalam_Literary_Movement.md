@@ -1,6 +1,23 @@
+---
+title: Zalam Literary Movement
+category: Literature
+tags:
+- literature
+- authors
+- poetry
+- novels
+- Mizoram
+- research
+- Academy
+language: mixed
+tokens: 182
+ai_ready: true
+completeness: high
+---
+
 ﻿# Literary Node: Zalam Literary Movement
 
-**Tags:** #literature #authors #poetry #novels #Mizoram #research #Academy
+
 
 ## 1. Literary Classification
 - **Category**: Movement

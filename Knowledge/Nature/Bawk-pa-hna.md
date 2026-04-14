@@ -1,6 +1,23 @@
+---
+title: Bawk-pa-hna
+category: Nature
+tags:
+- science
+- nature
+- botany
+- medicine
+- HnimHna
+- research
+- Pharmacopoeia
+language: mixed
+tokens: 120
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Ethnobotany: Bawk pa hna
 
-**Tags:** #science #nature #botany #medicine #HnimHna #research #Pharmacopoeia
+
 
 ## 1. Botanical Identity
 - **Mizo Name**: Bawk pa hna

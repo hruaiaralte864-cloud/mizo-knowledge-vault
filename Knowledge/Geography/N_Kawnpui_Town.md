@@ -1,6 +1,23 @@
+---
+title: N Kawnpui Town
+category: Geography
+tags:
+- geography
+- township
+- Kolasib
+- KolasibDistrict
+- Mizoram
+- research
+- UrbanPlanning
+language: mixed
+tokens: 140
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Township Node: N Kawnpui Town
 
-**Tags:** #geography #township #Kolasib #KolasibDistrict #Mizoram #research #UrbanPlanning
+
 
 ## 1. Administrative Location
 - **District**: [[KolasibDistrict]]

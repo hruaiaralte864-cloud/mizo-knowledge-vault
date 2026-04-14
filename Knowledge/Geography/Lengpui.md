@@ -1,6 +1,23 @@
+---
+title: Lengpui
+category: Geography
+tags:
+- geography
+- township
+- Mamit
+- MamitDistrict
+- Mizoram
+- research
+- UrbanPlanning
+language: mixed
+tokens: 136
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Township Node: Lengpui
 
-**Tags:** #geography #township #Mamit #MamitDistrict #Mizoram #research #UrbanPlanning
+
 
 ## 1. Administrative Location
 - **District**: [[MamitDistrict]]

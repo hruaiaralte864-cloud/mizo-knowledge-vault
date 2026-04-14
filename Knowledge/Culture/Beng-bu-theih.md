@@ -1,6 +1,23 @@
+---
+title: Beng-bu-theih
+category: Culture
+tags:
+- culture
+- sports
+- games
+- fitness
+- Mizoram
+- research
+- PhysicalEducation
+language: mixed
+tokens: 169
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Traditional Game: Beng-bu-theih
 
-**Tags:** #culture #sports #games #fitness #Mizoram #research #PhysicalEducation
+
 
 ## 1. Game Classification
 - **Category**: Recreational

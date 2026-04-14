@@ -1,6 +1,22 @@
+---
+title: Mual Village Square
+category: Culture
+tags:
+- engineering
+- architecture
+- construction
+- Mizoram
+- research
+- IndigenousTech
+language: mixed
+tokens: 176
+ai_ready: true
+completeness: high
+---
+
 ﻿# Architecture Node: Mual Village Square
 
-**Tags:** #engineering #architecture #construction #Mizoram #research #IndigenousTech
+
 
 ## 1. Technical Classification
 - **Category**: Urban Space

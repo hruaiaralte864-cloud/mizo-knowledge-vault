@@ -1,6 +1,18 @@
+---
+title: Mizo Lily (Vang-vat)
+category: Nature
+tags:
+- flora
+- nature
+language: mixed
+tokens: 29
+ai_ready: true
+completeness: low
+---
+
 # Mizo Lily (Vang-vat)
 
-**Tags:** #flora #nature
+
 
 A delicate wild lily found in the shaded ridges, often referenced in Mizo nursery rhymes.
 

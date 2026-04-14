@@ -1,6 +1,23 @@
+---
+title: Dampa Tiger Reserve Geology
+category: Environment
+tags:
+- environment
+- ecology
+- flora
+- fauna
+- Mizoram
+- research
+- Conservation
+language: mixed
+tokens: 165
+ai_ready: true
+completeness: high
+---
+
 ﻿# Environmental Node: Dampa Tiger Reserve Geology
 
-**Tags:** #environment #ecology #flora #fauna #Mizoram #research #Conservation
+
 
 ## 1. Ecological Classification
 - **Category**: Conservation

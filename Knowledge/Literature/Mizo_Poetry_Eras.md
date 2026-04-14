@@ -1,6 +1,18 @@
+---
+title: Mizo Poetry Eras
+category: Literature
+tags:
+- literature
+- culture
+language: mixed
+tokens: 185
+ai_ready: true
+completeness: high
+---
+
 # Mizo Poetry Eras
 
-**Tags:** #literature #culture
+
 
 Mizo poetry has evolved through three distinct eras, each reflecting the changing social and spiritual landscape of the people.
 

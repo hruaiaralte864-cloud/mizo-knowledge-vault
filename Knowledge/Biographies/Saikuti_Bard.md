@@ -1,6 +1,19 @@
+---
+title: Saikuti (The Legendary Poetess)
+category: Biographies
+tags:
+- biography
+- literature
+- folklore
+language: mixed
+tokens: 88
+ai_ready: true
+completeness: medium
+---
+
 # Saikuti (The Legendary Poetess)
 
-**Tags:** #biography #literature #folklore
+
 
 **Saikuti** (reigned 19th century) is one of the few women in pre-colonial Mizo history whose songs and poems have been fully preserved.
 

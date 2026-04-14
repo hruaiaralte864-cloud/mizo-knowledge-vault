@@ -1,8 +1,15 @@
 ---
 title: Mizo Customary Law vs. Modern Judiciary
-tags: [governance, law, society, politics]
-status: permanent
-created: 2026-04-14
+category: Governance
+tags:
+- governance
+- law
+- society
+- politics
+language: mixed
+tokens: 292
+ai_ready: true
+completeness: high
 ---
 
 # Mizo Customary Law vs. Modern Judiciary

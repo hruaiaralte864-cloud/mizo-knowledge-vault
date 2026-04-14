@@ -1,6 +1,19 @@
+---
+title: Vantawng Khawhthla (Vantawng Falls)
+category: Geography
+tags:
+- geography
+- nature
+- tourism
+language: mixed
+tokens: 85
+ai_ready: true
+completeness: medium
+---
+
 # Vantawng Khawhthla (Vantawng Falls)
 
-**Tags:** #geography #nature #tourism
+
 
 **Vantawng Falls** is the highest and most spectacular waterfall in Mizoram, dropping over **220 meters**.
 

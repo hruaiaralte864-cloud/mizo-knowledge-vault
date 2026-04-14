@@ -1,6 +1,19 @@
+---
+title: Dampa Tiger Reserve
+category: Geography
+tags:
+- geography
+- nature
+- wildlife
+language: mixed
+tokens: 169
+ai_ready: true
+completeness: medium
+---
+
 # Dampa Tiger Reserve
 
-**Tags:** #geography #nature #wildlife
+
 
 **Dampa Tiger Reserve** (established 1994) is Mizoram's only Tiger Reserve and the state's largest protected area, covering **500 sq km** in the Mamit district in northwest Mizoram along the Bangladesh border.
 

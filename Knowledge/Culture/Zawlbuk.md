@@ -1,6 +1,19 @@
+---
+title: "The Zawlbuk \u2014 Bachelors' Dormitory"
+category: Culture
+tags:
+- culture
+- society
+- history
+language: mixed
+tokens: 215
+ai_ready: true
+completeness: high
+---
+
 # The Zawlbuk — Bachelors' Dormitory
 
-**Tags:** #culture #society #history
+
 
 The **Zawlbuk** was the communal dormitory for all unmarried men (*Tlangval*) of a Mizo village. It was positioned right next to the [[Lal_System|Chief's house]] and served as the military, educational, and social heart of traditional village life.
 

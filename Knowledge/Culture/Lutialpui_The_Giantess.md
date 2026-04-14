@@ -1,6 +1,23 @@
+---
+title: Lutialpui The Giantess
+category: Culture
+tags:
+- culture
+- mythology
+- folklore
+- legends
+- Mizoram
+- research
+- Spirituality
+language: mixed
+tokens: 188
+ai_ready: true
+completeness: high
+---
+
 ﻿# Mythology Node: Lutialpui The Giantess
 
-**Tags:** #culture #mythology #folklore #legends #Mizoram #research #Spirituality
+
 
 ## 1. Narrative Classification
 - **Category**: Myth

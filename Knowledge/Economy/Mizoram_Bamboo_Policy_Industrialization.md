@@ -1,6 +1,20 @@
+---
+title: Mizoram Bamboo Policy and Industrialization
+category: Economy
+tags:
+- economy
+- industry
+- nature
+- bamboo
+language: mixed
+tokens: 223
+ai_ready: true
+completeness: high
+---
+
 # Mizoram Bamboo Policy and Industrialization
 
-**Tags:** #economy #industry #nature #bamboo
+
 
 Mizoram holds approximately 14% of India’s total bamboo stock. The **Mizoram Bamboo Policy** is the state's strategic blueprint to transition from "Wild Extraction" to "Industrial Manufacturing."
 

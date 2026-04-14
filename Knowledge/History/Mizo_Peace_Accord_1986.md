@@ -1,6 +1,23 @@
+---
+title: Mizo Peace Accord 1986
+category: History
+tags:
+- politics
+- history
+- independence
+- Mizoram
+- research
+- Diplomacy
+- MNF
+language: mixed
+tokens: 174
+ai_ready: true
+completeness: high
+---
+
 ﻿# Political Node: Mizo Peace Accord 1986
 
-**Tags:** #politics #history #independence #Mizoram #research #Diplomacy #MNF
+
 
 ## 1. Historical Classification
 - **Category**: Diplomacy

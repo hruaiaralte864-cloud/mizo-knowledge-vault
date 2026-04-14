@@ -1,6 +1,23 @@
+---
+title: Administrative Training Institute
+category: Institutions
+tags:
+- governance
+- education
+- medical
+- institutions
+- Mizoram
+- research
+- Aizawl
+language: mixed
+tokens: 165
+ai_ready: true
+completeness: high
+---
+
 ﻿# Institutional Node: Administrative Training Institute
 
-**Tags:** #governance #education #medical #institutions #Mizoram #research #Aizawl
+
 
 ## 1. Statutory Classification
 - **Category**: Government

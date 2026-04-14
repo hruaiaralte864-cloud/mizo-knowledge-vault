@@ -1,6 +1,20 @@
+---
+title: 'Traditional Grievance Redressal: The Penalty System'
+category: Governance
+tags:
+- governance
+- law
+- culture
+- justice
+language: mixed
+tokens: 226
+ai_ready: true
+completeness: high
+---
+
 # Traditional Grievance Redressal: The Penalty System
 
-**Tags:** #governance #law #culture #justice
+
 
 Mizo society has always been "Highly Regularized." Even before written laws, the village used a sophisticated system of social penalties to maintain order.
 

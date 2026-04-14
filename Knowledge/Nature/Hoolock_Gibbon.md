@@ -1,6 +1,25 @@
+---
+title: Hoolock Gibbon
+category: Nature
+tags:
+- science
+- nature
+- wildlife
+- ecology
+- Mizoram
+- Hoolock
+- hoolock.Replace('
+- '''_'')'
+- research
+language: mixed
+tokens: 144
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Species Profile: Western Hoolock Gibbon
 
-**Tags:** #science #nature #wildlife #ecology #Mizoram #Hoolock hoolock.Replace(' ', '_') #research
+
 
 ## 1. Biological Classification
 - **Common Name**: Western Hoolock Gibbon

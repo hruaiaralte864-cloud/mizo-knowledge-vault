@@ -1,6 +1,23 @@
+---
+title: Academy Award Mizo Recipients
+category: Literature
+tags:
+- literature
+- authors
+- poetry
+- novels
+- Mizoram
+- research
+- Academy
+language: mixed
+tokens: 189
+ai_ready: true
+completeness: high
+---
+
 ﻿# Literary Node: Academy Award Mizo Recipients
 
-**Tags:** #literature #authors #poetry #novels #Mizoram #research #Academy
+
 
 ## 1. Literary Classification
 - **Category**: Awards

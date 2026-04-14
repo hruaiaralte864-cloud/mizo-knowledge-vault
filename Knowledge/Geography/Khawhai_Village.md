@@ -1,6 +1,18 @@
+---
+title: Khawhai Village
+category: Geography
+tags:
+- geography
+- village
+language: mixed
+tokens: 93
+ai_ready: true
+completeness: medium
+---
+
 # Khawhai Village
 
-**Tags:** #geography #village
+
 
 **Khawhai** is a major village in the Khawzawl district (formerly Champhai). It is strategically located on the main road connecting the central hills to the eastern borders.
 

@@ -1,6 +1,24 @@
+---
+title: Sai-ngho Earrings
+category: Culture
+tags:
+- culture
+- arts
+- crafts
+- weaving
+- Puan
+- basketry
+- Mizoram
+- research
+language: mixed
+tokens: 162
+ai_ready: true
+completeness: high
+---
+
 ﻿# Arts & Crafts Node: Sai-ngho Earrings
 
-**Tags:** #culture #arts #crafts #weaving #Puan #basketry #Mizoram #research
+
 
 ## 1. Technical Classification
 - **Category**: Jewelry

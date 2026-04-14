@@ -1,6 +1,19 @@
+---
+title: Areca Nut (Kuhva) and its Impact on Mizo Soil
+category: Nature
+tags:
+- nature
+- agriculture
+- ecology
+language: mixed
+tokens: 270
+ai_ready: true
+completeness: high
+---
+
 # Areca Nut (Kuhva) and its Impact on Mizo Soil
 
-**Tags:** #nature #agriculture #ecology
+
 
 Areca nut (*Kuhva*) cultivation has become a dominant feature of the landscape in the **[[Kolasib_District]]** and **[[Mamit_District]]**. While economically lucrative, its long-term impact on the Mizo hills' soil health is a subject of intense scientific study.
 

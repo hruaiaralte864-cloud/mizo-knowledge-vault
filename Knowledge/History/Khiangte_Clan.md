@@ -1,6 +1,19 @@
+---
+title: Khiangte Clan
+category: History
+tags:
+- history
+- clan
+- society
+language: mixed
+tokens: 141
+ai_ready: true
+completeness: medium
+---
+
 # Khiangte Clan
 
-**Tags:** #history #clan #society
+
 
 The **Khiangte** are an ancient and respected Mizo clan. Historically, they were known as a "silent but strong" group, often allied with the Lusei but maintaining their own ancestral traditions.
 

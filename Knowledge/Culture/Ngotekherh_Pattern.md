@@ -1,6 +1,24 @@
+---
+title: Ngotekherh Pattern
+category: Culture
+tags:
+- culture
+- arts
+- crafts
+- weaving
+- Puan
+- basketry
+- Mizoram
+- research
+language: mixed
+tokens: 166
+ai_ready: true
+completeness: high
+---
+
 ﻿# Arts & Crafts Node: Ngotekherh Pattern
 
-**Tags:** #culture #arts #crafts #weaving #Puan #basketry #Mizoram #research
+
 
 ## 1. Technical Classification
 - **Category**: Puan

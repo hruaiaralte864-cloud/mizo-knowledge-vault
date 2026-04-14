@@ -1,6 +1,19 @@
+---
+title: 'B. Lalthangliana: Research on Mizo Ancient History'
+category: Biographies
+tags:
+- biography
+- history
+- literature
+language: mixed
+tokens: 213
+ai_ready: true
+completeness: high
+---
+
 # B. Lalthangliana: Research on Mizo Ancient History
 
-**Tags:** #biography #history #literature
+
 
 **B. Lalthangliana** is one of the most respected historians and literary figures in Mizoram. His deep research into the origins of the Mizo people has transformed our understanding of the community's pre-colonial era.
 

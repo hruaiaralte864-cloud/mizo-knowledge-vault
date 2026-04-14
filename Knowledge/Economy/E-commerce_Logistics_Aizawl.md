@@ -1,6 +1,24 @@
+---
+title: E-commerce Logistics Aizawl
+category: Economy
+tags:
+- economy
+- tech
+- startups
+- innovation
+- Mizoram
+- research
+- Aizawl
+- '2026'
+language: mixed
+tokens: 161
+ai_ready: true
+completeness: high
+---
+
 ﻿# Economy Node: E-commerce Logistics Aizawl
 
-**Tags:** #economy #tech #startups #innovation #Mizoram #research #Aizawl #2026
+
 
 ## 1. Sectoral Classification
 - **Category**: Logistics

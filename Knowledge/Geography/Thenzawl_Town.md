@@ -1,6 +1,19 @@
+---
+title: Thenzawl Town
+category: Geography
+tags:
+- geography
+- textile
+- tourism
+language: mixed
+tokens: 85
+ai_ready: true
+completeness: medium
+---
+
 # Thenzawl Town
 
-**Tags:** #geography #textile #tourism
+
 
 **Thenzawl** is one of the few large flat valleys in Mizoram and is a major center for **[[Puan|Mizo Handloom]]**.
 

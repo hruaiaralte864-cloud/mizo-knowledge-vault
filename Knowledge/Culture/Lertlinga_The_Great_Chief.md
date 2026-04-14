@@ -1,6 +1,23 @@
+---
+title: Lertlinga The Great Chief
+category: Culture
+tags:
+- culture
+- mythology
+- folklore
+- legends
+- Mizoram
+- research
+- Spirituality
+language: mixed
+tokens: 193
+ai_ready: true
+completeness: high
+---
+
 ﻿# Mythology Node: Lertlinga The Great Chief
 
-**Tags:** #culture #mythology #folklore #legends #Mizoram #research #Spirituality
+
 
 ## 1. Narrative Classification
 - **Category**: Historical Legend

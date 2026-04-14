@@ -1,6 +1,24 @@
+---
+title: Mizo Skill Development Mission
+category: Economy
+tags:
+- economy
+- tech
+- startups
+- innovation
+- Mizoram
+- research
+- Aizawl
+- '2026'
+language: mixed
+tokens: 161
+ai_ready: true
+completeness: high
+---
+
 ﻿# Economy Node: Mizo Skill Development Mission
 
-**Tags:** #economy #tech #startups #innovation #Mizoram #research #Aizawl #2026
+
 
 ## 1. Sectoral Classification
 - **Category**: Policy/Education

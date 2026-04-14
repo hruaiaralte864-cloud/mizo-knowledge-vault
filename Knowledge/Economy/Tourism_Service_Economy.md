@@ -1,6 +1,24 @@
+---
+title: Tourism Service Economy
+category: Economy
+tags:
+- economy
+- tech
+- startups
+- innovation
+- Mizoram
+- research
+- Aizawl
+- '2026'
+language: mixed
+tokens: 158
+ai_ready: true
+completeness: high
+---
+
 ﻿# Economy Node: Tourism Service Economy
 
-**Tags:** #economy #tech #startups #innovation #Mizoram #research #Aizawl #2026
+
 
 ## 1. Sectoral Classification
 - **Category**: Service

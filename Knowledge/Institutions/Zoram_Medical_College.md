@@ -1,6 +1,23 @@
+---
+title: Zoram Medical College
+category: Institutions
+tags:
+- governance
+- education
+- medical
+- institutions
+- Mizoram
+- research
+- Aizawl
+language: mixed
+tokens: 166
+ai_ready: true
+completeness: high
+---
+
 ﻿# Institutional Node: Zoram Medical College
 
-**Tags:** #governance #education #medical #institutions #Mizoram #research #Aizawl
+
 
 ## 1. Statutory Classification
 - **Category**: Medical

@@ -1,6 +1,20 @@
+---
+title: 'Mizo Dialect Attrition: Biate, Hrangkhawl, and Mualthuam'
+category: Language
+tags:
+- language
+- linguistics
+- culture
+- biodiversity
+language: mixed
+tokens: 174
+ai_ready: true
+completeness: high
+---
+
 # Mizo Dialect Attrition: Biate, Hrangkhawl, and Mualthuam
 
-**Tags:** #language #linguistics #culture #biodiversity
+
 
 While **Duhlian** is the standard Mizo language, several minor dialects within the **[[Zohnahthlak]]** umbrella are facing attrition.
 

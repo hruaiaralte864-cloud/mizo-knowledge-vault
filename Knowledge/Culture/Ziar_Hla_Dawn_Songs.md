@@ -1,6 +1,23 @@
+---
+title: Ziar Hla Dawn Songs
+category: Culture
+tags:
+- culture
+- music
+- instruments
+- songs
+- Mizoram
+- research
+- Acoustics
+language: mixed
+tokens: 163
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Musical Node: Ziar Hla Dawn Songs
 
-**Tags:** #culture #music #instruments #songs #Mizoram #research #Acoustics
+
 
 ## 1. Technical Classification
 - **Category**: Song Form

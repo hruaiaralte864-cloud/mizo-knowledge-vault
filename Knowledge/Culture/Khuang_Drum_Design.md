@@ -1,6 +1,24 @@
+---
+title: Khuang Drum Design
+category: Culture
+tags:
+- culture
+- arts
+- crafts
+- weaving
+- Puan
+- basketry
+- Mizoram
+- research
+language: mixed
+tokens: 171
+ai_ready: true
+completeness: high
+---
+
 ﻿# Arts & Crafts Node: Khuang Drum Design
 
-**Tags:** #culture #arts #crafts #weaving #Puan #basketry #Mizoram #research
+
 
 ## 1. Technical Classification
 - **Category**: Instrument

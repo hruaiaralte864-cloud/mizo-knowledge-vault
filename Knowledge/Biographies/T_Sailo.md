@@ -1,6 +1,19 @@
+---
+title: Brigadier T. Sailo
+category: Biographies
+tags:
+- biography
+- politics
+- military
+language: mixed
+tokens: 97
+ai_ready: true
+completeness: medium
+---
+
 # Brigadier T. Sailo
 
-**Tags:** #biography #politics #military
+
 
 **Brigadier T. Sailo** (1922–2015) was a unique figure who served in the Indian Army before returning to Mizoram to enter politics.
 

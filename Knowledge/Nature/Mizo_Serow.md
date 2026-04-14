@@ -1,8 +1,21 @@
+---
+title: Himalayan Serow (Capricornis thar)
+category: Nature
+tags:
+- fauna
+- wildlife
+- state_symbol
+language: mixed
+tokens: 117
+ai_ready: true
+completeness: medium
+---
+
 # Himalayan Serow (Capricornis thar)
 
 **Mizo Name:** Saza
 
-**Tags:** #fauna #wildlife #state_symbol
+
 
 The **Himalayan Serow** is the **State Animal of Mizoram**.
 

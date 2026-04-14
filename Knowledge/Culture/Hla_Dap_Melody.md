@@ -1,6 +1,23 @@
+---
+title: Hla Dap Melody
+category: Culture
+tags:
+- culture
+- music
+- instruments
+- songs
+- Mizoram
+- research
+- Acoustics
+language: mixed
+tokens: 159
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Musical Node: Hla Dap Melody
 
-**Tags:** #culture #music #instruments #songs #Mizoram #research #Acoustics
+
 
 ## 1. Technical Classification
 - **Category**: Song Form

@@ -1,6 +1,23 @@
+---
+title: Ar-chhiar-inkhelh
+category: Culture
+tags:
+- culture
+- sports
+- games
+- fitness
+- Mizoram
+- research
+- PhysicalEducation
+language: mixed
+tokens: 163
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Traditional Game: Ar-chhiar-inkhelh
 
-**Tags:** #culture #sports #games #fitness #Mizoram #research #PhysicalEducation
+
 
 ## 1. Game Classification
 - **Category**: Skill

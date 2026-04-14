@@ -1,6 +1,18 @@
+---
+title: Mizo Marriage Traditions
+category: Culture
+tags:
+- culture
+- society
+language: mixed
+tokens: 171
+ai_ready: true
+completeness: medium
+---
+
 # Mizo Marriage Traditions
 
-**Tags:** #culture #society
+
 
 A Mizo wedding today is simultaneously a deeply customary and a modern Christian affair.
 

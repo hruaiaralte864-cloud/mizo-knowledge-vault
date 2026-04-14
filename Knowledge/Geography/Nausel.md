@@ -1,6 +1,23 @@
+---
+title: Nausel
+category: Geography
+tags:
+- geography
+- village
+- Aizawl
+- AizawlDistrict
+- Mizoram
+- research
+- AizawlRegion
+language: mixed
+tokens: 114
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Village Node: Nausel
 
-**Tags:** #geography #village #Aizawl #AizawlDistrict #Mizoram #research #AizawlRegion
+
 
 ## 1. Administrative Location
 - **District**: [[AizawlDistrict]]

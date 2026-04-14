@@ -1,6 +1,23 @@
+---
+title: Sawhchiar Rice Porridge
+category: Culture
+tags:
+- culture
+- cuisine
+- culinary
+- food
+- Mizoram
+- research
+- Nutrition
+language: mixed
+tokens: 169
+ai_ready: true
+completeness: high
+---
+
 ﻿# Culinary Node: Sawhchiar Rice Porridge
 
-**Tags:** #culture #cuisine #culinary #food #Mizoram #research #Nutrition
+
 
 ## 1. Gastronomic Profile
 - **Category**: Main Course

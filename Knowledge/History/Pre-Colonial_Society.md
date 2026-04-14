@@ -1,6 +1,18 @@
+---
+title: Pre-Colonial Mizo Society
+category: History
+tags:
+- history
+- society
+language: mixed
+tokens: 123
+ai_ready: true
+completeness: medium
+---
+
 # Pre-Colonial Mizo Society
 
-**Tags:** #history #society
+
 
 Before British annexation in 1891, Mizo society was organized entirely around the autonomous [[Village_System|village]] under a hereditary chief called the **[[Lal_System|Lal]]**.
 

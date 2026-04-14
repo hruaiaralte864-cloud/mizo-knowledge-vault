@@ -1,6 +1,19 @@
+---
+title: 'Mizo Choral Science: The Solfa Tradition'
+category: Culture
+tags:
+- culture
+- music
+- science
+language: mixed
+tokens: 239
+ai_ready: true
+completeness: high
+---
+
 # Mizo Choral Science: The Solfa Tradition
 
-**Tags:** #culture #music #science
+
 
 The Mizo people are world-renowned for their choral singing. Unlike Western staff notation, the Mizos use a customized **Tonic Solfa** system introduced by early Welsh missionaries like **[[J_H_Lorrain_Pu_Buanga]]**.
 

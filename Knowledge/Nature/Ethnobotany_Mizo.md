@@ -1,6 +1,19 @@
+---
+title: "Mizo Ethnobotany \u2014 Plants in Culture"
+category: Nature
+tags:
+- nature
+- culture
+- medicine
+language: mixed
+tokens: 223
+ai_ready: true
+completeness: high
+---
+
 # Mizo Ethnobotany — Plants in Culture
 
-**Tags:** #nature #culture #medicine
+
 
 The Mizo people accumulated centuries of empirical knowledge about the medicinal and practical properties of their forest plants — a body of knowledge largely held by elder women and former Bawlpu (shamans).
 

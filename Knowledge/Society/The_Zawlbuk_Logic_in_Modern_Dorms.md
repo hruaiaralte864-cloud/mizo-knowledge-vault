@@ -1,6 +1,19 @@
+---
+title: The Zawlbuk Logic in Modern Mizo Dormitories
+category: Society
+tags:
+- society
+- architecture
+- education
+language: mixed
+tokens: 230
+ai_ready: true
+completeness: high
+---
+
 # The Zawlbuk Logic in Modern Mizo Dormitories
 
-**Tags:** #society #architecture #education
+
 
 While the physical **[[Zawlbuk]]** (bachelor's dormitory) disappeared with the advent of Christianity, its underlying social logic remains a powerful force in modern Mizo educational institutions.
 

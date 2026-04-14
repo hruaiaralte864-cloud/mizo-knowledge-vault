@@ -1,6 +1,23 @@
+---
+title: Chhia-vawk
+category: Nature
+tags:
+- science
+- nature
+- botany
+- medicine
+- HnimHna
+- research
+- Pharmacopoeia
+language: mixed
+tokens: 118
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Ethnobotany: Chhia vawk
 
-**Tags:** #science #nature #botany #medicine #HnimHna #research #Pharmacopoeia
+
 
 ## 1. Botanical Identity
 - **Mizo Name**: Chhia vawk

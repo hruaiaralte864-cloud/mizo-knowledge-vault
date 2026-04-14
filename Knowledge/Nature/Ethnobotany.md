@@ -1,8 +1,15 @@
 ---
 title: Mizo Ethnobotany & Traditional Medicine
-tags: [nature, science, culture, medicine]
-status: permanent
-created: 2026-04-14
+category: Nature
+tags:
+- nature
+- science
+- culture
+- medicine
+language: mixed
+tokens: 261
+ai_ready: true
+completeness: high
 ---
 
 # Mizo Ethnobotany & Traditional Medicine

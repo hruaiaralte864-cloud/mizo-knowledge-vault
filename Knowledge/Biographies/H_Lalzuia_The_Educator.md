@@ -1,6 +1,19 @@
+---
+title: H. Lalzuia (The Educator of Lunglei)
+category: Biographies
+tags:
+- biography
+- education
+- society
+language: mixed
+tokens: 209
+ai_ready: true
+completeness: high
+---
+
 # H. Lalzuia (The Educator of Lunglei)
 
-**Tags:** #biography #education #society
+
 
 **H. Lalzuia** was a pioneering educator who dedicated his life to spreading literacy in southern Mizoram, particularly in the **[[Lunglei_District]]**.
 

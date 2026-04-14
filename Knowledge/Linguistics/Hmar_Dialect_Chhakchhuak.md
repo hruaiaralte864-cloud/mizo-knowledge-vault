@@ -1,6 +1,23 @@
+---
+title: Hmar Dialect Chhakchhuak
+category: Linguistics
+tags:
+- linguistics
+- dialect
+- Hmar
+- Northern
+- Mizoram
+- MizoLanguage
+- research
+language: mixed
+tokens: 140
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Linguistic Node: Hmar Dialect Chhakchhuak
 
-**Tags:** #linguistics #dialect #Hmar #Northern Mizoram #MizoLanguage #research
+
 
 ## 1. Taxonomic Classification
 - **Primary Group**: [[HmarLanguage]]

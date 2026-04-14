@@ -1,6 +1,18 @@
+---
+title: All India Radio (AIR) Aizawl
+category: Media
+tags:
+- media
+- history
+language: mixed
+tokens: 41
+ai_ready: true
+completeness: low
+---
+
 # All India Radio (AIR) Aizawl
 
-**Tags:** #media #history
+
 
 The historic role of radio in bringing the Mizo language and music to the furthest valleys before the satellite era.
 

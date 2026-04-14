@@ -1,6 +1,23 @@
+---
+title: Mental Health Awareness Mizoram
+category: Society
+tags:
+- society
+- health
+- education
+- welfare
+- Mizoram
+- research
+- NGO
+language: mixed
+tokens: 172
+ai_ready: true
+completeness: high
+---
+
 ﻿# Society Node: Mental Health Awareness Mizoram
 
-**Tags:** #society #health #education #welfare #Mizoram #research #NGO
+
 
 ## 1. Domain Classification
 - **Category**: Health

@@ -1,6 +1,19 @@
+---
+title: Anti-Corruption Culture in Mizoram
+category: Governance
+tags:
+- governance
+- society
+- reform
+language: mixed
+tokens: 226
+ai_ready: true
+completeness: high
+---
+
 # Anti-Corruption Culture in Mizoram
 
-**Tags:** #governance #society #reform
+
 
 Mizoram has a distinctive "Anti-Corruption Culture" that is driven as much by civil society vigilance as it is by formal state institutions. This culture is a legacy of both traditional ethics and early political reformism.
 

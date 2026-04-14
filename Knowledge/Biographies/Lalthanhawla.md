@@ -1,6 +1,19 @@
+---
+title: Lal Thanhawla (Five-Time Chief Minister)
+category: Biographies
+tags:
+- biography
+- politics
+- modern
+language: mixed
+tokens: 83
+ai_ready: true
+completeness: medium
+---
+
 # Lal Thanhawla (Five-Time Chief Minister)
 
-**Tags:** #biography #politics #modern
+
 
 **Lal Thanhawla** is the longest-serving Chief Minister of Mizoram.
 

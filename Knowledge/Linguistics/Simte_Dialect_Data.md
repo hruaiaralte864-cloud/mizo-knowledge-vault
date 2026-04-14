@@ -1,6 +1,23 @@
+---
+title: Simte Dialect Data
+category: Linguistics
+tags:
+- linguistics
+- dialect
+- Simte
+- Eastern
+- Champhai
+- MizoLanguage
+- research
+language: mixed
+tokens: 140
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Linguistic Node: Simte Dialect Data
 
-**Tags:** #linguistics #dialect #Simte #Eastern Champhai #MizoLanguage #research
+
 
 ## 1. Taxonomic Classification
 - **Primary Group**: [[SimteLanguage]]

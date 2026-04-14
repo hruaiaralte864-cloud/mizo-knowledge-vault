@@ -1,6 +1,19 @@
+---
+title: Traditional Storytelling (Thawnthu) and Modern Nites
+category: Society
+tags:
+- society
+- culture
+- oral_tradition
+language: mixed
+tokens: 237
+ai_ready: true
+completeness: high
+---
+
 # Traditional Storytelling (Thawnthu) and Modern Nites
 
-**Tags:** #society #culture #oral_tradition
+
 
 The art of storytelling, or **Thawnthu**, is the primary medium through which the history, values, and mythology of the Mizo people have been preserved for centuries.
 

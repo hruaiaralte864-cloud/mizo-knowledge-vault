@@ -1,6 +1,19 @@
+---
+title: 'Mizo Choir Uniforms: A Fabric of Identity'
+category: Culture
+tags:
+- culture
+- textiles
+- society
+language: mixed
+tokens: 244
+ai_ready: true
+completeness: high
+---
+
 # Mizo Choir Uniforms: A Fabric of Identity
 
-**Tags:** #culture #textiles #society
+
 
 The **Mizo Choir** is a global cultural ambassador, and the uniforms worn by these choirs are sophisticated symbols of Mizo identity, blending traditional textiles with modern choral aesthetics.
 

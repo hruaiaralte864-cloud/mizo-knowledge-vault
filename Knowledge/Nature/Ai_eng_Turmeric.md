@@ -1,6 +1,22 @@
+---
+title: Ai eng Turmeric
+category: Nature
+tags:
+- science
+- nature
+- botany
+- medicine
+- HnimHna
+- research
+language: mixed
+tokens: 118
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Ethnobotany: Ai eng Turmeric
 
-**Tags:** #science #nature #botany #medicine #HnimHna #research
+
 
 ## 1. Botanical Identity
 - **Mizo Name**: Ai eng Turmeric

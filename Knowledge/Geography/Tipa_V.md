@@ -1,6 +1,22 @@
+---
+title: Tipa V
+category: Geography
+tags:
+- geography
+- village
+- Siaha
+- SiahaDistrict
+- Mizoram
+- research
+language: mixed
+tokens: 114
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Village Node: Tipa V
 
-**Tags:** #geography #village #Siaha #SiahaDistrict #Mizoram #research
+
 
 ## 1. Administrative Location
 - **District**: [[SiahaDistrict]]

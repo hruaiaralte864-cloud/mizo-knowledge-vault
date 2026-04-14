@@ -1,6 +1,25 @@
+---
+title: Great Indian Hornbill
+category: Nature
+tags:
+- science
+- nature
+- wildlife
+- ecology
+- Mizoram
+- Buceros
+- bicornis.Replace('
+- '''_'')'
+- research
+language: mixed
+tokens: 133
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Species Profile: Hornbill
 
-**Tags:** #science #nature #wildlife #ecology #Mizoram #Buceros bicornis.Replace(' ', '_') #research
+
 
 ## 1. Biological Classification
 - **Common Name**: Hornbill

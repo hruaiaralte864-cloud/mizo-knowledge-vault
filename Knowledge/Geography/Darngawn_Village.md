@@ -1,6 +1,19 @@
+---
+title: Darngawn Village
+category: Geography
+tags:
+- geography
+- village
+- agriculture
+language: mixed
+tokens: 179
+ai_ready: true
+completeness: high
+---
+
 # Darngawn Village
 
-**Tags:** #geography #village #agriculture
+
 
 **Darngawn** is a picturesque village located in the Aizawl district. It is widely recognized for its agricultural productivity and the organized nature of its village administration.
 

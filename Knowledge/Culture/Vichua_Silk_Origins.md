@@ -1,6 +1,23 @@
+---
+title: Vichua Silk Origins
+category: Culture
+tags:
+- culture
+- fashion
+- textiles
+- weaving
+- Mizoram
+- research
+- Chemistry
+language: mixed
+tokens: 169
+ai_ready: true
+completeness: high
+---
+
 ﻿# Textile Node: Vichua Silk Origins
 
-**Tags:** #culture #fashion #textiles #weaving #Mizoram #research #Chemistry
+
 
 ## 1. Technical Classification
 - **Category**: Material

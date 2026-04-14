@@ -1,6 +1,23 @@
+---
+title: Zawlbuk Spirits
+category: Culture
+tags:
+- culture
+- mythology
+- folklore
+- legends
+- Mizoram
+- research
+- Spirituality
+language: mixed
+tokens: 183
+ai_ready: true
+completeness: high
+---
+
 ﻿# Mythology Node: Zawlbuk Spirits
 
-**Tags:** #culture #mythology #folklore #legends #Mizoram #research #Spirituality
+
 
 ## 1. Narrative Classification
 - **Category**: Superstition

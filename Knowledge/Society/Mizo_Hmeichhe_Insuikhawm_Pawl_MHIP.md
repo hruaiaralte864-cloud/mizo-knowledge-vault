@@ -1,6 +1,23 @@
+---
+title: Mizo Hmeichhe Insuikhawm Pawl MHIP
+category: Society
+tags:
+- society
+- health
+- education
+- welfare
+- Mizoram
+- research
+- NGO
+language: mixed
+tokens: 175
+ai_ready: true
+completeness: high
+---
+
 ﻿# Society Node: Mizo Hmeichhe Insuikhawm Pawl MHIP
 
-**Tags:** #society #health #education #welfare #Mizoram #research #NGO
+
 
 ## 1. Domain Classification
 - **Category**: Social

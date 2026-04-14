@@ -1,6 +1,19 @@
+---
+title: Lalremsiami (born 1999)
+category: Biographies
+tags:
+- biography
+- sports
+- hockey
+language: mixed
+tokens: 195
+ai_ready: true
+completeness: high
+---
+
 # Lalremsiami (born 1999)
 
-**Tags:** #biography #sports #hockey
+
 
 **Lalremsiami** is an Indian field hockey player from Mizoram who plays as a forward for the Indian women's national hockey team. She is the most celebrated Mizo sportswoman.
 

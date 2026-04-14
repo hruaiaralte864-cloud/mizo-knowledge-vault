@@ -1,6 +1,20 @@
+---
+title: 'Mizo Philosophy of Living: Tlawmngaihna and Beyond'
+category: Culture
+tags:
+- culture
+- philosophy
+- ethics
+- society
+language: mixed
+tokens: 260
+ai_ready: true
+completeness: high
+---
+
 # Mizo Philosophy of Living: Tlawmngaihna and Beyond
 
-**Tags:** #culture #philosophy #ethics #society
+
 
 The Mizo people operate under a distinct philosophical framework that prioritizes communal survival and social altruism over individual gain.
 

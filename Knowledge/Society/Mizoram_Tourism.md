@@ -1,6 +1,19 @@
+---
+title: Tourism in Mizoram
+category: Society
+tags:
+- society
+- economy
+- geography
+language: mixed
+tokens: 187
+ai_ready: true
+completeness: high
+---
+
 # Tourism in Mizoram
 
-**Tags:** #society #economy #geography
+
 
 Mizoram is one of India's least visited yet most visually and culturally remarkable states. The **[[Inner_Line_Permit]]** requirement for non-native Indian visitors historically suppressed tourist arrivals, but the state's government has actively promoted ecotourism and cultural tourism.
 

@@ -1,6 +1,22 @@
+---
+title: Chhakchhuak Lineage
+category: History
+tags:
+- genealogy
+- clan
+- history
+- Chhakchhuak
+- Zohnahthlak
+- research
+language: mixed
+tokens: 139
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Clan Node: Chhakchhuak Lineage
 
-**Tags:** #genealogy #clan #history #Chhakchhuak #Zohnahthlak #research
+
 
 ## 1. Lineage Classification
 - **Primary Group**: Chhakchhuak

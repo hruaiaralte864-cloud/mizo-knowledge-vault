@@ -1,6 +1,19 @@
+---
+title: 'Laldenga: The Historic Return (1986)'
+category: Biographies
+tags:
+- history
+- biography
+- peace_accord
+language: mixed
+tokens: 280
+ai_ready: true
+completeness: high
+---
+
 # Laldenga: The Historic Return (1986)
 
-**Tags:** #history #biography #peace_accord
+
 
 The return of **Laldenga**, the supreme leader of the Mizo National Front (MNF), to Aizawl in 1986 is one of the most emotional and significant events in modern Mizo history. It marked the end of 20 years of armed insurgency and the beginning of Mizoram's journey as a peaceful state of the Indian Union.
 

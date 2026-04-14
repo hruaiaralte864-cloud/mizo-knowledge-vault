@@ -1,6 +1,20 @@
+---
+title: Kaladan Multi-Modal Transit Transport Project (KMMTTP)
+category: Modern
+tags:
+- modern
+- logistics
+- geopolitics
+- act_east
+language: mixed
+tokens: 266
+ai_ready: true
+completeness: high
+---
+
 # Kaladan Multi-Modal Transit Transport Project (KMMTTP)
 
-**Tags:** #modern #logistics #geopolitics #act_east
+
 
 The **Kaladan Multi-Modal Transit Transport Project (KMMTTP)** is a massive international infrastructure project designed to connect the eastern Indian seaport of Kolkata with the landlocked state of Mizoram via the Kaladan River in Myanmar.
 

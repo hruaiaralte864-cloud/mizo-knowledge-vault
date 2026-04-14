@@ -1,6 +1,20 @@
+---
+title: 'Mizo Weapons Science: Metallurgy and Physics'
+category: Technology
+tags:
+- tech
+- history
+- science
+- weapons
+language: mixed
+tokens: 214
+ai_ready: true
+completeness: high
+---
+
 # Mizo Weapons Science: Metallurgy and Physics
 
-**Tags:** #tech #history #science #weapons
+
 
 Mizo weaponry evolved specifically for guerrilla warfare in dense bamboo jungles, prioritizing reliability and local materials.
 

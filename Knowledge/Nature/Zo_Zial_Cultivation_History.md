@@ -1,6 +1,19 @@
+---
+title: 'Zo Zial: The History of Mizo Tobacco Cultivation'
+category: Nature
+tags:
+- nature
+- agriculture
+- tradition
+language: mixed
+tokens: 257
+ai_ready: true
+completeness: high
+---
+
 # Zo Zial: The History of Mizo Tobacco Cultivation
 
-**Tags:** #nature #agriculture #tradition
+
 
 **Zo Zial** refers to the locally grown tobacco that has been a staple of Mizo social life for centuries. Its cultivation is deeply intertwined with traditional Mizo agricultural practices.
 

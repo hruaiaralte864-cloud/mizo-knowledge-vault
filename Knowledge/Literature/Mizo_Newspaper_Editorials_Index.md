@@ -1,6 +1,23 @@
+---
+title: Mizo Newspaper Editorials Index
+category: Literature
+tags:
+- literature
+- authors
+- poetry
+- novels
+- Mizoram
+- research
+- Academy
+language: mixed
+tokens: 183
+ai_ready: true
+completeness: high
+---
+
 ﻿# Literary Node: Mizo Newspaper Editorials Index
 
-**Tags:** #literature #authors #poetry #novels #Mizoram #research #Academy
+
 
 ## 1. Literary Classification
 - **Category**: Media/Lit

@@ -1,6 +1,23 @@
+---
+title: Zokhawthar Town
+category: Geography
+tags:
+- geography
+- township
+- Champhai
+- ChamphaiDistrict
+- Mizoram
+- research
+- UrbanPlanning
+language: mixed
+tokens: 139
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Township Node: Zokhawthar Town
 
-**Tags:** #geography #township #Champhai #ChamphaiDistrict #Mizoram #research #UrbanPlanning
+
 
 ## 1. Administrative Location
 - **District**: [[ChamphaiDistrict]]

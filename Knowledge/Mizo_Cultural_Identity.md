@@ -1,8 +1,14 @@
 ---
-title: Mizo Cultural Identity & The "Zohnahthlâk" Ethos
-tags: [culture, identity, society]
-status: permanent
-created: 2026-04-14
+title: 'Mizo Cultural Identity: The Essence of "Tlawmngaihna"'
+category: Knowledge
+tags:
+- culture
+- identity
+- society
+language: mixed
+tokens: 299
+ai_ready: true
+completeness: high
 ---
 
 # Mizo Cultural Identity: The Essence of "Tlawmngaihna"

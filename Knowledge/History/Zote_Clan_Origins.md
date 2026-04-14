@@ -1,6 +1,22 @@
+---
+title: Zote Clan Origins
+category: History
+tags:
+- genealogy
+- clan
+- history
+- Zote
+- Zohnahthlak
+- research
+language: mixed
+tokens: 143
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Clan Node: Zote Clan Origins
 
-**Tags:** #genealogy #clan #history #Zote #Zohnahthlak #research
+
 
 ## 1. Lineage Classification
 - **Primary Group**: Zote

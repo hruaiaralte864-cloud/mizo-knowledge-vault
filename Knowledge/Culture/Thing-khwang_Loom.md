@@ -1,6 +1,24 @@
+---
+title: Thing-khwang Loom
+category: Culture
+tags:
+- culture
+- arts
+- crafts
+- weaving
+- Puan
+- basketry
+- Mizoram
+- research
+language: mixed
+tokens: 162
+ai_ready: true
+completeness: high
+---
+
 ﻿# Arts & Crafts Node: Thing-khwang Loom
 
-**Tags:** #culture #arts #crafts #weaving #Puan #basketry #Mizoram #research
+
 
 ## 1. Technical Classification
 - **Category**: Tools

@@ -1,6 +1,19 @@
+---
+title: Women in the MNF Resistance
+category: Society
+tags:
+- society
+- history
+- politics
+language: mixed
+tokens: 96
+ai_ready: true
+completeness: medium
+---
+
 # Women in the MNF Resistance
 
-**Tags:** #society #history #politics
+
 
 During the insurgency years (1966–1986), Mizo women played a silent but critical role in the resistance.
 

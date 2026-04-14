@@ -1,6 +1,23 @@
+---
+title: Nunglo The Spirit Child
+category: Culture
+tags:
+- culture
+- mythology
+- folklore
+- legends
+- Mizoram
+- research
+- Spirituality
+language: mixed
+tokens: 192
+ai_ready: true
+completeness: high
+---
+
 ﻿# Mythology Node: Nunglo The Spirit Child
 
-**Tags:** #culture #mythology #folklore #legends #Mizoram #research #Spirituality
+
 
 ## 1. Narrative Classification
 - **Category**: Ghost Story

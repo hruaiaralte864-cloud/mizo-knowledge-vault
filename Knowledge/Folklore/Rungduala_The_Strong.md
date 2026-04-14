@@ -1,6 +1,18 @@
+---
+title: Rungduala (The Strongman)
+category: Folklore
+tags:
+- folklore
+- history
+language: mixed
+tokens: 96
+ai_ready: true
+completeness: medium
+---
+
 # Rungduala (The Strongman)
 
-**Tags:** #folklore #history
+
 
 **Rungduala** is a legendary figure in Mizo storytelling, celebrated for his superhuman physical strength and his simple, honest character.
 

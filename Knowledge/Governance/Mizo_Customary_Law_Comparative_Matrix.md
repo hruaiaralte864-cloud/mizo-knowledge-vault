@@ -1,6 +1,23 @@
+---
+title: 'Mizo Governance: Customary Law and Modern Legislation Matrix'
+category: Governance
+tags:
+- governance
+- law
+- customarylaw
+- tribalrights
+- research
+- UCC
+- IPC
+language: mixed
+tokens: 457
+ai_ready: true
+completeness: high
+---
+
 # Mizo Governance: Customary Law and Modern Legislation Matrix
 
-**Tags:** #governance #law #customarylaw #tribalrights #research #UCC #IPC
+
 
 This node provides a comparative logic matrix of Mizo Customary Law versus Indian Central Legislation, identifying the specific "Conflict and Coexistence" points essential for legal research.
 

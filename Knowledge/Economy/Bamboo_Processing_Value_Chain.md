@@ -1,6 +1,24 @@
+---
+title: Bamboo Processing Value Chain
+category: Economy
+tags:
+- economy
+- tech
+- startups
+- innovation
+- Mizoram
+- research
+- Aizawl
+- '2026'
+language: mixed
+tokens: 165
+ai_ready: true
+completeness: high
+---
+
 ﻿# Economy Node: Bamboo Processing Value Chain
 
-**Tags:** #economy #tech #startups #innovation #Mizoram #research #Aizawl #2026
+
 
 ## 1. Sectoral Classification
 - **Category**: Industry

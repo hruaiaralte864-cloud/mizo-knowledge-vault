@@ -1,6 +1,22 @@
+---
+title: Chuaungo Lineage
+category: History
+tags:
+- genealogy
+- clan
+- history
+- Chuaungo
+- Zohnahthlak
+- research
+language: mixed
+tokens: 140
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Clan Node: Chuaungo Lineage
 
-**Tags:** #genealogy #clan #history #Chuaungo #Zohnahthlak #research
+
 
 ## 1. Lineage Classification
 - **Primary Group**: Chuaungo

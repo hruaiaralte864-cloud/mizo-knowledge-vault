@@ -1,6 +1,19 @@
+---
+title: "Thangchhuah \u2014 The Prestige System"
+category: History
+tags:
+- history
+- culture
+- prestige
+language: mixed
+tokens: 154
+ai_ready: true
+completeness: medium
+---
+
 # Thangchhuah — The Prestige System
 
-**Tags:** #history #culture #prestige
+
 
 **Thangchhuah** was the ultimate social honour a Mizo man could achieve in pre-colonial society. It could be earned through two paths:
 

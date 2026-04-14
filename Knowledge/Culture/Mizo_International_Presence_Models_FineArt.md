@@ -1,6 +1,20 @@
+---
+title: 'Global Mizo: International Fashion and Fine Art'
+category: Culture
+tags:
+- culture
+- fashion
+- art
+- global
+language: mixed
+tokens: 174
+ai_ready: true
+completeness: high
+---
+
 # Global Mizo: International Fashion and Fine Art
 
-**Tags:** #culture #fashion #art #global
+
 
 The Mizo aesthetic has moved from the hills to the global stage, with a significant presence in international modeling and contemporary fine art.
 

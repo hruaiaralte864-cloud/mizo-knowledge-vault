@@ -1,6 +1,23 @@
+---
+title: Biate Town
+category: Geography
+tags:
+- geography
+- township
+- Khawzawl
+- KhawzawlDistrict
+- Mizoram
+- research
+- UrbanPlanning
+language: mixed
+tokens: 140
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Township Node: Biate Town
 
-**Tags:** #geography #township #Khawzawl #KhawzawlDistrict #Mizoram #research #UrbanPlanning
+
 
 ## 1. Administrative Location
 - **District**: [[KhawzawlDistrict]]

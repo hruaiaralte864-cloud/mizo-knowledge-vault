@@ -1,6 +1,19 @@
+---
+title: Lianchhiari Thleng
+category: Linguistics
+tags:
+- linguistics
+- idioms
+- folklore
+language: mixed
+tokens: 50
+ai_ready: true
+completeness: medium
+---
+
 # Lianchhiari Thleng
 
-**Tags:** #linguistics #idioms #folklore
+
 
 **Literal Meaning:** Lianchhiari's plate.
 

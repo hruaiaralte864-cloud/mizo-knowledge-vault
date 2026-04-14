@@ -1,6 +1,22 @@
+---
+title: Tlau Clan History
+category: History
+tags:
+- genealogy
+- clan
+- history
+- Tlau
+- Zohnahthlak
+- research
+language: mixed
+tokens: 144
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Clan Node: Tlau Clan History
 
-**Tags:** #genealogy #clan #history #Tlau #Zohnahthlak #research
+
 
 ## 1. Lineage Classification
 - **Primary Group**: Tlau

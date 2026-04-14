@@ -1,6 +1,18 @@
+---
+title: Village Council Structure
+category: Governance
+tags:
+- governance
+- society
+language: mixed
+tokens: 107
+ai_ready: true
+completeness: medium
+---
+
 # Village Council Structure
 
-**Tags:** #governance #society
+
 
 Following the abolition of the chieftainship, the **Village Council (VC)** became the primary governing body at the grassroots level in Mizoram.
 

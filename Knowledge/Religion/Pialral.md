@@ -1,6 +1,19 @@
+---
+title: "Pialral \u2014 The Mizo Paradise"
+category: Religion
+tags:
+- religion
+- afterlife
+- mythology
+language: mixed
+tokens: 174
+ai_ready: true
+completeness: medium
+---
+
 # Pialral — The Mizo Paradise
 
-**Tags:** #religion #afterlife #mythology
+
 
 **Pialral** (*Pial* = ease/bliss, *Ral* = arrive) is the Mizo concept of paradise — a beautiful afterlife realm characterised by eternal ease, joy, plentiful food, and reunion with beloved ancestors.
 

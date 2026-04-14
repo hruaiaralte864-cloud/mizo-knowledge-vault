@@ -1,6 +1,23 @@
+---
+title: Lemlawi Jaw Harp
+category: Culture
+tags:
+- culture
+- music
+- instruments
+- songs
+- Mizoram
+- research
+- Acoustics
+language: mixed
+tokens: 154
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Musical Node: Lemlawi Jaw Harp
 
-**Tags:** #culture #music #instruments #songs #Mizoram #research #Acoustics
+
 
 ## 1. Technical Classification
 - **Category**: Wind/Reed

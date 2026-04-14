@@ -1,6 +1,19 @@
+---
+title: The Autonomous District Councils (ADCs) of Mizoram
+category: Governance
+tags:
+- governance
+- politics
+- sixth_schedule
+language: mixed
+tokens: 240
+ai_ready: true
+completeness: high
+---
+
 # The Autonomous District Councils (ADCs) of Mizoram
 
-**Tags:** #governance #politics #sixth_schedule
+
 
 Mizoram is home to three **Autonomous District Councils** established under the **[[Sixth_Schedule]]** of the Constitution of India. These bodies provide self-governance to the minority ethnic groups in the southern and western hills.
 

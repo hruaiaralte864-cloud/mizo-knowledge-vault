@@ -1,6 +1,23 @@
+---
+title: Thlam Hla Hut Songs
+category: Culture
+tags:
+- culture
+- music
+- instruments
+- songs
+- Mizoram
+- research
+- Acoustics
+language: mixed
+tokens: 162
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Musical Node: Thlam Hla Hut Songs
 
-**Tags:** #culture #music #instruments #songs #Mizoram #research #Acoustics
+
 
 ## 1. Technical Classification
 - **Category**: Song Form

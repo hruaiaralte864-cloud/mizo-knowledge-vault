@@ -1,6 +1,24 @@
+---
+title: Digital Mizoram Portal
+category: Economy
+tags:
+- economy
+- tech
+- startups
+- innovation
+- Mizoram
+- research
+- Aizawl
+- '2026'
+language: mixed
+tokens: 159
+ai_ready: true
+completeness: high
+---
+
 ﻿# Economy Node: Digital Mizoram Portal
 
-**Tags:** #economy #tech #startups #innovation #Mizoram #research #Aizawl #2026
+
 
 ## 1. Sectoral Classification
 - **Category**: e-Governance

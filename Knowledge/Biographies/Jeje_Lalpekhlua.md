@@ -1,6 +1,19 @@
+---
+title: Jeje Lalpekhlua (The Mizo Sniper)
+category: Biographies
+tags:
+- biography
+- sports
+- football
+language: mixed
+tokens: 120
+ai_ready: true
+completeness: medium
+---
+
 # Jeje Lalpekhlua (The Mizo Sniper)
 
-**Tags:** #biography #sports #football
+
 
 **Jeje Lalpekhlua** (born 1991) is a professional football player who represented the Indian National Team and several top ISL clubs. He is widely regarded as one of the greatest strikers India has ever produced.
 

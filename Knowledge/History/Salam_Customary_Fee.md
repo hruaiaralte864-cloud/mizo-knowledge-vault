@@ -1,6 +1,23 @@
+---
+title: Salam Customary Fee
+category: History
+tags:
+- law
+- justice
+- customary
+- Mizoram
+- research
+- Governance
+- History
+language: mixed
+tokens: 185
+ai_ready: true
+completeness: high
+---
+
 ﻿# Legal Node: Salam Customary Fee
 
-**Tags:** #law #justice #customary #Mizoram #research #Governance #History
+
 
 ## 1. Jurisprudential Classification
 - **Category**: Procedural

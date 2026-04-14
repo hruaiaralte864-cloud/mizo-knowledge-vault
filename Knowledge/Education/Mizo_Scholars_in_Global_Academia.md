@@ -1,6 +1,18 @@
+---
+title: Mizo Scholars in Global Academia
+category: Education
+tags:
+- education
+- academic
+language: mixed
+tokens: 36
+ai_ready: true
+completeness: low
+---
+
 # Mizo Scholars in Global Academia
 
-**Tags:** #education #academic
+
 
 Highlighting Mizo professors and researchers working in international universities, contributing to the global understanding of the Northeast region.
 

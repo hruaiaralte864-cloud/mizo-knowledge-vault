@@ -1,6 +1,23 @@
+---
+title: Thanga Hla Phuah Thiam
+category: Biographies
+tags:
+- history
+- biography
+- leader
+- Pasaltha
+- culture
+- Mizoram
+- research
+language: mixed
+tokens: 127
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Biography: Thanga Hla Phuah Thiam
 
-**Tags:** #history #biography #leader #Pasaltha #culture #Mizoram #research
+
 
 ## 1. Profile Summary
 - **Name**: Thanga Hla Phuah Thiam

@@ -1,6 +1,23 @@
+---
+title: Ram-nghal Land Rights
+category: History
+tags:
+- law
+- justice
+- customary
+- Mizoram
+- research
+- Governance
+- History
+language: mixed
+tokens: 184
+ai_ready: true
+completeness: high
+---
+
 ﻿# Legal Node: Ram-nghal Land Rights
 
-**Tags:** #law #justice #customary #Mizoram #research #Governance #History
+
 
 ## 1. Jurisprudential Classification
 - **Category**: Property Law

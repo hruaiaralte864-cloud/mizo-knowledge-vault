@@ -1,6 +1,23 @@
+---
+title: Zokhawthar Trade Point
+category: History
+tags:
+- politics
+- history
+- independence
+- Mizoram
+- research
+- Diplomacy
+- MNF
+language: mixed
+tokens: 170
+ai_ready: true
+completeness: high
+---
+
 ﻿# Political Node: Zokhawthar Trade Point
 
-**Tags:** #politics #history #independence #Mizoram #research #Diplomacy #MNF
+
 
 ## 1. Historical Classification
 - **Category**: Logistics

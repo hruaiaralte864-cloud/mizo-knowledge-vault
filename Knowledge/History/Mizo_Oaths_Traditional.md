@@ -1,6 +1,23 @@
+---
+title: Mizo Oaths Traditional
+category: History
+tags:
+- law
+- justice
+- customary
+- Mizoram
+- research
+- Governance
+- History
+language: mixed
+tokens: 189
+ai_ready: true
+completeness: high
+---
+
 ﻿# Legal Node: Mizo Oaths Traditional
 
-**Tags:** #law #justice #customary #Mizoram #research #Governance #History
+
 
 ## 1. Jurisprudential Classification
 - **Category**: Evidence Law

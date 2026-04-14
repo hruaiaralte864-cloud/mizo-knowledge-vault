@@ -1,6 +1,23 @@
+---
+title: Cotton Ginning Traditional
+category: Culture
+tags:
+- culture
+- fashion
+- textiles
+- weaving
+- Mizoram
+- research
+- Chemistry
+language: mixed
+tokens: 163
+ai_ready: true
+completeness: high
+---
+
 ﻿# Textile Node: Cotton Ginning Traditional
 
-**Tags:** #culture #fashion #textiles #weaving #Mizoram #research #Chemistry
+
 
 ## 1. Technical Classification
 - **Category**: Process

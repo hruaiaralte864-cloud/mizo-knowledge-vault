@@ -1,6 +1,19 @@
+---
+title: Rev. Liangkhaia and the First History
+category: Literature
+tags:
+- literature
+- history
+- biography
+language: mixed
+tokens: 221
+ai_ready: true
+completeness: high
+---
+
 # Rev. Liangkhaia and the First History
 
-**Tags:** #literature #history #biography
+
 
 **Rev. Liangkhaia** (1884–1979) was a pioneering Mizo historian, poet, and church leader. He is most famous for writing the first systematic history of the Mizo people, titled **'Mizo Chanchin'** (1938).
 

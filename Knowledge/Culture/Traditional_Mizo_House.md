@@ -1,6 +1,19 @@
+---
+title: Traditional Mizo Architecture
+category: Culture
+tags:
+- culture
+- architecture
+- history
+language: mixed
+tokens: 123
+ai_ready: true
+completeness: medium
+---
+
 # Traditional Mizo Architecture
 
-**Tags:** #culture #architecture #history
+
 
 Building a Mizo house was a communal effort involving the entire village, a prime example of **[[Tlawmngaihna]]**.
 

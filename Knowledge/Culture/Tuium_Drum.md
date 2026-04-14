@@ -1,6 +1,23 @@
+---
+title: Tuium Drum
+category: Culture
+tags:
+- culture
+- music
+- instruments
+- songs
+- Mizoram
+- research
+- Acoustics
+language: mixed
+tokens: 157
+ai_ready: true
+completeness: high
+---
+
 ﻿# Musical Node: Tuium Drum
 
-**Tags:** #culture #music #instruments #songs #Mizoram #research #Acoustics
+
 
 ## 1. Technical Classification
 - **Category**: Percussion/Aquatic

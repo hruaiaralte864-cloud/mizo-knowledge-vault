@@ -1,8 +1,14 @@
 ---
-title: Mizo History Overview
-tags: [history, education, culture]
-status: permanent
-created: 2026-04-14
+title: 'Mizo History: From Chhinlung to Statehood'
+category: Knowledge
+tags:
+- history
+- education
+- culture
+language: mixed
+tokens: 347
+ai_ready: true
+completeness: high
 ---
 
 # Mizo History: From Chhinlung to Statehood

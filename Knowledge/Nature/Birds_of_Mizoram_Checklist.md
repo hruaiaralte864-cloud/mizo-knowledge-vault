@@ -1,6 +1,18 @@
+---
+title: 'Checklist: Common Birds of Mizoram'
+category: Nature
+tags:
+- birds
+- fauna
+language: mixed
+tokens: 39
+ai_ready: true
+completeness: low
+---
+
 # Checklist: Common Birds of Mizoram
 
-**Tags:** #birds #fauna
+
 
 A quick reference list of 30 common birds found in the Aizawl and Champhai ridges, including Sunbirds, Bulbuls, and Barbets.
 

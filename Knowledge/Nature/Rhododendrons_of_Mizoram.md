@@ -1,6 +1,18 @@
+---
+title: Rhododendrons of Mizoram
+category: Nature
+tags:
+- nature
+- flora
+language: mixed
+tokens: 81
+ai_ready: true
+completeness: medium
+---
+
 # Rhododendrons of Mizoram
 
-**Tags:** #nature #flora
+
 
 While usually associated with the higher Himalayas, specific species of **Rhododendron** thrive in the high-altitude regions of Mizoram, specifically around **[[Phawngpui_Blue_Mountain|Phawngpui]]**.
 

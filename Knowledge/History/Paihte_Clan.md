@@ -1,6 +1,19 @@
+---
+title: Paihte Clan
+category: History
+tags:
+- history
+- clan
+- society
+language: mixed
+tokens: 135
+ai_ready: true
+completeness: medium
+---
+
 # Paihte Clan
 
-**Tags:** #history #clan #society
+
 
 The **Paihte** (or *Paite*) are a major Mizo clan with a strong presence in the eastern parts of Mizoram and the neighboring Chin State of Myanmar.
 

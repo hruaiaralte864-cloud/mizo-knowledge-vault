@@ -1,6 +1,19 @@
+---
+title: Mizo Funeral Customs
+category: Religion
+tags:
+- religion
+- culture
+- society
+language: mixed
+tokens: 250
+ai_ready: true
+completeness: high
+---
+
 # Mizo Funeral Customs
 
-**Tags:** #religion #culture #society
+
 
 Death in Mizo society triggers the most powerful demonstration of [[Tlawmngaihna]] — the entire community mobilises immediately and unconditionally.
 

@@ -1,6 +1,22 @@
+---
+title: Hauzel Lineage
+category: History
+tags:
+- genealogy
+- clan
+- history
+- Hauzel
+- Zohnahthlak
+- research
+language: mixed
+tokens: 140
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Clan Node: Hauzel Lineage
 
-**Tags:** #genealogy #clan #history #Hauzel #Zohnahthlak #research
+
 
 ## 1. Lineage Classification
 - **Primary Group**: Hauzel

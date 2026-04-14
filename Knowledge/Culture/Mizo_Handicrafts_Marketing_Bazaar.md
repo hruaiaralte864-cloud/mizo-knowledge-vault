@@ -1,6 +1,19 @@
+---
+title: 'Scaling Artisans: The Digital Bazaar'
+category: Culture
+tags:
+- economy
+- crafts
+- modern
+language: mixed
+tokens: 33
+ai_ready: true
+completeness: low
+---
+
 # Scaling Artisans: The Digital Bazaar
 
-**Tags:** #economy #crafts #modern
+
 
 How local e-commerce startups are bringing Mizo bamboo furniture and Puans to international customers.
 

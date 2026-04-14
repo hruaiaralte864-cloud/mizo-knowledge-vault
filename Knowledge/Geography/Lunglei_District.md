@@ -1,6 +1,18 @@
+---
+title: "Lunglei \u2014 Southern Capital"
+category: Geography
+tags:
+- geography
+- district
+language: mixed
+tokens: 231
+ai_ready: true
+completeness: high
+---
+
 # Lunglei — Southern Capital
 
-**Tags:** #geography #district
+
 
 **Lunglei** is the second-largest town in Mizoram and serves as the administrative and commercial hub of the southern region.
 

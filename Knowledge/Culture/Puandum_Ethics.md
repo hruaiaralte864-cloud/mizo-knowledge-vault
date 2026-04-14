@@ -1,6 +1,24 @@
+---
+title: Puandum Ethics
+category: Culture
+tags:
+- culture
+- arts
+- crafts
+- weaving
+- Puan
+- basketry
+- Mizoram
+- research
+language: mixed
+tokens: 163
+ai_ready: true
+completeness: high
+---
+
 ﻿# Arts & Crafts Node: Puandum Ethics
 
-**Tags:** #culture #arts #crafts #weaving #Puan #basketry #Mizoram #research
+
 
 ## 1. Technical Classification
 - **Category**: Puan

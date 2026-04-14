@@ -1,6 +1,18 @@
+---
+title: 'Zoram Entu: Brig. Sailo''s Vision'
+category: Biographies
+tags:
+- politics
+- society
+language: mixed
+tokens: 39
+ai_ready: true
+completeness: low
+---
+
 # Zoram Entu: Brig. Sailo's Vision
 
-**Tags:** #politics #society
+
 
 Detailing the specific goals of the 'Zoram Entu' movement to unify the world's Mizo population through cultural exchange.
 

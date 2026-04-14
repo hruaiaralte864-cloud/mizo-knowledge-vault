@@ -1,6 +1,19 @@
+---
+title: 'Mizo Cuisine: The Logic of "Bai"'
+category: Culture
+tags:
+- culture
+- cuisine
+- health
+language: mixed
+tokens: 258
+ai_ready: true
+completeness: high
+---
+
 # Mizo Cuisine: The Logic of "Bai"
 
-**Tags:** #culture #cuisine #health
+
 
 Mizo cuisine is defined by **Bai**, a vegetable stew that is the center of every meal. Its "logic" is efficiency, health, and flavor extraction from the jungle.
 

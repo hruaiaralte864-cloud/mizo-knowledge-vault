@@ -1,6 +1,19 @@
+---
+title: 'Master Bibliography: Modern Mizo Culture'
+category: Linguistics
+tags:
+- culture
+- academic
+- research
+language: mixed
+tokens: 45
+ai_ready: true
+completeness: low
+---
+
 # Master Bibliography: Modern Mizo Culture
 
-**Tags:** #culture #academic #research
+
 
 Core references for modern sociopolitical studies:
 - 'Mizo Identity' by J.V. Hluna.

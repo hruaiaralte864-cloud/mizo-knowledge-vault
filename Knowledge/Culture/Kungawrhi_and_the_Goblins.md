@@ -1,6 +1,23 @@
+---
+title: Kungawrhi and the Goblins
+category: Culture
+tags:
+- culture
+- mythology
+- folklore
+- legends
+- Mizoram
+- research
+- Spirituality
+language: mixed
+tokens: 195
+ai_ready: true
+completeness: high
+---
+
 ﻿# Mythology Node: Kungawrhi and the Goblins
 
-**Tags:** #culture #mythology #folklore #legends #Mizoram #research #Spirituality
+
 
 ## 1. Narrative Classification
 - **Category**: Myth

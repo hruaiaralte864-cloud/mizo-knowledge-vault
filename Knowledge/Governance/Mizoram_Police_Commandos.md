@@ -1,6 +1,19 @@
+---
+title: 'Mizoram Police Commandos: Elite Tactical Units'
+category: Governance
+tags:
+- governance
+- security
+- discipline
+language: mixed
+tokens: 239
+ai_ready: true
+completeness: high
+---
+
 # Mizoram Police Commandos: Elite Tactical Units
 
-**Tags:** #governance #security #discipline
+
 
 The **Mizoram Police Commandos** (often referred to as the 3rd or 4th IR Battalion) are specialized elite tactical units trained for counter-insurgency, jungle warfare, and border protection.
 

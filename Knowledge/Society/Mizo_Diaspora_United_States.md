@@ -1,6 +1,19 @@
+---
+title: The Mizo Diaspora in the United States
+category: Society
+tags:
+- society
+- diaspora
+- globalization
+language: mixed
+tokens: 249
+ai_ready: true
+completeness: high
+---
+
 # The Mizo Diaspora in the United States
 
-**Tags:** #society #diaspora #globalization
+
 
 The **Mizo Diaspora in the United States** is a growing and influential community, primarily concentrated in Indiana, Texas, and Maryland. This community serves as a vital cultural and economic bridge between Mizoram and the Western world.
 

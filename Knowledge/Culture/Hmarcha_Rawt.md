@@ -1,6 +1,23 @@
+---
+title: Hmarcha Rawt
+category: Culture
+tags:
+- culture
+- cuisine
+- culinary
+- food
+- Mizoram
+- research
+- Nutrition
+language: mixed
+tokens: 166
+ai_ready: true
+completeness: high
+---
+
 ﻿# Culinary Node: Hmarcha Rawt
 
-**Tags:** #culture #cuisine #culinary #food #Mizoram #research #Nutrition
+
 
 ## 1. Gastronomic Profile
 - **Category**: Condiment

@@ -1,6 +1,24 @@
+---
+title: Kawn-kawraw Pipe
+category: Culture
+tags:
+- culture
+- arts
+- crafts
+- weaving
+- Puan
+- basketry
+- Mizoram
+- research
+language: mixed
+tokens: 163
+ai_ready: true
+completeness: high
+---
+
 ﻿# Arts & Crafts Node: Kawn-kawraw Pipe
 
-**Tags:** #culture #arts #crafts #weaving #Puan #basketry #Mizoram #research
+
 
 ## 1. Technical Classification
 - **Category**: Smoking Pipe

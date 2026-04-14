@@ -1,6 +1,19 @@
+---
+title: Farkawn Village
+category: Geography
+tags:
+- geography
+- village
+- history
+language: mixed
+tokens: 88
+ai_ready: true
+completeness: medium
+---
+
 # Farkawn Village
 
-**Tags:** #geography #village #history
+
 
 **Farkawn** is a "village of legends" located in the Champhai district.
 

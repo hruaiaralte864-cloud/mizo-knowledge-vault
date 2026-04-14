@@ -1,6 +1,23 @@
+---
+title: Sichangneii The Star Girl
+category: Culture
+tags:
+- culture
+- mythology
+- folklore
+- legends
+- Mizoram
+- research
+- Spirituality
+language: mixed
+tokens: 196
+ai_ready: true
+completeness: high
+---
+
 ﻿# Mythology Node: Sichangneii The Star Girl
 
-**Tags:** #culture #mythology #folklore #legends #Mizoram #research #Spirituality
+
 
 ## 1. Narrative Classification
 - **Category**: Astronomy Myth

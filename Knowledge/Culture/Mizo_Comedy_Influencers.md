@@ -1,6 +1,23 @@
+---
+title: Mizo Comedy Influencers
+category: Culture
+tags:
+- arts
+- media
+- film
+- music
+- Mizoram
+- research
+- DigitalCulture
+language: mixed
+tokens: 162
+ai_ready: true
+completeness: high
+---
+
 ﻿# Arts & Media Node: Mizo Comedy Influencers
 
-**Tags:** #arts #media #film #music #Mizoram #research #DigitalCulture
+
 
 ## 1. Creative Classification
 - **Category**: Media

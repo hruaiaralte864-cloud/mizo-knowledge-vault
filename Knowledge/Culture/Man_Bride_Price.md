@@ -1,6 +1,19 @@
+---
+title: "Man \u2014 The Mizo Bride Price"
+category: Culture
+tags:
+- culture
+- marriage
+- law
+language: mixed
+tokens: 209
+ai_ready: true
+completeness: medium
+---
+
 # Man — The Mizo Bride Price
 
-**Tags:** #culture #marriage #law
+
 
 In Mizo society, when a man marries, the groom's family pays a **bride price** known as **Man** to the bride's family. This is the inverse of the South Asian dowry system.
 

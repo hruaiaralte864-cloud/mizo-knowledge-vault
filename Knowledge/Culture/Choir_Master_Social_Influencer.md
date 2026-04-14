@@ -1,6 +1,18 @@
+---
+title: The Choir Master as Social Influencer
+category: Culture
+tags:
+- society
+- modern
+language: mixed
+tokens: 31
+ai_ready: true
+completeness: low
+---
+
 # The Choir Master as Social Influencer
 
-**Tags:** #society #modern
+
 
 How elite conductors in Aizawl exercise significant cultural leadership beyond the church walls.
 

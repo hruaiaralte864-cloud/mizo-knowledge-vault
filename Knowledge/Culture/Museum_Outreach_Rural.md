@@ -1,6 +1,18 @@
+---
+title: 'Museum Outreach: Mobile Exhibits'
+category: Culture
+tags:
+- culture
+- education
+language: mixed
+tokens: 29
+ai_ready: true
+completeness: low
+---
+
 # Museum Outreach: Mobile Exhibits
 
-**Tags:** #culture #education
+
 
 How the state museum brings artifacts and history lessons to the most remote villages.
 

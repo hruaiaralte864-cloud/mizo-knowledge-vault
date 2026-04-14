@@ -1,6 +1,19 @@
+---
+title: The Sixth Schedule of the Indian Constitution
+category: History
+tags:
+- history
+- law
+- governance
+language: mixed
+tokens: 169
+ai_ready: true
+completeness: medium
+---
+
 # The Sixth Schedule of the Indian Constitution
 
-**Tags:** #history #law #governance
+
 
 The **Sixth Schedule** of the Indian Constitution (Article 244) provides special autonomous governance arrangements for tribal populations in four Northeast Indian states: Assam, Meghalaya, Tripura, and **Mizoram**.
 

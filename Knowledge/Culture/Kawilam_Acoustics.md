@@ -1,6 +1,23 @@
+---
+title: Kawilam Acoustics
+category: Culture
+tags:
+- culture
+- music
+- instruments
+- songs
+- Mizoram
+- research
+- Acoustics
+language: mixed
+tokens: 153
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Musical Node: Kawilam Acoustics
 
-**Tags:** #culture #music #instruments #songs #Mizoram #research #Acoustics
+
 
 ## 1. Technical Classification
 - **Category**: Dance/Music

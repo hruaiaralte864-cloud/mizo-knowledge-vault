@@ -1,6 +1,17 @@
+---
+title: Mizo Tones (Thluk)
+category: Linguistics
+tags:
+- linguistics
+language: mixed
+tokens: 80
+ai_ready: true
+completeness: medium
+---
+
 # Mizo Tones (Thluk)
 
-**Tags:** #linguistics
+
 
 The Mizo language is tonal, meaning the pitch at which a syllable is pronounced can change its meaning. There are generally considered to be four or five distinct tones.
 

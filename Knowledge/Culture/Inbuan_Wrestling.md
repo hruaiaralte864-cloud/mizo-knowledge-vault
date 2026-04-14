@@ -1,6 +1,19 @@
+---
+title: Inbuan Wrestling
+category: Culture
+tags:
+- culture
+- sport
+- tradition
+language: mixed
+tokens: 206
+ai_ready: true
+completeness: high
+---
+
 # Inbuan Wrestling
 
-**Tags:** #culture #sport #tradition
+
 
 **Inbuan** is the traditional wrestling form of the Mizo people, believed to have originated in the village of **Dungtlang** in what is now the Lunglei district during the early 19th century.
 

@@ -1,6 +1,23 @@
+---
+title: Iconic Mizo Pop Stars Index
+category: Culture
+tags:
+- arts
+- media
+- film
+- music
+- Mizoram
+- research
+- DigitalCulture
+language: mixed
+tokens: 172
+ai_ready: true
+completeness: high
+---
+
 ﻿# Arts & Media Node: Iconic Mizo Pop Stars Index
 
-**Tags:** #arts #media #film #music #Mizoram #research #DigitalCulture
+
 
 ## 1. Creative Classification
 - **Category**: Music

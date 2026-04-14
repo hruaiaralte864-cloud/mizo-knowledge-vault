@@ -1,6 +1,23 @@
+---
+title: Fashion Influencers of Aizawl
+category: Culture
+tags:
+- arts
+- media
+- film
+- music
+- Mizoram
+- research
+- DigitalCulture
+language: mixed
+tokens: 162
+ai_ready: true
+completeness: high
+---
+
 ﻿# Arts & Media Node: Fashion Influencers of Aizawl
 
-**Tags:** #arts #media #film #music #Mizoram #research #DigitalCulture
+
 
 ## 1. Creative Classification
 - **Category**: Fashion

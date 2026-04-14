@@ -1,6 +1,19 @@
+---
+title: Chief Lalchungnunga (Sailo Clan)
+category: Biographies
+tags:
+- biography
+- history
+- chieftainship
+language: mixed
+tokens: 253
+ai_ready: true
+completeness: high
+---
+
 # Chief Lalchungnunga (Sailo Clan)
 
-**Tags:** #biography #history #chieftainship
+
 
 **Chief Lalchungnunga** was a powerful Mizo chief of the Sailo clan who ruled in the northern Lushai Hills during the late 19th century. He is best known for his fierce resistance against the British military expeditions that sought to annex the Mizo hills.
 

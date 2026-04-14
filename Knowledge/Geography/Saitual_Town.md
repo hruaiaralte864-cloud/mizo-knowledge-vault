@@ -1,6 +1,23 @@
+---
+title: Saitual Town
+category: Geography
+tags:
+- geography
+- township
+- Saitual
+- SaitualDistrict
+- Mizoram
+- research
+- UrbanPlanning
+language: mixed
+tokens: 137
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Township Node: Saitual Town
 
-**Tags:** #geography #township #Saitual #SaitualDistrict #Mizoram #research #UrbanPlanning
+
 
 ## 1. Administrative Location
 - **District**: [[SaitualDistrict]]

@@ -1,6 +1,22 @@
+---
+title: Chuauhang Sub Group
+category: History
+tags:
+- genealogy
+- clan
+- history
+- Chuauhang
+- Zohnahthlak
+- research
+language: mixed
+tokens: 143
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Clan Node: Chuauhang Sub Group
 
-**Tags:** #genealogy #clan #history #Chuauhang #Zohnahthlak #research
+
 
 ## 1. Lineage Classification
 - **Primary Group**: Chuauhang

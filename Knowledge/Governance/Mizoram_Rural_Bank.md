@@ -1,6 +1,19 @@
+---
+title: Mizoram Rural Bank (MRB)
+category: Governance
+tags:
+- governance
+- economy
+- banking
+language: mixed
+tokens: 230
+ai_ready: true
+completeness: high
+---
+
 # Mizoram Rural Bank (MRB)
 
-**Tags:** #governance #economy #banking
+
 
 The **Mizoram Rural_Bank (MRB)** is the largest regional rural bank in the state, serving as the financial backbone for the rural Mizo economy. Established in 1983, it is sponsored by the State Bank of India.
 

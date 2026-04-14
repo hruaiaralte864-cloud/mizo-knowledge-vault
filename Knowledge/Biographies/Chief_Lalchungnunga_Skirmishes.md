@@ -1,6 +1,19 @@
+---
+title: 'Chief Lalchungnunga: The Resistance at North Vanlaiphai'
+category: Biographies
+tags:
+- biography
+- history
+- war
+language: mixed
+tokens: 275
+ai_ready: true
+completeness: high
+---
+
 # Chief Lalchungnunga: The Resistance at North Vanlaiphai
 
-**Tags:** #biography #history #war
+
 
 **Chief Lalchungnunga** of North Vanlaiphai was one of the most stubborn and effective resistance leaders during the British consolidation of the **[[Lushai_Hills]]** in the late 19th century.
 

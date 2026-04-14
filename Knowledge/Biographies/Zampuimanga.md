@@ -1,6 +1,23 @@
+---
+title: Zampuimanga
+category: Biographies
+tags:
+- history
+- biography
+- leader
+- Pasaltha
+- culture
+- Mizoram
+- research
+language: mixed
+tokens: 115
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Biography: Zampuimanga
 
-**Tags:** #history #biography #leader #Pasaltha #culture #Mizoram #research
+
 
 ## 1. Profile Summary
 - **Name**: Zampuimanga

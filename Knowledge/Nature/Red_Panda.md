@@ -1,6 +1,25 @@
+---
+title: Red Panda
+category: Nature
+tags:
+- science
+- nature
+- wildlife
+- ecology
+- Mizoram
+- Ailurus
+- fulgens.Replace('
+- '''_'')'
+- research
+language: mixed
+tokens: 136
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Species Profile: Red Panda
 
-**Tags:** #science #nature #wildlife #ecology #Mizoram #Ailurus fulgens.Replace(' ', '_') #research
+
 
 ## 1. Biological Classification
 - **Common Name**: Red Panda

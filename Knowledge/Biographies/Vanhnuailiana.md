@@ -1,6 +1,18 @@
+---
+title: Vanhnuailiana (The Great Chief)
+category: Biographies
+tags:
+- biography
+- history
+language: mixed
+tokens: 162
+ai_ready: true
+completeness: medium
+---
+
 # Vanhnuailiana (The Great Chief)
 
-**Tags:** #biography #history
+
 
 **Vanhnuailiana** was one of the most powerful and storied Sailo chiefs of the mid-19th century. He ruled over a vast territory in central Mizoram.
 

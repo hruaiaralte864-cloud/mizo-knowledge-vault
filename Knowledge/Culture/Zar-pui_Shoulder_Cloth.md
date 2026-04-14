@@ -1,6 +1,23 @@
+---
+title: Zar-pui Shoulder Cloth
+category: Culture
+tags:
+- culture
+- fashion
+- textiles
+- weaving
+- Mizoram
+- research
+- Chemistry
+language: mixed
+tokens: 165
+ai_ready: true
+completeness: high
+---
+
 ﻿# Textile Node: Zar-pui Shoulder Cloth
 
-**Tags:** #culture #fashion #textiles #weaving #Mizoram #research #Chemistry
+
 
 ## 1. Technical Classification
 - **Category**: Garment

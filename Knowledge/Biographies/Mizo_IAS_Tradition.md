@@ -1,6 +1,18 @@
+---
+title: The Mizo Tradition in Civil Services
+category: Biographies
+tags:
+- governance
+- society
+language: mixed
+tokens: 45
+ai_ready: true
+completeness: low
+---
+
 # The Mizo Tradition in Civil Services
 
-**Tags:** #governance #society
+
 
 Why the Mizo community takes immense pride in its civil servants and the history of the earliest IAS/IPS entrants from the hills.
 

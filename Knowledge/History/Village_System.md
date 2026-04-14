@@ -1,6 +1,19 @@
+---
+title: The Traditional Mizo Village
+category: History
+tags:
+- history
+- society
+- architecture
+language: mixed
+tokens: 130
+ai_ready: true
+completeness: medium
+---
+
 # The Traditional Mizo Village
 
-**Tags:** #history #society #architecture
+
 
 A traditional Mizo village (*Khua*) was always built on a high ridge for defensive advantage. Key structures:
 

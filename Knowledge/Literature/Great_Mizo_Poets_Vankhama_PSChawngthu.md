@@ -1,6 +1,20 @@
+---
+title: 'The Great Mizo Poets: Vankhama and P.S. Chawngthu'
+category: Literature
+tags:
+- literature
+- poetry
+- biography
+- culture
+language: mixed
+tokens: 209
+ai_ready: true
+completeness: high
+---
+
 # The Great Mizo Poets: Vankhama and P.S. Chawngthu
 
-**Tags:** #literature #poetry #biography #culture
+
 
 Mizo literature transition from oral tradition to written excellence is defined by two giants: **Vankhama** and **P.S. Chawngthu**.
 

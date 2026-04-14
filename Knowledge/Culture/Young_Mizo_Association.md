@@ -1,6 +1,19 @@
+---
+title: Young Mizo Association (YMA)
+category: Culture
+tags:
+- culture
+- society
+- NGO
+language: mixed
+tokens: 169
+ai_ready: true
+completeness: medium
+---
+
 # Young Mizo Association (YMA)
 
-**Tags:** #culture #society #NGO
+
 
 The **Young Mizo Association (YMA)** is the most powerful non-governmental organisation in Mizoram and one of the largest voluntary youth organisations in Asia, with over 600,000 members across thousands of branches worldwide.
 

@@ -1,6 +1,19 @@
+---
+title: 'Dr. Lianzela: Pioneer of Sustainable Mizo Farming'
+category: Biographies
+tags:
+- biography
+- agriculture
+- science
+language: mixed
+tokens: 205
+ai_ready: true
+completeness: high
+---
+
 # Dr. Lianzela: Pioneer of Sustainable Mizo Farming
 
-**Tags:** #biography #agriculture #science
+
 
 **Dr. Lianzela** is a prominent agricultural scientist and academician who has revolutionized the understanding of sustainable land use in the Mizo hills.
 

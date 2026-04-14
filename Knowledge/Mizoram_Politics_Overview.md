@@ -1,8 +1,14 @@
 ---
-title: Mizo Politics & Governance
-tags: [politics, governance, history]
-status: permanent
-created: 2026-04-14
+title: Mizoram Politics & Governance
+category: Knowledge
+tags:
+- politics
+- governance
+- history
+language: mixed
+tokens: 304
+ai_ready: true
+completeness: high
 ---
 
 # Mizoram Politics & Governance

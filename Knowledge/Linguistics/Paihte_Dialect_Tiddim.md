@@ -1,6 +1,23 @@
+---
+title: Paihte Dialect Tiddim
+category: Linguistics
+tags:
+- linguistics
+- dialect
+- Paihte
+- Border
+- regions
+- MizoLanguage
+- research
+language: mixed
+tokens: 140
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Linguistic Node: Paihte Dialect Tiddim
 
-**Tags:** #linguistics #dialect #Paihte #Border regions #MizoLanguage #research
+
 
 ## 1. Taxonomic Classification
 - **Primary Group**: [[PaihteLanguage]]

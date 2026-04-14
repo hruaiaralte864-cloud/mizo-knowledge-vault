@@ -1,6 +1,19 @@
+---
+title: "MAL Book of the Year \u2014 All-Time Winners (1989-2024)"
+category: Literature
+tags:
+- literature
+- awards
+- history
+language: mizo
+tokens: 299
+ai_ready: true
+completeness: high
+---
+
 # MAL Book of the Year — All-Time Winners (1989-2024)
 
-**Tags:** #literature #awards #history
+
 
 The Mizo Academy of Letters (MAL) has been recognizing the best Mizo literature since 1989.
 

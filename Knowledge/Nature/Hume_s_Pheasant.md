@@ -1,6 +1,25 @@
+---
+title: Hume s Pheasant
+category: Nature
+tags:
+- science
+- nature
+- wildlife
+- ecology
+- Mizoram
+- Syrmaticus
+- humiae.Replace('
+- '''_'')'
+- research
+language: mixed
+tokens: 141
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Species Profile: Mrs. Hume's Pheasant
 
-**Tags:** #science #nature #wildlife #ecology #Mizoram #Syrmaticus humiae.Replace(' ', '_') #research
+
 
 ## 1. Biological Classification
 - **Common Name**: Mrs. Hume's Pheasant

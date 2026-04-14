@@ -1,6 +1,19 @@
+---
+title: Rev. Edwin Rowlands (Zosapthara)
+category: Biographies
+tags:
+- biography
+- religion
+- education
+language: mixed
+tokens: 46
+ai_ready: true
+completeness: low
+---
+
 # Rev. Edwin Rowlands (Zosapthara)
 
-**Tags:** #biography #religion #education
+
 
 Known for his incredible linguistic skills and his love for the Mizo language. He was the primary architect of the Mizo alphabetical system and schools.
 

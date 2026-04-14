@@ -1,6 +1,18 @@
+---
+title: Puanpui (The Great Quilt)
+category: Culture
+tags:
+- culture
+- textile
+language: mixed
+tokens: 158
+ai_ready: true
+completeness: medium
+---
+
 # Puanpui (The Great Quilt)
 
-**Tags:** #culture #textile
+
 
 **Puanpui** is a thick, white, hand-woven cotton blanket. It is unique among Mizo textiles because it is not worn as clothing but used as a prestigious bedding item.
 

@@ -1,6 +1,23 @@
+---
+title: Mizo Literary Critique Methods
+category: Literature
+tags:
+- literature
+- authors
+- poetry
+- novels
+- Mizoram
+- research
+- Academy
+language: mixed
+tokens: 187
+ai_ready: true
+completeness: high
+---
+
 ﻿# Literary Node: Mizo Literary Critique Methods
 
-**Tags:** #literature #authors #poetry #novels #Mizoram #research #Academy
+
 
 ## 1. Literary Classification
 - **Category**: Linguistics/Lit

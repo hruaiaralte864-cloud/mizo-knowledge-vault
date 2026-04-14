@@ -1,6 +1,19 @@
+---
+title: The Lal (Chieftain) System
+category: History
+tags:
+- history
+- governance
+- culture
+language: mixed
+tokens: 165
+ai_ready: true
+completeness: medium
+---
+
 # The Lal (Chieftain) System
 
-**Tags:** #history #governance #culture
+
 
 The **Lal** (Chief) was the absolute ruler of a Mizo village. All farmland belonged to him, and he distributed Jhum plots annually to villagers. His authority covered life, death, and land.
 

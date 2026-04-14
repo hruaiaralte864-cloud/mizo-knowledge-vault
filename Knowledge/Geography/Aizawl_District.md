@@ -1,6 +1,19 @@
+---
+title: "Aizawl \u2014 Capital of Mizoram"
+category: Geography
+tags:
+- geography
+- capital
+- district
+language: mixed
+tokens: 318
+ai_ready: true
+completeness: high
+---
+
 # Aizawl — Capital of Mizoram
 
-**Tags:** #geography #capital #district
+
 
 **Aizawl** is the capital city and largest urban centre of Mizoram, home to approximately one-third of the entire state's population (~400,000 in the urban area).
 

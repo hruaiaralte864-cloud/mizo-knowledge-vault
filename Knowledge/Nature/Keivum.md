@@ -1,6 +1,23 @@
+---
+title: Keivum
+category: Nature
+tags:
+- science
+- nature
+- botany
+- medicine
+- HnimHna
+- research
+- Pharmacopoeia
+language: mixed
+tokens: 114
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Ethnobotany: Keivum
 
-**Tags:** #science #nature #botany #medicine #HnimHna #research #Pharmacopoeia
+
 
 ## 1. Botanical Identity
 - **Mizo Name**: Keivum

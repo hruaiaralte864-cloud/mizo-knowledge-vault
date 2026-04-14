@@ -1,6 +1,24 @@
+---
+title: Mizoram Startup Policy
+category: Economy
+tags:
+- economy
+- tech
+- startups
+- innovation
+- Mizoram
+- research
+- Aizawl
+- '2026'
+language: mixed
+tokens: 163
+ai_ready: true
+completeness: high
+---
+
 ﻿# Economy Node: Mizoram Startup Policy
 
-**Tags:** #economy #tech #startups #innovation #Mizoram #research #Aizawl #2026
+
 
 ## 1. Sectoral Classification
 - **Category**: Policy

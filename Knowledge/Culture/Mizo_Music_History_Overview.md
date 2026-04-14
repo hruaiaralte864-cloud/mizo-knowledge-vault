@@ -1,6 +1,19 @@
+---
+title: History of Mizo Music
+category: Culture
+tags:
+- culture
+- music
+- history
+language: mixed
+tokens: 85
+ai_ready: true
+completeness: medium
+---
+
 # History of Mizo Music
 
-**Tags:** #culture #music #history
+
 
 Mizo music has evolved from the rhythmic chanting of the pre-Christian era to the sophisticated four-part harmony singing of the modern church.
 

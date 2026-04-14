@@ -1,6 +1,18 @@
+---
+title: The Myth of Palak Dil
+category: Folklore
+tags:
+- folklore
+- nature
+language: mixed
+tokens: 130
+ai_ready: true
+completeness: medium
+---
+
 # The Myth of Palak Dil
 
-**Tags:** #folklore #nature
+
 
 According to Mara oral tradition, the site of **[[Palak_Dil]]** was once a bustling village.
 

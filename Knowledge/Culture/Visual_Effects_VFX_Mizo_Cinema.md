@@ -1,6 +1,23 @@
+---
+title: Visual Effects VFX Mizo Cinema
+category: Culture
+tags:
+- arts
+- media
+- film
+- music
+- Mizoram
+- research
+- DigitalCulture
+language: mixed
+tokens: 171
+ai_ready: true
+completeness: high
+---
+
 ﻿# Arts & Media Node: Visual Effects VFX Mizo Cinema
 
-**Tags:** #arts #media #film #music #Mizoram #research #DigitalCulture
+
 
 ## 1. Creative Classification
 - **Category**: Film Tech

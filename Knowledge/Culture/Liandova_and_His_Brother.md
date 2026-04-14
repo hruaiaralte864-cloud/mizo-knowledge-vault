@@ -1,6 +1,23 @@
+---
+title: Liandova and His Brother
+category: Culture
+tags:
+- culture
+- mythology
+- folklore
+- legends
+- Mizoram
+- research
+- Spirituality
+language: mixed
+tokens: 193
+ai_ready: true
+completeness: high
+---
+
 ﻿# Mythology Node: Liandova and His Brother
 
-**Tags:** #culture #mythology #folklore #legends #Mizoram #research #Spirituality
+
 
 ## 1. Narrative Classification
 - **Category**: Fable

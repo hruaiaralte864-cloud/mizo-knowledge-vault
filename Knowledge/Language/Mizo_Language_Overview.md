@@ -1,6 +1,18 @@
+---
+title: The Mizo Language
+category: Language
+tags:
+- language
+- culture
+language: mixed
+tokens: 178
+ai_ready: true
+completeness: high
+---
+
 # The Mizo Language
 
-**Tags:** #language #culture
+
 
 **Mizo** (also called *Lushai* in older British sources) belongs to the **Tibeto-Burman language family**, specifically the **Kuki-Chin branch**. It is closely related to the languages of the Chin people of Myanmar.
 

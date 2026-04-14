@@ -1,6 +1,19 @@
+---
+title: Traditional Mizo House Architecture
+category: Culture
+tags:
+- culture
+- architecture
+- society
+language: mixed
+tokens: 206
+ai_ready: true
+completeness: high
+---
+
 # Traditional Mizo House Architecture
 
-**Tags:** #culture #architecture #society
+
 
 The traditional Mizo longhouse (*In*) was engineered brilliantly for its mountainous, seismically active environment.
 

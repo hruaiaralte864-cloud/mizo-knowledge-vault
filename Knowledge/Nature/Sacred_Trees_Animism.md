@@ -1,6 +1,18 @@
+---
+title: Sacred Trees in Mizo Animism
+category: Nature
+tags:
+- history
+- religion
+language: mixed
+tokens: 37
+ai_ready: true
+completeness: low
+---
+
 # Sacred Trees in Mizo Animism
 
-**Tags:** #history #religion
+
 
 A study of the specific tree species that were taboo to cut down under pre-Christian forest laws.
 

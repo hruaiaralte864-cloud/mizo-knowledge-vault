@@ -1,6 +1,19 @@
+---
+title: 'Brigadier T. Sailo: The Peoples'' Unity Mission'
+category: Biographies
+tags:
+- biography
+- governance
+- society
+language: mixed
+tokens: 278
+ai_ready: true
+completeness: high
+---
+
 # Brigadier T. Sailo: The Peoples' Unity Mission
 
-**Tags:** #biography #governance #society
+
 
 The **Unity Mission** was a grassroots social and political movement launched by **[[Brigadier_Sailo_International_Human_Rights]]** during the peak of the insurgency era. Its goal was to unify the fragmented Mizo society and provide a clear, non-violent path toward statehood.
 

@@ -1,6 +1,23 @@
+---
+title: Mountain Bamboo Ecophase
+category: Environment
+tags:
+- environment
+- ecology
+- flora
+- fauna
+- Mizoram
+- research
+- Conservation
+language: mixed
+tokens: 157
+ai_ready: true
+completeness: high
+---
+
 ﻿# Environmental Node: Mountain Bamboo Ecophase
 
-**Tags:** #environment #ecology #flora #fauna #Mizoram #research #Conservation
+
 
 ## 1. Ecological Classification
 - **Category**: Ecology

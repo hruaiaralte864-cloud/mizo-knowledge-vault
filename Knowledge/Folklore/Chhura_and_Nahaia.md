@@ -1,6 +1,18 @@
+---
+title: "Chhura and Nahaia \u2014 The Classic Mizo Fable Duo"
+category: Folklore
+tags:
+- folklore
+- mythology
+language: mixed
+tokens: 224
+ai_ready: true
+completeness: high
+---
+
 # Chhura and Nahaia — The Classic Mizo Fable Duo
 
-**Tags:** #folklore #mythology
+
 
 **Chhura** and **Nahaia** form the Mizo people's most beloved comedic duo — appearing in dozens of interrelated oral folktales.
 

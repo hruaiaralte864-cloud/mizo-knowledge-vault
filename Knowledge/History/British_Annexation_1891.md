@@ -1,6 +1,19 @@
+---
+title: British Annexation of Mizoram (1891)
+category: History
+tags:
+- history
+- british
+- colonialism
+language: mixed
+tokens: 133
+ai_ready: true
+completeness: medium
+---
+
 # British Annexation of Mizoram (1891)
 
-**Tags:** #history #british #colonialism
+
 
 Following the [[Lushai_Expeditions]], the British formally annexed Mizo territory in **1891**, administering it as two separate districts:
 

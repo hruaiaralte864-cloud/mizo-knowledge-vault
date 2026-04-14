@@ -1,6 +1,20 @@
+---
+title: 'Ridge Fortress Engineering: Ancient Warfare'
+category: History
+tags:
+- history
+- warfare
+- engineering
+- architecture
+language: mixed
+tokens: 189
+ai_ready: true
+completeness: high
+---
+
 # Ridge Fortress Engineering: Ancient Warfare
 
-**Tags:** #history #warfare #engineering #architecture
+
 
 Mizo villages were historically "Vertical Fortresses." The choice of ridge-top village sites was driven by a sophisticated military logic of "Impregnability."
 

@@ -1,6 +1,19 @@
+---
+title: "Puan \u2014 Traditional Mizo Textiles"
+category: Culture
+tags:
+- culture
+- art
+- craft
+language: mixed
+tokens: 158
+ai_ready: true
+completeness: medium
+---
+
 # Puan — Traditional Mizo Textiles
 
-**Tags:** #culture #art #craft
+
 
 **Puan** is the handwoven textile garment that forms the cornerstone of Mizo traditional dress and a major artistic tradition.
 

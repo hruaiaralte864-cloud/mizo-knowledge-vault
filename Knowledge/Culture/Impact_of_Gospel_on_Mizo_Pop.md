@@ -1,6 +1,19 @@
+---
+title: The Gospel's Impact on Mizo Pop Music
+category: Culture
+tags:
+- culture
+- music
+- history
+language: mixed
+tokens: 237
+ai_ready: true
+completeness: high
+---
+
 # The Gospel's Impact on Mizo Pop Music
 
-**Tags:** #culture #music #history
+
 
 Mizo popular music is inextricably linked to the choral and melodic traditions of the church. This "Gospel-Pop" fusion is the dominant sound of contemporary **[[Lyrical_Themes_Modern_Aizawl]]**.
 

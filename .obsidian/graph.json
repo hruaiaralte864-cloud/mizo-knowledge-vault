@@ -1,0 +1,100 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:Knowledge/History",
+      "color": {
+        "a": 1,
+        "rgb": 13938487
+      }
+    },
+    {
+      "query": "path:Knowledge/Biographies",
+      "color": {
+        "a": 1,
+        "rgb": 37354
+      }
+    },
+    {
+      "query": "path:Knowledge/Culture",
+      "color": {
+        "a": 1,
+        "rgb": 14162784
+      }
+    },
+    {
+      "query": "path:Knowledge/Geography",
+      "color": {
+        "a": 1,
+        "rgb": 3046706
+      }
+    },
+    {
+      "query": "path:Knowledge/Religion",
+      "color": {
+        "a": 1,
+        "rgb": 9315498
+      }
+    },
+    {
+      "query": "path:Knowledge/Folklore",
+      "color": {
+        "a": 1,
+        "rgb": 15690752
+      }
+    },
+    {
+      "query": "path:Knowledge/Arts",
+      "color": {
+        "a": 1,
+        "rgb": 38823
+      }
+    },
+    {
+      "query": "path:Knowledge/Politics",
+      "color": {
+        "a": 1,
+        "rgb": 4149685
+      }
+    },
+    {
+      "query": "path:Knowledge/Nature",
+      "color": {
+        "a": 1,
+        "rgb": 8172354
+      }
+    },
+    {
+      "query": "path:Knowledge/Society",
+      "color": {
+        "a": 1,
+        "rgb": 16734018
+      }
+    },
+    {
+      "query": "path:Dictionary",
+      "color": {
+        "a": 1,
+        "rgb": 5533306
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.2,
+  "lineSizeMultiplier": 1.1,
+  "collapse-forces": false,
+  "centerStrength": 1,
+  "repelStrength": 20,
+  "linkStrength": 1,
+  "linkDistance": 30,
+  "scale": 0.02866672958423669,
+  "close": true
+}

@@ -1,6 +1,22 @@
+---
+title: Sura hma
+category: Nature
+tags:
+- science
+- nature
+- botany
+- medicine
+- HnimHna
+- research
+language: mixed
+tokens: 118
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Ethnobotany: Sura hma
 
-**Tags:** #science #nature #botany #medicine #HnimHna #research
+
 
 ## 1. Botanical Identity
 - **Mizo Name**: Sura hma

@@ -1,6 +1,23 @@
+---
+title: NIT Mizoram
+category: Institutions
+tags:
+- governance
+- education
+- medical
+- institutions
+- Mizoram
+- research
+- Aizawl
+language: mixed
+tokens: 163
+ai_ready: true
+completeness: high
+---
+
 ﻿# Institutional Node: NIT Mizoram
 
-**Tags:** #governance #education #medical #institutions #Mizoram #research #Aizawl
+
 
 ## 1. Statutory Classification
 - **Category**: Education

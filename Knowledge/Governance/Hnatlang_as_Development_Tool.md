@@ -1,6 +1,19 @@
+---
+title: 'Hnatlang: Community Service as a Development Tool'
+category: Governance
+tags:
+- governance
+- society
+- philosophy
+language: mixed
+tokens: 237
+ai_ready: true
+completeness: high
+---
+
 # Hnatlang: Community Service as a Development Tool
 
-**Tags:** #governance #society #philosophy
+
 
 **Hnatlang** is the traditional Mizo practice of voluntary communal labor. While rooted in ancient tribal custom, it has been modernized as a powerful tool for state development and disaster management.
 

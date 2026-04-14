@@ -1,6 +1,18 @@
+---
+title: V.L. Nehru
+category: Biographies
+tags:
+- biography
+- social_work
+language: mixed
+tokens: 33
+ai_ready: true
+completeness: low
+---
+
 # V.L. Nehru
 
-**Tags:** #biography #social_work
+
 
 A famous Mizo social activist dedicated to the rehabilitation of former underground MNF fighters into civil society.
 

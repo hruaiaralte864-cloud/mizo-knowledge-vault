@@ -1,6 +1,23 @@
+---
+title: Vairengte Riverine Systems
+category: Environment
+tags:
+- environment
+- ecology
+- flora
+- fauna
+- Mizoram
+- research
+- Conservation
+language: mixed
+tokens: 163
+ai_ready: true
+completeness: high
+---
+
 ﻿# Environmental Node: Vairengte Riverine Systems
 
-**Tags:** #environment #ecology #flora #fauna #Mizoram #research #Conservation
+
 
 ## 1. Ecological Classification
 - **Category**: Environment

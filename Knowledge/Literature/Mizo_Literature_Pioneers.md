@@ -1,6 +1,18 @@
+---
+title: Mizo Literature Pioneers
+category: Literature
+tags:
+- literature
+- history
+language: mixed
+tokens: 118
+ai_ready: true
+completeness: medium
+---
+
 # Mizo Literature Pioneers
 
-**Tags:** #literature #history
+
 
 The early development of Mizo literature was driven by individuals who transformed the oral tradition into written form.
 

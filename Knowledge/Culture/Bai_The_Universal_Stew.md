@@ -1,6 +1,23 @@
+---
+title: Bai The Universal Stew
+category: Culture
+tags:
+- culture
+- cuisine
+- culinary
+- food
+- Mizoram
+- research
+- Nutrition
+language: mixed
+tokens: 172
+ai_ready: true
+completeness: high
+---
+
 ﻿# Culinary Node: Bai The Universal Stew
 
-**Tags:** #culture #cuisine #culinary #food #Mizoram #research #Nutrition
+
 
 ## 1. Gastronomic Profile
 - **Category**: Stew

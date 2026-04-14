@@ -1,6 +1,19 @@
+---
+title: Rev. F.W. Savidge (Sapupa)
+category: Biographies
+tags:
+- biography
+- religion
+- history
+language: mixed
+tokens: 39
+ai_ready: true
+completeness: low
+---
+
 # Rev. F.W. Savidge (Sapupa)
 
-**Tags:** #biography #religion #history
+
 
 The second of the "pioneer missionaries" (Zosaphluia and Sapupa) who founded the modern Mizo written language and school system.
 

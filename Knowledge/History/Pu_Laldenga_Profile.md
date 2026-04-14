@@ -1,6 +1,23 @@
+---
+title: Pu Laldenga Profile
+category: History
+tags:
+- politics
+- history
+- independence
+- Mizoram
+- research
+- Diplomacy
+- MNF
+language: mixed
+tokens: 174
+ai_ready: true
+completeness: high
+---
+
 ﻿# Political Node: Pu Laldenga Profile
 
-**Tags:** #politics #history #independence #Mizoram #research #Diplomacy #MNF
+
 
 ## 1. Historical Classification
 - **Category**: Leader

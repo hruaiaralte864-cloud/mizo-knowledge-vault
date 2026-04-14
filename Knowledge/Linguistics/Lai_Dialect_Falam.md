@@ -1,6 +1,23 @@
+---
+title: Lai Dialect Falam
+category: Linguistics
+tags:
+- linguistics
+- dialect
+- Lai
+- Northern
+- Lawngtlai
+- MizoLanguage
+- research
+language: mixed
+tokens: 141
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Linguistic Node: Lai Dialect Falam
 
-**Tags:** #linguistics #dialect #Lai #Northern Lawngtlai #MizoLanguage #research
+
 
 ## 1. Taxonomic Classification
 - **Primary Group**: [[LaiLanguage]]

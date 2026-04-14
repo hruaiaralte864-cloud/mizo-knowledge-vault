@@ -1,6 +1,21 @@
+---
+title: 'Mizoram Drone Logistics: 2026 High-Altitude Tech'
+category: Technology
+tags:
+- tech
+- logistics
+- drones
+- healthcare
+- '2026'
+language: mixed
+tokens: 140
+ai_ready: true
+completeness: medium
+---
+
 # Mizoram Drone Logistics: 2026 High-Altitude Tech
 
-**Tags:** #tech #logistics #drones #healthcare #2026
+
 
 In 2026, Mizoram has become India's leading laboratory for "Terrain-Defying" drone logistics.
 

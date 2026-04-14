@@ -1,6 +1,18 @@
+---
+title: Sarlamkai
+category: Culture
+tags:
+- culture
+- dance
+language: mixed
+tokens: 79
+ai_ready: true
+completeness: medium
+---
+
 # Sarlamkai
 
-**Tags:** #culture #dance
+
 
 **Sarlamkai** is an ancient war dance, primarily originating among the **Mara** and **Lai** communities of southern Mizoram.
 

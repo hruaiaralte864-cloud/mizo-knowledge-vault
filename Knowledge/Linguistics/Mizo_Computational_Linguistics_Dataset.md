@@ -1,6 +1,23 @@
+---
+title: Mizo Computational Linguistics Dataset (RAG-Ready)
+category: Linguistics
+tags:
+- linguistics
+- AI
+- NLP
+- technology
+- mizolanguage
+- research
+- datasets
+language: mixed
+tokens: 484
+ai_ready: true
+completeness: high
+---
+
 # Mizo Computational Linguistics Dataset (RAG-Ready)
 
-**Tags:** #linguistics #AI #NLP #technology #mizolanguage #research #datasets
+
 
 This node provides the structured datasets and logical rules for Mizo Natural Language Processing (NLP), designed for developers training LLMs or building transition models.
 

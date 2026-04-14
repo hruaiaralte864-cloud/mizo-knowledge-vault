@@ -1,6 +1,23 @@
+---
+title: Sangau Town
+category: Geography
+tags:
+- geography
+- township
+- Lawngtlai
+- LawngtlaiDistrict
+- Mizoram
+- research
+- UrbanPlanning
+language: mixed
+tokens: 139
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Township Node: Sangau Town
 
-**Tags:** #geography #township #Lawngtlai #LawngtlaiDistrict #Mizoram #research #UrbanPlanning
+
 
 ## 1. Administrative Location
 - **District**: [[LawngtlaiDistrict]]

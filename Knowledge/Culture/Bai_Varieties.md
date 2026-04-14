@@ -1,6 +1,18 @@
+---
+title: Mizo Bai (The Soul Food)
+category: Culture
+tags:
+- culture
+- food
+language: mixed
+tokens: 87
+ai_ready: true
+completeness: medium
+---
+
 # Mizo Bai (The Soul Food)
 
-**Tags:** #culture #food
+
 
 **Bai** is the most common Mizo dish — a stew made from boiled vegetables, salt, and often flavored with chili and fermented pork.
 

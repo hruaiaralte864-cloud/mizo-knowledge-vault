@@ -1,6 +1,22 @@
+---
+title: Vangchhia Clan Data
+category: History
+tags:
+- genealogy
+- clan
+- history
+- Vangchhia
+- Zohnahthlak
+- research
+language: mixed
+tokens: 144
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Clan Node: Vangchhia Clan Data
 
-**Tags:** #genealogy #clan #history #Vangchhia #Zohnahthlak #research
+
 
 ## 1. Lineage Classification
 - **Primary Group**: Vangchhia

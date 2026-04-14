@@ -1,6 +1,19 @@
+---
+title: 'The Drug Menace: History and Social Resilience'
+category: Society
+tags:
+- society
+- health
+- governance
+language: mixed
+tokens: 273
+ai_ready: true
+completeness: high
+---
+
 # The Drug Menace: History and Social Resilience
 
-**Tags:** #society #health #governance
+
 
 Mizoram's proximity to the "Golden Triangle" (the border regions of Myanmar, Laos, and Thailand) has historically made it a transit point and victim of clandestine narcotics trade, particularly heroin and synthetic drugs.
 

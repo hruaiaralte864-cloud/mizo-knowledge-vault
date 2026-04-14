@@ -1,6 +1,19 @@
+---
+title: "Reiek \u2014 Heritage Village and Peak"
+category: Geography
+tags:
+- geography
+- culture
+- tourism
+language: mixed
+tokens: 161
+ai_ready: true
+completeness: medium
+---
+
 # Reiek — Heritage Village and Peak
 
-**Tags:** #geography #culture #tourism
+
 
 **Reiek** is a hill peak and heritage tourism village approximately **29 km from Aizawl**, offering some of the most dramatic panoramic views of the Mizo hills.
 

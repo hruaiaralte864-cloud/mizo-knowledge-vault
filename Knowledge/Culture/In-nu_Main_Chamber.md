@@ -1,6 +1,22 @@
+---
+title: In-nu Main Chamber
+category: Culture
+tags:
+- engineering
+- architecture
+- construction
+- Mizoram
+- research
+- IndigenousTech
+language: mixed
+tokens: 174
+ai_ready: true
+completeness: high
+---
+
 ﻿# Architecture Node: In-nu Main Chamber
 
-**Tags:** #engineering #architecture #construction #Mizoram #research #IndigenousTech
+
 
 ## 1. Technical Classification
 - **Category**: Domestic

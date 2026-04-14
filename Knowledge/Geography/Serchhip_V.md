@@ -1,6 +1,23 @@
+---
+title: Serchhip V
+category: Geography
+tags:
+- geography
+- village
+- Serchhip
+- SerchhipDistrict
+- Mizoram
+- research
+- AizawlRegion
+language: mixed
+tokens: 118
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Village Node: Serchhip V
 
-**Tags:** #geography #village #Serchhip #SerchhipDistrict #Mizoram #research #AizawlRegion
+
 
 ## 1. Administrative Location
 - **District**: [[SerchhipDistrict]]

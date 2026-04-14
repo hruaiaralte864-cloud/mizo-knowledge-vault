@@ -1,6 +1,23 @@
+---
+title: Zatlak Inkhelh
+category: Culture
+tags:
+- culture
+- sports
+- games
+- fitness
+- Mizoram
+- research
+- PhysicalEducation
+language: mixed
+tokens: 176
+ai_ready: true
+completeness: high
+---
+
 ﻿# Traditional Game: Zatlak Inkhelh
 
-**Tags:** #culture #sports #games #fitness #Mizoram #research #PhysicalEducation
+
 
 ## 1. Game Classification
 - **Category**: Tabletop/Skill

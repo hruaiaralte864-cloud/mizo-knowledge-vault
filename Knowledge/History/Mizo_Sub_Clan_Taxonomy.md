@@ -1,6 +1,23 @@
+---
+title: 'Mizo Sub-Clan Taxonomy: Ralte and Lusei Lineages'
+category: History
+tags:
+- history
+- genealogy
+- clans
+- ralte
+- lusei
+- research
+- ethnography
+language: mixed
+tokens: 367
+ai_ready: true
+completeness: high
+---
+
 # Mizo Sub-Clan Taxonomy: Ralte and Lusei Lineages
 
-**Tags:** #history #genealogy #clans #ralte #lusei #research #ethnography
+
 
 This node archives the granular taxonomic data of the Mizo sub-clans, providing the structural lineage necessary for genealogical and anthropological research.
 

@@ -1,6 +1,19 @@
+---
+title: The Modern Mizo Music Scene
+category: Society
+tags:
+- society
+- culture
+- modern
+language: mixed
+tokens: 80
+ai_ready: true
+completeness: medium
+---
+
 # The Modern Mizo Music Scene
 
-**Tags:** #society #culture #modern
+
 
 Mizoram is often called the "Music Capital of India."
 

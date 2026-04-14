@@ -1,6 +1,19 @@
+---
+title: Rev. Saiaithanga
+category: Biographies
+tags:
+- biography
+- religion
+- historian
+language: mixed
+tokens: 71
+ai_ready: true
+completeness: medium
+---
+
 # Rev. Saiaithanga
 
-**Tags:** #biography #religion #historian
+
 
 **Rev. Saiaithanga** was a pioneering Mizo theologian and historian. He is best known for his exhaustive work recording the history of the Mizo church and the transition of Mizo society from tribal animism to Christianity. His books are still used as primary sources by modern historians.
 

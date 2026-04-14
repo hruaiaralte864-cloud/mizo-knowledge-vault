@@ -1,6 +1,18 @@
+---
+title: "Liandova te Unau \u2014 The Brothers' Fortune"
+category: Folklore
+tags:
+- folklore
+- morality
+language: mixed
+tokens: 227
+ai_ready: true
+completeness: high
+---
+
 # Liandova te Unau — The Brothers' Fortune
 
-**Tags:** #folklore #morality
+
 
 A foundational Mizo moral fable about two orphaned brothers whose poverty turned to wealth through unwavering honesty and brotherly love.
 

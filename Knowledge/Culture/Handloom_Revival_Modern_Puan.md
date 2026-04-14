@@ -1,6 +1,19 @@
+---
+title: 'Modern Puan: The Handloom Revival'
+category: Culture
+tags:
+- culture
+- textiles
+- economy
+language: mixed
+tokens: 234
+ai_ready: true
+completeness: high
+---
+
 # Modern Puan: The Handloom Revival
 
-**Tags:** #culture #textiles #economy
+
 
 The **Mizo Puan** has undergone a significant "modernist revival" in the last decade, transitioning from a traditional garment to a piece of high-fashion contemporary attire while preserving ancient weaving techniques.
 

@@ -1,6 +1,19 @@
+---
+title: The Lai Council House (Lawngtlai)
+category: Geography
+tags:
+- geography
+- governance
+- architecture
+language: mixed
+tokens: 231
+ai_ready: true
+completeness: high
+---
+
 # The Lai Council House (Lawngtlai)
 
-**Tags:** #geography #governance #architecture
+
 
 The **Lai Council House** in Lawngtlai is the administrative heart of the **[[Lai_Autonomous_District_Council_LADC]]**. It serves as a visual and political symbol of the self-governance of the Lai people within Mizoram.
 

@@ -1,6 +1,23 @@
+---
+title: MNF National Council
+category: History
+tags:
+- politics
+- history
+- independence
+- Mizoram
+- research
+- Diplomacy
+- MNF
+language: mixed
+tokens: 172
+ai_ready: true
+completeness: high
+---
+
 ﻿# Political Node: MNF National Council
 
-**Tags:** #politics #history #independence #Mizoram #research #Diplomacy #MNF
+
 
 ## 1. Historical Classification
 - **Category**: Organization

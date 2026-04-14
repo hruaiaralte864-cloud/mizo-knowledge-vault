@@ -1,6 +1,18 @@
+---
+title: Passion Fruit in Mizoram
+category: Nature
+tags:
+- flora
+- economy
+language: mixed
+tokens: 41
+ai_ready: true
+completeness: low
+---
+
 # Passion Fruit in Mizoram
 
-**Tags:** #flora #economy
+
 
 A high-value cash crop favored by the state's agriculture department. Mizo passion fruit juice and squash are popular throughout Northeast India.
 

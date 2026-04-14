@@ -1,6 +1,23 @@
+---
+title: Siaha E
+category: Geography
+tags:
+- geography
+- village
+- Siaha
+- SiahaDistrict
+- Mizoram
+- research
+- AizawlRegion
+language: mixed
+tokens: 118
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Village Node: Siaha E
 
-**Tags:** #geography #village #Siaha #SiahaDistrict #Mizoram #research #AizawlRegion
+
 
 ## 1. Administrative Location
 - **District**: [[SiahaDistrict]]

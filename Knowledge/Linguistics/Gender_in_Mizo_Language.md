@@ -1,6 +1,23 @@
+---
+title: Gender in Mizo Language
+category: Linguistics
+tags:
+- linguistics
+- language
+- grammar
+- Mizo
+- research
+- Informatics
+- NLP
+language: mixed
+tokens: 180
+ai_ready: true
+completeness: high
+---
+
 ﻿# Linguistic Node: Gender in Mizo Language
 
-**Tags:** #linguistics #language #grammar #Mizo #research #Informatics #NLP
+
 
 ## 1. Technical Classification
 - **Category**: Grammar

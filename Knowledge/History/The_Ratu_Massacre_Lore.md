@@ -1,6 +1,19 @@
+---
+title: 'The Ratu Massacre: History and Folklore'
+category: History
+tags:
+- history
+- mythology
+- conflict
+language: mixed
+tokens: 257
+ai_ready: true
+completeness: high
+---
+
 # The Ratu Massacre: History and Folklore
 
-**Tags:** #history #mythology #conflict
+
 
 The **Ratu Massacre** is a dark and pivotal event in pre-colonial Mizo history, often cited in oral folk songs as a warning against inter-clan betrayal.
 

@@ -1,6 +1,23 @@
+---
+title: Mizoram Legislative Assembly
+category: Institutions
+tags:
+- governance
+- education
+- medical
+- institutions
+- Mizoram
+- research
+- Aizawl
+language: mixed
+tokens: 169
+ai_ready: true
+completeness: high
+---
+
 ﻿# Institutional Node: Mizoram Legislative Assembly
 
-**Tags:** #governance #education #medical #institutions #Mizoram #research #Aizawl
+
 
 ## 1. Statutory Classification
 - **Category**: Government

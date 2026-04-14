@@ -1,6 +1,19 @@
+---
+title: "Bamboo \u2014 The Tree of Mizo Life"
+category: Culture
+tags:
+- culture
+- economy
+- nature
+language: mixed
+tokens: 210
+ai_ready: true
+completeness: high
+---
+
 # Bamboo — The Tree of Mizo Life
 
-**Tags:** #culture #economy #nature
+
 
 Bamboo (*Rawt*) is not merely a plant in Mizoram — it is the structural foundation of traditional Mizo civilisation and a major ongoing component of the modern economy.
 

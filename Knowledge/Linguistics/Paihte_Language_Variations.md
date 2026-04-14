@@ -1,6 +1,23 @@
+---
+title: Paihte Language Variations
+category: Linguistics
+tags:
+- linguistics
+- language
+- grammar
+- Mizo
+- research
+- Informatics
+- NLP
+language: mixed
+tokens: 171
+ai_ready: true
+completeness: high
+---
+
 ﻿# Linguistic Node: Paihte Language Variations
 
-**Tags:** #linguistics #language #grammar #Mizo #research #Informatics #NLP
+
 
 ## 1. Technical Classification
 - **Category**: Dialect/Language

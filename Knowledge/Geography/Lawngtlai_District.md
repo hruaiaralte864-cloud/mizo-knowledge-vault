@@ -1,6 +1,19 @@
+---
+title: Lawngtlai District
+category: Geography
+tags:
+- geography
+- lai
+- governance
+language: mixed
+tokens: 123
+ai_ready: true
+completeness: medium
+---
+
 # Lawngtlai District
 
-**Tags:** #geography #lai #governance
+
 
 **Lawngtlai** is located in southwestern Mizoram and serves as the headquarters of the **Lai Autonomous District Council**.
 

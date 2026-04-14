@@ -1,6 +1,24 @@
+---
+title: Zoram Industrial Development Corp
+category: Economy
+tags:
+- economy
+- tech
+- startups
+- innovation
+- Mizoram
+- research
+- Aizawl
+- '2026'
+language: mixed
+tokens: 165
+ai_ready: true
+completeness: high
+---
+
 ﻿# Economy Node: Zoram Industrial Development Corp
 
-**Tags:** #economy #tech #startups #innovation #Mizoram #research #Aizawl #2026
+
 
 ## 1. Sectoral Classification
 - **Category**: Organization

@@ -1,6 +1,19 @@
+---
+title: Mizo Bamboo Basketry
+category: Culture
+tags:
+- culture
+- craft
+- nature
+language: mixed
+tokens: 92
+ai_ready: true
+completeness: medium
+---
+
 # Mizo Bamboo Basketry
 
-**Tags:** #culture #craft #nature
+
 
 Traditional Mizo life was facilitated by a sophisticated variety of bamboo baskets, each with a specific purpose.
 

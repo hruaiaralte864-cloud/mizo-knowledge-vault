@@ -1,6 +1,23 @@
+---
+title: Blood Donation Culture Mizo
+category: Society
+tags:
+- society
+- health
+- education
+- welfare
+- Mizoram
+- research
+- NGO
+language: mixed
+tokens: 172
+ai_ready: true
+completeness: high
+---
+
 ﻿# Society Node: Blood Donation Culture Mizo
 
-**Tags:** #society #health #education #welfare #Mizoram #research #NGO
+
 
 ## 1. Domain Classification
 - **Category**: Social

@@ -1,6 +1,18 @@
+---
+title: Khuangphah Village
+category: Geography
+tags:
+- geography
+- village
+language: mixed
+tokens: 33
+ai_ready: true
+completeness: low
+---
+
 # Khuangphah Village
 
-**Tags:** #geography #village
+
 
 **Khuangphah** is a scenic village in the eastern hills, known for its large community hall and active youth organization.
 

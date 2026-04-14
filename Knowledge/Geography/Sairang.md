@@ -1,6 +1,23 @@
+---
+title: Sairang
+category: Geography
+tags:
+- geography
+- township
+- Aizawl
+- AizawlDistrict
+- Mizoram
+- research
+- UrbanPlanning
+language: mixed
+tokens: 136
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Township Node: Sairang
 
-**Tags:** #geography #township #Aizawl #AizawlDistrict #Mizoram #research #UrbanPlanning
+
 
 ## 1. Administrative Location
 - **District**: [[AizawlDistrict]]

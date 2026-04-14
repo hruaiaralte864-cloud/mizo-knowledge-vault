@@ -1,6 +1,23 @@
+---
+title: Sa-um Fermentation
+category: Culture
+tags:
+- culture
+- cuisine
+- culinary
+- food
+- Mizoram
+- research
+- Nutrition
+language: mixed
+tokens: 172
+ai_ready: true
+completeness: high
+---
+
 ﻿# Culinary Node: Sa-um Fermentation
 
-**Tags:** #culture #cuisine #culinary #food #Mizoram #research #Nutrition
+
 
 ## 1. Gastronomic Profile
 - **Category**: Ingredient

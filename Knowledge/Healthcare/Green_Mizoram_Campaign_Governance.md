@@ -1,6 +1,18 @@
+---
+title: 'Green Mizoram Campaign: Governance Side'
+category: Healthcare
+tags:
+- environment
+- governance
+language: mixed
+tokens: 35
+ai_ready: true
+completeness: low
+---
+
 # Green Mizoram Campaign: Governance Side
 
-**Tags:** #environment #governance
+
 
 The state-led tree-planting initiative that engages every NGO and student in the state every year.
 

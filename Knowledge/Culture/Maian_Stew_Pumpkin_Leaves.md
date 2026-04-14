@@ -1,6 +1,23 @@
+---
+title: Maian Stew Pumpkin Leaves
+category: Culture
+tags:
+- culture
+- cuisine
+- culinary
+- food
+- Mizoram
+- research
+- Nutrition
+language: mixed
+tokens: 169
+ai_ready: true
+completeness: high
+---
+
 ﻿# Culinary Node: Maian Stew Pumpkin Leaves
 
-**Tags:** #culture #cuisine #culinary #food #Mizoram #research #Nutrition
+
 
 ## 1. Gastronomic Profile
 - **Category**: Side Dish

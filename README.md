@@ -1,8 +1,7 @@
-
 # 🏔️ Mizo Knowledge Vault — The Digital DNA of the Hills
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![AI Ready](https://img.shields.io/badge/AI-RAG_Ready-green.svg)](#-rag--ai-optimization)
+[![AI Ready](https://img.shields.io/badge/AI-100%25_Ready-brightgreen.svg)](DATASET_CARD.md)
 [![Obsidian Ready](https://img.shields.io/badge/Obsidian-Ready-673ab7.svg)](#-obsidian-optimized)
 [![Mizo-English](https://img.shields.io/badge/Language-Bilingual-orange.svg)](#-language-engine)
 
@@ -14,10 +13,11 @@
 
 | Folder | Purpose |
 | :--- | :--- |
-| **`/Knowledge`** | **The Core Archive**: Research nodes across 20+ disciplines (AI, Arts, History, Science). |
+| **`/Knowledge`** | **The Core Archive**: 1,599 research nodes with standardized YAML metadata. |
 | **`/Dictionary`** | **The Language Engine**: Atomic Mizo-English conceptual definitions. |
-| **`.obsidian`** | **Systems Config**: Hidden configuration files that power the Visual Knowledge Graph. |
-| **`/assets`** | **Visual Assets**: Professional repository imagery and diagrams. |
+| **`dataset_manifest.json`** | **The Machine Index**: Central machine-readable index of all vault nodes. |
+| **`bilingual_dictionary.json`** | **The Translator Set**: 14,884 entries exported for NMT research. |
+| **`DATASET_CARD.md`** | **Documentation**: Formal AI dataset documentation. |
 
 ---
 
@@ -25,36 +25,25 @@
 
 This vault is architected to be the "Source of Truth" for the 2026 Digital Era:
 
-*   **AI Training & NLP**: High-density markdown data structured for **LLM Training**, **Embeddings**, and **Fine-tuning** Mizo-specific language models.
-- **RAG Ready**: Atomic file structure optimized for **Vector Databases** and Semantic Search.
-*   **Knowledge Graph**: Thousands of internal `[[WikiLinks]]` mapping the relationship between Mizo culture, geography, and governance.
-*   **Verification**: High-quality, screened research nodes.
+*   **AI Training & NLP**: 100% standardized for **LLM Training**, **Embeddings**, and **Fine-tuning**.
+*   **RAG Ready**: Atomic file structure with YAML frontmatter optimized for **Vector Databases**.
+*   **Knowledge Graph**: Thousands of internal `[[WikiLinks]]` mapping every concept.
+*   **Bilingual Density**: High-coverage translation mapping for a low-resource language.
 
 ---
 
 ## 🏛️ A Multi-Disciplinary Foundation
 
 *   **For Government & Law**: Detailed repository of **Mizo Customary Law**, **Article 371G** evolutions, and village-level governance.
-*   **For Science & Environment**: Data on **Ethnobotany**, **Rare Flora/Fauna (Blue Vanda, Hoolock Gibbon)**, and **River Hydrology**.
+*   **For Science & Environment**: Data on **Ethnobotany**, **Rare Flora/Fauna**, and **River Hydrology**.
 *   **For Economy & Tech**: Mapping of **Mizoram Startup Policies**, **IT Parks**, and **Bamboo Value Chains**.
 *   **For Arts & Literature**: A "Creative Canon" including **Mizo Film History**, **Pop Star Indices**, and **Literary Awards**.
 
 ---
 
-## 🌟 Key Features
-
-- **Deep Research Breadth**: Covering the entire Mizo socio-technical landscape.
-- **2026 Vision**: Unique data on Mizoram's masterplan for **Smart Cities**, **Cloud Infrastructure**, and **Digital Economy**.
-- **Human Centric**: Visualized via **Obsidian Graph View**, creating a "Brain" of the Hills.
-
----
-
-## 🤝 Contributing
-Mizo culture is a living, breathing thing. We invite everyone—from farmers to physicists—to contribute to this digital foundation. Please see [CONTRIBUTING.md](CONTRIBUTING.md).
-
----
-
 ## 📜 License
-Released under the **MIT License**. Created by [HruaiaG7](https://github.com/HruaiaG7) as a gift to the Mizo people and the global research community. 🌈🏔️
+- **Technical Structure**: Released under the **MIT License**.
+- **Knowledge Content**: Released under **Creative Commons Attribution 4.0 International (CC-BY 4.0)**.
+Created by [HruaiaG7](https://github.com/HruaiaG7) as a gift to the Mizo people. 🌈🏔️
 
 

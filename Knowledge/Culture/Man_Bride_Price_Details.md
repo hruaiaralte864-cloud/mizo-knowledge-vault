@@ -1,6 +1,19 @@
+---
+title: '''Man'' (The Mizo Bride Price)'
+category: Culture
+tags:
+- culture
+- marriage
+- society
+language: mizo
+tokens: 200
+ai_ready: true
+completeness: medium
+---
+
 # 'Man' (The Mizo Bride Price)
 
-**Tags:** #culture #marriage #society
+
 
 In Mizo culture, marriage involves the payment of a bride price called **Man**. This is not seen as a "purchase" but as a gesture of respect and a bond between households.
 

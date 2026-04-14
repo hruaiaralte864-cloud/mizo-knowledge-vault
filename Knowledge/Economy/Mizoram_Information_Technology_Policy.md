@@ -1,6 +1,19 @@
+---
+title: Mizoram Information Technology (IT) Policy
+category: Economy
+tags:
+- economy
+- tech
+- governance
+language: mixed
+tokens: 234
+ai_ready: true
+completeness: high
+---
+
 # Mizoram Information Technology (IT) Policy
 
-**Tags:** #economy #tech #governance
+
 
 The **Mizoram IT Policy** provides the regulatory and fiscal framework for transforming the state into a "Digital Hill State," leveraging its high literacy rate for service-sector growth.
 

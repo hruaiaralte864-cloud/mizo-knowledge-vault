@@ -1,6 +1,22 @@
+---
+title: 'Aizawl Urbanism: ITMS Data and Vertical Logistics'
+category: Modern
+tags:
+- modern
+- urbanism
+- ITMS
+- Aizawl
+- smartcity
+- research
+language: mixed
+tokens: 468
+ai_ready: true
+completeness: high
+---
+
 # Aizawl Urbanism: ITMS Data and Vertical Logistics
 
-**Tags:** #modern #urbanism #ITMS #Aizawl #smartcity #research
+
 
 This node provides primary research data on the unique urban challenges of Aizawl, a city built on a vertical ridge. It focuses on the **Integrated Traffic Management System (ITMS)** and the engineering logic of high-altitude urbanism.
 

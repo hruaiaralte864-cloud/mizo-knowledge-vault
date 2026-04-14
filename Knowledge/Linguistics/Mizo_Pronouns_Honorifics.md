@@ -1,6 +1,23 @@
+---
+title: Mizo Pronouns Honorifics
+category: Linguistics
+tags:
+- linguistics
+- language
+- grammar
+- Mizo
+- research
+- Informatics
+- NLP
+language: mixed
+tokens: 170
+ai_ready: true
+completeness: high
+---
+
 ﻿# Linguistic Node: Mizo Pronouns Honorifics
 
-**Tags:** #linguistics #language #grammar #Mizo #research #Informatics #NLP
+
 
 ## 1. Technical Classification
 - **Category**: Grammar

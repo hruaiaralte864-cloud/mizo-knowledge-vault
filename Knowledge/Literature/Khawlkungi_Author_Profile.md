@@ -1,6 +1,23 @@
+---
+title: Khawlkungi Author Profile
+category: Literature
+tags:
+- literature
+- authors
+- poetry
+- novels
+- Mizoram
+- research
+- Academy
+language: mixed
+tokens: 185
+ai_ready: true
+completeness: high
+---
+
 ﻿# Literary Node: Khawlkungi Author Profile
 
-**Tags:** #literature #authors #poetry #novels #Mizoram #research #Academy
+
 
 ## 1. Literary Classification
 - **Category**: Author

@@ -1,6 +1,19 @@
+---
+title: "James Dokhuma (1932\u20132007)"
+category: Literature
+tags:
+- biography
+- literature
+- politics
+language: mizo
+tokens: 222
+ai_ready: true
+completeness: high
+---
+
 # James Dokhuma (1932–2007)
 
-**Tags:** #biography #literature #politics
+
 
 **James Dokhuma** was a legendary Mizo novelist, historian, and social activist. He is widely regarded as the most important novelist in the Mizo language and was awarded the **Padma Shri** for his literary contributions.
 

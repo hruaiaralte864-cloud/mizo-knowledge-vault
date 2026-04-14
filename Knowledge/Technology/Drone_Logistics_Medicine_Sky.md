@@ -1,6 +1,20 @@
+---
+title: 'Drone Logistics: "Medicine from the Sky"'
+category: Technology
+tags:
+- tech
+- health
+- logistics
+- drones
+language: mixed
+tokens: 214
+ai_ready: true
+completeness: high
+---
+
 # Drone Logistics: "Medicine from the Sky"
 
-**Tags:** #tech #health #logistics #drones
+
 
 Mizoram is a pioneer in India for using heavy-lift drones to overcome the extreme logistical challenges of the "Vertical Ridge" terrain.
 

@@ -1,6 +1,19 @@
+---
+title: "Rih Dil \u2014 The Sacred Lake of the Dead"
+category: Religion
+tags:
+- religion
+- mythology
+- geography
+language: mixed
+tokens: 180
+ai_ready: true
+completeness: medium
+---
+
 # Rih Dil — The Sacred Lake of the Dead
 
-**Tags:** #religion #mythology #geography
+
 
 **Rih Dil** (also known as Rih Lake) is a heart-shaped, extraordinarily clear lake located just inside the border of modern-day Myanmar's Chin State, near the [[Champhai_District]] border.
 

@@ -1,6 +1,23 @@
+---
+title: Mizoram Football Association
+category: Institutions
+tags:
+- governance
+- education
+- medical
+- institutions
+- Mizoram
+- research
+- Aizawl
+language: mixed
+tokens: 170
+ai_ready: true
+completeness: high
+---
+
 ﻿# Institutional Node: Mizoram Football Association
 
-**Tags:** #governance #education #medical #institutions #Mizoram #research #Aizawl
+
 
 ## 1. Statutory Classification
 - **Category**: Sports

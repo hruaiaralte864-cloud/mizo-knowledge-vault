@@ -1,6 +1,23 @@
-﻿# Mythology Node: Khawhring The Evil Eye
+---
+title: 'Mythology Node: Khawhring The Evil Eye'
+category: Culture
+tags:
+- culture
+- mythology
+- folklore
+- legends
+- Mizoram
+- research
+- Spirituality
+language: mixed
+tokens: 195
+ai_ready: true
+completeness: high
+---
 
-**Tags:** #culture #mythology #folklore #legends #Mizoram #research #Spirituality
+# Mythology Node: Khawhring The Evil Eye
+
+
 
 ## 1. Narrative Classification
 - **Category**: Curse/Myth

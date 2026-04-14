@@ -1,6 +1,23 @@
+---
+title: Laltluangliana Khiangte Profile
+category: Literature
+tags:
+- literature
+- authors
+- poetry
+- novels
+- Mizoram
+- research
+- Academy
+language: mixed
+tokens: 183
+ai_ready: true
+completeness: high
+---
+
 ﻿# Literary Node: Laltluangliana Khiangte Profile
 
-**Tags:** #literature #authors #poetry #novels #Mizoram #research #Academy
+
 
 ## 1. Literary Classification
 - **Category**: Author

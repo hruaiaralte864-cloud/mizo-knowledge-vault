@@ -1,6 +1,23 @@
+---
+title: Mizo Medicinal Plants Index
+category: Environment
+tags:
+- environment
+- ecology
+- flora
+- fauna
+- Mizoram
+- research
+- Conservation
+language: mixed
+tokens: 161
+ai_ready: true
+completeness: high
+---
+
 ﻿# Environmental Node: Mizo Medicinal Plants Index
 
-**Tags:** #environment #ecology #flora #fauna #Mizoram #research #Conservation
+
 
 ## 1. Ecological Classification
 - **Category**: Ethnobotany

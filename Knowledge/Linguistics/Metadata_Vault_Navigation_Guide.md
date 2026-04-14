@@ -1,6 +1,18 @@
+---
+title: Vault Navigation & Metadata Standards
+category: Linguistics
+tags:
+- metadata
+- technology
+language: mixed
+tokens: 65
+ai_ready: true
+completeness: medium
+---
+
 # Vault Navigation & Metadata Standards
 
-**Tags:** #metadata #technology
+
 
 A technical guide to this knowledge vault.
 - **Tagging Strategy**: Use of primary tags like #culture, #history, #nature.

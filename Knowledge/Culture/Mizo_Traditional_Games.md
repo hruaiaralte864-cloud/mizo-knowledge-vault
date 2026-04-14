@@ -1,6 +1,18 @@
+---
+title: Mizo Traditional Games
+category: Culture
+tags:
+- culture
+- sport
+language: mixed
+tokens: 92
+ai_ready: true
+completeness: medium
+---
+
 # Mizo Traditional Games
 
-**Tags:** #culture #sport
+
 
 Traditional Mizo games were designed to build physical strength, endurance, and teamwork in a jungle-terrain environment.
 

@@ -1,6 +1,22 @@
+---
+title: Paihte Sub Clans Index
+category: History
+tags:
+- genealogy
+- clan
+- history
+- Paihte
+- Zohnahthlak
+- research
+language: mixed
+tokens: 145
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Clan Node: Paihte Sub Clans Index
 
-**Tags:** #genealogy #clan #history #Paihte #Zohnahthlak #research
+
 
 ## 1. Lineage Classification
 - **Primary Group**: Paihte

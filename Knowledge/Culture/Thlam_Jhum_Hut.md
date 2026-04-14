@@ -1,6 +1,22 @@
+---
+title: Thlam Jhum Hut
+category: Culture
+tags:
+- engineering
+- architecture
+- construction
+- Mizoram
+- research
+- IndigenousTech
+language: mixed
+tokens: 175
+ai_ready: true
+completeness: high
+---
+
 ﻿# Architecture Node: Thlam Jhum Hut
 
-**Tags:** #engineering #architecture #construction #Mizoram #research #IndigenousTech
+
 
 ## 1. Technical Classification
 - **Category**: Agricultural

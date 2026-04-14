@@ -1,6 +1,23 @@
+---
+title: Tipa Town
+category: Geography
+tags:
+- geography
+- township
+- Siaha
+- SiahaDistrict
+- Mizoram
+- research
+- UrbanPlanning
+language: mixed
+tokens: 137
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Township Node: Tipa Town
 
-**Tags:** #geography #township #Siaha #SiahaDistrict #Mizoram #research #UrbanPlanning
+
 
 ## 1. Administrative Location
 - **District**: [[SiahaDistrict]]

@@ -1,6 +1,18 @@
+---
+title: Ui chang khat
+category: Linguistics
+tags:
+- linguistics
+- idioms
+language: mixed
+tokens: 70
+ai_ready: true
+completeness: medium
+---
+
 # Ui chang khat
 
-**Tags:** #linguistics #idioms
+
 
 **Literal Meaning:** A single piece of dog meat (on a plate).
 

@@ -1,6 +1,19 @@
+---
+title: The Mizo Digital Linguistics Database
+category: Linguistics
+tags:
+- linguistics
+- modern
+- academic
+language: mixed
+tokens: 35
+ai_ready: true
+completeness: low
+---
+
 # The Mizo Digital Linguistics Database
 
-**Tags:** #linguistics #modern #academic
+
 
 An ongoing project to digitize all known Mizo words, their etymologies, and their usage in classical literature.
 

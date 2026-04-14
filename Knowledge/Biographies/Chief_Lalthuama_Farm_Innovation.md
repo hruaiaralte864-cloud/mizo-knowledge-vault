@@ -1,6 +1,19 @@
+---
+title: 'Chief Lalthuama: Pioneer of Farm Innovation'
+category: Biographies
+tags:
+- biography
+- agriculture
+- reform
+language: mixed
+tokens: 224
+ai_ready: true
+completeness: high
+---
+
 # Chief Lalthuama: Pioneer of Farm Innovation
 
-**Tags:** #biography #agriculture #reform
+
 
 **Chief Lalthuama** was a visionary traditional leader who, during the early 20th century, sought to modernize Mizo farming practices while still respecting the Chiefly system of **[[Lal_System]]**.
 

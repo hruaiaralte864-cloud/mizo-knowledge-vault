@@ -1,6 +1,19 @@
+---
+title: 'B. Lalthangliana: The Bibliographical Custodian'
+category: Biographies
+tags:
+- literature
+- history
+- research
+language: mixed
+tokens: 217
+ai_ready: true
+completeness: high
+---
+
 # B. Lalthangliana: The Bibliographical Custodian
 
-**Tags:** #literature #history #research
+
 
 One of the most significant yet understated contributions of **B. Lalthangliana** is his meticulous documentation of Mizo literature and historical records.
 

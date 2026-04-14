@@ -1,6 +1,23 @@
+---
+title: Tlabung
+category: Geography
+tags:
+- geography
+- township
+- Lunglei
+- LungleiDistrict
+- Mizoram
+- research
+- UrbanPlanning
+language: mixed
+tokens: 137
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Township Node: Tlabung
 
-**Tags:** #geography #township #Lunglei #LungleiDistrict #Mizoram #research #UrbanPlanning
+
 
 ## 1. Administrative Location
 - **District**: [[LungleiDistrict]]

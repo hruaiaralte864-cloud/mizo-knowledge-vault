@@ -1,6 +1,18 @@
+---
+title: Mizo Literature Societies
+category: Literature
+tags:
+- literature
+- society
+language: mixed
+tokens: 57
+ai_ready: true
+completeness: medium
+---
+
 # Mizo Literature Societies
 
-**Tags:** #literature #society
+
 
 Beyond the **[[Mizo_Academy_of_Letters]]**, several other societies play a role in promoting the language:
 - **Thutiam:** Focused on spiritual and religious literature.

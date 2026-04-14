@@ -1,6 +1,19 @@
+---
+title: Land Revenue and Settlement in Mizoram
+category: Governance
+tags:
+- governance
+- law
+- economy
+language: mixed
+tokens: 235
+ai_ready: true
+completeness: high
+---
+
 # Land Revenue and Settlement in Mizoram
 
-**Tags:** #governance #law #economy
+
 
 The **Land Revenue and Settlement** system in Mizoram is a complex blend of traditional communal ownership and modern individual property rights, reflecting the state’s unique constitutional status.
 

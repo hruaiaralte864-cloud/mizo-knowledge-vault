@@ -1,8 +1,23 @@
+---
+title: Traditional Mizo Weather Forecasting (Bawh hla logic)
+category: Science
+tags:
+- science
+- nature
+- agriculture
+- Centuries
+- before
+- digital
+- barometers
+language: mixed
+tokens: 178
+ai_ready: true
+completeness: high
+---
+
 # Traditional Mizo Weather Forecasting (Bawh hla logic)
 
-**Tags:** #science #nature #agriculture
-
-Centuries before digital barometers, the Mizo people developed a "Natural Indicator" system to forecast weather patterns, critical for the timing of **[[Jhum_Cultivation]]**.
+, the Mizo people developed a "Natural Indicator" system to forecast weather patterns, critical for the timing of **[[Jhum_Cultivation]]**.
 
 ## Botanical and Animal Indicators
 - **Cicada Cycles**: The pitch and frequency of cicada calls (see **[[Mizo_Cicada_Varieties]]**) were used to predict the intensity of the coming monsoon.

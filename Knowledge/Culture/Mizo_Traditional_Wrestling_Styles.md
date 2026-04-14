@@ -1,6 +1,18 @@
+---
+title: 'Traditional Wrestling: Specific Styles'
+category: Culture
+tags:
+- culture
+- sports
+language: mixed
+tokens: 27
+ai_ready: true
+completeness: low
+---
+
 # Traditional Wrestling: Specific Styles
 
-**Tags:** #culture #sports
+
 
 Detailing the 'Lusei' style of wrestling vs. regional variations in the South.
 

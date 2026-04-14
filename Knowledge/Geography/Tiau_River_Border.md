@@ -1,6 +1,19 @@
+---
+title: Tiau River (The International Border)
+category: Geography
+tags:
+- geography
+- border
+- politics
+language: mixed
+tokens: 105
+ai_ready: true
+completeness: medium
+---
+
 # Tiau River (The International Border)
 
-**Tags:** #geography #border #politics
+
 
 The **Tiau River** forms the international boundary between India (Mizoram) and Myanmar (Chin State).
 

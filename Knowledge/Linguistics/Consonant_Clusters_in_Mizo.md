@@ -1,6 +1,23 @@
+---
+title: Consonant Clusters in Mizo
+category: Linguistics
+tags:
+- linguistics
+- language
+- grammar
+- Mizo
+- research
+- Informatics
+- NLP
+language: mixed
+tokens: 178
+ai_ready: true
+completeness: high
+---
+
 ﻿# Linguistic Node: Consonant Clusters in Mizo
 
-**Tags:** #linguistics #language #grammar #Mizo #research #Informatics #NLP
+
 
 ## 1. Technical Classification
 - **Category**: Phonology

@@ -1,6 +1,19 @@
+---
+title: Mizo Naming Traditions
+category: Culture
+tags:
+- culture
+- language
+- society
+language: mixed
+tokens: 236
+ai_ready: true
+completeness: high
+---
+
 # Mizo Naming Traditions
 
-**Tags:** #culture #language #society
+
 
 Mizo naming customs are complex, poetic, and deeply culturally encoded.
 

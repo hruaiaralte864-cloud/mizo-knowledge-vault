@@ -1,8 +1,14 @@
 ---
-title: Mizo Geography & Terrain
-tags: [geography, nature, science]
-status: permanent
-created: 2026-04-14
+title: Geography of the Mizo Hills
+category: Knowledge
+tags:
+- geography
+- nature
+- science
+language: mixed
+tokens: 326
+ai_ready: true
+completeness: high
 ---
 
 # Geography of the Mizo Hills

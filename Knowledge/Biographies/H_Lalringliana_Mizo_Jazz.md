@@ -1,6 +1,19 @@
+---
+title: 'H. Lalringliana: The Pioneer of Mizo Jazz'
+category: Biographies
+tags:
+- biography
+- music
+- jazz
+language: mixed
+tokens: 215
+ai_ready: true
+completeness: high
+---
+
 # H. Lalringliana: The Pioneer of Mizo Jazz
 
-**Tags:** #biography #music #jazz
+
 
 **H. Lalringliana** is one of Mizoram's most versatile musicians, recognized for introducing Jazz and complex orchestral arrangements to the Mizo music scene.
 

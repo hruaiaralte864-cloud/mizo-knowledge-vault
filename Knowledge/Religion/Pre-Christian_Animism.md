@@ -1,6 +1,19 @@
+---
+title: "Pre-Christian Animism \u2014 Mizo Traditional Religion"
+category: Religion
+tags:
+- religion
+- culture
+- history
+language: mixed
+tokens: 231
+ai_ready: true
+completeness: high
+---
+
 # Pre-Christian Animism — Mizo Traditional Religion
 
-**Tags:** #religion #culture #history
+
 
 Before 1894, the Mizo people practised a form of fear-based animism with the following core structure:
 

@@ -1,6 +1,18 @@
+---
+title: Sapui Nihngeih
+category: Linguistics
+tags:
+- linguistics
+- proverbs
+language: mixed
+tokens: 57
+ai_ready: true
+completeness: medium
+---
+
 # Sapui Nihngeih
 
-**Tags:** #linguistics #proverbs
+
 
 **Literal Meaning:** Making a blood-brotherhood with a tiger.
 

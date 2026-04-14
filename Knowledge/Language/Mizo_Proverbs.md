@@ -1,6 +1,19 @@
+---
+title: Mizo Proverbs and Idioms
+category: Language
+tags:
+- language
+- culture
+- wisdom
+language: mizo
+tokens: 249
+ai_ready: true
+completeness: high
+---
+
 # Mizo Proverbs and Idioms
 
-**Tags:** #language #culture #wisdom
+
 
 The Mizo oral tradition is extraordinarily rich in proverbs (*Thu te leh Hla*, often just *Thu*), which encode centuries of philosophical wisdom, practical survival knowledge, and social ethics.
 

@@ -1,6 +1,23 @@
+---
+title: Kawrtethawveng City
+category: Geography
+tags:
+- geography
+- township
+- Mamit
+- MamitDistrict
+- Mizoram
+- research
+- UrbanPlanning
+language: mixed
+tokens: 137
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Township Node: Kawrtethawveng City
 
-**Tags:** #geography #township #Mamit #MamitDistrict #Mizoram #research #UrbanPlanning
+
 
 ## 1. Administrative Location
 - **District**: [[MamitDistrict]]

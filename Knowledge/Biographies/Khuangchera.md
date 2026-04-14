@@ -1,6 +1,23 @@
+---
+title: Khuangchera
+category: Biographies
+tags:
+- history
+- biography
+- leader
+- Pasaltha
+- culture
+- Mizoram
+- research
+language: mixed
+tokens: 119
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Biography: Khuangchera
 
-**Tags:** #history #biography #leader #Pasaltha #culture #Mizoram #research
+
 
 ## 1. Profile Summary
 - **Name**: Khuangchera

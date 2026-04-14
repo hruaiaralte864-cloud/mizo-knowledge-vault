@@ -1,6 +1,18 @@
+---
+title: Linguistic Evolution of Mizo Hymns
+category: Linguistics
+tags:
+- linguistics
+- religion
+language: mixed
+tokens: 35
+ai_ready: true
+completeness: low
+---
+
 # Linguistic Evolution of Mizo Hymns
 
-**Tags:** #linguistics #religion
+
 
 How the transition from 'Sawi' (Speech) to 'Hla' (Songs) in church helped stabilize the modern Mizo language.
 

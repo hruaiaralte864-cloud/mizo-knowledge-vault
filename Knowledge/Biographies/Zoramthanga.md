@@ -1,6 +1,18 @@
+---
+title: Zoramthanga (born 1944)
+category: Biographies
+tags:
+- biography
+- politics
+language: mixed
+tokens: 161
+ai_ready: true
+completeness: medium
+---
+
 # Zoramthanga (born 1944)
 
-**Tags:** #biography #politics
+
 
 **Zoramthanga** is one of the most consequential political figures in contemporary Mizo history. He served as Chief Minister of Mizoram for two terms (1998–2003 and 2003–2008) and again from 2018 to 2023.
 

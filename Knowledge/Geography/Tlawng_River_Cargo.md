@@ -1,6 +1,18 @@
+---
+title: Tlawng River (Cargo History)
+category: Geography
+tags:
+- history
+- geography
+language: mixed
+tokens: 58
+ai_ready: true
+completeness: medium
+---
+
 # Tlawng River (Cargo History)
 
-**Tags:** #history #geography
+
 
 For over a century, the **[[Tlawng_River]]** was the only way to move heavy machinery into the Mizo hills. The transport of the first generators and cars required weeks of careful navigation and manual hauling.
 

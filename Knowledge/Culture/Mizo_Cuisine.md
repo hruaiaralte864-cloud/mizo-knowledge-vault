@@ -1,6 +1,19 @@
+---
+title: Mizo Cuisine
+category: Culture
+tags:
+- culture
+- food
+- society
+language: mixed
+tokens: 252
+ai_ready: true
+completeness: high
+---
+
 # Mizo Cuisine
 
-**Tags:** #culture #food #society
+
 
 Mizo cuisine is characterised by simplicity, strong fermented flavours, minimal spice, and a heavy reliance on pork, chicken, rice, and jungle greens.
 

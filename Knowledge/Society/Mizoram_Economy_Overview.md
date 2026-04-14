@@ -1,6 +1,18 @@
+---
+title: Mizoram Economy Overview
+category: Society
+tags:
+- society
+- economy
+language: mixed
+tokens: 214
+ai_ready: true
+completeness: high
+---
+
 # Mizoram Economy Overview
 
-**Tags:** #society #economy
+
 
 Mizoram has one of the smallest state economies in India, but has been growing steadily through a combination of central government transfers, horticulture, and a services sector driven by the state's exceptional [[Mizoram_Literacy_and_Education|literacy rate]].
 

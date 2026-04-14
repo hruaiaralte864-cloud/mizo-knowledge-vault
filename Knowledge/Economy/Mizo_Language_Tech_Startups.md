@@ -1,6 +1,24 @@
+---
+title: Mizo Language Tech Startups
+category: Economy
+tags:
+- economy
+- tech
+- startups
+- innovation
+- Mizoram
+- research
+- Aizawl
+- '2026'
+language: mixed
+tokens: 166
+ai_ready: true
+completeness: high
+---
+
 ﻿# Economy Node: Mizo Language Tech Startups
 
-**Tags:** #economy #tech #startups #innovation #Mizoram #research #Aizawl #2026
+
 
 ## 1. Sectoral Classification
 - **Category**: Tech

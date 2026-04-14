@@ -1,6 +1,19 @@
+---
+title: "Mitthi Khua \u2014 The Village of the Dead"
+category: Religion
+tags:
+- religion
+- afterlife
+- mythology
+language: mixed
+tokens: 163
+ai_ready: true
+completeness: medium
+---
+
 # Mitthi Khua — The Village of the Dead
 
-**Tags:** #religion #afterlife #mythology
+
 
 **Mitthi Khua** (*Mitthi* = dead, *Khua* = village) is the primary afterlife destination in traditional Mizo cosmology — more purgatorial waiting-place than paradise.
 

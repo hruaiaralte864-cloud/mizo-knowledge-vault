@@ -1,6 +1,19 @@
+---
+title: "Kaphleia \u2014 The Poet of Sorrow (1887\u20131954)"
+category: Biographies
+tags:
+- biography
+- literature
+- poetry
+language: mixed
+tokens: 188
+ai_ready: true
+completeness: medium
+---
+
 # Kaphleia — The Poet of Sorrow (1887–1954)
 
-**Tags:** #biography #literature #poetry
+
 
 **Kaphleia** (Rev. Liangkhaia) occupies a unique and deeply emotional place in Mizo literary history. Where [[Rokunga]] celebrates the beauty of the land and [[Vankhama]] composed songs of joy, Kaphleia is the poet of longing, grief, and spiritual yearning.
 

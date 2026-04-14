@@ -1,6 +1,19 @@
+---
+title: The Haupu Landslide Disaster (1992)
+category: History
+tags:
+- history
+- disaster
+- society
+language: mixed
+tokens: 243
+ai_ready: true
+completeness: high
+---
+
 # The Haupu Landslide Disaster (1992)
 
-**Tags:** #history #disaster #society
+
 
 The **Haupu Landslide** of 1992 is recorded as the deadliest natural disaster in the modern history of the **[[Aizawl_District]]**, highlighting the environmental vulnerability of the Mizo ridges.
 

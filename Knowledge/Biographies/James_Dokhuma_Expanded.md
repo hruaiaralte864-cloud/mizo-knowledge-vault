@@ -1,6 +1,19 @@
+---
+title: James Dokhuma (The Voice of an Era)
+category: Biographies
+tags:
+- biography
+- literature
+- history
+language: mixed
+tokens: 97
+ai_ready: true
+completeness: medium
+---
+
 # James Dokhuma (The Voice of an Era)
 
-**Tags:** #biography #literature #history
+
 
 **James Dokhuma** (1932–2007) is considered the most prolific and influential Mizo writer of the modern age.
 

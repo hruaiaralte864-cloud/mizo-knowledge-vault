@@ -1,6 +1,19 @@
+---
+title: Puanchei
+category: Culture
+tags:
+- culture
+- textile
+- art
+language: mixed
+tokens: 143
+ai_ready: true
+completeness: medium
+---
+
 # Puanchei
 
-**Tags:** #culture #textile #art
+
 
 **Puanchei** is the most colorful and elaborate of all Mizo traditional textiles. It is the signature garment worn by Mizo women during festivals and significant ceremonies.
 

@@ -1,6 +1,19 @@
+---
+title: Rev. Liangkhaia (The Mizo Historian)
+category: Biographies
+tags:
+- biography
+- history
+- literary
+language: mixed
+tokens: 102
+ai_ready: true
+completeness: medium
+---
+
 # Rev. Liangkhaia (The Mizo Historian)
 
-**Tags:** #biography #history #literary
+
 
 **Rev. Liangkhaia** (1885–1979) was the first Mizo to write a comprehensive history of his people.
 

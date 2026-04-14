@@ -1,6 +1,18 @@
+---
+title: Baktawng Village
+category: Geography
+tags:
+- geography
+- society
+language: mixed
+tokens: 92
+ai_ready: true
+completeness: medium
+---
+
 # Baktawng Village
 
-**Tags:** #geography #society
+
 
 **Baktawng** is world-famous as the home of the **Chana Pawl** (the Chana Sect).
 

@@ -1,6 +1,23 @@
+---
+title: Mizo Literary Festivals Index
+category: Literature
+tags:
+- literature
+- authors
+- poetry
+- novels
+- Mizoram
+- research
+- Academy
+language: mixed
+tokens: 184
+ai_ready: true
+completeness: high
+---
+
 ﻿# Literary Node: Mizo Literary Festivals Index
 
-**Tags:** #literature #authors #poetry #novels #Mizoram #research #Academy
+
 
 ## 1. Literary Classification
 - **Category**: Event

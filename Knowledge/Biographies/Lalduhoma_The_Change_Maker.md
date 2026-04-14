@@ -1,6 +1,19 @@
+---
+title: 'Lalduhoma: The Change Maker'
+category: Biographies
+tags:
+- biography
+- politics
+- reform
+language: mixed
+tokens: 232
+ai_ready: true
+completeness: high
+---
+
 # Lalduhoma: The Change Maker
 
-**Tags:** #biography #politics #reform
+
 
 **Lalduhoma** is a transformative political leader in Mizoram, currently serving as the Chief Minister. A former IPS officer who once served in the Prime Minister's security detail, his career is defined by his commitment to radical administrative reform.
 

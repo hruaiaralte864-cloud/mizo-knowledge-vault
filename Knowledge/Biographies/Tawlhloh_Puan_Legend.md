@@ -1,6 +1,19 @@
+---
+title: The Legend of the Tawlhloh Puan
+category: Biographies
+tags:
+- biography
+- culture
+- folklore
+language: mixed
+tokens: 150
+ai_ready: true
+completeness: medium
+---
+
 # The Legend of the Tawlhloh Puan
 
-**Tags:** #biography #culture #folklore
+
 
 While the **Tawlhloh Puan** is a textile, its name and origin are tied to the legendary warrior **Pu Pawla**.
 

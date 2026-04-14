@@ -1,6 +1,19 @@
+---
+title: Chawlhni (Sunday/Sabbath) in Mizoram
+category: Culture
+tags:
+- culture
+- religion
+- society
+language: mixed
+tokens: 83
+ai_ready: true
+completeness: medium
+---
+
 # Chawlhni (Sunday/Sabbath) in Mizoram
 
-**Tags:** #culture #religion #society
+
 
 **Chawlhni** (Sunday) in Mizoram is a day of absolute quiet and sanctuary.
 

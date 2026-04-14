@@ -1,6 +1,19 @@
+---
+title: Songs of the Bamboo Famine (Mautam)
+category: History
+tags:
+- history
+- culture
+- music
+language: mixed
+tokens: 234
+ai_ready: true
+completeness: high
+---
+
 # Songs of the Bamboo Famine (Mautam)
 
-**Tags:** #history #culture #music
+
 
 The periodic flowering of bamboo and the subsequent rat infestation, known as the **[[Mautam_Famine_Cycle]]**, has always been accompanied by a unique genre of Mizo "famine songs."
 

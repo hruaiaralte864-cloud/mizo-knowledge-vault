@@ -1,6 +1,19 @@
+---
+title: 'Laldenga: The Master Negotiator'
+category: Biographies
+tags:
+- biography
+- history
+- peace_accord
+language: mixed
+tokens: 252
+ai_ready: true
+completeness: high
+---
+
 # Laldenga: The Master Negotiator
 
-**Tags:** #biography #history #peace_accord
+
 
 **Laldenga** is widely regarded as one of the most clever and persistent negotiators in the history of ethnic insurgencies in Southeast Asia. His decade-long negotiation with the Government of India is the definitive study in **[[Mizoram_Political_History]]**.
 

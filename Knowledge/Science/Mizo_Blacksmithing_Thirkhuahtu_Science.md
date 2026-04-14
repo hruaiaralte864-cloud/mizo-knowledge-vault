@@ -1,8 +1,21 @@
+---
+title: 'Mizo Blacksmithing: The Science of Thirkhuahtu'
+category: Science
+tags:
+- science
+- metallurgy
+- manual_science
+- thir
+- The
+language: mixed
+tokens: 167
+ai_ready: true
+completeness: high
+---
+
 # Mizo Blacksmithing: The Science of Thirkhuahtu
 
-**Tags:** #science #metallurgy #manual_science #thir
-
-The **Thirkhuahtu** (Blacksmith) was a critical figure in ancient Mizo villages, responsible for the tools of both survival and war.
+**Thirkhuahtu** (Blacksmith) was a critical figure in ancient Mizo villages, responsible for the tools of both survival and war.
 
 ## Blacksmithing Tempering
 Mizo blacksmiths used a sophisticated "Water Quenching" and "Air Cooling" cycle to temper their iron (*Thir*). 

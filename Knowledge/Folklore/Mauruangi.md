@@ -1,6 +1,18 @@
+---
+title: "Mauruangi \u2014 The Mizo Cinderella"
+category: Folklore
+tags:
+- folklore
+- mythology
+language: mixed
+tokens: 198
+ai_ready: true
+completeness: high
+---
+
 # Mauruangi — The Mizo Cinderella
 
-**Tags:** #folklore #mythology
+
 
 **Mauruangi** is the Mizo people's equivalent of Cinderella — a deeply beloved tale of a mistreated girl whose goodness ultimately triumphs.
 

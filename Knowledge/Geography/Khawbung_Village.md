@@ -1,6 +1,19 @@
+---
+title: Khawbung Village
+category: Geography
+tags:
+- geography
+- village
+- history
+language: mixed
+tokens: 153
+ai_ready: true
+completeness: medium
+---
+
 # Khawbung Village
 
-**Tags:** #geography #village #history
+
 
 **Khawbung** is one of the oldest and most historically significant villages in eastern Mizoram, situated in the Champhai district.
 

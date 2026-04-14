@@ -1,6 +1,23 @@
+---
+title: Tonal Mismatch in Digital Text
+category: Linguistics
+tags:
+- linguistics
+- language
+- grammar
+- Mizo
+- research
+- Informatics
+- NLP
+language: mixed
+tokens: 179
+ai_ready: true
+completeness: high
+---
+
 ﻿# Linguistic Node: Tonal Mismatch in Digital Text
 
-**Tags:** #linguistics #language #grammar #Mizo #research #Informatics #NLP
+
 
 ## 1. Technical Classification
 - **Category**: Informatics

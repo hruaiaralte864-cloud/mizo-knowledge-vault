@@ -1,6 +1,19 @@
+---
+title: The Alexandrapur Tea Estate Raid (1871)
+category: History
+tags:
+- history
+- british
+- conflict
+language: mixed
+tokens: 196
+ai_ready: true
+completeness: high
+---
+
 # The Alexandrapur Tea Estate Raid (1871)
 
-**Tags:** #history #british #conflict
+
 
 The most consequential single event triggering formal British military intervention in Mizo territory was the raid on the **Alexandrapur Tea Estate** in January 1871.
 

@@ -1,6 +1,19 @@
+---
+title: Tam Dil Lake
+category: Geography
+tags:
+- geography
+- nature
+- tourism
+language: mixed
+tokens: 148
+ai_ready: true
+completeness: medium
+---
+
 # Tam Dil Lake
 
-**Tags:** #geography #nature #tourism
+
 
 **Tam Dil** (literally "Mustard Lake") is a natural lake located near **Saitual** in Mizoram, approximately 85 km from [[Aizawl_District|Aizawl]]. It is named for the wild mustard plants (*Tam*) that grow abundantly along its shores.
 

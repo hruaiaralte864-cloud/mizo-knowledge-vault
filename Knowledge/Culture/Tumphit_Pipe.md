@@ -1,6 +1,23 @@
+---
+title: Tumphit Pipe
+category: Culture
+tags:
+- culture
+- music
+- instruments
+- songs
+- Mizoram
+- research
+- Acoustics
+language: mixed
+tokens: 158
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Musical Node: Tumphit Pipe
 
-**Tags:** #culture #music #instruments #songs #Mizoram #research #Acoustics
+
 
 ## 1. Technical Classification
 - **Category**: Wind

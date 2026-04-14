@@ -1,6 +1,18 @@
+---
+title: Neihdawn Village
+category: Geography
+tags:
+- geography
+- village
+language: mixed
+tokens: 68
+ai_ready: true
+completeness: medium
+---
+
 # Neihdawn Village
 
-**Tags:** #geography #village
+
 
 **Neihdawn** is a scenic village in the Champhai district, known for its extensive terrace farming.
 

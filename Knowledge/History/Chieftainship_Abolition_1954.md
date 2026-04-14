@@ -1,6 +1,19 @@
+---
+title: The Abolition of the Chieftainship (1954)
+category: History
+tags:
+- history
+- governance
+- society
+language: mixed
+tokens: 210
+ai_ready: true
+completeness: high
+---
+
 # The Abolition of the Chieftainship (1954)
 
-**Tags:** #history #governance #society
+
 
 The formal abolition of the hereditary **[[Lal_System|Lal (Chieftainship)]]** system was enacted by the **Assam Lushai Hills District (Acquisition of Chiefs' Rights) Act, 1954**.
 

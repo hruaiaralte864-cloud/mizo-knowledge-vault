@@ -1,6 +1,19 @@
+---
+title: Linguistic Analysis of Mizo Hymns
+category: Linguistics
+tags:
+- linguistics
+- religion
+- music
+language: mixed
+tokens: 40
+ai_ready: true
+completeness: low
+---
+
 # Linguistic Analysis of Mizo Hymns
 
-**Tags:** #linguistics #religion #music
+
 
 How the rhyming schemes and syllable counts of translated English hymns were modified to fit the Mizo tonal system.
 

@@ -1,6 +1,19 @@
+---
+title: Hmuifang Peak (Tlang)
+category: Geography
+tags:
+- geography
+- nature
+- tourism
+language: mixed
+tokens: 75
+ai_ready: true
+completeness: medium
+---
+
 # Hmuifang Peak (Tlang)
 
-**Tags:** #geography #nature #tourism
+
 
 **Hmuifang Peak** is one of the most popular hills in Mizoram, located about 50km from Aizawl.
 

@@ -1,6 +1,25 @@
+---
+title: Serow
+category: Nature
+tags:
+- science
+- nature
+- wildlife
+- ecology
+- Mizoram
+- Capricornis
+- sumatraensis.Replace('
+- '''_'')'
+- research
+language: mixed
+tokens: 139
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Species Profile: Mizo Serow
 
-**Tags:** #science #nature #wildlife #ecology #Mizoram #Capricornis sumatraensis.Replace(' ', '_') #research
+
 
 ## 1. Biological Classification
 - **Common Name**: Mizo Serow

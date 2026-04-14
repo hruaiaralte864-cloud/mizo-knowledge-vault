@@ -1,6 +1,22 @@
+---
+title: Bualpui NG
+category: Geography
+tags:
+- geography
+- village
+- Lawngtlai
+- LawngtlaiDistrict
+- Mizoram
+- research
+language: mixed
+tokens: 113
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Village Node: Bualpui NG
 
-**Tags:** #geography #village #Lawngtlai #LawngtlaiDistrict #Mizoram #research
+
 
 ## 1. Administrative Location
 - **District**: [[LawngtlaiDistrict]]

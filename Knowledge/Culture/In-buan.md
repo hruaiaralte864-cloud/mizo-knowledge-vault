@@ -1,6 +1,23 @@
+---
+title: In-buan
+category: Culture
+tags:
+- culture
+- sports
+- games
+- fitness
+- Mizoram
+- research
+- PhysicalEducation
+language: mixed
+tokens: 167
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Traditional Game: In-buan
 
-**Tags:** #culture #sports #games #fitness #Mizoram #research #PhysicalEducation
+
 
 ## 1. Game Classification
 - **Category**: Combat/Wrestling

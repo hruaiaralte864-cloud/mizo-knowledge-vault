@@ -1,6 +1,19 @@
+---
+title: 'Sixth_Schedule: The Shield of Autonomy'
+category: Governance
+tags:
+- governance
+- constitutional
+- history
+language: mixed
+tokens: 209
+ai_ready: true
+completeness: high
+---
+
 # Sixth_Schedule: The Shield of Autonomy
 
-**Tags:** #governance #constitutional #history
+
 
 The **Sixth_Schedule** of the Indian Constitution provides for the administration of tribal areas in North and Northeast India. In Mizoram, it is the legal basis for the **[[The_Three_Autonomous_District_Councils]]**.
 

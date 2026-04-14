@@ -1,6 +1,23 @@
-﻿# Textile Node: Modern Aizawl Street Fashion
+---
+title: 'Textile Node: Modern Aizawl Street Fashion'
+category: Culture
+tags:
+- culture
+- fashion
+- textiles
+- weaving
+- Mizoram
+- research
+- Chemistry
+language: mixed
+tokens: 170
+ai_ready: true
+completeness: high
+---
 
-**Tags:** #culture #fashion #textiles #weaving #Mizoram #research #Chemistry
+# Textile Node: Modern Aizawl Street Fashion
+
+
 
 ## 1. Technical Classification
 - **Category**: Modern

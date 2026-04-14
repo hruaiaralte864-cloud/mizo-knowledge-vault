@@ -1,6 +1,19 @@
+---
+title: Siaha District
+category: Geography
+tags:
+- geography
+- mara
+- governance
+language: mixed
+tokens: 127
+ai_ready: true
+completeness: medium
+---
+
 # Siaha District
 
-**Tags:** #geography #mara #governance
+
 
 **Siaha** (formerly Saiha) is the southernmost district of Mizoram and the headquarters of the **Mara Autonomous District Council**.
 

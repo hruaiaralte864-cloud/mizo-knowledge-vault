@@ -1,8 +1,22 @@
+---
+title: Aizawl Urban Geology and Slope Stability
+category: Science
+tags:
+- science
+- geology
+- urban_planning
+- disaster
+- Aizawl
+- North
+language: mixed
+tokens: 263
+ai_ready: true
+completeness: high
+---
+
 # Aizawl Urban Geology and Slope Stability
 
-**Tags:** #science #geology #urban_planning #disaster
-
-Aizawl is built on a series of North-South trending ridges composed of splintery shale and compact sandstone. This unique **[[Geography_Overview]]** makes urban geology a matter of survival for the city.
+-South trending ridges composed of splintery shale and compact sandstone. This unique **[[Geography_Overview]]** makes urban geology a matter of survival for the city.
 
 ## Structural Vulnerability
 The shale layers in Aizawl are prone to "sliding" when saturated with monsoon rains. This led to historic events like the **[[The_Haupu_Landslide_Disaster]]**. Most of Aizawl's residential areas are built on slopes exceeding 30 degrees, which is technically beyond the safe limit for conventional construction.

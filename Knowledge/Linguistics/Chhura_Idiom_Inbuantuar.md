@@ -1,6 +1,18 @@
+---
+title: Chhura Inbuantuar
+category: Linguistics
+tags:
+- linguistics
+- idioms
+language: mixed
+tokens: 54
+ai_ready: true
+completeness: low
+---
+
 # Chhura Inbuantuar
 
-**Tags:** #linguistics #idioms
+
 
 **Literal Meaning:** Chhura's wrestling match.
 

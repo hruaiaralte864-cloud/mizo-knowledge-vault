@@ -1,6 +1,24 @@
+---
+title: Biate Language Basics
+category: Linguistics
+tags:
+- linguistics
+- dialect
+- Biate
+- Darlawn
+- Assam
+- Border
+- MizoLanguage
+- research
+language: mixed
+tokens: 145
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Linguistic Node: Biate Language Basics
 
-**Tags:** #linguistics #dialect #Biate #Darlawn / Assam Border #MizoLanguage #research
+
 
 ## 1. Taxonomic Classification
 - **Primary Group**: [[BiateLanguage]]

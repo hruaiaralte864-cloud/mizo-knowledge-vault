@@ -1,8 +1,14 @@
 ---
-title: Traditional Mizo Funerals & Deathways
-tags: [culture, religion, society]
-status: permanent
-created: 2026-04-14
+title: 'Traditional Mizo Funerals: From Bones to Brotherhood'
+category: Religion
+tags:
+- culture
+- religion
+- society
+language: mixed
+tokens: 340
+ai_ready: true
+completeness: high
 ---
 
 # Traditional Mizo Funerals: From Bones to Brotherhood

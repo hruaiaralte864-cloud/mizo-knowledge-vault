@@ -1,6 +1,18 @@
+---
+title: Public Works Department (PWD)
+category: Governance
+tags:
+- governance
+- infrastructure
+language: mixed
+tokens: 83
+ai_ready: true
+completeness: medium
+---
+
 # Public Works Department (PWD)
 
-**Tags:** #governance #infrastructure
+
 
 The **PWD** in Mizoram faces the monumental task of maintaining roads in one of the world's most landslide-prone regions.
 

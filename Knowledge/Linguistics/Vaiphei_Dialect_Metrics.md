@@ -1,6 +1,23 @@
+---
+title: Vaiphei Dialect Metrics
+category: Linguistics
+tags:
+- linguistics
+- dialect
+- Vaiphei
+- Aizawl
+- Kolasib
+- MizoLanguage
+- research
+language: mixed
+tokens: 144
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Linguistic Node: Vaiphei Dialect Metrics
 
-**Tags:** #linguistics #dialect #Vaiphei #Aizawl / Kolasib #MizoLanguage #research
+
 
 ## 1. Taxonomic Classification
 - **Primary Group**: [[VaipheiLanguage]]

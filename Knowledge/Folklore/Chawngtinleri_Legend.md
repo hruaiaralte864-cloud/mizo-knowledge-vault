@@ -1,6 +1,18 @@
+---
+title: Chawngtinleri (Queen of the Animals)
+category: Folklore
+tags:
+- folklore
+- nature
+language: mixed
+tokens: 127
+ai_ready: true
+completeness: medium
+---
+
 # Chawngtinleri (Queen of the Animals)
 
-**Tags:** #folklore #nature
+
 
 **Chawngtinleri** is a powerful figure in Mizo mythology, known as the goddess or queen who protects all the animals of the forest.
 

@@ -1,6 +1,19 @@
+---
+title: Christmas in Mizoram
+category: Culture
+tags:
+- culture
+- religion
+- festivals
+language: mixed
+tokens: 328
+ai_ready: true
+completeness: high
+---
+
 # Christmas in Mizoram
 
-**Tags:** #culture #religion #festivals
+
 
 Christmas is the most significant and widely celebrated festival in Mizoram. For the Mizo people, it is not just a religious event but the ultimate social and cultural homecoming.
 

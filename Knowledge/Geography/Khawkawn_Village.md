@@ -1,6 +1,19 @@
+---
+title: Khawkawn Village
+category: Geography
+tags:
+- geography
+- village
+- culture
+language: mixed
+tokens: 223
+ai_ready: true
+completeness: high
+---
+
 # Khawkawn Village
 
-**Tags:** #geography #village #culture
+
 
 **Khawkawn** is a historically significant village located in the northeastern part of Mizoram. It is known for its scenic beauty and its strategic position near the Tiau River, which forms the international border with Myanmar.
 

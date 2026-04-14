@@ -1,6 +1,20 @@
+---
+title: 'Mizo Centenarians: The Longevity of the Ridges'
+category: Society
+tags:
+- society
+- health
+- science
+- longevity
+language: mixed
+tokens: 174
+ai_ready: true
+completeness: high
+---
+
 # Mizo Centenarians: The Longevity of the Ridges
 
-**Tags:** #society #health #science #longevity
+
 
 Mizoram is home to a high density of centenarians, with many individuals living active lives beyond the age of 100.
 

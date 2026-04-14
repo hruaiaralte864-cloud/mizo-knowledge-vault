@@ -1,6 +1,19 @@
+---
+title: Christianity in Mizoram
+category: Religion
+tags:
+- religion
+- society
+- history
+language: mixed
+tokens: 205
+ai_ready: true
+completeness: high
+---
+
 # Christianity in Mizoram
 
-**Tags:** #religion #society #history
+
 
 Today approximately **87% of Mizoram's population is Christian**, making it one of the most intensely Christian states in India. The majority are **Protestants** — predominantly Presbyterian in the north and Baptist in the south.
 

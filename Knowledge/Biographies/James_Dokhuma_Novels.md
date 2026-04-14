@@ -1,6 +1,19 @@
+---
+title: 'The Novels of James Dokhuma: A Literary Analysis'
+category: Biographies
+tags:
+- literature
+- arts
+- analysis
+language: mizo
+tokens: 261
+ai_ready: true
+completeness: high
+---
+
 # The Novels of James Dokhuma: A Literary Analysis
 
-**Tags:** #literature #arts #analysis
+
 
 The novels of **James Dokhuma** are the bedrock of modern Mizo prose. They are praised for their psychological depth and their ability to weave traditional Mizo folklore into contemporary narratives.
 

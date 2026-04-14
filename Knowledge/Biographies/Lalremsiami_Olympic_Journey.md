@@ -1,6 +1,19 @@
+---
+title: 'Lalremsiami: The Olympic Hockey Pioneer'
+category: Biographies
+tags:
+- biography
+- sports
+- olympics
+language: mixed
+tokens: 245
+ai_ready: true
+completeness: high
+---
+
 # Lalremsiami: The Olympic Hockey Pioneer
 
-**Tags:** #biography #sports #olympics
+
 
 **Lalremsiami**, a striker for the Indian National Women's Hockey team, is the first Mizo woman to compete in the Olympics. Born in Kolasib, her journey from a remote village to the Tokyo 2020 Olympics is a story of immense grit and sacrifice.
 

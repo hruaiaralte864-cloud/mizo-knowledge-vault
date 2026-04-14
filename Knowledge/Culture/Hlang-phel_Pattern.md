@@ -1,6 +1,23 @@
+---
+title: Hlang-phel Pattern
+category: Culture
+tags:
+- culture
+- fashion
+- textiles
+- weaving
+- Mizoram
+- research
+- Chemistry
+language: mixed
+tokens: 161
+ai_ready: true
+completeness: high
+---
+
 ﻿# Textile Node: Hlang-phel Pattern
 
-**Tags:** #culture #fashion #textiles #weaving #Mizoram #research #Chemistry
+
 
 ## 1. Technical Classification
 - **Category**: Pattern

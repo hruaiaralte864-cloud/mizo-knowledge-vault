@@ -1,6 +1,19 @@
+---
+title: Synthetic Track Development and Sports Health
+category: Healthcare
+tags:
+- healthcare
+- sports
+- infrastructure
+language: mixed
+tokens: 214
+ai_ready: true
+completeness: high
+---
+
 # Synthetic Track Development and Sports Health
 
-**Tags:** #healthcare #sports #infrastructure
+
 
 Mizoram has embarked on a massive infrastructure project to install "High-Performance Synthetic Tracks" across every district, a move aimed at enhancing the physical health and professional prospects of the Mizo youth.
 

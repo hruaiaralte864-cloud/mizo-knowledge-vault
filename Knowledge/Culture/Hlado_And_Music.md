@@ -1,6 +1,19 @@
+---
+title: "Hlado \u2014 Traditional Mizo Song Tradition"
+category: Culture
+tags:
+- culture
+- music
+- art
+language: mixed
+tokens: 172
+ai_ready: true
+completeness: medium
+---
+
 # Hlado — Traditional Mizo Song Tradition
 
-**Tags:** #culture #music #art
+
 
 **Hlado** is the collective term for the traditional Mizo genre of antiphonal (call-and-response) folk songs. They were historically performed during communal work parties (*Ramri*), at festivals, and as courtship songs.
 

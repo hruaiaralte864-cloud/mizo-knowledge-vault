@@ -1,6 +1,24 @@
+---
+title: Lai Dialect Hakha
+category: Linguistics
+tags:
+- linguistics
+- dialect
+- Lai
+- Lawngtlai
+- Chin
+- State
+- MizoLanguage
+- research
+language: mixed
+tokens: 143
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Linguistic Node: Lai Dialect Hakha
 
-**Tags:** #linguistics #dialect #Lai #Lawngtlai / Chin State #MizoLanguage #research
+
 
 ## 1. Taxonomic Classification
 - **Primary Group**: [[LaiLanguage]]

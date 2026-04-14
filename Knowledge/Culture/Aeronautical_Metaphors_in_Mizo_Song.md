@@ -1,6 +1,19 @@
+---
+title: Aeronautical Metaphors in Mizo Song and Poetry
+category: Culture
+tags:
+- culture
+- literature
+- modernity
+language: mixed
+tokens: 243
+ai_ready: true
+completeness: high
+---
+
 # Aeronautical Metaphors in Mizo Song and Poetry
 
-**Tags:** #culture #literature #modernity
+
 
 A unique characteristic of modern Mizo songwriting, especially in the 1960s-80s, is the recurring use of "aeronautical metaphors" (Airplanes, Flight, Pilots) to describe social and spiritual transition.
 

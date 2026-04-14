@@ -1,6 +1,18 @@
+---
+title: The Mizo Union (1946)
+category: History
+tags:
+- history
+- politics
+language: mixed
+tokens: 170
+ai_ready: true
+completeness: medium
+---
+
 # The Mizo Union (1946)
 
-**Tags:** #history #politics
+
 
 The **Mizo Union** was the first political party in the Lushai Hills, founded on **April 9, 1946**. Its formation marked the beginning of modern democratic politics in Mizoram.
 

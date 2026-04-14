@@ -1,6 +1,18 @@
+---
+title: "Kut \u2014 The Three Traditional Festivals"
+category: Culture
+tags:
+- culture
+- festival
+language: mixed
+tokens: 119
+ai_ready: true
+completeness: medium
+---
+
 # Kut — The Three Traditional Festivals
 
-**Tags:** #culture #festival
+
 
 The Mizo agricultural calendar was punctuated by three major festivals (*Kut*), each marking a key moment in the [[Jhum_Cultivation]] cycle:
 

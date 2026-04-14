@@ -1,6 +1,19 @@
+---
+title: 'Mizo Customary Law: The 2026 Inheritance Evolution'
+category: Governance
+tags:
+- governance
+- law
+- women_rights
+language: mixed
+tokens: 159
+ai_ready: true
+completeness: high
+---
+
 # Mizo Customary Law: The 2026 Inheritance Evolution
 
-**Tags:** #governance #law #women_rights
+
 
 Modern Mizo society is undergoing a tectonic legal shift regarding gender equality and property inheritance.
 

@@ -1,6 +1,19 @@
+---
+title: 'Jeje Lalpekhlua: The "Mizo Sniper"'
+category: Biographies
+tags:
+- biography
+- sports
+- football
+language: mixed
+tokens: 253
+ai_ready: true
+completeness: high
+---
+
 # Jeje Lalpekhlua: The "Mizo Sniper"
 
-**Tags:** #biography #sports #football
+
 
 **Jeje Lalpekhlua**, hailing from Hnahthial, is widely considered the greatest Mizo footballer to have graced the national stage. His legendary career earned him the nickname "Mizo Sniper" for his precision and composure in front of the goal.
 

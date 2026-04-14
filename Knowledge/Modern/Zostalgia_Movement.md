@@ -1,8 +1,15 @@
 ---
-title: The Zostalgia Movement & Modern Music
-tags: [modern, music, art, culture]
-status: permanent
-created: 2026-04-14
+title: 'The "Zostalgia" Movement: From Legends to Indie-Pop'
+category: Modern
+tags:
+- modern
+- music
+- art
+- culture
+language: mixed
+tokens: 318
+ai_ready: true
+completeness: high
 ---
 
 # The "Zostalgia" Movement: From Legends to Indie-Pop

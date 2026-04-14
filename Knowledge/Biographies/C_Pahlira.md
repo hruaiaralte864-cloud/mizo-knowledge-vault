@@ -1,6 +1,19 @@
+---
+title: C. Pahlira (Mizo Social Reformer)
+category: Biographies
+tags:
+- biography
+- society
+- reform
+language: mixed
+tokens: 243
+ai_ready: true
+completeness: high
+---
+
 # C. Pahlira (Mizo Social Reformer)
 
-**Tags:** #biography #society #reform
+
 
 **C. Pahlira** was a militant social reformer who played an essential role in the movement against the oppressive aspects of the hereditary chieftainship in the mid-20th century.
 

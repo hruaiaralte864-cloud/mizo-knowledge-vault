@@ -1,6 +1,18 @@
+---
+title: Traditional Uses of Wild Ginger
+category: Nature
+tags:
+- medicine
+- ethnobotany
+language: mixed
+tokens: 33
+ai_ready: true
+completeness: low
+---
+
 # Traditional Uses of Wild Ginger
 
-**Tags:** #medicine #ethnobotany
+
 
 Detailing the preparation of ginger poultices for minor wounds in traditional Mizo village clinics.
 

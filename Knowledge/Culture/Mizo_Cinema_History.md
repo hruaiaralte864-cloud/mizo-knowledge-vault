@@ -1,6 +1,19 @@
+---
+title: History of Mizo Cinema
+category: Culture
+tags:
+- culture
+- arts
+- modern
+language: mixed
+tokens: 74
+ai_ready: true
+completeness: medium
+---
+
 # History of Mizo Cinema
 
-**Tags:** #culture #arts #modern
+
 
 Mizo cinema has progressed from early VHS recordings to sophisticated digital filmmaking. 
 

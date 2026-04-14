@@ -1,6 +1,24 @@
+---
+title: Aizawl Smart City Data
+category: Economy
+tags:
+- economy
+- tech
+- startups
+- innovation
+- Mizoram
+- research
+- Aizawl
+- '2026'
+language: mixed
+tokens: 167
+ai_ready: true
+completeness: high
+---
+
 ﻿# Economy Node: Aizawl Smart City Data
 
-**Tags:** #economy #tech #startups #innovation #Mizoram #research #Aizawl #2026
+
 
 ## 1. Sectoral Classification
 - **Category**: Urban Planning

@@ -1,6 +1,18 @@
+---
+title: Autonomous District Councils (ADCs)
+category: Governance
+tags:
+- governance
+- politics
+language: mixed
+tokens: 67
+ai_ready: true
+completeness: medium
+---
+
 # Autonomous District Councils (ADCs)
 
-**Tags:** #governance #politics
+
 
 Mizoram has three ADCs under the Sixth Schedule of the Indian Constitution:
 1. **[[Lai_Autonomous_District_Council|LADC]]**

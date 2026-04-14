@@ -1,6 +1,19 @@
+---
+title: Mizo Customary Law
+category: History
+tags:
+- law
+- culture
+- governance
+language: mixed
+tokens: 157
+ai_ready: true
+completeness: medium
+---
+
 # Mizo Customary Law
 
-**Tags:** #law #culture #governance
+
 
 Mizo Customary Law (*Mizo Dân*) is the body of uncodified, orally transmitted legal norms governing social relations among the Mizo people. Protected by [[Article_371G]], it governs:
 

@@ -1,6 +1,19 @@
+---
+title: "Tlawmngaihna \u2014 The Mizo Ethical Code"
+category: Culture
+tags:
+- culture
+- ethics
+- philosophy
+language: mixed
+tokens: 204
+ai_ready: true
+completeness: high
+---
+
 # Tlawmngaihna — The Mizo Ethical Code
 
-**Tags:** #culture #ethics #philosophy
+
 
 **Tlawmngaihna** (*tlawm* = modest/humble, *ngaihna* = esteem/regard) is the foundational philosophy of Mizo civilisation. It is widely considered untranslatable by a single English word, but its essence is:
 

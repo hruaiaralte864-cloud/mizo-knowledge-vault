@@ -1,6 +1,23 @@
+---
+title: Tiau Bridge Town
+category: Geography
+tags:
+- geography
+- township
+- Champhai
+- ChamphaiDistrict
+- Mizoram
+- research
+- UrbanPlanning
+language: mixed
+tokens: 141
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Township Node: Tiau Bridge Town
 
-**Tags:** #geography #township #Champhai #ChamphaiDistrict #Mizoram #research #UrbanPlanning
+
 
 ## 1. Administrative Location
 - **District**: [[ChamphaiDistrict]]

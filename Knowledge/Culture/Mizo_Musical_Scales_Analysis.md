@@ -1,6 +1,19 @@
+---
+title: 'Technical Analysis: Mizo Scales'
+category: Culture
+tags:
+- culture
+- music
+- academic
+language: mixed
+tokens: 44
+ai_ready: true
+completeness: low
+---
+
 # Technical Analysis: Mizo Scales
 
-**Tags:** #culture #music #academic
+
 
 Research into how traditional Mizo folk songs primarily utilize an anhemitonic pentatonic scale, and how this influenced the "Mizo-ness" of early local hymns.
 

@@ -1,6 +1,19 @@
+---
+title: Vaseitlang Village
+category: Geography
+tags:
+- geography
+- village
+- southern_mizoram
+language: mixed
+tokens: 193
+ai_ready: true
+completeness: high
+---
+
 # Vaseitlang Village
 
-**Tags:** #geography #village #southern_mizoram
+
 
 **Vaseitlang** is a village situated in the southern part of Mizoram, within the Lawngtlai district. It is uniquely positioned in a region where the Mizo and Lai cultures intersect.
 

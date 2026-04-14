@@ -1,6 +1,23 @@
+---
+title: Vawbe
+category: Nature
+tags:
+- science
+- nature
+- botany
+- medicine
+- HnimHna
+- research
+- Pharmacopoeia
+language: mixed
+tokens: 115
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Ethnobotany: Vawbe
 
-**Tags:** #science #nature #botany #medicine #HnimHna #research #Pharmacopoeia
+
 
 ## 1. Botanical Identity
 - **Mizo Name**: Vawbe

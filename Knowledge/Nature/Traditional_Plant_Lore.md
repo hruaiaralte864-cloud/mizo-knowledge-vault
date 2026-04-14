@@ -1,6 +1,18 @@
+---
+title: 'Mizo Plant Lore: Myths and Beliefs'
+category: Nature
+tags:
+- culture
+- folklore
+language: mixed
+tokens: 39
+ai_ready: true
+completeness: low
+---
+
 # Mizo Plant Lore: Myths and Beliefs
 
-**Tags:** #culture #folklore
+
 
 Exploring the stories told to Mizo children about কেন (why) certain plants look or behave the way they do.
 

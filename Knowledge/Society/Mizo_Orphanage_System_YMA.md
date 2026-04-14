@@ -1,6 +1,19 @@
+---
+title: The Mizo Orphanage System and the YMA
+category: Society
+tags:
+- society
+- healthcare
+- governance
+language: mixed
+tokens: 260
+ai_ready: true
+completeness: high
+---
+
 # The Mizo Orphanage System and the YMA
 
-**Tags:** #society #healthcare #governance
+
 
 Mizoram is unique in its "communal childcare" model, where orphanages are often managed or heavily supported by local civil society organizations, primarily the **[[Young_Mizo_Association_YMA]]**.
 

@@ -1,6 +1,19 @@
+---
+title: State Central Library (Aizawl)
+category: Society
+tags:
+- society
+- education
+- literature
+language: mixed
+tokens: 78
+ai_ready: true
+completeness: medium
+---
+
 # State Central Library (Aizawl)
 
-**Tags:** #society #education #literature
+
 
 The **State Central Library** in Aizawl is the repository of the Mizo literary soul.
 

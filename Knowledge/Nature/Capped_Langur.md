@@ -1,6 +1,25 @@
+---
+title: Capped Langur
+category: Nature
+tags:
+- science
+- nature
+- wildlife
+- ecology
+- Mizoram
+- Trachypithecus
+- pileatus.Replace('
+- '''_'')'
+- research
+language: mixed
+tokens: 136
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Species Profile: Capped Langur
 
-**Tags:** #science #nature #wildlife #ecology #Mizoram #Trachypithecus pileatus.Replace(' ', '_') #research
+
 
 ## 1. Biological Classification
 - **Common Name**: Capped Langur

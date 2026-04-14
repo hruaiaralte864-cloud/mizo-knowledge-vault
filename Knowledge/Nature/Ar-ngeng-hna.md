@@ -1,6 +1,23 @@
+---
+title: Ar-ngeng-hna
+category: Nature
+tags:
+- science
+- nature
+- botany
+- medicine
+- HnimHna
+- research
+- Pharmacopoeia
+language: mixed
+tokens: 123
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Ethnobotany: Ar ngeng hna
 
-**Tags:** #science #nature #botany #medicine #HnimHna #research #Pharmacopoeia
+
 
 ## 1. Botanical Identity
 - **Mizo Name**: Ar ngeng hna

@@ -1,6 +1,19 @@
+---
+title: 'Master Bibliography: Mizo History (Primary Sources)'
+category: Linguistics
+tags:
+- history
+- academic
+- research
+language: mixed
+tokens: 61
+ai_ready: true
+completeness: medium
+---
+
 # Master Bibliography: Mizo History (Primary Sources)
 
-**Tags:** #history #academic #research
+
 
 A comprehensive list of the core texts for anyone researching Mizoram, including:
 - 'The Lushai Hills' by A.G. McCall.

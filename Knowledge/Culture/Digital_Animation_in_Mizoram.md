@@ -1,6 +1,23 @@
+---
+title: Digital Animation in Mizoram
+category: Culture
+tags:
+- arts
+- media
+- film
+- music
+- Mizoram
+- research
+- DigitalCulture
+language: mixed
+tokens: 163
+ai_ready: true
+completeness: high
+---
+
 ﻿# Arts & Media Node: Digital Animation in Mizoram
 
-**Tags:** #arts #media #film #music #Mizoram #research #DigitalCulture
+
 
 ## 1. Creative Classification
 - **Category**: Media

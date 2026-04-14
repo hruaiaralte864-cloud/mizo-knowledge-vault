@@ -1,6 +1,18 @@
+---
+title: Mizo Academy of Letters (MAL)
+category: Literature
+tags:
+- literature
+- society
+language: mixed
+tokens: 163
+ai_ready: true
+completeness: medium
+---
+
 # Mizo Academy of Letters (MAL)
 
-**Tags:** #literature #society
+
 
 The **Mizo Academy of Letters (MAL)**, founded in **1964**, is the apex literary body in Mizoram. Its primary purpose is to promote and standardize the Mizo language and its literature.
 

@@ -1,6 +1,19 @@
+---
+title: Pre-Colonial Headhunting Traditions
+category: History
+tags:
+- history
+- culture
+- warfare
+language: mixed
+tokens: 230
+ai_ready: true
+completeness: high
+---
+
 # Pre-Colonial Headhunting Traditions
 
-**Tags:** #history #culture #warfare
+
 
 Before the arrival of British missionaries and colonial authorities, headhunting was a significant part of the socio-religious life of some Mizo clans.
 

@@ -1,6 +1,23 @@
+---
+title: Reiek Tlang Botanical Analysis
+category: Environment
+tags:
+- environment
+- ecology
+- flora
+- fauna
+- Mizoram
+- research
+- Conservation
+language: mixed
+tokens: 169
+ai_ready: true
+completeness: high
+---
+
 ﻿# Environmental Node: Reiek Tlang Botanical Analysis
 
-**Tags:** #environment #ecology #flora #fauna #Mizoram #research #Conservation
+
 
 ## 1. Ecological Classification
 - **Category**: Botany

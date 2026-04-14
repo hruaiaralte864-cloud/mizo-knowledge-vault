@@ -1,6 +1,18 @@
+---
+title: Bamboo Flowering and the Rodent Explosion
+category: Nature
+tags:
+- nature
+- history
+language: mixed
+tokens: 40
+ai_ready: true
+completeness: low
+---
+
 # Bamboo Flowering and the Rodent Explosion
 
-**Tags:** #nature #history
+
 
 Explaining the ecological link between the flowering of the Mautak bamboo and the rapid multiplication of black rats.
 

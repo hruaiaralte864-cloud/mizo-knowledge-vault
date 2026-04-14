@@ -1,6 +1,23 @@
+---
+title: Childrens Literature in Mizo
+category: Literature
+tags:
+- literature
+- authors
+- poetry
+- novels
+- Mizoram
+- research
+- Academy
+language: mixed
+tokens: 184
+ai_ready: true
+completeness: high
+---
+
 ﻿# Literary Node: Childrens Literature in Mizo
 
-**Tags:** #literature #authors #poetry #novels #Mizoram #research #Academy
+
 
 ## 1. Literary Classification
 - **Category**: Genre

@@ -1,6 +1,18 @@
+---
+title: P.S. Dahrawka's Migration Theories
+category: Biographies
+tags:
+- history
+- academic
+language: mixed
+tokens: 41
+ai_ready: true
+completeness: low
+---
+
 # P.S. Dahrawka's Migration Theories
 
-**Tags:** #history #academic
+
 
 A review of the evidence P.S. Dahrawka used to support his theories about Mizo origins in China and the Far East.
 

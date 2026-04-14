@@ -1,6 +1,22 @@
+---
+title: Phuldungsei
+category: Geography
+tags:
+- geography
+- village
+- Mamit
+- MamitDistrict
+- Mizoram
+- research
+language: mixed
+tokens: 110
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Village Node: Phuldungsei
 
-**Tags:** #geography #village #Mamit #MamitDistrict #Mizoram #research
+
 
 ## 1. Administrative Location
 - **District**: [[MamitDistrict]]

@@ -1,6 +1,18 @@
+---
+title: Traditional Apprenticeship (Zirhnaih)
+category: Education
+tags:
+- education
+- crafts
+language: mixed
+tokens: 28
+ai_ready: true
+completeness: low
+---
+
 # Traditional Apprenticeship (Zirhnaih)
 
-**Tags:** #education #crafts
+
 
 How traditional skills in weaving, hunting, and building were passed down before formal schooling.
 

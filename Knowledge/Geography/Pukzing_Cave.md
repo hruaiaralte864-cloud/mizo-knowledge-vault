@@ -1,6 +1,19 @@
+---
+title: Pukzing Cave
+category: Geography
+tags:
+- geography
+- nature
+- folklore
+language: mixed
+tokens: 93
+ai_ready: true
+completeness: medium
+---
+
 # Pukzing Cave
 
-**Tags:** #geography #nature #folklore
+
 
 **Pukzing** is the largest and most famous cave in Mizoram, located in the Mamit district.
 

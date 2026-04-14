@@ -1,6 +1,18 @@
+---
+title: The Mizo Eastern Ridges
+category: Geography
+tags:
+- geography
+- nature
+language: mixed
+tokens: 48
+ai_ready: true
+completeness: low
+---
+
 # The Mizo Eastern Ridges
 
-**Tags:** #geography #nature
+
 
 The highest and most rugged mountains of Mizoram lie along the eastern border with Myanmar, acting as a natural fortress and a sanctuary for high-altitude wildlife.
 

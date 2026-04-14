@@ -1,8 +1,15 @@
 ---
-title: Gastronomy & Food Chemistry
-tags: [culture, science, food, fermentation]
-status: permanent
-created: 2026-04-14
+title: 'Gastronomy & Food Chemistry: The Mizo Palate'
+category: Culture
+tags:
+- culture
+- science
+- food
+- fermentation
+language: mixed
+tokens: 276
+ai_ready: true
+completeness: high
 ---
 
 # Gastronomy & Food Chemistry: The Mizo Palate

@@ -1,6 +1,20 @@
+---
+title: 'Renewable Energy: Ridge Microgrids'
+category: Modern
+tags:
+- energy
+- modern
+- nature
+- sustainability
+language: mixed
+tokens: 183
+ai_ready: true
+completeness: high
+---
+
 # Renewable Energy: Ridge Microgrids
 
-**Tags:** #energy #modern #nature #sustainability
+
 
 Mizoram is aggressively expanding its renewable energy footprint to achieve the "Net Zero" goals of the **[[Mizoram_2050_Projections]]**.
 

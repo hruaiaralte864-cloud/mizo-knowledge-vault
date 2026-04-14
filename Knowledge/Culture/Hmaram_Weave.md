@@ -1,6 +1,24 @@
+---
+title: Hmaram Weave
+category: Culture
+tags:
+- culture
+- arts
+- crafts
+- weaving
+- Puan
+- basketry
+- Mizoram
+- research
+language: mixed
+tokens: 165
+ai_ready: true
+completeness: high
+---
+
 ﻿# Arts & Crafts Node: Hmaram Weave
 
-**Tags:** #culture #arts #crafts #weaving #Puan #basketry #Mizoram #research
+
 
 ## 1. Technical Classification
 - **Category**: Puan

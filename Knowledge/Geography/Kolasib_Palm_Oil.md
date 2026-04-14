@@ -1,6 +1,18 @@
+---
+title: Kolasib Palm Oil Plantations
+category: Geography
+tags:
+- economy
+- agriculture
+language: mixed
+tokens: 44
+ai_ready: true
+completeness: low
+---
+
 # Kolasib Palm Oil Plantations
 
-**Tags:** #economy #agriculture
+
 
 **Kolasib** host the largest experiments in commercial Palm Oil cultivation in Mizoram, part of a state-wide strategy to transition away from subsistence [[Jhum_Cultivation]].
 

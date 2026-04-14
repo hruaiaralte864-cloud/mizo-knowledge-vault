@@ -1,6 +1,19 @@
+---
+title: The Zopui Village Skirmish (1888)
+category: History
+tags:
+- history
+- war
+- colonial
+language: mixed
+tokens: 236
+ai_ready: true
+completeness: high
+---
+
 # The Zopui Village Skirmish (1888)
 
-**Tags:** #history #war #colonial
+
 
 The **Zopui Skirmish** was a fierce military encounter between the Mizo tribal warriors and the British South Lushai Expedition forces, marking the beginning of the end for sovereign **[[Sailo_Chiefs]]** in the south.
 

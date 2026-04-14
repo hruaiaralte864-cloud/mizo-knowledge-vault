@@ -1,6 +1,19 @@
+---
+title: The Bawngkawn Petrol Tanker Explosion (2022)
+category: History
+tags:
+- history
+- incident
+- disaster
+language: mixed
+tokens: 209
+ai_ready: true
+completeness: high
+---
+
 # The Bawngkawn Petrol Tanker Explosion (2022)
 
-**Tags:** #history #incident #disaster
+
 
 The **Bawngkawn Petrol Fire** is a recent and tragic incident that underscored the logistical risks involved in Mizoram's mountainous road networks.
 

@@ -1,6 +1,23 @@
+---
+title: Mizo Textile Digital Archiving
+category: Culture
+tags:
+- culture
+- fashion
+- textiles
+- weaving
+- Mizoram
+- research
+- Chemistry
+language: mixed
+tokens: 171
+ai_ready: true
+completeness: high
+---
+
 ﻿# Textile Node: Mizo Textile Digital Archiving
 
-**Tags:** #culture #fashion #textiles #weaving #Mizoram #research #Chemistry
+
 
 ## 1. Technical Classification
 - **Category**: Modern

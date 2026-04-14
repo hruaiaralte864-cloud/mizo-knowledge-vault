@@ -1,6 +1,23 @@
+---
+title: Contemporary Mizo Poetry Slam
+category: Culture
+tags:
+- arts
+- media
+- film
+- music
+- Mizoram
+- research
+- DigitalCulture
+language: mixed
+tokens: 170
+ai_ready: true
+completeness: high
+---
+
 ﻿# Arts & Media Node: Contemporary Mizo Poetry Slam
 
-**Tags:** #arts #media #film #music #Mizoram #research #DigitalCulture
+
 
 ## 1. Creative Classification
 - **Category**: Literary Arts

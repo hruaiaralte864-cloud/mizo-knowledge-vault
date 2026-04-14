@@ -1,6 +1,22 @@
+---
+title: Chhanging Clan Origins
+category: History
+tags:
+- genealogy
+- clan
+- history
+- Chhanging
+- Zohnahthlak
+- research
+language: mixed
+tokens: 144
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Clan Node: Chhanging Clan Origins
 
-**Tags:** #genealogy #clan #history #Chhanging #Zohnahthlak #research
+
 
 ## 1. Lineage Classification
 - **Primary Group**: Chhanging

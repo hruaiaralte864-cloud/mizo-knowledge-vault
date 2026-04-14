@@ -1,6 +1,23 @@
+---
+title: C Laizawna Literary Legacy
+category: Literature
+tags:
+- literature
+- authors
+- poetry
+- novels
+- Mizoram
+- research
+- Academy
+language: mixed
+tokens: 188
+ai_ready: true
+completeness: high
+---
+
 ﻿# Literary Node: C Laizawna Literary Legacy
 
-**Tags:** #literature #authors #poetry #novels #Mizoram #research #Academy
+
 
 ## 1. Literary Classification
 - **Category**: Author

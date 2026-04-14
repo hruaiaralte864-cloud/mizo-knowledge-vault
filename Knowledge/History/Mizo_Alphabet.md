@@ -1,6 +1,19 @@
+---
+title: The Mizo Alphabet & Language
+category: History
+tags:
+- language
+- culture
+- history
+language: mizo
+tokens: 158
+ai_ready: true
+completeness: medium
+---
+
 # The Mizo Alphabet & Language
 
-**Tags:** #language #culture #history
+
 
 The Mizo language (**Mizo ṭawng**) belongs to the Tibeto-Burman language family, closely related to Kuki-Chin languages. Before 1894 it had no written form.
 

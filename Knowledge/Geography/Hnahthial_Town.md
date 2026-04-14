@@ -1,6 +1,23 @@
+---
+title: Hnahthial Town
+category: Geography
+tags:
+- geography
+- township
+- Hnahthial
+- HnahthialDistrict
+- Mizoram
+- research
+- UrbanPlanning
+language: mixed
+tokens: 139
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Township Node: Hnahthial Town
 
-**Tags:** #geography #township #Hnahthial #HnahthialDistrict #Mizoram #research #UrbanPlanning
+
 
 ## 1. Administrative Location
 - **District**: [[HnahthialDistrict]]

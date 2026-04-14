@@ -1,6 +1,25 @@
+---
+title: Green Peafowl
+category: Nature
+tags:
+- science
+- nature
+- wildlife
+- ecology
+- Mizoram
+- Pavo
+- muticus.Replace('
+- '''_'')'
+- research
+language: mixed
+tokens: 135
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Species Profile: Green Peafowl
 
-**Tags:** #science #nature #wildlife #ecology #Mizoram #Pavo muticus.Replace(' ', '_') #research
+
 
 ## 1. Biological Classification
 - **Common Name**: Green Peafowl

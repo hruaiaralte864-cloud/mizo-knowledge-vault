@@ -1,8 +1,23 @@
+---
+title: 'Mizo Acoustics: The Science of Bamboo Sound'
+category: Science
+tags:
+- science
+- music
+- acoustics
+- bamboo
+- Mizo
+- defined
+- by
+language: mixed
+tokens: 232
+ai_ready: true
+completeness: high
+---
+
 # Mizo Acoustics: The Science of Bamboo Sound
 
-**Tags:** #science #music #acoustics #bamboo
-
-Mizo music is defined by "Material Science"—the specific resonant frequencies of the hill bamboo and animal hides.
+"Material Science"—the specific resonant frequencies of the hill bamboo and animal hides.
 
 ## The Rawchhem (Bamboo Bagpipes)
 The **Rawchhem** is a unique Mizo polyphonic instrument. It consists of multiple bamboo pipes inserted into a dried gourd. Each pipe contains a small reed. The acoustic logic involves maintaining a "Drone" while playing a melody, a sophisticated use of wind-pressure mechanics that mimics the sound of mountain cicadas.

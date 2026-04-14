@@ -1,6 +1,20 @@
+---
+title: 'Mizo Media: The OTT Revolution (Zonet & LPS)'
+category: Media
+tags:
+- media
+- culture
+- modern
+- tech
+language: mixed
+tokens: 179
+ai_ready: true
+completeness: high
+---
+
 # Mizo Media: The OTT Revolution (Zonet & LPS)
 
-**Tags:** #media #culture #modern #tech
+
 
 Mizoram has a unique media landscape dominated by two local giants: **[[Zonet_Cable_Network]]** and **[[LPS_Vision]]**. Their transition into OTT (Over-The-Top) streaming has revolutionized Mizo storytelling.
 

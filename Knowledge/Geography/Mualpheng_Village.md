@@ -1,6 +1,19 @@
+---
+title: Mualpheng Village
+category: Geography
+tags:
+- geography
+- village
+- culture
+language: mixed
+tokens: 211
+ai_ready: true
+completeness: high
+---
+
 # Mualpheng Village
 
-**Tags:** #geography #village #culture
+
 
 **Mualpheng** is a traditional Mizo village located in the Aizawl district. It is known for its high elevation and the preservation of ancient stone heritage sites.
 

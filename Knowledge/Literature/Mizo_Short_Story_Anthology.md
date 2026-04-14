@@ -1,6 +1,23 @@
+---
+title: Mizo Short Story Anthology
+category: Literature
+tags:
+- literature
+- authors
+- poetry
+- novels
+- Mizoram
+- research
+- Academy
+language: mixed
+tokens: 188
+ai_ready: true
+completeness: high
+---
+
 ﻿# Literary Node: Mizo Short Story Anthology
 
-**Tags:** #literature #authors #poetry #novels #Mizoram #research #Academy
+
 
 ## 1. Literary Classification
 - **Category**: Genre

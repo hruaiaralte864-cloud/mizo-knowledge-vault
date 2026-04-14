@@ -1,6 +1,18 @@
+---
+title: The Basis of Mizo Grammar
+category: Linguistics
+tags:
+- linguistics
+- academic
+language: mixed
+tokens: 29
+ai_ready: true
+completeness: low
+---
+
 # The Basis of Mizo Grammar
 
-**Tags:** #linguistics #academic
+
 
 A simplified guide to Mizo sentence structure (Subject-Object-Verb) and the importance of particles.
 

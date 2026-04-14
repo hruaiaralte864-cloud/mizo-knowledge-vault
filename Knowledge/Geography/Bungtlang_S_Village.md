@@ -1,6 +1,19 @@
+---
+title: Bungtlang (South) Village
+category: Geography
+tags:
+- geography
+- village
+- southern_mizoram
+language: mixed
+tokens: 237
+ai_ready: true
+completeness: high
+---
+
 # Bungtlang (South) Village
 
-**Tags:** #geography #village #southern_mizoram
+
 
 **Bungtlang (South)** is a prominent village in the Lawngtlai district, situated within the **[[Lai_Autonomous_District_Council_LADC]]** area. It is a key settlement for the Lai community and reflects the unique cultural tapestry of the southern Mizo hills.
 

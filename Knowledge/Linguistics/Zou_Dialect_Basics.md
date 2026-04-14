@@ -1,6 +1,23 @@
+---
+title: Zou Dialect Basics
+category: Linguistics
+tags:
+- linguistics
+- dialect
+- Zou
+- Eastern
+- Borders
+- MizoLanguage
+- research
+language: mixed
+tokens: 143
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Linguistic Node: Zou Dialect Basics
 
-**Tags:** #linguistics #dialect #Zou #Eastern Borders #MizoLanguage #research
+
 
 ## 1. Taxonomic Classification
 - **Primary Group**: [[ZouLanguage]]

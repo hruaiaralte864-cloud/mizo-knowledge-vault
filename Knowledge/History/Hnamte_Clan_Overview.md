@@ -1,6 +1,22 @@
+---
+title: Hnamte Clan Overview
+category: History
+tags:
+- genealogy
+- clan
+- history
+- Hnamte
+- Zohnahthlak
+- research
+language: mixed
+tokens: 143
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Clan Node: Hnamte Clan Overview
 
-**Tags:** #genealogy #clan #history #Hnamte #Zohnahthlak #research
+
 
 ## 1. Lineage Classification
 - **Primary Group**: Hnamte

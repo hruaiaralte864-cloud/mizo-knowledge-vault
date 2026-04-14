@@ -1,6 +1,23 @@
+---
+title: Saizahawla
+category: Biographies
+tags:
+- history
+- biography
+- leader
+- Pasaltha
+- culture
+- Mizoram
+- research
+language: mixed
+tokens: 114
+ai_ready: true
+completeness: medium
+---
+
 ﻿# Biography: Saizahawla
 
-**Tags:** #history #biography #leader #Pasaltha #culture #Mizoram #research
+
 
 ## 1. Profile Summary
 - **Name**: Saizahawla

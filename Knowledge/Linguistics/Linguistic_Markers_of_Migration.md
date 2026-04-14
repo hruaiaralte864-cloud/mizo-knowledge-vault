@@ -1,6 +1,23 @@
+---
+title: Linguistic Markers of Migration
+category: Linguistics
+tags:
+- linguistics
+- language
+- grammar
+- Mizo
+- research
+- Informatics
+- NLP
+language: mixed
+tokens: 176
+ai_ready: true
+completeness: high
+---
+
 ﻿# Linguistic Node: Linguistic Markers of Migration
 
-**Tags:** #linguistics #language #grammar #Mizo #research #Informatics #NLP
+
 
 ## 1. Technical Classification
 - **Category**: History/Ling

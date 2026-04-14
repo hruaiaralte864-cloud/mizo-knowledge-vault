@@ -1,6 +1,19 @@
+---
+title: 'Jeremy Lalrinnunga: The Training of a Champion'
+category: Biographies
+tags:
+- biography
+- sports
+- weightlifting
+language: mixed
+tokens: 223
+ai_ready: true
+completeness: high
+---
+
 # Jeremy Lalrinnunga: The Training of a Champion
 
-**Tags:** #biography #sports #weightlifting
+
 
 **Jeremy Lalrinnunga**, the Commonwealth Games gold medalist from Aizawl, has become a symbol of dedication and technical precision in Indian weightlifting.
 
